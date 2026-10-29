@@ -1,7 +1,7 @@
 {
   "capturedAt": "2026-10-29",
   "sourceCount": 308,
-  "note": "Employer universe for PTS (part-time / term-time internships in software, data and finance, Oct 2026 - Jun 2027). scope (default 'all') keeps every role that passes the PTS filter; any other scope value is a case-insensitive regex the title/department must also match. kind='vc' enables the VC-scout track, kind='uchicago' enables the UChicago research-assistant track. localOk=true allows in-person roles (otherwise remote-only).",
+  "note": "Employer universe for PTS (part-time / term-time internships in software, data and finance, Oct 2026 - Jun 2027). scope (default 'all') keeps every role that passes the PTS filter; any other scope value is a case-insensitive regex the title/department must also match. kind='vc' enables the VC-scout track, kind='uchicago' enables the UChicago research-assistant track. localOk=true allows in-person roles (otherwise remote-only). exclude = regex of titles to drop for that employer.",
   "categories": ["Big Tech", "AI & Data Companies", "High-Growth Startups & Dev Tools", "Fintech & Crypto", "Asset Management & Research", "Hedge Funds & Trading", "Private Equity & Venture Capital", "Banks & Financial Services", "Chicago-Area Employers", "Remote-First Companies", "UChicago & Research"],
   "companies": [
     {"name": "Google", "category": "Big Tech", "hq": "US", "domain": "google.com"},
@@ -40,7 +40,7 @@
     {"name": "Anthropic", "category": "AI & Data Companies", "hq": "US", "domain": "anthropic.com"},
     {"name": "OpenAI", "category": "AI & Data Companies", "hq": "US", "domain": "openai.com"},
     {"name": "Cohere", "category": "AI & Data Companies", "hq": "CA", "domain": "cohere.com"},
-    {"name": "Scale AI", "category": "AI & Data Companies", "hq": "US", "domain": "scale.com"},
+    {"name": "Scale AI", "category": "AI & Data Companies", "hq": "US", "domain": "scale.com", "exclude": "Human Frontier Collective|Outlier|\\bcontributor\\b|\\bexpert\\b", "note": "AI-training contractor programs excluded (not internships)"},
     {"name": "Databricks", "category": "AI & Data Companies", "hq": "US", "domain": "databricks.com"},
     {"name": "Snowflake", "category": "AI & Data Companies", "hq": "US", "domain": "snowflake.com"},
     {"name": "Hugging Face", "category": "AI & Data Companies", "hq": "US", "domain": "huggingface.co"},
@@ -60,8 +60,8 @@
     {"name": "dbt Labs", "category": "AI & Data Companies", "hq": "US", "domain": "getdbt.com"},
     {"name": "Fivetran", "category": "AI & Data Companies", "hq": "US", "domain": "fivetran.com"},
     {"name": "Hex", "category": "AI & Data Companies", "hq": "US", "domain": "hex.tech"},
-    {"name": "Handshake", "category": "AI & Data Companies", "hq": "US", "domain": "joinhandshake.com"},
-    {"name": "Mercor", "category": "AI & Data Companies", "hq": "US", "domain": "mercor.com"},
+    {"name": "Handshake", "category": "AI & Data Companies", "hq": "US", "domain": "joinhandshake.com", "exclude": "fellow|expert|tutor|trainer|contractor|\\bMOVE\\b", "note": "AI-training contractor programs excluded (not internships)"},
+    {"name": "Mercor", "category": "AI & Data Companies", "hq": "US", "domain": "mercor.com", "exclude": "fellow|expert|tutor|trainer|contractor|\\bcontributor\\b", "note": "AI-training contractor programs excluded (not internships)"},
     {"name": "Center for AI Safety", "category": "AI & Data Companies", "hq": "US", "domain": "safe.ai"},
     {"name": "AfterQuery", "category": "AI & Data Companies", "hq": "US", "domain": "afterquery.com"},
     {"name": "Tempus AI", "category": "AI & Data Companies", "hq": "US", "domain": "tempus.com"},
