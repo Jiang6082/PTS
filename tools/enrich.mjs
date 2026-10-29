@@ -81,7 +81,7 @@ async function detailFor(job) {
   const ld = jsonLdJobPosting(res.text);
   if (ld) return ld;
   const text = stripHtml(res.text.replace(/<(nav|header|footer)[\s\S]*?<\/\1>/gi, " "));
-  return { content: text.slice(0, 6000), commitment: "", workplace: "", location: "" };
+  return { content: text.slice(0, 20000), commitment: "", workplace: "", location: "" };
 }
 
 export async function enrichJob(job) {
@@ -90,7 +90,7 @@ export async function enrichJob(job) {
     const d = await detailFor(job);
     if (!d) return job;
     const out = { ...job };
-    if (d.content && d.content.length > (job.Content || "").length) out.Content = d.content.slice(0, 6000);
+    if (d.content && d.content.length > (job.Content || "").length) out.Content = d.content.slice(0, 20000);
     if (d.commitment && !out.Commitment) out.Commitment = d.commitment;
     const wp = normalizeWorkplace(d.workplace);
     if (wp && !out.Workplace) out.Workplace = wp;
