@@ -1,0 +1,5796 @@
+{
+  "generatedAt": "2026-10-29T12:16:59.627Z",
+  "scanStartedAt": "2026-10-29T12:10:26.689Z",
+  "sourceRosterEntries": 308,
+  "canonicalCompanies": 308,
+  "counts": {
+    "matching-role-found": 12,
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 220,
+    "could-not-fully-verify": 71
+  },
+  "companies": [
+    {
+      "company": "Google",
+      "sourceRosterNames": [
+        "Google"
+      ],
+      "category": "Big Tech",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.google.com/locations/index.html/?embed=true&hl=en_US",
+        "https://www.google.com/about/careers/applications/",
+        "https://www.google.com/about/careers/applications/jobs/results/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Meta",
+      "sourceRosterNames": [
+        "Meta"
+      ],
+      "category": "Big Tech",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.metacareers.com/jobsearch/",
+        "https://ai.meta.com/join-us/",
+        "https://www.meta.com/about/company-info/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Apple",
+      "sourceRosterNames": [
+        "Apple"
+      ],
+      "category": "Big Tech",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.apple.com/en-us/search?location=united-states-USA",
+        "https://www.apple.com/careers/in/",
+        "https://jobs.apple.com/en-us/search?job"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Microsoft",
+      "sourceRosterNames": [
+        "Microsoft"
+      ],
+      "category": "Big Tech",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.microsoft.com/",
+        "https://careers.microsoft.com/v2/global/en/professions.html",
+        "https://apply.careers.microsoft.com/candidate/login"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "eightfold:apply.careers.microsoft.com/microsoft.com"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "sourceRosterNames": [
+        "Amazon"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.amazon.jobs/",
+        "https://hiring.amazon.com/",
+        "https://hiring.amazon.com/app"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 68,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Amazon:part time intern (45)",
+        "Amazon:student (25)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Netflix",
+      "sourceRosterNames": [
+        "Netflix"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.netflix.com/",
+        "https://explore.jobs.netflix.net/careers",
+        "https://jobs.netflix.com/careers/internships"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 16,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Eightfold:explore.jobs.netflix.net (16)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "NVIDIA",
+      "sourceRosterNames": [
+        "NVIDIA"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "https://jobs.nvidia.com/careers",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1515,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:nvidia/NVIDIAExternalCareerSite (1515)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Salesforce",
+      "sourceRosterNames": [
+        "Salesforce"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.salesforce.com/company/careers/jobs/",
+        "https://www.salesforce.com/company/careers/",
+        "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1284,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:salesforce/External_Career_Site (1284)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Adobe",
+      "sourceRosterNames": [
+        "Adobe"
+      ],
+      "category": "Big Tech",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.adobe.com/us/en/home",
+        "https://www.adobe.com/careers.html?msockid=33b35aca68826da93bf342cb69b86c0e",
+        "https://careers.adobe.com/us/en/apply"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 245,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:adobe/external_experienced (245)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Intel",
+      "sourceRosterNames": [
+        "Intel"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://intel.wd1.myworkdayjobs.com/External/page/6042070b79e01001f04fa9b468070000",
+        "https://www.intel.com/content/www/us/en/jobs/life-at-intel.html",
+        "https://www.intel.com/content/www/us/en/jobs/locations/united-states.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 726,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:intel/External (726)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Workday",
+      "sourceRosterNames": [
+        "Workday"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.workday.com/en-us/company/careers/overview.html",
+        "https://workday.wd5.myworkdayjobs.com/Workday/",
+        "https://www.workday.com/en-us/company/careers/life-at-workday.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 387,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:workday/Workday (387)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Airbnb",
+      "sourceRosterNames": [
+        "Airbnb"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.airbnb.com/login",
+        "https://www.airbnb.ca/login",
+        "https://careers.airbnb.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 190,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:airbnb (190)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Stripe",
+      "sourceRosterNames": [
+        "Stripe"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://stripe.com/careers",
+        "https://stripe.com/careers/search",
+        "https://stripe.big.jobs/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 724,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:stripe (724)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Pinterest",
+      "sourceRosterNames": [
+        "Pinterest"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.pinterestcareers.com/jobs/",
+        "https://www.pinterestcareers.com/",
+        "https://www.pinterestcareers.com/locations/remote/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 162,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:pinterest (162)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Reddit",
+      "sourceRosterNames": [
+        "Reddit"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://redditinc.com/careers",
+        "https://job-boards.greenhouse.io/reddit"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 163,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:reddit (163)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Lyft",
+      "sourceRosterNames": [
+        "Lyft"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 177,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:lyft (177)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Instacart",
+      "sourceRosterNames": [
+        "Instacart"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.instacart.careers/",
+        "https://www.instacart.careers/current-openings",
+        "https://shoppers.instacart.com/instacart-jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 93,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:instacart (93)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "DoorDash",
+      "sourceRosterNames": [
+        "DoorDash"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 439,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:doordashusa (439)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Dropbox",
+      "sourceRosterNames": [
+        "Dropbox"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 19,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:dropbox (19)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Discord",
+      "sourceRosterNames": [
+        "Discord"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://discord.com/jobs/index",
+        "https://job-boards.greenhouse.io/discord/jobs/7939963002?gh_src=nodesk",
+        "https://discord.com/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 45,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:discord (45)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Roblox",
+      "sourceRosterNames": [
+        "Roblox"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.roblox.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 267,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:roblox (267)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Spotify",
+      "sourceRosterNames": [
+        "Spotify"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.lifeatspotify.com/jobs",
+        "https://www.lifeatspotify.com/",
+        "https://www.lifeatspotify.com/start-your-journey/faq"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 89,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:spotify (89)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Palantir",
+      "sourceRosterNames": [
+        "Palantir"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.palantir.com/careers/",
+        "https://www.palantir.com/careers/open-positions/",
+        "https://jobs.lever.co/palantir"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 304,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:palantir (304)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Cloudflare",
+      "sourceRosterNames": [
+        "Cloudflare"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.cloudflare.com/careers/",
+        "https://www.cloudflare.com/careers/jobs/",
+        "https://www.cloudflare.com/careers/early-talent/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 459,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:cloudflare (459)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Datadog",
+      "sourceRosterNames": [
+        "Datadog"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.datadoghq.com/",
+        "https://careers.datadoghq.com/all-jobs/",
+        "https://careers.datadoghq.com/engineering/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 396,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:datadog (396)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "MongoDB",
+      "sourceRosterNames": [
+        "MongoDB"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.mongodb.com/company/careers?msockid=165b07348bfa6c023fe11f358a506d45",
+        "https://www.mongodb.com/company/careers/see-jobs?msockid=165b07348bfa6c023fe11f358a506d45",
+        "https://www.mongodb.com/company/careers/students-and-graduates?msockid=165b07348bfa6c023fe11f358a506d45"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 370,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:mongodb (370)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Twilio",
+      "sourceRosterNames": [
+        "Twilio"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.twilio.com/",
+        "https://www.twilio.com/en-us/careers",
+        "https://jobs.twilio.com/careers/apply?pid=1099553948335"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 130,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:twilio (130)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Samsara",
+      "sourceRosterNames": [
+        "Samsara"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.samsara.com/company/careers",
+        "https://www.samsara.com/company/careers/roles"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 324,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:samsara (324)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Asana",
+      "sourceRosterNames": [
+        "Asana"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://asana.com/jobs",
+        "https://asana.com/jobs/all",
+        "https://asana.com/jobs/business"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 112,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:asana (112)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Figma",
+      "sourceRosterNames": [
+        "Figma"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.figma.com/careers/",
+        "https://www.figma.com/careers/early-career/",
+        "https://job-boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 141,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:figma (141)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Duolingo",
+      "sourceRosterNames": [
+        "Duolingo"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.duolingo.com/",
+        "https://careers.duolingo.com/engineering"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 59,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:duolingo (59)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Anduril",
+      "sourceRosterNames": [
+        "Anduril"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.anduril.com/open-roles",
+        "https://www.anduril.com/early-careers",
+        "https://www.anduril.com/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 2546,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:andurilindustries (2546)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bloomberg",
+      "sourceRosterNames": [
+        "Bloomberg"
+      ],
+      "category": "Big Tech",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 36,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:bloomberg/Bloombergindustrygroup_External_Career_Site (36)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Anthropic",
+      "sourceRosterNames": [
+        "Anthropic"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.anthropic.com/careers",
+        "https://www.anthropic.com/careers/jobs",
+        "https://job-boards.greenhouse.io/anthropic"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 680,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:anthropic (680)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "OpenAI",
+      "sourceRosterNames": [
+        "OpenAI"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://openai.com/careers/",
+        "https://openai.com/careers/search/",
+        "https://openai.com/careers/emerging-talent/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 3,
+      "jobsSeen": 812,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:openai (812)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Cohere",
+      "sourceRosterNames": [
+        "Cohere"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 119,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:cohere (119)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Scale AI",
+      "sourceRosterNames": [
+        "Scale AI"
+      ],
+      "category": "AI & Data Companies",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://scale.com/careers",
+        "http://www.scalesd.org/careers.html",
+        "https://job-boards.greenhouse.io/scaleai"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 171,
+      "relevantRoles": 2,
+      "liveBoards": [
+        "Greenhouse:scaleai (171)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Databricks",
+      "sourceRosterNames": [
+        "Databricks"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.databricks.com/company/careers",
+        "https://www.databricks.com/company/careers/open-positions",
+        "https://www.databricks.com/company/careers/university-recruiting"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 902,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:databricks (902)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Snowflake",
+      "sourceRosterNames": [
+        "Snowflake"
+      ],
+      "category": "AI & Data Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.snowflake.com/us/en",
+        "https://careers.snowflake.com/us/en/search-results",
+        "https://careers.snowflake.com/us/en/c/engineering-jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 362,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:snowflake (362)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Hugging Face",
+      "sourceRosterNames": [
+        "Hugging Face"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 6,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workable:huggingface (6)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Perplexity",
+      "sourceRosterNames": [
+        "Perplexity"
+      ],
+      "category": "AI & Data Companies",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/Perplexity",
+        "https://www.perplexity.ai/hub/careers/interview-guide",
+        "https://jobs.ashbyhq.com/Perplexity?gh_src=Accel+job+board"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 133,
+      "relevantRoles": 1,
+      "liveBoards": [
+        "Ashby:perplexity (133)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Mistral AI",
+      "sourceRosterNames": [
+        "Mistral AI"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:mistral (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "ElevenLabs",
+      "sourceRosterNames": [
+        "ElevenLabs"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://join.elevenlabs.io/sound-effects"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 154,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:elevenlabs (154)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Glean",
+      "sourceRosterNames": [
+        "Glean"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.glean.com/careers",
+        "https://www.glean.ai/career",
+        "https://job-boards.greenhouse.io/gleanwork/jobs/4572139005"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 133,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gleanwork (133)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Harvey",
+      "sourceRosterNames": [
+        "Harvey"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.harvey.ai/careers",
+        "https://jobs.ashbyhq.com/harvey/",
+        "https://jobs.ashbyhq.com/harvey?locationId=9162ca52-96d9-4056-aecd-b4df82636334"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 366,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:harvey (366)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Sierra",
+      "sourceRosterNames": [
+        "Sierra"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://sierra.ai/careers",
+        "https://jobs.ashbyhq.com/Sierra",
+        "https://sierra.ai/early-career-program"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 213,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:sierra (213)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Decagon",
+      "sourceRosterNames": [
+        "Decagon"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://decagon.ai/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 133,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:decagon (133)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Cognition",
+      "sourceRosterNames": [
+        "Cognition"
+      ],
+      "category": "AI & Data Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://cognition.com/careers",
+        "https://jobs.ashbyhq.com/cognition",
+        "https://www.gocognition.com/company/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 106,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:cognition (106)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Anysphere (Cursor)",
+      "sourceRosterNames": [
+        "Anysphere (Cursor)"
+      ],
+      "category": "AI & Data Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "ashby:anysphere"
+      ]
+    },
+    {
+      "company": "Exa",
+      "sourceRosterNames": [
+        "Exa"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 55,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:exa (55)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Modal",
+      "sourceRosterNames": [
+        "Modal"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 43,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:modal (43)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "CoreWeave",
+      "sourceRosterNames": [
+        "CoreWeave"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.coreweave.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 311,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:coreweave (311)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Snorkel AI",
+      "sourceRosterNames": [
+        "Snorkel AI"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 43,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:snorkelai (43)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "dbt Labs",
+      "sourceRosterNames": [
+        "dbt Labs"
+      ],
+      "category": "AI & Data Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:dbtlabsinc"
+      ]
+    },
+    {
+      "company": "Fivetran",
+      "sourceRosterNames": [
+        "Fivetran"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 160,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:fivetran (160)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Hex",
+      "sourceRosterNames": [
+        "Hex"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 36,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:hex (36)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Handshake",
+      "sourceRosterNames": [
+        "Handshake"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/handshake"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 85,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:handshake (85)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Mercor",
+      "sourceRosterNames": [
+        "Mercor"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.mercor.com/careers/",
+        "https://work.mercor.com/",
+        "https://work.mercor.com/login"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 108,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:mercor (108)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Center for AI Safety",
+      "sourceRosterNames": [
+        "Center for AI Safety"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:aisafety (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "AfterQuery",
+      "sourceRosterNames": [
+        "AfterQuery"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 40,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:AfterQuery (40)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Tempus AI",
+      "sourceRosterNames": [
+        "Tempus AI"
+      ],
+      "category": "AI & Data Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:tempus"
+      ]
+    },
+    {
+      "company": "Lightcast",
+      "sourceRosterNames": [
+        "Lightcast"
+      ],
+      "category": "AI & Data Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 25,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:economicmodeling (25)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Notion",
+      "sourceRosterNames": [
+        "Notion"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.notion.com/careers",
+        "https://jobs.ashbyhq.com/notion",
+        "https://notion-hq.vercel.app/en-gb/careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 143,
+      "relevantRoles": 2,
+      "liveBoards": [
+        "Ashby:notion (143)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Ramp",
+      "sourceRosterNames": [
+        "Ramp"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://support.ramp.com/",
+        "https://ramp.com/emerging-talent",
+        "https://ramp.com/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 169,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:ramp (168)",
+        "Greenhouse:ramp (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Replit",
+      "sourceRosterNames": [
+        "Replit"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/replit",
+        "https://jobs.ashbyhq.com/replit?ref=trueup",
+        "https://replit.com/interview-process"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 33,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:replit (33)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Linear",
+      "sourceRosterNames": [
+        "Linear"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 32,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:linear (32)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Vercel",
+      "sourceRosterNames": [
+        "Vercel"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://vercel.com/careers",
+        "https://job-boards.greenhouse.io/vercel"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 92,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:vercel (92)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Supabase",
+      "sourceRosterNames": [
+        "Supabase"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 64,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:supabase (64)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "PostHog",
+      "sourceRosterNames": [
+        "PostHog"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://posthog.com/careers",
+        "https://posthog.com/cool-tech-jobs",
+        "https://posthog.com/careers/product-engineer"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 11,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:posthog (11)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Retool",
+      "sourceRosterNames": [
+        "Retool"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:retool"
+      ]
+    },
+    {
+      "company": "Airtable",
+      "sourceRosterNames": [
+        "Airtable"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://airtable.com/careers",
+        "https://job-boards.greenhouse.io/airtable",
+        "https://jobs.ashbyhq.com/airtable"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:airtable (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Benchling",
+      "sourceRosterNames": [
+        "Benchling"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.benchling.com/careers",
+        "https://benchling.com/university-recruiting/",
+        "https://help.benchling.com/hc/en-us/sections/10625480971277-Students"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 54,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:benchling (54)"
+      ],
+      "failedSeededBoards": [
+        "greenhouse:benchling"
+      ]
+    },
+    {
+      "company": "Verkada",
+      "sourceRosterNames": [
+        "Verkada"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.verkada.com/careers/",
+        "https://www.verkada.com/tags/careers/",
+        "https://job-boards.greenhouse.io/verkada?error=true"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 336,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:verkada (336)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Flexport",
+      "sourceRosterNames": [
+        "Flexport"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.flexport.com/careers/",
+        "https://job-boards.greenhouse.io/flexport/",
+        "https://cn.flexport.com/careers/jobs/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 192,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:flexport (192)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Faire",
+      "sourceRosterNames": [
+        "Faire"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "matching-role-found",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 67,
+      "relevantRoles": 1,
+      "liveBoards": [
+        "Greenhouse:faire (67)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Sleeper",
+      "sourceRosterNames": [
+        "Sleeper"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://the-sleeper.com/pages/career",
+        "https://jobs.ashbyhq.com/sleeper/37c271cb-4a2e-44d4-85e4-016ee17843dc?src=Careers+Site",
+        "https://jobs.ashbyhq.com/sleeper?workplaceType=Remote"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 7,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:sleeper (7)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Espa Labs",
+      "sourceRosterNames": [
+        "Espa Labs"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 2,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:espa (2)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Blockhouse",
+      "sourceRosterNames": [
+        "Blockhouse"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 1,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:blockhouse (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Deel",
+      "sourceRosterNames": [
+        "Deel"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.deel.com/en-gb/careers/",
+        "https://jobs.deel.com/bytebridge",
+        "https://jobs.ashbyhq.com/Deel"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:deel (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Lucid Software",
+      "sourceRosterNames": [
+        "Lucid Software"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://lucid.co/careers/internships",
+        "https://lucid.co/careers",
+        "https://lucidmotors.com/careers/early-talent"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 26,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:lucidsoftware (26)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Workiva",
+      "sourceRosterNames": [
+        "Workiva"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 90,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:workiva/careers (90)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "OneEthos",
+      "sourceRosterNames": [
+        "OneEthos"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/oneethos",
+        "https://job-boards.greenhouse.io/oneethos/jobs/4389029009",
+        "https://job-boards.greenhouse.io/oneethos/jobs/4459193009"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 4,
+      "relevantRoles": 1,
+      "liveBoards": [
+        "Greenhouse:oneethos (4)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GuidePoint Security",
+      "sourceRosterNames": [
+        "GuidePoint Security"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "matching-role-found",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 64,
+      "relevantRoles": 1,
+      "liveBoards": [
+        "Greenhouse:guidepointsecurity (64)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Benzinga",
+      "sourceRosterNames": [
+        "Benzinga"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://jobs.benzinga.com/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Inmar Intelligence",
+      "sourceRosterNames": [
+        "Inmar Intelligence"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Stand Out For Good",
+      "sourceRosterNames": [
+        "Stand Out For Good"
+      ],
+      "category": "High-Growth Startups & Dev Tools",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 473,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:standoutforgood/StandOutForGood (473)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Robinhood",
+      "sourceRosterNames": [
+        "Robinhood"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 162,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:robinhood (162)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Affirm",
+      "sourceRosterNames": [
+        "Affirm"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.affirm.com/careers",
+        "https://job-boards.greenhouse.io/affirm?error=true",
+        "https://www.affirma.com/work-with-affirma/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 240,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:affirm (240)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Plaid",
+      "sourceRosterNames": [
+        "Plaid"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/plaid",
+        "https://www.plaid.llc/careers.html",
+        "https://plaid.com/careers/openings/finance/product-strategic-finance/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 129,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:plaid (129)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Brex",
+      "sourceRosterNames": [
+        "Brex"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 262,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:brex (262)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Chime",
+      "sourceRosterNames": [
+        "Chime"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.chime.com/jobs/",
+        "https://chimecentral.org/careers-at-chime",
+        "https://careers.chime.com/jobs/?remote=true&page=1"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 72,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:chime (72)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Coinbase",
+      "sourceRosterNames": [
+        "Coinbase"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.coinbase.com/careers",
+        "https://www.coinbase.com/careers/positions",
+        "https://coinbase.getro.com/jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 228,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:coinbase (228)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Kraken",
+      "sourceRosterNames": [
+        "Kraken"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 91,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:kraken.com (91)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Gemini",
+      "sourceRosterNames": [
+        "Gemini"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 30,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gemini (30)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Ripple",
+      "sourceRosterNames": [
+        "Ripple"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.therippleco.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 108,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:ripple (108)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Paxos",
+      "sourceRosterNames": [
+        "Paxos"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/paxoslabs",
+        "https://www.paxoshealth.com/careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 102,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:paxos (22)"
+      ],
+      "failedSeededBoards": [
+        "greenhouse:paxos"
+      ]
+    },
+    {
+      "company": "Consensys",
+      "sourceRosterNames": [
+        "Consensys"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://consensys.com/careers/locations",
+        "https://jobs.ashbyhq.com/consensys"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 19,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:consensys (11)",
+        "Ashby:consensys (8)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Chainalysis",
+      "sourceRosterNames": [
+        "Chainalysis"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:chainalysis"
+      ]
+    },
+    {
+      "company": "Anchorage Digital",
+      "sourceRosterNames": [
+        "Anchorage Digital"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 22,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:anchorage (22)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Addepar",
+      "sourceRosterNames": [
+        "Addepar"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 113,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:addepar1 (113)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Betterment",
+      "sourceRosterNames": [
+        "Betterment"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 25,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:betterment (25)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Wealthfront",
+      "sourceRosterNames": [
+        "Wealthfront"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 22,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:wealthfront (22)"
+      ],
+      "failedSeededBoards": [
+        "greenhouse:wealthfront"
+      ]
+    },
+    {
+      "company": "Upstart",
+      "sourceRosterNames": [
+        "Upstart"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 87,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:upstart (87)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Nubank",
+      "sourceRosterNames": [
+        "Nubank"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/nubank",
+        "https://job-boards.greenhouse.io/nubank",
+        "https://jobs.ashbyhq.com/nubank?departmentid=3f778e16-5901-4425-8761-e8270364c5c1&locationid=5e43aa69-cf14-4a84-bceb-e1df14fd0e65"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 99,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:nubank (0)",
+        "Ashby:nubank (99)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Toast",
+      "sourceRosterNames": [
+        "Toast"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 343,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:toast (343)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Clear Street",
+      "sourceRosterNames": [
+        "Clear Street"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 46,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:clearstreet (46)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Mercury",
+      "sourceRosterNames": [
+        "Mercury"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 79,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:mercury (0)",
+        "Greenhouse:mercury (79)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Alpaca",
+      "sourceRosterNames": [
+        "Alpaca"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 68,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:alpaca (68)"
+      ],
+      "failedSeededBoards": [
+        "ashby:alpaca"
+      ]
+    },
+    {
+      "company": "Wealthsimple",
+      "sourceRosterNames": [
+        "Wealthsimple"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 38,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:wealthsimple (38)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "PayPal",
+      "sourceRosterNames": [
+        "PayPal"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 326,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:paypal/jobs (326)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Visa",
+      "sourceRosterNames": [
+        "Visa"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://corporate.visa.com/en/careers.html",
+        "https://www.visa.com/en-us/careers",
+        "https://corporate.visa.com/content/VISA/visacorporate/global/en/home/careers.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 774,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:visa/Visa (717)",
+        "Workday:visa/Visa_Early_Careers (57)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Mastercard",
+      "sourceRosterNames": [
+        "Mastercard"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.mastercard.com/us/en/",
+        "https://careers.mastercard.com/us/en/search-results",
+        "https://www.mastercardpaymentservices.com/common/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 947,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:mastercard/CorporateCareers (908)",
+        "Workday:mastercard/Campus (39)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Fiserv",
+      "sourceRosterNames": [
+        "Fiserv"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.fiserv.com/",
+        "https://fiserv.wd5.myworkdayjobs.com/EXT/",
+        "https://careers.fiserv.com/us/en/search-results"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 391,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:fiserv/EXT (391)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "FIS",
+      "sourceRosterNames": [
+        "FIS"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.fisglobal.com/us/en"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 421,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:fis/SearchJobs (421)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Global Payments",
+      "sourceRosterNames": [
+        "Global Payments"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.globalpayments.com/",
+        "https://jobs.globalpayments.com/jobs",
+        "https://www.globalpayments.com/our-company/life-at-global-payments"
+      ],
+      "livePages": 0,
+      "attemptedPages": 3,
+      "jobsSeen": 323,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:tsys/TSYS (323)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Talos",
+      "sourceRosterNames": [
+        "Talos"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 19,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:Talos-Trading (19)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Keyrock",
+      "sourceRosterNames": [
+        "Keyrock"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://keyrock.com/careers/",
+        "https://jobs.ashbyhq.com/keyrock",
+        "https://jobs.ashbyhq.com/keyrock?locationId=cd02faf5-bf19-4449-9aec-11b638209ea5"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 10,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:keyrock (10)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "B2C2",
+      "sourceRosterNames": [
+        "B2C2"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 4,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:b2c2 (4)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GSR",
+      "sourceRosterNames": [
+        "GSR"
+      ],
+      "category": "Fintech & Crypto",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gsrmarkets (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "BlackRock",
+      "sourceRosterNames": [
+        "BlackRock"
+      ],
+      "category": "Asset Management & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.blackrock.com/",
+        "https://careers.blackrock.com/search-jobs",
+        "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 285,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:blackrock/BlackRock_Professional (285)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Vanguard",
+      "sourceRosterNames": [
+        "Vanguard"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.vanguardjobs.com/job-search-results/",
+        "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
+        "https://vanguard.wd5.myworkdayjobs.com/vanguard_external"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 245,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:vanguard/vanguard_external (245)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Fidelity Investments",
+      "sourceRosterNames": [
+        "Fidelity Investments"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.fidelity.com/",
+        "https://jobs.fidelity.com/en/jobs/",
+        "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 803,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:fil/001 (78)",
+        "Workday:fmr/fidelitycareers (725)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "T. Rowe Price",
+      "sourceRosterNames": [
+        "T. Rowe Price"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.troweprice.com/en/us/careers",
+        "https://www.troweprice.com/en/ca/careers",
+        "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 155,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:troweprice/TRowePrice (132)",
+        "Workday:troweprice/TRowePriceInternational (23)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Invesco",
+      "sourceRosterNames": [
+        "Invesco"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 231,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:invesco/IVZ (231)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Franklin Templeton",
+      "sourceRosterNames": [
+        "Franklin Templeton"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [
+        "https://www.franklin.edu/",
+        "https://www.franklin.edu/myfranklin"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:franklintempleton/Primary-External-1 (0)",
+        "Workday:franklintempleton/Jobs-WAM (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "PIMCO",
+      "sourceRosterNames": [
+        "PIMCO"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.pimco.com/au/en",
+        "https://www.pimco.com/us/en/about-us/careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 169,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:pimco/pimco-careers (169)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "PGIM",
+      "sourceRosterNames": [
+        "PGIM"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.pgim.com/",
+        "https://jobs.pgim.com/us-en/early-talent/programs/internships",
+        "https://jobs.pgim.com/us-en/early-talent"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 271,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:pru/PGIM_Careers (100)",
+        "Workday:pru/Careers (171)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Nuveen",
+      "sourceRosterNames": [
+        "Nuveen"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.nuveen.com/en-us/about-us/careers-and-job-search"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 166,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:tiaa/Search (166)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "AllianceBernstein",
+      "sourceRosterNames": [
+        "AllianceBernstein"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 69,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:abglobal/alliancebernsteincareers (69)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Capital Group",
+      "sourceRosterNames": [
+        "Capital Group"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.capitalgroup.com/about-us/careers.html?msockid=3724d577c7926aca0b13cd76c67e6b64",
+        "https://www.capitalgroup.com/about-us/cap.html?msockid=3724d577c7926aca0b13cd76c67e6b64",
+        "https://www.capitalgroup.com/about-us/careers/how-we-hire.html?msockid=3724d577c7926aca0b13cd76c67e6b64"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 169,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:capgroup/capitalgroupcareers (169)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Dimensional Fund Advisors",
+      "sourceRosterNames": [
+        "Dimensional Fund Advisors"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 59,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:dimensional/DFA_Careers (59)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Wellington Management",
+      "sourceRosterNames": [
+        "Wellington Management"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 125,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:wellington/External (125)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Neuberger Berman",
+      "sourceRosterNames": [
+        "Neuberger Berman"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 98,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:nb/NBCareers (85)",
+        "Workday:nb/PWM (13)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "MFS Investment Management",
+      "sourceRosterNames": [
+        "MFS Investment Management"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 39,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:mfs/MFS-Careers (39)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Russell Investments",
+      "sourceRosterNames": [
+        "Russell Investments"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://russellinvestments.com/content/ri/us/en/about-us/careers.html",
+        "https://russellinvestments.com/content/ri/in/en-gb/about-us/careers.html",
+        "https://russell.wd5.myworkdayjobs.com/russellinvestments"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 36,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:russell/russellinvestments (36)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Northern Trust Asset Management",
+      "sourceRosterNames": [
+        "Northern Trust Asset Management"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 300,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:ntrs/northerntrust (300)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "State Street",
+      "sourceRosterNames": [
+        "State Street"
+      ],
+      "category": "Asset Management & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.statestreet.com/",
+        "https://careers.statestreet.com/global/en/experienced-professionals",
+        "https://statestreet.wd1.myworkdayjobs.com/Global"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 240,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:statestreet/Global (240)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Morningstar",
+      "sourceRosterNames": [
+        "Morningstar"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.morningstar.com/company/careers",
+        "https://morningstar.wd5.myworkdayjobs.com/Morningstar",
+        "https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 102,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:morningstar/morningstar (60)",
+        "Workday:morningstar/Americas (12)",
+        "Workday:morningstar/MorningstarDBRS (30)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "S&P Global",
+      "sourceRosterNames": [
+        "S&P Global"
+      ],
+      "category": "Asset Management & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.spglobal.com/en/explore-s-p-global/careers",
+        "https://careers.spglobal.com/jobs/locations",
+        "https://www.spglobal.com/en/privacy/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "workday:spgi.wd5.myworkdayjobs.com/SPGI_Careers"
+      ]
+    },
+    {
+      "company": "FactSet",
+      "sourceRosterNames": [
+        "FactSet"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 96,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:factset/FactSetCareers (96)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Baillie Gifford",
+      "sourceRosterNames": [
+        "Baillie Gifford"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 11,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:bailliegifford/BaillieGiffordCareers (8)",
+        "Workday:bailliegifford/BaillieGiffordEarlyCareers (3)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Arrowstreet",
+      "sourceRosterNames": [
+        "Arrowstreet"
+      ],
+      "category": "Asset Management & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.arrowstreet.com/about/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "workday:arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
+        "workday:arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers"
+      ]
+    },
+    {
+      "company": "GMO",
+      "sourceRosterNames": [
+        "GMO"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.gmo.com/americas/careers/",
+        "https://www.gmo.com/",
+        "https://jobs.lever.co/gmo"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 9,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:gmo (9)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "AQR Capital Management",
+      "sourceRosterNames": [
+        "AQR Capital Management"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.aqr.com/Our-Firm/Careers",
+        "https://careers.aqr.com/locations",
+        "https://careers.aqr.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 53,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:aqr (53)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Connor Clark & Lunn",
+      "sourceRosterNames": [
+        "Connor Clark & Lunn"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.connorco.com/"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 86,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:cclfg (81)",
+        "Greenhouse:cclim (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Nasdaq",
+      "sourceRosterNames": [
+        "Nasdaq"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 124,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:nasdaq/Global_External_Site (104)",
+        "Greenhouse:nasdaq (20)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "CME Group",
+      "sourceRosterNames": [
+        "CME Group"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.cmegroup.com/careers.html",
+        "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/",
+        "https://www.cmegroup.com/careers/early-careers.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 59,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:cmegroup/cme_careers (59)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "LPL Financial",
+      "sourceRosterNames": [
+        "LPL Financial"
+      ],
+      "category": "Asset Management & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://career.lpl.com/",
+        "https://career.lpl.com/location/",
+        "https://lplfinancial.wd1.myworkdayjobs.com/External/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 150,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:lplfinancial/External (150)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Raymond James",
+      "sourceRosterNames": [
+        "Raymond James"
+      ],
+      "category": "Asset Management & Research",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 109,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:raymondjames/RaymondJamesCareers (100)",
+        "Workday:raymondjames/RaymondJamesEarlyCareers (9)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bridgewater Associates",
+      "sourceRosterNames": [
+        "Bridgewater Associates"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.bridgewaternj.gov/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 19,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:bridgewater89 (19)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Point72",
+      "sourceRosterNames": [
+        "Point72"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://point72.com/working-here/",
+        "https://point72.com/students-early-career/",
+        "https://careers.point72.com/CSJobDetail?jobName=equity-financial-analyst-us&jobCode=LSI-0014450"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 207,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:point72 (207)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Man Group",
+      "sourceRosterNames": [
+        "Man Group"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.man.com/careers",
+        "https://job-boards.eu.greenhouse.io/mangroup",
+        "https://www.man.com/students-and-graduates"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 70,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:mangroup (69)",
+        "Workday:mangroupplc/Man_Group_Careers (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Schonfeld",
+      "sourceRosterNames": [
+        "Schonfeld"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.schonfeld.com/careers/",
+        "https://www.schonfeld.com/careers/students-and-early-career/",
+        "https://job-boards.greenhouse.io/schonfeld/jobs/8220506"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 69,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:schonfeld (69)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Squarepoint Capital",
+      "sourceRosterNames": [
+        "Squarepoint Capital"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.squarepoint-capital.com/open-opportunities"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 90,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:squarepointcapital (90)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "WorldQuant",
+      "sourceRosterNames": [
+        "WorldQuant"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 94,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:worldquant (94)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Millennium",
+      "sourceRosterNames": [
+        "Millennium"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://campusjobs.mlp.com/careers",
+        "https://www.mlp.com/careers/",
+        "https://career.mlp.com/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 24,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:mlp/mlpcareers (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Brevan Howard",
+      "sourceRosterNames": [
+        "Brevan Howard"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 25,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:brevanhoward/BH_ExternalCareers (25)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Graham Capital Management",
+      "sourceRosterNames": [
+        "Graham Capital Management"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 11,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:grahamcapitalmanagement (11)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Verition Fund Management",
+      "sourceRosterNames": [
+        "Verition Fund Management"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.verition.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 15,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:veritiongroupllc (15)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Viking Global Investors",
+      "sourceRosterNames": [
+        "Viking Global Investors"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:vikingglobalinvestors (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "ExodusPoint",
+      "sourceRosterNames": [
+        "ExodusPoint"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://job-boards.greenhouse.io/exoduspoint",
+        "https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 3,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:exoduspoint (3)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Jain Global",
+      "sourceRosterNames": [
+        "Jain Global"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 32,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:jainglobal/ExternalSite (32)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "sourceRosterNames": [
+        "Qube Research & Technologies"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 193,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:quberesearchandtechnologies (193)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Jane Street",
+      "sourceRosterNames": [
+        "Jane Street"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 251,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:janestreet (222)",
+        "Ashby:jane (29)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Hudson River Trading",
+      "sourceRosterNames": [
+        "Hudson River Trading"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.hudson.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 86,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:wehrtyou (86)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Jump Trading",
+      "sourceRosterNames": [
+        "Jump Trading"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.jumptrading.com/careers",
+        "https://www.jumptrading.com/hr/overview"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 100,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:jumptrading (97)",
+        "Ashby:jump (3)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "DRW",
+      "sourceRosterNames": [
+        "DRW"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.drw.com/work-at-drw",
+        "https://www.drw.com/work-at-drw/listings",
+        "https://job-boards.greenhouse.io/drweng"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 171,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:drweng (163)",
+        "Greenhouse:drwfr (8)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Optiver",
+      "sourceRosterNames": [
+        "Optiver"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://optiver.com/",
+        "https://optiver.com/join-us/",
+        "https://optiver.com/join-us/students/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 165,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:optiverprivate (8)",
+        "Greenhouse:optiverus (157)",
+        "Greenhouse:optiver (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "IMC Trading",
+      "sourceRosterNames": [
+        "IMC Trading"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.imc.com/us/careers/",
+        "https://www.imc.com/eu/search-careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 168,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:imc (168)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Akuna Capital",
+      "sourceRosterNames": [
+        "Akuna Capital"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 32,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:akunacapital (32)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Chicago Trading Company",
+      "sourceRosterNames": [
+        "Chicago Trading Company"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 23,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:ctccampusboard (5)",
+        "Greenhouse:chicagotrading (18)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Peak6",
+      "sourceRosterNames": [
+        "Peak6"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://peak6.com/careers/",
+        "https://peak6group.wd1.myworkdayjobs.com/PEAK6",
+        "https://peak6.com/campus/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "workday:peak6group.wd1.myworkdayjobs.com/PEAK6"
+      ]
+    },
+    {
+      "company": "Belvedere Trading",
+      "sourceRosterNames": [
+        "Belvedere Trading"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.belvederetrading.com/our-positions",
+        "https://www.belvederetrading.com/open-positions-1",
+        "https://jobs.lever.co/belvederetrading"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 17,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:belvederetrading (17)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Old Mission Capital",
+      "sourceRosterNames": [
+        "Old Mission Capital"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 39,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:old-mission-capital (39)"
+      ],
+      "failedSeededBoards": [
+        "greenhouse:oldmissioncapital"
+      ]
+    },
+    {
+      "company": "Virtu Financial",
+      "sourceRosterNames": [
+        "Virtu Financial"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 47,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:virtu (47)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Tower Research Capital",
+      "sourceRosterNames": [
+        "Tower Research Capital"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 100,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:towerresearchcapital (100)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Five Rings",
+      "sourceRosterNames": [
+        "Five Rings"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 17,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:fiveringsllc (17)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Voleon Group",
+      "sourceRosterNames": [
+        "Voleon Group"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://voleon.com/management/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 61,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:voleon (61)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Engineers Gate",
+      "sourceRosterNames": [
+        "Engineers Gate"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 10,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:engineersgate (10)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Walleye Capital",
+      "sourceRosterNames": [
+        "Walleye Capital"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 15,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:walleyecapital-external-students (2)",
+        "Greenhouse:walleyecapital-external-fulltime (13)",
+        "Greenhouse:walleyecapital (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Gelber Group",
+      "sourceRosterNames": [
+        "Gelber Group"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 12,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gelbergroup (12)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Geneva Trading",
+      "sourceRosterNames": [
+        "Geneva Trading"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.genevatrading.com/careers-open-positions/",
+        "https://www.genevatrading.com/career-in-trading/",
+        "https://job-boards.greenhouse.io/genevatrading"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 13,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:genevatrading (13)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "TransMarket Group",
+      "sourceRosterNames": [
+        "TransMarket Group"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 17,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:transmarketgroup (17)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "3Red Partners",
+      "sourceRosterNames": [
+        "3Red Partners"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 7,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:3redpartners (7)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Flow Traders",
+      "sourceRosterNames": [
+        "Flow Traders"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.flow.app/download"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 47,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:flowtraders (47)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Two Sigma",
+      "sourceRosterNames": [
+        "Two Sigma"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Citadel",
+      "sourceRosterNames": [
+        "Citadel"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.citadel.com/careers/",
+        "https://www.citadel.com/careers/open-opportunities/",
+        "https://jobs.citadel.edu/jobs/search"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "D. E. Shaw",
+      "sourceRosterNames": [
+        "D. E. Shaw"
+      ],
+      "category": "Hedge Funds & Trading",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Blackstone",
+      "sourceRosterNames": [
+        "Blackstone"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.blackstone.com/careers/careers-blackstone/",
+        "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers",
+        "https://www.blackstone.com/careers/students/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 239,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:blackstone/Blackstone_Careers (136)",
+        "Workday:blackstone/BX_External_Site (103)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Apollo Global Management",
+      "sourceRosterNames": [
+        "Apollo Global Management"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 46,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:athene/Apollo_Careers (46)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Ares Management",
+      "sourceRosterNames": [
+        "Ares Management"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://ares.com/us/careers",
+        "https://aresmgmt.wd1.myworkdayjobs.com/External",
+        "https://ares.com/us/careers/early-careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 195,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:aresmgmt/External (195)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Blue Owl Capital",
+      "sourceRosterNames": [
+        "Blue Owl Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 42,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:blueowl/blueowl (42)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Oaktree Capital Management",
+      "sourceRosterNames": [
+        "Oaktree Capital Management"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://oaktree.wd1.myworkdayjobs.com/Oaktree"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 52,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:oaktree/Oaktree (52)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "TPG",
+      "sourceRosterNames": [
+        "TPG"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.tpg.com/careers",
+        "https://job-boards.greenhouse.io/tpgcareers",
+        "https://www.tpg.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 19,
+      "relevantRoles": 2,
+      "liveBoards": [
+        "Greenhouse:tpgcareers (19)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "General Atlantic",
+      "sourceRosterNames": [
+        "General Atlantic"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 14,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:generalatlantic (14)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Warburg Pincus",
+      "sourceRosterNames": [
+        "Warburg Pincus"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:warburgpincusllc (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "KKR",
+      "sourceRosterNames": [
+        "KKR"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Carlyle",
+      "sourceRosterNames": [
+        "Carlyle"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bain Capital",
+      "sourceRosterNames": [
+        "Bain Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.baincapital.com/careers",
+        "https://www.bain.com/careers",
+        "https://baincapital.wd1.myworkdayjobs.com/external_public"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 25,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:bain-capital (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Thoma Bravo",
+      "sourceRosterNames": [
+        "Thoma Bravo"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Vista Equity Partners",
+      "sourceRosterNames": [
+        "Vista Equity Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GTCR",
+      "sourceRosterNames": [
+        "GTCR"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-no-open-postings",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gtcr (0)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Madison Dearborn Partners",
+      "sourceRosterNames": [
+        "Madison Dearborn Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.mdcp.com/contact"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Wind Point Partners",
+      "sourceRosterNames": [
+        "Wind Point Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Pritzker Private Capital",
+      "sourceRosterNames": [
+        "Pritzker Private Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GCM Grosvenor",
+      "sourceRosterNames": [
+        "GCM Grosvenor"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.gcmgrosvenor.com/careers/",
+        "https://www.gcmgrosvenor.com/open-positions/",
+        "https://job-boards.greenhouse.io/gcmgrosvenor"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 12,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gcmgrosvenor (12)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Andreessen Horowitz",
+      "sourceRosterNames": [
+        "Andreessen Horowitz"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://a16z.com/about/jobs/",
+        "https://jobs.a16z.com/",
+        "https://jobs.a16z.com/jobs/a16z"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 2317,
+      "relevantRoles": 1,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Sequoia Capital",
+      "sourceRosterNames": [
+        "Sequoia Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.sequoiacap.com/jobs/sequoia-capital",
+        "https://www.sequoia.com/company/careers/",
+        "https://sequoiacap.com/jobs/?filters=38"
+      ],
+      "livePages": 2,
+      "attemptedPages": 3,
+      "jobsSeen": 7,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:sequoia (7)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "General Catalyst",
+      "sourceRosterNames": [
+        "General Catalyst"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Lightspeed Venture Partners",
+      "sourceRosterNames": [
+        "Lightspeed Venture Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 8,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:lightspeed (8)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Insight Partners",
+      "sourceRosterNames": [
+        "Insight Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 16,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:insight (16)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bessemer Venture Partners",
+      "sourceRosterNames": [
+        "Bessemer Venture Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 1,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:bessemerventurepartners (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Accel",
+      "sourceRosterNames": [
+        "Accel"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://accelschools.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Index Ventures",
+      "sourceRosterNames": [
+        "Index Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Greylock",
+      "sourceRosterNames": [
+        "Greylock"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Kleiner Perkins",
+      "sourceRosterNames": [
+        "Kleiner Perkins"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Founders Fund",
+      "sourceRosterNames": [
+        "Founders Fund"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Thrive Capital",
+      "sourceRosterNames": [
+        "Thrive Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 3,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:thrive (3)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Khosla Ventures",
+      "sourceRosterNames": [
+        "Khosla Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 2,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:khoslaventures (2)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "NEA",
+      "sourceRosterNames": [
+        "NEA"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.mynea360.org/s/join-now"
+      ],
+      "livePages": 0,
+      "attemptedPages": 1,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Battery Ventures",
+      "sourceRosterNames": [
+        "Battery Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.battery.com/jobs/front",
+        "https://job-boards.greenhouse.io/batteryventures",
+        "https://jobs.battery.com/jobs?trk=public_post-text"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:batteryventures (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Felicis",
+      "sourceRosterNames": [
+        "Felicis"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.felicis.com/",
+        "https://www.felicis.com/fellows"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Menlo Ventures",
+      "sourceRosterNames": [
+        "Menlo Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.menlo.edu/",
+        "https://jobs.menlovc.com/jobs",
+        "https://www.menloschool.org/internships/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 879,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:menlo (20)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bain Capital Ventures",
+      "sourceRosterNames": [
+        "Bain Capital Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.bain.com/careers",
+        "https://www.bain.com/careers/work-with-us/internships-programs/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "First Round Capital (Dorm Room Fund)",
+      "sourceRosterNames": [
+        "First Round Capital (Dorm Room Fund)"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.katyfirst.org/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 1,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:firstround (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Contrary",
+      "sourceRosterNames": [
+        "Contrary"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Pear VC",
+      "sourceRosterNames": [
+        "Pear VC"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 102,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:pear-vc (102)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Collide Capital",
+      "sourceRosterNames": [
+        "Collide Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GenZVC",
+      "sourceRosterNames": [
+        "GenZVC"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "M25",
+      "sourceRosterNames": [
+        "M25"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Hyde Park Venture Partners",
+      "sourceRosterNames": [
+        "Hyde Park Venture Partners"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Chicago Ventures",
+      "sourceRosterNames": [
+        "Chicago Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Pritzker Group Venture Capital",
+      "sourceRosterNames": [
+        "Pritzker Group Venture Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Jump Capital",
+      "sourceRosterNames": [
+        "Jump Capital"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Origin Ventures",
+      "sourceRosterNames": [
+        "Origin Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Lightbank",
+      "sourceRosterNames": [
+        "Lightbank"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.lightbank.com/",
+        "https://www.lightbank.com/team",
+        "https://jobs.lightbank.com/jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 144,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "OCA Ventures",
+      "sourceRosterNames": [
+        "OCA Ventures"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Sensiba",
+      "sourceRosterNames": [
+        "Sensiba"
+      ],
+      "category": "Private Equity & Venture Capital",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Bank of America",
+      "sourceRosterNames": [
+        "Bank of America"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.bankofamerica.com/en-us",
+        "https://careers.bankofamerica.com/en-us/job-search",
+        "https://careers.bankofamerica.com/en-us/students"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1764,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:ghr/Lateral-US (1764)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Wells Fargo",
+      "sourceRosterNames": [
+        "Wells Fargo"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.wellsfargojobs.com/",
+        "https://www.wellsfargojobs.com/en/jobs/",
+        "https://www.wellsfargo.com/com/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1611,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:wf/wellsfargojobs (1611)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Capital One",
+      "sourceRosterNames": [
+        "Capital One"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.capitalonecareers.com/",
+        "https://www.capitalonecareers.com/search-jobs",
+        "https://capitalone.wd12.myworkdayjobs.com/Capital_One"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 2007,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:capitalone/Capital_One (2007)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Barclays",
+      "sourceRosterNames": [
+        "Barclays"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://home.barclays/careers/",
+        "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+        "https://search.jobs.barclays/search-jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 735,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:barclays/External_Career_Site_Barclays (735)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Deutsche Bank",
+      "sourceRosterNames": [
+        "Deutsche Bank"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 771,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:db/DBWebsite (771)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "BMO Capital Markets",
+      "sourceRosterNames": [
+        "BMO Capital Markets"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 1035,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:bmo/External (1035)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Macquarie",
+      "sourceRosterNames": [
+        "Macquarie"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.macquarie.com/au/en/careers.html",
+        "https://recruitment.macquarie.com/en_US/careers/SearchJobs",
+        "https://recruitment.macquarie.com/en_US/careers/AgentRegister"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 18,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:mq/CareersatMQ (18)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "U.S. Bank",
+      "sourceRosterNames": [
+        "U.S. Bank"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://careers.usbank.com/global/en/c/branch-banking-jobs",
+        "https://careers.usbank.com/global/en/apply",
+        "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 1212,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:usbank/US_Bank_Careers (1212)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Fifth Third Bank",
+      "sourceRosterNames": [
+        "Fifth Third Bank"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.53.com/content/fifth-third/en/careers.html/",
+        "https://fifththird.wd5.myworkdayjobs.com/53careers",
+        "https://www.53.com/content/fifth-third/en/careers/early-careers.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 992,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:fifththird/53careers (992)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "KeyBank",
+      "sourceRosterNames": [
+        "KeyBank"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.key.com/about/careers.html",
+        "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+        "https://www.key.com/about/careers/working-with-us.html"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 579,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:keybank/External_Career_Site (574)",
+        "Workday:keybank/Scout (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "M&T Bank",
+      "sourceRosterNames": [
+        "M&T Bank"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 748,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:mtb/MTB (705)",
+        "Workday:mtb/Campus (43)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Synchrony",
+      "sourceRosterNames": [
+        "Synchrony"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.synchronycareers.com/search-jobs",
+        "https://synchronypharmacy.com/careers/",
+        "https://synchronygroup.com/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 65,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:synchronyfinancial/careers (45)",
+        "Workday:synchronyfinancial/University (20)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Allstate",
+      "sourceRosterNames": [
+        "Allstate"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.allstatecorporation.com/careers.aspx",
+        "https://www.allstate.jobs/job-search-results/",
+        "https://www.allstate.jobs/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 407,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:allstate/allstate_careers (407)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Northwestern Mutual",
+      "sourceRosterNames": [
+        "Northwestern Mutual"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.northwestern.edu/",
+        "https://www.northwestern.edu/academics/graduate-a-to-z.html",
+        "https://admissions.northwestern.edu/academics/majors-minors/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 48,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:northwesternmutual/CORPORATE-CAREERS (48)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "MassMutual",
+      "sourceRosterNames": [
+        "MassMutual"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.massmutualtrust.com/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 11,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:massmutual/MMINDCareersite (10)",
+        "Workday:massmutual/MMAscendCareers (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Guardian Life",
+      "sourceRosterNames": [
+        "Guardian Life"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.guardianlife.com/careers",
+        "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers",
+        "https://www.guardianlife.com/careers/corporate"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 108,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:guardianlife/Guardian-Life-Careers (108)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Travelers",
+      "sourceRosterNames": [
+        "Travelers"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.travelers.com/",
+        "https://careers.travelers.com/job-search-results/",
+        "https://travelers.wd5.myworkdayjobs.com/External"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 403,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:travelers/External (403)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "The Hartford",
+      "sourceRosterNames": [
+        "The Hartford"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.thehartford.com/careers",
+        "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+        "https://www.jointhehartford.com/jobs/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 172,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:thehartford/Careers_External (172)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Nationwide",
+      "sourceRosterNames": [
+        "Nationwide"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.nationwide.com/personal/about-us/careers/",
+        "https://careers.nationwide.com/",
+        "https://www.nationwide.com/personal/about-us/careers/explore/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 162,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:nationwide/Nationwide_Career (162)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Pacific Life",
+      "sourceRosterNames": [
+        "Pacific Life"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 125,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:pacificlife/PacificLifeCareers (125)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "JPMorgan Chase",
+      "sourceRosterNames": [
+        "JPMorgan Chase"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.jpmorganchase.com/careers/explore-opportunities",
+        "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 2000,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Oracle:jpmc/CX_1001 (2000)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Morgan Stanley",
+      "sourceRosterNames": [
+        "Morgan Stanley"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.morganstanley.com/careers/career-opportunities-search/",
+        "https://www.morganstanley.com/people-opportunities/students-graduates",
+        "https://morganstanley.eightfold.ai/careers?source=mscom"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 30,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Eightfold:morganstanley.eightfold.ai (30)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Goldman Sachs",
+      "sourceRosterNames": [
+        "Goldman Sachs"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.goldmansachs.com/careers/",
+        "https://www.goldmansachs.com/careers/apply/",
+        "https://www.goldmansachs.com/careers/students"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Citi",
+      "sourceRosterNames": [
+        "Citi"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://jobs.citi.com/",
+        "https://jobs.citi.com/search-jobs",
+        "https://online.citi.com/US/nga/career/careerhome"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 3031,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Federal Reserve System",
+      "sourceRosterNames": [
+        "Federal Reserve System"
+      ],
+      "category": "Banks & Financial Services",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 158,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:rb/FRS (158)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Sprout Social",
+      "sourceRosterNames": [
+        "Sprout Social"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://sproutsocial.com/careers/",
+        "https://sproutsocial.com/careers/open-positions/",
+        "https://careers.sproutup.com/careers-home/jobs"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 22,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:sproutsocial (22)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Groupon",
+      "sourceRosterNames": [
+        "Groupon"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.groupon.com/roles",
+        "https://groupon.wd5.myworkdayjobs.com/jobs",
+        "https://groupon.wd5.myworkdayjobs.com/en-US/jobs/introduceYourself"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 27,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:groupon (27)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "project44",
+      "sourceRosterNames": [
+        "project44"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 27,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:project44 (27)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Kin Insurance",
+      "sourceRosterNames": [
+        "Kin Insurance"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/kin"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 21,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:kininsurance"
+      ]
+    },
+    {
+      "company": "ShipBob",
+      "sourceRosterNames": [
+        "ShipBob"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:shipbob"
+      ]
+    },
+    {
+      "company": "Avant",
+      "sourceRosterNames": [
+        "Avant"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.avant.com/jobs/",
+        "https://goavant.net/careers/",
+        "https://avant.wd503.myworkdayjobs.com/External_Careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 10,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:avant/External_Careers (10)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Motorola Solutions",
+      "sourceRosterNames": [
+        "Motorola Solutions"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 696,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Workday:motorolasolutions/Careers (696)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Discover Financial Services",
+      "sourceRosterNames": [
+        "Discover Financial Services"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Cboe Global Markets",
+      "sourceRosterNames": [
+        "Cboe Global Markets"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "William Blair",
+      "sourceRosterNames": [
+        "William Blair"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 51,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:williamblair (51)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Ariel Investments",
+      "sourceRosterNames": [
+        "Ariel Investments"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 1,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:arielinvestments (1)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Harris Associates (Oakmark)",
+      "sourceRosterNames": [
+        "Harris Associates (Oakmark)"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 10,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:harrisassociates (10)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Calamos Investments",
+      "sourceRosterNames": [
+        "Calamos Investments"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.calamos.com/funds/etf/",
+        "https://www.calamos.com/careers/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Enova",
+      "sourceRosterNames": [
+        "Enova"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.enova.com/careers/",
+        "https://www.enova-me.com/careers",
+        "https://enovapower.com/corporate-information/careers/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 36,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:enova (36)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Relativity",
+      "sourceRosterNames": [
+        "Relativity"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 404,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:relativity (404)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Vivid Seats",
+      "sourceRosterNames": [
+        "Vivid Seats"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://corporate.vividseats.com/careers/",
+        "https://job-boards.greenhouse.io/vividseatsllc/jobs/5184511007?gh_jid=5184511007",
+        "https://www.vividstage.org/internships"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "SpotHero",
+      "sourceRosterNames": [
+        "SpotHero"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 9,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:spothero (9)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Grubhub",
+      "sourceRosterNames": [
+        "Grubhub"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.grubhub.com/people",
+        "https://wonder.wd1.myworkdayjobs.com/Grubhub_Careers"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 33,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Uptake",
+      "sourceRosterNames": [
+        "Uptake"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Cleo",
+      "sourceRosterNames": [
+        "Cleo"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 8,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:cleo (8)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Basis Technologies",
+      "sourceRosterNames": [
+        "Basis Technologies"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 5,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:basis (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Packback",
+      "sourceRosterNames": [
+        "Packback"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Braviant Holdings",
+      "sourceRosterNames": [
+        "Braviant Holdings"
+      ],
+      "category": "Chicago-Area Employers",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 4,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:braviantholdings (4)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "GitLab",
+      "sourceRosterNames": [
+        "GitLab"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://about.gitlab.com/jobs/all-jobs/",
+        "https://about.gitlab.com/jobs/",
+        "https://job-boards.greenhouse.io/gitlab/jobs/7691788002"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 231,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:gitlab (231)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Canonical",
+      "sourceRosterNames": [
+        "Canonical"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://canonical.com/careers",
+        "https://canonical.com/careers/company-culture/remote-work",
+        "https://job-boards.greenhouse.io/canonical"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 314,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:canonical (314)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Wikimedia Foundation",
+      "sourceRosterNames": [
+        "Wikimedia Foundation"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://wikimediafoundation.org/jobs/",
+        "https://job-boards.greenhouse.io/wikimedia",
+        "https://job-boards.greenhouse.io/wikimedia/jobs/8268853"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 15,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:wikimedia (15)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Mozilla",
+      "sourceRosterNames": [
+        "Mozilla"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://www.mozilla.org/en-US/careers/",
+        "https://job-boards.greenhouse.io/mozilla",
+        "https://job-boards.greenhouse.io/mozilla?error=true"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 118,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:mozilla (118)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Grafana Labs",
+      "sourceRosterNames": [
+        "Grafana Labs"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 130,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:grafanalabs (130)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "HashiCorp",
+      "sourceRosterNames": [
+        "HashiCorp"
+      ],
+      "category": "Remote-First Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "greenhouse:hashicorp"
+      ]
+    },
+    {
+      "company": "Khan Academy",
+      "sourceRosterNames": [
+        "Khan Academy"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://en.khanacademy.org/about"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 4,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:khanacademy (4)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Coursera",
+      "sourceRosterNames": [
+        "Coursera"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://careers.coursera.com/search-page",
+        "https://www.coursera.support/s/career-center?language=en_US",
+        "https://job-boards.greenhouse.io/coursera/jobs/5412382004"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 29,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:coursera (29)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Zapier",
+      "sourceRosterNames": [
+        "Zapier"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.ashbyhq.com/zapier?employmentType=FullTime",
+        "https://zapier.com/jobs/our-commitment-to-applicants?msockid=34543af9d8fc6f301a9d22f8d9d36e5f"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 12,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:zapier (12)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "DuckDuckGo",
+      "sourceRosterNames": [
+        "DuckDuckGo"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://duckduckgo.com/hiring",
+        "https://duckduckgo.com/how-we-hire"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 11,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:duck-duck-go (11)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Automattic",
+      "sourceRosterNames": [
+        "Automattic"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://automattic.com/work-with-us/",
+        "https://automattic.com/work-with-us/jobs/",
+        "https://job-boards.greenhouse.io/automatticcareers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 12,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Doist",
+      "sourceRosterNames": [
+        "Doist"
+      ],
+      "category": "Remote-First Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Help Scout",
+      "sourceRosterNames": [
+        "Help Scout"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 7,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Ashby:helpscout (7)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Buffer",
+      "sourceRosterNames": [
+        "Buffer"
+      ],
+      "category": "Remote-First Companies",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Invisible Technologies",
+      "sourceRosterNames": [
+        "Invisible Technologies"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://invisibletech.ai/join-us"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 20,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Greenhouse:invisible (5)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Stand Together",
+      "sourceRosterNames": [
+        "Stand Together"
+      ],
+      "category": "Remote-First Companies",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://standtogether.org/careers",
+        "https://standtogethertrust.org/careers/?id=a1PC0000001VoyvMAC",
+        "https://standtogether.org/careers/benefits"
+      ],
+      "livePages": 1,
+      "attemptedPages": 3,
+      "jobsSeen": 131,
+      "relevantRoles": 3,
+      "liveBoards": [
+        "Lever:standtogether (131)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "ACLU",
+      "sourceRosterNames": [
+        "ACLU"
+      ],
+      "category": "Remote-First Companies",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.aclu-il.org/job-openings-0/",
+        "https://www.aclu-il.org/jobs/",
+        "https://job-boards.greenhouse.io/aclu"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 70,
+      "relevantRoles": 2,
+      "liveBoards": [
+        "Greenhouse:acluinternships (54)",
+        "Greenhouse:aclu (16)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "The Athletic",
+      "sourceRosterNames": [
+        "The Athletic"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://jobs.lever.co/theathletic/?location=United%20States"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
+      "jobsSeen": 13,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:theathletic (13)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Merkle Science",
+      "sourceRosterNames": [
+        "Merkle Science"
+      ],
+      "category": "Remote-First Companies",
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 21,
+      "relevantRoles": 0,
+      "liveBoards": [
+        "Lever:merklescience (21)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "University of Chicago",
+      "sourceRosterNames": [
+        "University of Chicago"
+      ],
+      "category": "UChicago & Research",
+      "status": "matching-role-found",
+      "careerPages": [
+        "https://www.uchicago.edu/careers",
+        "https://intranet.uchicago.edu/human-resources/career-opportunities",
+        "https://www.uchicagomedicine.org/about-us/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 576,
+      "relevantRoles": 1,
+      "liveBoards": [
+        "Workday:uchicago/External (384)"
+      ],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "NORC at the University of Chicago",
+      "sourceRosterNames": [
+        "NORC at the University of Chicago"
+      ],
+      "category": "UChicago & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    },
+    {
+      "company": "Argonne National Laboratory",
+      "sourceRosterNames": [
+        "Argonne National Laboratory"
+      ],
+      "category": "UChicago & Research",
+      "status": "could-not-fully-verify",
+      "careerPages": [],
+      "livePages": 0,
+      "attemptedPages": 0,
+      "jobsSeen": 0,
+      "relevantRoles": 0,
+      "liveBoards": [],
+      "failedSeededBoards": []
+    }
+  ]
+}
