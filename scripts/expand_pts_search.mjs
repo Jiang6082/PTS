@@ -133,7 +133,14 @@ async function scanCareerPage(company, pageUrl) {
   const discovered = extractAtsTokens(searchable);
   const unsupportedAts = detectUnsupportedAts(searchable);
   const seededKeys = new Set(Object.entries(seeds[company] || {}).flatMap(([k, vs]) => vs.map((v) => seedKey(k, v))));
-  const fresh = Object.fromEntries(Object.entries(discovered).map(([k, vs]) => [k, vs.filter((v) => !seededKeys.has(seedKey(k, v)))]).filter(([, vs]) => vs.length));
+  // VC / PE sites embed their portfolio companies' job boards; only keep boards named after the firm.
+  const ownBoard = (v) => {
+    if (!["vc", "pe"].includes(firm?.kind)) return true;
+    const key = (typeof v === "string" ? v : `${v.host} ${v.site || v.domain || ""}`).toLowerCase().replace(/[^a-z0-9]/g, "");
+    const host = String(firm.domain || "").split(".")[0].replace(/[^a-z0-9]/g, "");
+    return firmTokens(company).some((t) => key.includes(t)) || (host.length > 2 && key.includes(host));
+  };
+  const fresh = Object.fromEntries(Object.entries(discovered).map(([k, vs]) => [k, vs.filter((v) => !seededKeys.has(seedKey(k, v)) && ownBoard(v))]).filter(([, vs]) => vs.length));
   const tasks = collectorTasks(company, fresh);
   const boards = (await Promise.all(tasks.map((t) => t.run().catch(() => null)))).filter(Boolean);
   const rows = [];
