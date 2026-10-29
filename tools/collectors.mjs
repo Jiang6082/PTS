@@ -12,7 +12,7 @@ const job = (company, source, fields) => ({
   URL: (fields.URL || "").trim(),
   Source: source,
   PostedAt: fields.PostedAt || "",
-  Content: (fields.Content || "").slice(0, 6000),
+  Content: (fields.Content || "").slice(0, 20000),
   Commitment: String(fields.Commitment || "").trim(),
   Workplace: normalizeWorkplace(fields.Workplace),
   ...(fields.DetailURL ? { DetailURL: fields.DetailURL } : {}),
