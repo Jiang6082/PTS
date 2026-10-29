@@ -187,6 +187,17 @@ const roleCases = [
   [R("Software Engineer Intern (2027)", "Remote", "Austin, full-time summer 2027"), {}, null],
   [R("(2028 grads) Software Intern - Part-time", "Remote"), {}, "Software"],
   [R("Software Engineering Intern", "Remote"), {}, null],
+  // Regression cases from the first live scan (2026-10-29).
+  [R("Software Engineer Intern (Winter 2027)", "San Francisco, California", "We have a remote-friendly culture and some teammates work remotely."), {}, null],
+  [R("Internship - Search Backend Infra Engineer", "Belgrade", "part-time", { Workplace: "remote" }), {}, null],
+  [R("Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department", "Remote", "part-time"), {}, null],
+  [R("Law School Student Ambassador", "Remote", "student ambassador for venture"), { kind: "vc" }, null],
+  [R("SWE Fellow - Human Frontier Collective (US)", "United States", "Flexible Schedule part-time"), { exclude: "Human Frontier Collective" }, null],
+  [R("Student Radiology Technologist Assistant", "Chicago, IL", "20 hours per week, data entry"), { kind: "uchicago", localOk: true }, null],
+  [R("Qualitative Research Assistant", "Chicago, IL", "interview data", { Commitment: "Part time" }), { kind: "uchicago", localOk: true }, null],
+  [R("KIP Spring 2027 - Associate Policy Analyst Intern", "Washington, DC", "Interns work remotely by default."), {}, null],
+  [R("KIP Spring 2027 - Data Analysis Intern", "Florida", "Interns are remote by default. Part-time ~24 hours per week."), {}, "Data"],
+  [R("Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship", "Remote", "up to 20 hours per week"), {}, "Data"],
 ];
 for (const [row, firm, want] of roleCases) {
   const got = classifyRole(row, firm, { now: NOW }).track;
