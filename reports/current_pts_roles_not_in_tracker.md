@@ -1,29 +1,22 @@
 # Current Part-Time Roles Not In Your Tracker
 
-Current scan: 2026-10-29T12:10:26.689Z
+Current scan: 2026-10-29T12:37:41.940Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 20
+Current roles absent from tracker: 10
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
-### Software (5)
+### Software (3)
 
 - **Notion** - [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
-- **OneEthos** - [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - United States - Remote - Confirmed official posting (Official ATS Greenhouse:oneethos): hours not stated; term: Fall 2026, Spring 2027, Summer 2027; fully remote
-- **Perplexity** - [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) - Belgrade - Confirmed official posting (Official ATS Ashby:perplexity): part-time (part-time); fully remote
-- **Scale AI** - [SWE Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) - United States - Confirmed official posting (Official ATS Greenhouse:scaleai): part-time (Flexible Schedule); fully remote
+- **OneEthos** - [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - United States - Remote - Confirmed official posting (Official ATS Greenhouse:oneethos): part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote
 
-### Data (12)
+### Data (7)
 
-- **ACLU** - [Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department](https://job-boards.greenhouse.io/acluinternships/jobs/8919915002) - Remote/Hybrid- New York City - Confirmed official posting (Official ATS Greenhouse:acluinternships): part-time (20 hrs/week max); term: Spring 2027; fully remote
 - **ACLU** - [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) - Remote/Hybrid- New York City - Confirmed official posting (Official ATS Greenhouse:acluinternships): part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote
-- **Benzinga** - [Analytics Engineer Intern](https://jobs.benzinga.com/p/03612a62fdfa-analytics-engineer-intern/apply) - Remote - Likely official; verify application form (Official posting/page (web-discovered)): part-time (part-time); fully remote | Job Description Benzinga is seeking an Analytics Engineering Intern to join our Data Science team for a 12-week, part-time, remote …
-- **Benzinga** - [Analytics Engineer Intern at Benzinga](https://benzinga.breezy.hr/p/03612a62fdfa-analytics-engineer-intern) - Remote - Likely official; verify application form (Official posting/page (web-discovered)): part-time (part-time); fully remote | Job Description Benzinga is seeking an Analytics Engineering Intern to join our Data Science team for a 12-week, part-time, remote …
-- **Faire** - [Applied AI/ML Scientist, Intern - Winter 2027](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) - San Francisco, CA - Confirmed official posting (Official ATS Greenhouse:faire): hours not stated; term: Winter 2027; fully remote
+- **Anthropic** - [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) - London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA - Confirmed official posting (Official ATS Greenhouse:anthropic): part-time (part-time); 40 hrs/wk; fully remote
 - **GuidePoint Security** - [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) - Remote - Confirmed official posting (Official ATS Greenhouse:guidepointsecurity): part-time (29 hrs/week max); fully remote
-- **Scale AI** - [Machine Learning Fellow - Human Frontier Collective](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) - United States - Confirmed official posting (Official ATS Greenhouse:scaleai): part-time (25 hrs/week max); fully remote
-- **Stand Together** - [KIP Spring 2027 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobs.lever.co/standtogether/d9dd2700-19dc-46f5-9590-773634f55836) - Washington, DC - Confirmed official posting (Official ATS Lever:standtogether): hours not stated; term: Spring 2027; fully remote
 - **Stand Together** - [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) - Florida - Confirmed official posting (Official ATS Lever:standtogether): hours not stated; term: Spring 2027; fully remote
 - **Stand Together** - [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) - New York - Confirmed official posting (Official ATS Lever:standtogether): hours not stated; term: Spring 2027; fully remote
 - **TPG** - [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) - Remote - Confirmed official posting (Official ATS Greenhouse:tpgcareers): part-time (20 hrs/week max); term: May 2027; fully remote
@@ -33,11 +26,10 @@ These roles are not in inputs/internship_tracker.csv (add URLs there as you appl
 
 _None._
 
-### VC Scout (1)
+### VC Scout (0)
 
-- **Andreessen Horowitz** - [Law School Student Ambassador](https://jobs.ashbyhq.com/harvey/a194c24f-38ee-4c7e-908b-060a16dfaa9d) - Remote - Confirmed official posting (Career page Ashby:harvey): part-time (scout program); fully remote
+_None._
 
-### UChicago RA / Student (2)
+### UChicago RA / Student (0)
 
-- **University of Chicago** - [Qualitative Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Qualitative-Research-Assistant_JR35655) - Chicago, IL - Confirmed official posting (Official ATS Workday:uchicago/External): part-time (commitment: Part time); 26 hrs/wk; on campus / Chicago
-- **University of Chicago** - [Student Radiology Technologist Assistant](https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5961) - Chicago, IL, United States - Confirmed official posting (Career page Oracle:fa-etnf-saasfaprod1/CX_1001): part-time (20 hrs/week max); on campus / Chicago
+_None._

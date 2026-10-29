@@ -4,7 +4,7 @@ Automated daily scan for **part-time / term-time internships** in **software eng
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-10-29 &nbsp;•&nbsp; **13 part-time roles** &nbsp;•&nbsp; **7 term-time, hours not stated** &nbsp;•&nbsp; **0 new**
+> **Last scan:** 2026-10-29 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new**
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -22,57 +22,31 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles
 
-**20** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
+**10** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
 
 ### Software
 
 <details>
-<summary><strong>5 roles</strong> — click to expand</summary>
+<summary><strong>3 roles</strong> — click to expand</summary>
 
-- **Perplexity** — [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) — Belgrade
-- **Scale AI** — [SWE Fellow - Human Frontier Collective (US)](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) — United States
+- **OneEthos** — [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) — United States - Remote
 - **Notion** — [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) — San Francisco, California _(hours not stated)_
 - **Notion** — [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) — San Francisco, California _(hours not stated)_
-- **OneEthos** — [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) — United States - Remote _(hours not stated)_
 
 </details>
 
 ### Data
 
 <details>
-<summary><strong>12 roles</strong> — click to expand</summary>
+<summary><strong>7 roles</strong> — click to expand</summary>
 
-- **ACLU** — [Spring 2027 Graduate Intern, Product Design- Technology and Analytics Department](https://job-boards.greenhouse.io/acluinternships/jobs/8919915002) — Remote/Hybrid- New York City
 - **ACLU** — [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) — Remote/Hybrid- New York City
-- **Benzinga** — [Analytics Engineer Intern](https://jobs.benzinga.com/p/03612a62fdfa-analytics-engineer-intern/apply) — Remote _(verify)_
-- **Benzinga** — [Analytics Engineer Intern at Benzinga](https://benzinga.breezy.hr/p/03612a62fdfa-analytics-engineer-intern) — Remote _(verify)_
+- **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 - **GuidePoint Security** — [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) — Remote
-- **Scale AI** — [Machine Learning Fellow - Human Frontier Collective](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) — United States
 - **TPG** — [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) — Remote
 - **TPG** — [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) — Remote
-- **Faire** — [Applied AI/ML Scientist, Intern - Winter 2027](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) — San Francisco, CA _(hours not stated)_
-- **Stand Together** — [KIP Spring 2027 - Associate Policy Analyst Intern - National Taxpayers Union Foundation](https://jobs.lever.co/standtogether/d9dd2700-19dc-46f5-9590-773634f55836) — Washington, DC _(hours not stated)_
 - **Stand Together** — [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) — Florida _(hours not stated)_
 - **Stand Together** — [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) — New York _(hours not stated)_
-
-</details>
-
-### VC Scout
-
-<details>
-<summary><strong>1 role</strong> — click to expand</summary>
-
-- **Andreessen Horowitz** — [Law School Student Ambassador](https://jobs.ashbyhq.com/harvey/a194c24f-38ee-4c7e-908b-060a16dfaa9d) — Remote
-
-</details>
-
-### UChicago RA / Student
-
-<details>
-<summary><strong>2 roles</strong> — click to expand</summary>
-
-- **University of Chicago** — [Qualitative Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Qualitative-Research-Assistant_JR35655) — Chicago, IL
-- **University of Chicago** — [Student Radiology Technologist Assistant](https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5961) — Chicago, IL, United States
 
 </details>
 
