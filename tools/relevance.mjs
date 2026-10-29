@@ -14,6 +14,8 @@
 // "hours not stated" = a student role dated for a fall/winter/spring term inside the window
 //                      with no full-time statement either way. Reported separately.
 
+import { regionForLocation } from "./regions.mjs";
+
 export const WINDOW_END = "2027-06-30";
 export const MAX_PART_TIME_HOURS = 30;
 
@@ -59,7 +61,7 @@ export function statedWeeklyHours(text = "") {
 
 // ---------- domain tracks ----------
 const softwareTitle = /\b(software|swe|sde|developer|programm(?:er|ing)|back[- ]?end|front[- ]?end|full[- ]?stack|web (?:dev|engineer)|mobile|ios|android|devops|dev ops|site reliability|\bsre\b|platform engineer|infrastructure engineer|cloud engineer|systems engineer|engineering intern|engineer intern|forward deployed|solutions engineer|security engineer|application engineer|it analytics|computer science|\bcs\b|tech(?:nology)? intern|r&d intern|research engineer)\b/i;
-const dataTitle = /\b(data|analytics?|analyst intern|machine learning|\bml\b|\bai\b|artificial intelligence|deep learning|\bnlp\b|computer vision|llm|statistic\w*|quantitative|\bquant\b|business intelligence|\bbi\b|data engineer\w*|research scientist|applied scientist|decision science|econometric\w*|insights?)\b/i;
+const dataTitle = /\b(data|analytics?|machine learning|\bml\b|\bai\b|artificial intelligence|deep learning|\bnlp\b|computer vision|llm|statistic\w*|quantitative|\bquant\b|business intelligence|\bbi\b|data engineer\w*|research scientist|applied scientist|decision science|econometric\w*|insights?)\b/i;
 const financeTitle = /\b(invest\w*|asset management|portfolio|equity research|credit research|(?:investment|fund|market|equity|credit) research|hedge fund|trad(?:ing|er)|markets?|private (?:equity|credit|markets)|venture|\bvc\b|growth equity|fund(?:s)?\b|wealth management|fixed income|equities|valuation|financial analyst|finance|fintech|capital markets|real estate investment|underwriting|risk analyst|risk management|treasury markets)\b/i;
 const scoutTitle = /\b(scouts?|venture (?:fellow|partner|associate program)|campus (?:ambassador|partner|lead|rep(?:resentative)?)|student (?:partner|ambassador|investor)|investment team fellow|venture fellow(?:ship)?)\b/i;
 const genericTechTitle = /\b(engineering|r&d|technology|technical|tech|product engineering|research)\b/i;
@@ -67,10 +69,10 @@ const strongSoftwareBody = /\b(python|javascript|typescript|java\b|golang|\bgo\b
 const raDomainBody = /\b(python|stata|\br\b|sql|matlab|programming|coding|computer science|statistic\w*|data (?:analysis|science|collection|cleaning|management)|econometric\w*|quantitative|machine learning|finance|financial|econom\w*)\b/i;
 
 // Never software/data/finance internships even when a keyword matches.
-const blockedFunction = /\b(human resources|\bhr\b|people (?:team|operations|partner)|talent acquisition|recruit(?:ing|ment|er)|marketing|brand|communications|public relations|social media|content (?:writer|creator|marketing)|copywrit\w*|editorial|journalis\w*|graphic|ux designer|visual designer|industrial design|facilities|reception\w*|administrative|executive assistant|office assistant|legal|paralegal|law clerk|policy intern|government affairs|customer (?:support|success|service|experience)|account (?:executive|manager)|sales|business development|partnerships|events?|accounting|accountant|audit|tax\b|payroll|accounts (?:payable|receivable)|bookkeep\w*|investment banking|\bm&a\b|mergers|corporate finance|fp&a|financial planning|corporate development|controller|procurement|supply chain|logistics|warehouse|retail|store|barista|driver|nurs\w*|clinical|medical|pharmac\w*|teaching assistant|tutor\b|coach|mechanical|electrical|civil|chemical|manufacturing|hardware|firmware|process engineer|industrial engineer|aerospace|propulsion|structural|field (?:technician|service)|technician|security (?:officer|guard)|grc\b|governance,? risk|compliance)\b/i;
+const blockedFunction = /\b(human resources|\bhr\b|people (?:team|operations|partner)|talent acquisition|recruit(?:ing|ment|er)|marketing|brand|communications|public relations|social media|content (?:writer|creator|marketing)|copywrit\w*|editorial|journalis\w*|graphic|ux designer|visual designer|industrial design|product design(?:er)?|facilities|reception\w*|administrative|executive assistant|office assistant|legal|paralegal|law clerk|policy intern|government affairs|customer (?:support|success|service|experience)|account (?:executive|manager)|sales|business development|partnerships|events?|accounting|accountant|audit|tax\b|payroll|accounts (?:payable|receivable)|bookkeep\w*|investment banking|\bm&a\b|mergers|corporate finance|fp&a|financial planning|corporate development|controller|procurement|supply chain|logistics|warehouse|retail|store|barista|driver|nurs\w*|clinical|medical|pharmac\w*|radiolog\w*|technologist|patient|hospital|qualitative|teaching assistant|tutor\b|coach|mechanical|electrical|civil|chemical|manufacturing|hardware|firmware|process engineer|industrial engineer|aerospace|propulsion|structural|field (?:technician|service)|technician|security (?:officer|guard)|grc\b|governance,? risk|compliance)\b/i;
 
 const seniority = /\b(senior|sr\.?|staff|principal|lead|manager|director|head of|vice president|\bvp\b|chief|architect|experienced|lateral|associate director|(?:engineer|analyst|scientist|developer|assistant) (?:ii|iii|iv|2|3|4)\b|level (?:ii|iii|2|3)\b)\b/i;
-const blockedEducation = /\b(ph\.?d|doctoral|doctorate|postdoc\w*|post-doc\w*|mba|j\.?d\.?|law student|medical student)\b/i;
+const blockedEducation = /\b(ph\.?d|doctoral|doctorate|postdoc\w*|post-doc\w*|mba|j\.?d\.?|law (?:student|school)|medical student|graduate (?:student )?intern(?:ship)?)\b/i;
 const educationAllowed = /\b(bachelor|undergrad\w*|b\.?a\.?\/b\.?s|bs\/ms|master'?s|\bms\b|msc|college student)\b/i;
 const phdOnlyBody = /\b(?:must be (?:currently )?(?:working towards|pursuing|enrolled in) a ph\.?d|ph\.?d\.? (?:candidates|students) only|open (?:only )?to ph\.?d|doctoral (?:candidates|students) only|currently enrolled in a (?:ph\.?d|doctoral))\b/i;
 const recruitingEvent = /\b(networking|information session|info session|career fair|open house|webinar|talent (?:community|network|pool)|general (?:application|interest)|expression of interest|future opportunit\w*|join our talent|resume (?:drop|submission)|evergreen)\b/i;
@@ -79,22 +81,36 @@ const newGradTitle = /\b(new grad(?:uate)?|graduate program(?:me)?|entry[- ]leve
 // ---------- location ----------
 const remoteWords = /\b(remote|anywhere|work from home|wfh|virtual|telecommut\w*|distributed|home[- ]based)\b/i;
 const remoteBody = /\b(?:this (?:is a |is an )?(?:fully |100% )?remote (?:internship|role|position|opportunity|program)|(?:internship|role|position|program) is (?:fully |100% |entirely )?(?:remote|virtual)|(?:fully|100%|entirely) (?:remote|virtual)|work (?:fully )?remotely|remote[- ]first internship|remote internship|virtual internship)\b/i;
+const remoteBodyStrong = /\b(?:(?:this|the) (?:internship|role|position|program|opportunity) (?:is|will be|can be) (?:a )?(?:fully |100% |entirely )?(?:remote|virtual)|(?:fully|100%|entirely) remote (?:internship|role|position|program)|remote by default|work from anywhere in the (?:us|u\.s\.|united states))\b/i;
 const hybridWords = /\b(hybrid|in[- ]office|on[- ]?site|onsite|in[- ]person)\b/i;
-const nonUsPlace = /\b(canada|toronto|vancouver|montreal|ontario|quebec|mexico|brazil|argentina|colombia|united kingdom|\buk\b|england|london|ireland|dublin|europe|emea|germany|berlin|munich|france|paris|netherlands|amsterdam|spain|poland|portugal|switzerland|zurich|italy|sweden|denmark|norway|finland|czech|romania|israel|tel aviv|india|bangalore|bengaluru|hyderabad|pune|singapore|hong kong|china|japan|tokyo|korea|australia|sydney|new zealand|philippines|vietnam|indonesia|malaysia|nigeria|kenya|south africa|apac|latam)\b/i;
+const nonUsPlace = /\b(canada|toronto|vancouver|montreal|ontario|quebec|mexico|brazil|argentina|colombia|united kingdom|\buk\b|england|london|ireland|dublin|europe|emea|germany|berlin|munich|france|paris|netherlands|amsterdam|spain|poland|portugal|switzerland|zurich|italy|sweden|denmark|norway|finland|czech|romania|israel|tel aviv|india|bangalore|bengaluru|hyderabad|pune|singapore|hong kong|china|japan|tokyo|korea|australia|sydney|new zealand|philippines|vietnam|indonesia|malaysia|nigeria|kenya|south africa|apac|latam|serbia|belgrade|ukraine|kyiv|armenia|yerevan|lithuania|vilnius|estonia|tallinn|latvia|riga|greece|athens|turkey|istanbul|egypt|cairo|pakistan|bangladesh|taiwan|taipei|thailand|bangkok|chile|santiago|peru|lima|uruguay|montevideo|costa rica|bulgaria|sofia|croatia|hungary|budapest|austria|vienna|belgium|brussels|scotland|edinburgh|wales|cyprus|malta|dubai|uae|saudi|qatar|nairobi|lagos|cape town|johannesburg)\b/i;
 const usPlace = /\b(united states|\bu\.?s\.?a?\b|\bus\b|americas|north america|nationwide|any us state|us[- ]based)\b|,\s*(?:al|ak|az|ar|ca|co|ct|de|dc|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b/i;
 const chicagoPlace = /\b(chicago|hyde park|illinois|\bil\b|evanston|lemont|cook county)\b/i;
+
+// Location strings that don't pin the job to a specific city.
+const genericLocation = /^\s*(?:united states(?: of america)?|usa|u\.?s\.?a?\.?|us|north america|americas|anywhere|nationwide|multiple locations|various locations|\d+ locations?)?\s*$/i;
+const timeZoneHint = /\b(?:time ?zones?|pst|pdt|est|edt|cst|cdt|mst|[ecmp]t)\b/i;
 
 export function remoteStatus(row = {}, firm = {}) {
   const loc = String(row.Location || "");
   const workplace = String(row.Workplace || "").toLowerCase();
   const body = String(row.Content || row.Notes || "");
   const head = `${row.Title || ""} ${loc}`;
-  const isRemote = workplace === "remote" || remoteWords.test(head) || (!hybridWords.test(head) && workplace !== "hybrid" && workplace !== "onsite" && remoteBody.test(body));
+  // A posting pinned to a specific city only counts as remote when the location/title or
+  // the ATS workplace field says so, or the description states the role itself is remote
+  // ("this internship is fully remote"). Generic culture text ("we work remotely") isn't enough.
+  const specific = !genericLocation.test(loc.replace(/[()]/g, " "));
+  const bodySaysRemote = specific ? remoteBodyStrong.test(body) : remoteBody.test(body);
+  const isRemote = workplace === "remote" || remoteWords.test(head) || (!hybridWords.test(head) && workplace !== "hybrid" && workplace !== "onsite" && bodySaysRemote);
   const hybridOnly = (workplace === "hybrid" || /\bhybrid\b/i.test(head)) && !remoteWords.test(head) && workplace !== "remote";
   if (isRemote && !hybridOnly) {
-    // Remote, but restricted to another country (e.g. "Remote - Canada")?
-    const where = loc.replace(remoteWords, " ");
+    // Remote, but restricted to another country (e.g. "Remote - Canada", "Belgrade")?
+    const where = loc.replace(new RegExp(remoteWords.source, "gi"), " ").replace(/[-–|,;/()]+/g, " ").trim();
     if (nonUsPlace.test(where) && !usPlace.test(where)) return { ok: false, reason: "remote outside the US" };
+    if (where && !genericLocation.test(where) && !usPlace.test(where) && !timeZoneHint.test(where)
+      && !/\b(?:worldwide|global|anywhere)\b/i.test(where) && regionForLocation(where) !== "North America") {
+      return { ok: false, reason: "remote outside the US" };
+    }
     return { ok: true, mode: "remote" };
   }
   if (firm.localOk) {
@@ -199,8 +215,11 @@ function domainTrack(title, dept, body, firm, titleOnly = false) {
   const td = `${title} ${dept}`;
   if (firm.kind === "vc" && scoutTitle.test(title)) return "VC Scout";
   if (scoutTitle.test(title) && /\bventure|\bvc\b|startup|investment/i.test(`${td} ${body.slice(0, 1500)}`)) return "VC Scout";
-  if (firm.kind === "uchicago" && /\bresearch (?:assistant|aide|associate|programmer|analyst)|\bstudent\b|\bRA\b/i.test(title)) {
+  if (firm.kind === "uchicago" && /\bresearch (?:assistant|aide|associate|programmer|analyst)|\bRA\b/i.test(title)) {
     return titleOnly || raDomainBody.test(`${td} ${body}`) || !body.trim() ? "UChicago RA / Student" : null;
+  }
+  if (firm.kind === "uchicago" && /\bstudent\b/i.test(title)) {
+    return dataTitle.test(title) || softwareTitle.test(title) || financeTitle.test(title) || /\bprogrammer|\bdeveloper|\bresearch/i.test(title) ? "UChicago RA / Student" : null;
   }
   // Title decides first; department only as a tiebreak.
   if (dataTitle.test(title) && !/\bdata entry\b/i.test(title)) return softwareTitle.test(title) && /\bsoftware|developer|swe\b/i.test(title) ? "Software" : "Data";
@@ -227,6 +246,7 @@ export function classifyRole(row, firm = {}, { now = new Date().toISOString().sl
   if (recruitingEvent.test(title)) return out(null, "recruiting event / talent pool");
   if (blockedFunction.test(title)) return out(null, "non-target function");
   if (!scopeMatches(titleDept, firm.scope)) return out(null, `outside employer scope (${firm.scope})`);
+  if (firm.exclude && new RegExp(firm.exclude, "i").test(titleDept)) return out(null, "excluded program for this employer");
   if (seniority.test(title) && !studentTitle.test(title)) return out(null, "senior role");
   if (blockedEducation.test(title) && !educationAllowed.test(`${title} ${body.slice(0, 1500)}`)) return out(null, "PhD/MBA/JD-only");
   if (phdOnlyBody.test(body) && !educationAllowed.test(body.replace(phdOnlyBody, ""))) return out(null, "PhD-only (per description)");
