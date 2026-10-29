@@ -1,0 +1,21 @@
+{
+  "name": "pts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PTS - part-time / term-time software, data and finance internship scanner (sister project of QJS and ECS)",
+  "type": "module",
+  "scripts": {
+    "scan:v1": "node ./scripts/run-pts-scan.mjs --mode=v1",
+    "scan:v2": "node ./scripts/run-pts-scan.mjs --mode=v2",
+    "scan:v2:publish": "node ./scripts/run-pts-scan.mjs --mode=v2 --publish",
+    "scan:all": "node ./scripts/run-pts-scan.mjs --mode=all",
+    "scan:all:publish": "node ./scripts/run-pts-scan.mjs --mode=all --publish",
+    "publish": "node ./scripts/publish_scan_results.mjs",
+    "report:new": "node ./scripts/report-new-roles.mjs",
+    "readme": "node ./scripts/build-readme.mjs",
+    "test": "node ./tools/selftest.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

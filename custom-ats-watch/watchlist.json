@@ -1,0 +1,69 @@
+{
+  "note": "Employers whose careers sites can't be enumerated from Node (custom SPAs, Avature, Radancy). A browser agent renders each URL, reads role links via the selector and writes snapshots/<key>.json as {\"key\",\"firm\",\"capturedAt\",\"roles\":[{\"title\",\"location\",\"url\",\"department\",\"content\"}]}. Snapshot roles go through the same PTS filter. Firms here without a snapshot are reported as 'could not fully verify'.",
+  "sites": [
+    {
+      "key": "google",
+      "firm": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?q=intern&employment_type=PART_TIME",
+      "selector": "a[href*='job']",
+      "reason": "Google Careers is a custom SPA with no public API",
+      "scope": "all"
+    },
+    {
+      "key": "meta",
+      "firm": "Meta",
+      "url": "https://www.metacareers.com/jobs?roles[0]=Internship",
+      "selector": "a[href*='job']",
+      "reason": "Meta Careers is a custom GraphQL SPA",
+      "scope": "all"
+    },
+    {
+      "key": "apple",
+      "firm": "Apple",
+      "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN",
+      "selector": "a[href*='job']",
+      "reason": "jobs.apple.com custom portal",
+      "scope": "all"
+    },
+    {
+      "key": "two-sigma",
+      "firm": "Two Sigma",
+      "url": "https://careers.twosigma.com/careers/SearchJobs/intern",
+      "selector": "a[href*='job']",
+      "reason": "careers.twosigma.com is a custom (Avature) portal",
+      "scope": "all"
+    },
+    {
+      "key": "citadel",
+      "firm": "Citadel",
+      "url": "https://www.citadel.com/careers/open-opportunities/students/",
+      "selector": "a[href*='job']",
+      "reason": "citadel.com/careers is a custom portal",
+      "scope": "all"
+    },
+    {
+      "key": "d-e-shaw",
+      "firm": "D. E. Shaw",
+      "url": "https://www.deshaw.com/careers/choose-your-path",
+      "selector": "a[href*='job']",
+      "reason": "deshaw.com careers is a custom portal",
+      "scope": "all"
+    },
+    {
+      "key": "goldman-sachs",
+      "firm": "Goldman Sachs",
+      "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Students",
+      "selector": "a[href*='job']",
+      "reason": "higher.gs.com is a custom portal",
+      "scope": "all"
+    },
+    {
+      "key": "citi",
+      "firm": "Citi",
+      "url": "https://jobs.citi.com/search-jobs/intern",
+      "selector": "a[href*='job']",
+      "reason": "jobs.citi.com is a Radancy front-end",
+      "scope": "all"
+    }
+  ]
+}
