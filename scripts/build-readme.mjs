@@ -39,7 +39,7 @@ const sortRoles = (a, b) => a.Company.localeCompare(b.Company) || a.Title.locale
 
 let out = "";
 out += "# PTS — Part-Time Internship Scanner\n\n";
-out += "Automated daily scan for **part-time / term-time internships** in **software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech)** that run between now and **June 2027**: fall 2026, winter and spring 2027, academic-year and remote part-time roles, plus VC scout programs and UChicago research-assistant / student roles. ";
+out += "On-demand scan for **part-time / term-time internships** in **software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech)** that run between now and **June 2027**: fall 2026, winter and spring 2027, academic-year and remote part-time roles, plus VC scout programs and UChicago research-assistant / student roles. ";
 out += `Covers a **${firmCount}-employer universe** (big tech, AI/data companies, startups, fintech, asset managers, hedge funds, PE/VC, banks, Chicago-area and remote-first employers). Sister project of [QJS](https://github.com/Jiang6082/QJS) and [ECS](https://github.com/Jiang6082/ECS).\n\n`;
 out += "**Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.\n\n";
 if (!hasScan) out += "> **No scan has been run yet.** Trigger the GitHub Action (edit `.github/scan-request`) or run `npm run scan:all` to populate the lists below.\n\n";
@@ -81,8 +81,8 @@ out += "5. **Reports**: two-scan stability guard for new/closed roles, closed-ro
 
 out += "## How to Run\n\n";
 out += "Requires **Node.js 18+** (no dependencies).\n\n```bash\nnpm run scan:all          # full workflow (v1 + v2 + reports + README)\nnpm run scan:all:publish  # scan, rebuild reports, commit, push\nnpm run report:new -- --days=3   # roles released in the last 3 days (by ATS publish date)\nnpm test                  # offline self-test (stubbed fetch)\n```\n\n";
-out += "### Scheduled and on-demand scans (GitHub Actions)\n\n";
-out += "[.github/workflows/scan.yml](.github/workflows/scan.yml) runs `npm run scan:all:publish` daily at 13:00 UTC, on manual dispatch, and **on any push that changes [.github/scan-request](.github/scan-request)** — edit the timestamp in that file to start a scan without the Actions tab. `.scan-state/` is cached between runs so new/closed detection keeps working.\n\n";
+out += "### On-demand scans (GitHub Actions)\n\n";
+out += "[.github/workflows/scan.yml](.github/workflows/scan.yml) runs `npm run scan:all:publish` only on demand: on manual dispatch, or **on any push that changes [.github/scan-request](.github/scan-request)** — edit the timestamp in that file to start a scan without the Actions tab. There is no daily schedule. `.scan-state/` is cached between runs so new/closed detection keeps working.\n\n";
 out += "## Repo Layout\n\n";
 out += "| File | What it is |\n|------|-----------|\n";
 out += "| [reports/VERIFIED_OPEN_ROLES.md](reports/VERIFIED_OPEN_ROLES.md) | Clean list of open roles (title + link) by track, plus scout programs |\n";
