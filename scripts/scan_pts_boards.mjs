@@ -97,6 +97,7 @@ async function scanFirm(firm) {
     category: firm.category,
     boards: boards.map((b) => ({ source: b.source, origin: b.origin, ok: !b.failed, count: b.jobs ? b.jobs.length : 0, seed: b.seed })),
     jobsSeen: unique.length,
+    seenUrls: unique.map((j) => j.URL),
     rejected,
     matches,
   };
@@ -150,6 +151,11 @@ const md = [
   "",
 ].join("\n");
 await fs.writeFile("reports/pts_roles_scan.md", md, "utf8");
+// Every posting URL seen on a live board (matching or not). The new/closed report uses it to
+// tell "posting closed" apart from "posting still up but no longer passes the filter".
+await fs.mkdir(".scan-state", { recursive: true });
+await fs.writeFile(".scan-state/seen_urls_v1.json", JSON.stringify(results.flatMap((r) => r.seenUrls)), "utf8");
+for (const r of results) delete r.seenUrls;
 await fs.writeFile("data/pts_scan_raw.json", JSON.stringify({ scannedAt, results }, null, 2), "utf8");
 await fs.writeFile("data/pts_scan_audit.json", JSON.stringify({
   scannedAt,

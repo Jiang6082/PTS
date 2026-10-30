@@ -37,12 +37,31 @@ if (["v2", "all"].includes(mode)) {
   } catch {}
 }
 
-function run(script, args = []) {
-  return new Promise((resolvePromise, reject) => {
-    const child = spawn(process.execPath, [resolve(scriptDir, script), ...args], { cwd: rootDir, stdio: "inherit" });
-    child.on("error", reject);
-    child.on("close", (code) => (code === 0 ? resolvePromise() : reject(new Error(`${script} exited with code ${code}`))));
+// Each step's output is echoed and its last lines kept, so a failing step is recorded in
+// reports/SCAN_ERRORS.md (committed with the results) instead of only in the Actions log.
+const errors = [];
+function runStep(script, args = []) {
+  return new Promise((resolvePromise) => {
+    const child = spawn(process.execPath, [resolve(scriptDir, script), ...args], { cwd: rootDir, stdio: ["ignore", "pipe", "pipe"] });
+    const tail = [];
+    const keep = (chunk, stream) => {
+      stream.write(chunk);
+      tail.push(...String(chunk).split("\n").filter((l) => l && !/ \d+\/\d+$/.test(l)));
+      if (tail.length > 40) tail.splice(0, tail.length - 40);
+    };
+    child.stdout.on("data", (c) => keep(c, process.stdout));
+    child.stderr.on("data", (c) => keep(c, process.stderr));
+    child.on("error", (e) => { errors.push({ script, code: "spawn", tail: [String(e)] }); resolvePromise(false); });
+    child.on("close", (code) => {
+      if (code !== 0) errors.push({ script, code, tail: tail.slice(-30) });
+      resolvePromise(code === 0);
+    });
   });
+}
+async function run(script, args = []) {
+  const ok = await runStep(script, args);
+  if (!ok) console.error(`!! ${script} failed; continuing so results and the error log still publish`);
+  return ok;
 }
 
 console.log(`Using Node: ${process.execPath}`);
@@ -58,7 +77,22 @@ if (["v2", "all"].includes(mode)) {
   await run("build_scan_dashboard.mjs");
   await run("build-readme.mjs");
 }
-if (shouldPublish) await run("publish_scan_results.mjs");
+const errorReport = resolve(rootDir, "reports/SCAN_ERRORS.md");
+if (errors.length) {
+  const md = ["# Scan errors", "", `Run: ${new Date().toISOString()}`, "",
+    ...errors.flatMap((e) => [`## ${e.script} (exit ${e.code})`, "", "```", ...e.tail, "```", ""])].join("\n");
+  await fs.writeFile(errorReport, md, "utf8");
+} else {
+  await fs.rm(errorReport, { force: true });
+}
+if (shouldPublish) {
+  const published = await runStep("publish_scan_results.mjs");
+  if (!published) console.error(errors.at(-1)?.tail.join("\n"));
+}
+if (errors.length) {
+  console.error(`\n${errors.length} step(s) failed: ${errors.map((e) => e.script).join(", ")}`);
+  process.exit(1);
+}
 
 console.log("");
 console.log("Done. Generated CSV, Markdown, raw JSON, and audit JSON files in:");
