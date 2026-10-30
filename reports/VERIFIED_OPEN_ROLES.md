@@ -1,6 +1,6 @@
 # Open Part-Time Internships (Software · Data · Finance)
 
-**Last scan:** 2026-10-30 11:23 UTC · **6 part-time roles** and **4 term-time roles with hours not stated**, confirmed live on official job boards across 7 employers · **4 hand-checked roles / scout programs**
+**Last scan:** 2026-10-30 18:34 UTC · **6 part-time roles** and **4 term-time roles with hours not stated**, confirmed live on official job boards across 7 employers · **4 hand-checked roles / scout programs**
 
 Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-year). Remote in the US only, except UChicago research-assistant / student roles. Summer-only internships, full-time off-cycle co-ops, senior, PhD/MBA-only, investment-banking and corporate-finance roles are filtered out.
 

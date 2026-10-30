@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-10-30 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **1 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-10-30 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -16,11 +16,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 _Scan date: 2026-10-30_
 
-**1** new stable posting (seen in two consecutive scans):
-
-**Data**
-
-- **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
+_No new roles detected in the latest scan._
 
 ---
 

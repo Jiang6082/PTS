@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T11:29:53.376Z",
-  "scanStartedAt": "2026-10-30T11:23:48.624Z",
+  "generatedAt": "2026-10-30T18:42:08.924Z",
+  "scanStartedAt": "2026-10-30T18:34:55.680Z",
   "sourceRosterEntries": 308,
   "canonicalCompanies": 308,
   "counts": {
     "matching-role-found": 7,
-    "confirmed-no-open-postings": 6,
-    "confirmed-openings-no-matching-role": 228,
-    "could-not-fully-verify": 67
+    "confirmed-no-open-postings": 5,
+    "confirmed-openings-no-matching-role": 224,
+    "could-not-fully-verify": 72
   },
   "companies": [
     {
@@ -102,10 +102,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 69,
+      "jobsSeen": 70,
       "relevantRoles": 0,
       "liveBoards": [
-        "Amazon:part time intern (46)",
+        "Amazon:part time intern (47)",
         "Amazon:student (25)"
       ],
       "failedSeededBoards": []
@@ -116,7 +116,7 @@
         "Netflix"
       ],
       "category": "Big Tech",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.netflix.com/",
         "https://explore.jobs.netflix.net/careers",
@@ -124,12 +124,12 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 16,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "liveBoards": [
-        "Eightfold:explore.jobs.netflix.net (16)"
-      ],
-      "failedSeededBoards": []
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "eightfold:explore.jobs.netflix.net/netflix.com"
+      ]
     },
     {
       "company": "NVIDIA",
@@ -145,10 +145,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1535,
+      "jobsSeen": 1516,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:nvidia/NVIDIAExternalCareerSite (1535)"
+        "Workday:nvidia/NVIDIAExternalCareerSite (1516)"
       ],
       "failedSeededBoards": []
     },
@@ -166,10 +166,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1294,
+      "jobsSeen": 1281,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:salesforce/External_Career_Site (1294)"
+        "Workday:salesforce/External_Career_Site (1281)"
       ],
       "failedSeededBoards": []
     },
@@ -187,10 +187,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 245,
+      "jobsSeen": 244,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:adobe/external_experienced (245)"
+        "Workday:adobe/external_experienced (244)"
       ],
       "failedSeededBoards": []
     },
@@ -208,10 +208,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 722,
+      "jobsSeen": 724,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:intel/External (722)"
+        "Workday:intel/External (724)"
       ],
       "failedSeededBoards": []
     },
@@ -229,10 +229,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 370,
+      "jobsSeen": 372,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:workday/Workday (370)"
+        "Workday:workday/Workday (372)"
       ],
       "failedSeededBoards": []
     },
@@ -250,10 +250,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 197,
+      "jobsSeen": 200,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:airbnb (197)"
+        "Greenhouse:airbnb (200)"
       ],
       "failedSeededBoards": []
     },
@@ -271,10 +271,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 742,
+      "jobsSeen": 747,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:stripe (742)"
+        "Greenhouse:stripe (747)"
       ],
       "failedSeededBoards": []
     },
@@ -292,10 +292,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 165,
+      "jobsSeen": 166,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:pinterest (165)"
+        "Greenhouse:pinterest (166)"
       ],
       "failedSeededBoards": []
     },
@@ -312,10 +312,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 163,
+      "jobsSeen": 162,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:reddit (163)"
+        "Greenhouse:reddit (162)"
       ],
       "failedSeededBoards": []
     },
@@ -331,12 +331,12 @@
         "https://www.lyft.com/careers/life-at-lyft",
         "https://www.lyft.com/careers/early-talent"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 173,
+      "jobsSeen": 171,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:lyft (173)"
+        "Greenhouse:lyft (171)"
       ],
       "failedSeededBoards": []
     },
@@ -375,10 +375,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 442,
+      "jobsSeen": 440,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:doordashusa (442)"
+        "Greenhouse:doordashusa (440)"
       ],
       "failedSeededBoards": []
     },
@@ -417,10 +417,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 43,
+      "jobsSeen": 41,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:discord (43)"
+        "Greenhouse:discord (41)"
       ],
       "failedSeededBoards": []
     },
@@ -436,10 +436,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 268,
+      "jobsSeen": 270,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:roblox (268)"
+        "Greenhouse:roblox (270)"
       ],
       "failedSeededBoards": []
     },
@@ -478,10 +478,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 302,
+      "jobsSeen": 299,
       "relevantRoles": 0,
       "liveBoards": [
-        "Lever:palantir (302)"
+        "Lever:palantir (299)"
       ],
       "failedSeededBoards": []
     },
@@ -499,10 +499,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 464,
+      "jobsSeen": 460,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:cloudflare (464)"
+        "Greenhouse:cloudflare (460)"
       ],
       "failedSeededBoards": []
     },
@@ -520,10 +520,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 397,
+      "jobsSeen": 398,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:datadog (397)"
+        "Greenhouse:datadog (398)"
       ],
       "failedSeededBoards": []
     },
@@ -541,10 +541,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 369,
+      "jobsSeen": 366,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:mongodb (369)"
+        "Greenhouse:mongodb (366)"
       ],
       "failedSeededBoards": []
     },
@@ -562,10 +562,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 131,
+      "jobsSeen": 133,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:twilio (131)"
+        "Greenhouse:twilio (133)"
       ],
       "failedSeededBoards": []
     },
@@ -582,10 +582,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 320,
+      "jobsSeen": 321,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:samsara (320)"
+        "Greenhouse:samsara (321)"
       ],
       "failedSeededBoards": []
     },
@@ -624,10 +624,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 141,
+      "jobsSeen": 140,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:figma (141)"
+        "Greenhouse:figma (140)"
       ],
       "failedSeededBoards": []
     },
@@ -707,10 +707,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 670,
+      "jobsSeen": 675,
       "relevantRoles": 1,
       "liveBoards": [
-        "Greenhouse:anthropic (670)"
+        "Greenhouse:anthropic (675)"
       ],
       "failedSeededBoards": []
     },
@@ -728,10 +728,10 @@
       ],
       "livePages": 0,
       "attemptedPages": 3,
-      "jobsSeen": 814,
+      "jobsSeen": 816,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:openai (814)"
+        "Ashby:openai (816)"
       ],
       "failedSeededBoards": []
     },
@@ -768,12 +768,12 @@
         "http://www.scalesd.org/careers.html",
         "https://job-boards.greenhouse.io/scaleai"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 168,
+      "jobsSeen": 169,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:scaleai (168)"
+        "Greenhouse:scaleai (169)"
       ],
       "failedSeededBoards": []
     },
@@ -812,10 +812,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 363,
+      "jobsSeen": 365,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:snowflake (363)"
+        "Ashby:snowflake (365)"
       ],
       "failedSeededBoards": []
     },
@@ -852,10 +852,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 134,
+      "jobsSeen": 135,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:perplexity (134)"
+        "Ashby:perplexity (135)"
       ],
       "failedSeededBoards": []
     },
@@ -888,10 +888,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 151,
+      "jobsSeen": 150,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:elevenlabs (151)"
+        "Ashby:elevenlabs (150)"
       ],
       "failedSeededBoards": []
     },
@@ -909,10 +909,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 130,
+      "jobsSeen": 129,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:gleanwork (130)"
+        "Greenhouse:gleanwork (129)"
       ],
       "failedSeededBoards": []
     },
@@ -930,10 +930,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 385,
+      "jobsSeen": 383,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:harvey (385)"
+        "Ashby:harvey (383)"
       ],
       "failedSeededBoards": []
     },
@@ -951,10 +951,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 218,
+      "jobsSeen": 219,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:sierra (218)"
+        "Ashby:sierra (219)"
       ],
       "failedSeededBoards": []
     },
@@ -991,10 +991,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 104,
+      "jobsSeen": 106,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:cognition (104)"
+        "Ashby:cognition (106)"
       ],
       "failedSeededBoards": []
     },
@@ -1010,7 +1010,7 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 125,
+      "jobsSeen": 126,
       "relevantRoles": 0,
       "liveBoards": [],
       "failedSeededBoards": [
@@ -1067,10 +1067,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 309,
+      "jobsSeen": 308,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:coreweave (309)"
+        "Greenhouse:coreweave (308)"
       ],
       "failedSeededBoards": []
     },
@@ -1118,9 +1118,11 @@
       ],
       "category": "AI & Data Companies",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.fivetran.com/careers"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 159,
       "relevantRoles": 0,
       "liveBoards": [
@@ -1157,10 +1159,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:handshake (86)"
+        "Ashby:handshake (85)"
       ],
       "failedSeededBoards": []
     },
@@ -1191,11 +1193,15 @@
         "Center for AI Safety"
       ],
       "category": "AI & Data Companies",
-      "status": "confirmed-no-open-postings",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://safe.ai/careers",
+        "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc",
+        "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315227009"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 8,
       "relevantRoles": 0,
       "liveBoards": [
         "Lever:aisafety (0)"
@@ -1252,10 +1258,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantRoles": 0,
       "liveBoards": [
-        "Lever:economicmodeling (25)"
+        "Lever:economicmodeling (24)"
       ],
       "failedSeededBoards": []
     },
@@ -1273,10 +1279,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 145,
+      "jobsSeen": 147,
       "relevantRoles": 2,
       "liveBoards": [
-        "Ashby:notion (145)"
+        "Ashby:notion (147)"
       ],
       "failedSeededBoards": []
     },
@@ -1371,9 +1377,13 @@
       ],
       "category": "High-Growth Startups & Dev Tools",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://supabase.com/careers",
+        "https://jobs.ashbyhq.com/supabase",
+        "https://supabasejobs.dev/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 64,
       "relevantRoles": 0,
       "liveBoards": [
@@ -1454,10 +1464,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:benchling (54)"
+        "Ashby:benchling (55)"
       ],
       "failedSeededBoards": []
     },
@@ -1496,10 +1506,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 192,
+      "jobsSeen": 189,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:flexport (192)"
+        "Greenhouse:flexport (189)"
       ],
       "failedSeededBoards": []
     },
@@ -1673,7 +1683,7 @@
       "jobsSeen": 113,
       "relevantRoles": 1,
       "liveBoards": [
-        "Greenhouse:guidepointsecurity (67)"
+        "Greenhouse:guidepointsecurity (66)"
       ],
       "failedSeededBoards": []
     },
@@ -1721,10 +1731,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 468,
+      "jobsSeen": 467,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:standoutforgood/StandOutForGood (468)"
+        "Workday:standoutforgood/StandOutForGood (467)"
       ],
       "failedSeededBoards": []
     },
@@ -1742,10 +1752,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 167,
+      "jobsSeen": 163,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:robinhood (167)"
+        "Greenhouse:robinhood (163)"
       ],
       "failedSeededBoards": []
     },
@@ -1763,10 +1773,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 241,
+      "jobsSeen": 246,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:affirm (241)"
+        "Greenhouse:affirm (246)"
       ],
       "failedSeededBoards": []
     },
@@ -1784,10 +1794,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 130,
+      "jobsSeen": 131,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:plaid (130)"
+        "Ashby:plaid (131)"
       ],
       "failedSeededBoards": []
     },
@@ -1801,10 +1811,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 264,
+      "jobsSeen": 260,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:brex (264)"
+        "Greenhouse:brex (260)"
       ],
       "failedSeededBoards": []
     },
@@ -1843,10 +1853,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 237,
+      "jobsSeen": 242,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:coinbase (237)"
+        "Greenhouse:coinbase (242)"
       ],
       "failedSeededBoards": []
     },
@@ -1857,13 +1867,17 @@
       ],
       "category": "Fintech & Crypto",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 88,
+      "careerPages": [
+        "https://www.kraken.com/careers",
+        "https://www.kraken.tech/working-at-kraken",
+        "https://www.kraken.tech/ja/careers"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 89,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:kraken.com (88)"
+        "Ashby:kraken.com (89)"
       ],
       "failedSeededBoards": []
     },
@@ -1877,10 +1891,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 30,
+      "jobsSeen": 28,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:gemini (30)"
+        "Greenhouse:gemini (28)"
       ],
       "failedSeededBoards": []
     },
@@ -1896,10 +1910,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 108,
+      "jobsSeen": 110,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:ripple (108)"
+        "Greenhouse:ripple (110)"
       ],
       "failedSeededBoards": []
     },
@@ -1936,10 +1950,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 20,
+      "jobsSeen": 21,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:consensys (12)",
+        "Greenhouse:consensys (13)",
         "Ashby:consensys (8)"
       ],
       "failedSeededBoards": []
@@ -2012,10 +2026,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:betterment (26)"
+        "Greenhouse:betterment (27)"
       ],
       "failedSeededBoards": []
     },
@@ -2073,11 +2087,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 98,
+      "jobsSeen": 100,
       "relevantRoles": 0,
       "liveBoards": [
         "Greenhouse:nubank (0)",
-        "Ashby:nubank (98)"
+        "Ashby:nubank (100)"
       ],
       "failedSeededBoards": []
     },
@@ -2095,10 +2109,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 337,
+      "jobsSeen": 336,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:toast (337)"
+        "Greenhouse:toast (336)"
       ],
       "failedSeededBoards": []
     },
@@ -2109,9 +2123,13 @@
       ],
       "category": "Fintech & Crypto",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.clearstreet.io/careers",
+        "https://job-boards.greenhouse.io/clearstreet",
+        "https://www.clearstreet.io/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 46,
       "relevantRoles": 0,
       "liveBoards": [
@@ -2176,10 +2194,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 40,
+      "jobsSeen": 42,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:wealthsimple (40)"
+        "Ashby:wealthsimple (42)"
       ],
       "failedSeededBoards": []
     },
@@ -2195,10 +2213,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 324,
+      "jobsSeen": 325,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:paypal/jobs (324)"
+        "Workday:paypal/jobs (325)"
       ],
       "failedSeededBoards": []
     },
@@ -2216,10 +2234,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 765,
+      "jobsSeen": 764,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:visa/Visa (708)",
+        "Workday:visa/Visa (707)",
         "Workday:visa/Visa_Early_Careers (57)"
       ],
       "failedSeededBoards": []
@@ -2238,10 +2256,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 906,
+      "jobsSeen": 872,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mastercard/CorporateCareers (868)",
+        "Workday:mastercard/CorporateCareers (834)",
         "Workday:mastercard/Campus (38)"
       ],
       "failedSeededBoards": []
@@ -2279,10 +2297,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 420,
+      "jobsSeen": 416,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:fis/SearchJobs (420)"
+        "Workday:fis/SearchJobs (416)"
       ],
       "failedSeededBoards": []
     },
@@ -2300,10 +2318,10 @@
       ],
       "livePages": 0,
       "attemptedPages": 3,
-      "jobsSeen": 318,
+      "jobsSeen": 319,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:tsys/TSYS (318)"
+        "Workday:tsys/TSYS (319)"
       ],
       "failedSeededBoards": []
     },
@@ -2319,10 +2337,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 19,
+      "jobsSeen": 21,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:Talos-Trading (19)"
+        "Ashby:Talos-Trading (21)"
       ],
       "failedSeededBoards": []
     },
@@ -2395,10 +2413,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 253,
+      "jobsSeen": 251,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:blackrock/BlackRock_Professional (253)"
+        "Workday:blackrock/BlackRock_Professional (251)"
       ],
       "failedSeededBoards": []
     },
@@ -2416,10 +2434,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 239,
+      "jobsSeen": 236,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:vanguard/vanguard_external (239)"
+        "Workday:vanguard/vanguard_external (236)"
       ],
       "failedSeededBoards": []
     },
@@ -2437,11 +2455,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 803,
+      "jobsSeen": 801,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:fil/001 (72)",
-        "Workday:fmr/fidelitycareers (731)"
+        "Workday:fil/001 (68)",
+        "Workday:fmr/fidelitycareers (733)"
       ],
       "failedSeededBoards": []
     },
@@ -2462,8 +2480,8 @@
       "jobsSeen": 156,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:troweprice/TRowePrice (133)",
-        "Workday:troweprice/TRowePriceInternational (23)"
+        "Workday:troweprice/TRowePrice (132)",
+        "Workday:troweprice/TRowePriceInternational (24)"
       ],
       "failedSeededBoards": []
     },
@@ -2479,10 +2497,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 214,
+      "jobsSeen": 206,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:invesco/IVZ (214)"
+        "Workday:invesco/IVZ (206)"
       ],
       "failedSeededBoards": []
     },
@@ -2541,11 +2559,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 282,
+      "jobsSeen": 286,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:pru/PGIM_Careers (105)",
-        "Workday:pru/Careers (177)"
+        "Workday:pru/PGIM_Careers (107)",
+        "Workday:pru/Careers (179)"
       ],
       "failedSeededBoards": []
     },
@@ -2561,10 +2579,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 136,
+      "jobsSeen": 146,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:tiaa/Search (136)"
+        "Workday:tiaa/Search (146)"
       ],
       "failedSeededBoards": []
     },
@@ -2582,10 +2600,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 69,
+      "jobsSeen": 66,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:abglobal/alliancebernsteincareers (69)"
+        "Workday:abglobal/alliancebernsteincareers (66)"
       ],
       "failedSeededBoards": []
     },
@@ -2634,13 +2652,17 @@
       ],
       "category": "Asset Management & Research",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 126,
+      "careerPages": [
+        "https://www.wellington.com/en/about-us/careers",
+        "https://www.wellington.com/en/careers",
+        "https://wellington.wd5.myworkdayjobs.com/External"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 95,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:wellington/External (126)"
+        "Workday:wellington/External (95)"
       ],
       "failedSeededBoards": []
     },
@@ -2651,9 +2673,11 @@
       ],
       "category": "Asset Management & Research",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
+      "careerPages": [
+        "https://www.nb.com/who-we-are/careers"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 1,
       "jobsSeen": 97,
       "relevantRoles": 0,
       "liveBoards": [
@@ -2672,10 +2696,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 30,
+      "jobsSeen": 31,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mfs/MFS-Careers (30)"
+        "Workday:mfs/MFS-Careers (31)"
       ],
       "failedSeededBoards": []
     },
@@ -2710,10 +2734,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 354,
+      "jobsSeen": 617,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:ntrs/northerntrust (354)"
+        "Workday:ntrs/northerntrust (617)"
       ],
       "failedSeededBoards": []
     },
@@ -2731,10 +2755,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 320,
+      "jobsSeen": 679,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:statestreet/Global (320)"
+        "Workday:statestreet/Global (679)"
       ],
       "failedSeededBoards": []
     },
@@ -2744,7 +2768,7 @@
         "Morningstar"
       ],
       "category": "Asset Management & Research",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.morningstar.com/company/careers",
         "https://morningstar.wd5.myworkdayjobs.com/Morningstar",
@@ -2752,14 +2776,14 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 83,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "liveBoards": [
-        "Workday:morningstar/morningstar (40)",
-        "Workday:morningstar/Americas (12)",
-        "Workday:morningstar/MorningstarDBRS (31)"
-      ],
-      "failedSeededBoards": []
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "workday:morningstar.wd5.myworkdayjobs.com/morningstar",
+        "workday:morningstar.wd5.myworkdayjobs.com/Americas",
+        "workday:morningstar.wd5.myworkdayjobs.com/MorningstarDBRS"
+      ]
     },
     {
       "company": "S&P Global",
@@ -2767,7 +2791,7 @@
         "S&P Global"
       ],
       "category": "Asset Management & Research",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://www.spglobal.com/en/explore-s-p-global/careers",
         "https://careers.spglobal.com/jobs/locations",
@@ -2775,12 +2799,12 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 20,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "liveBoards": [
-        "Workday:spgi/SPGI_Careers (20)"
-      ],
-      "failedSeededBoards": []
+      "liveBoards": [],
+      "failedSeededBoards": [
+        "workday:spgi.wd5.myworkdayjobs.com/SPGI_Careers"
+      ]
     },
     {
       "company": "FactSet",
@@ -2833,13 +2857,14 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 19,
+      "jobsSeen": 4,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:arrowstreetcapital/Arrowstreet (13)",
-        "Workday:arrowstreetcapital/Campus_Careers (6)"
+        "Workday:arrowstreetcapital/Campus_Careers (4)"
       ],
-      "failedSeededBoards": []
+      "failedSeededBoards": [
+        "workday:arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet"
+      ]
     },
     {
       "company": "GMO",
@@ -2876,10 +2901,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 54,
+      "jobsSeen": 55,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:aqr (54)"
+        "Greenhouse:aqr (55)"
       ],
       "failedSeededBoards": []
     },
@@ -2895,10 +2920,10 @@
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 83,
+      "jobsSeen": 86,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:cclfg (78)",
+        "Greenhouse:cclfg (81)",
         "Greenhouse:cclim (5)"
       ],
       "failedSeededBoards": []
@@ -2917,10 +2942,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 115,
+      "jobsSeen": 149,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:nasdaq/Global_External_Site (94)",
+        "Workday:nasdaq/Global_External_Site (128)",
         "Greenhouse:nasdaq (21)"
       ],
       "failedSeededBoards": []
@@ -2960,10 +2985,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 151,
+      "jobsSeen": 154,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:lplfinancial/External (151)"
+        "Workday:lplfinancial/External (154)"
       ],
       "failedSeededBoards": []
     },
@@ -2981,11 +3006,11 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 290,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:raymondjames/RaymondJamesCareers (22)",
-        "Workday:raymondjames/RaymondJamesEarlyCareers (8)"
+        "Workday:raymondjames/RaymondJamesCareers (281)",
+        "Workday:raymondjames/RaymondJamesEarlyCareers (9)"
       ],
       "failedSeededBoards": []
     },
@@ -3022,10 +3047,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 208,
+      "jobsSeen": 207,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:point72 (208)"
+        "Greenhouse:point72 (207)"
       ],
       "failedSeededBoards": []
     },
@@ -3043,10 +3068,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 68,
+      "jobsSeen": 69,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:mangroup (67)",
+        "Greenhouse:mangroup (68)",
         "Workday:mangroupplc/Man_Group_Careers (1)"
       ],
       "failedSeededBoards": []
@@ -3098,9 +3123,11 @@
       ],
       "category": "Hedge Funds & Trading",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.worldquant.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 93,
       "relevantRoles": 0,
       "liveBoards": [
@@ -3141,10 +3168,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 25,
+      "jobsSeen": 26,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:brevanhoward/BH_ExternalCareers (25)"
+        "Workday:brevanhoward/BH_ExternalCareers (26)"
       ],
       "failedSeededBoards": []
     },
@@ -3248,10 +3275,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 196,
+      "jobsSeen": 197,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:quberesearchandtechnologies (196)"
+        "Greenhouse:quberesearchandtechnologies (197)"
       ],
       "failedSeededBoards": []
     },
@@ -3269,10 +3296,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 246,
+      "jobsSeen": 245,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:janestreet (219)",
+        "Greenhouse:janestreet (218)",
         "Ashby:jane (27)"
       ],
       "failedSeededBoards": []
@@ -3457,7 +3484,7 @@
         "https://www.belvederetrading.com/open-positions-1",
         "https://jobs.lever.co/belvederetrading"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 17,
       "relevantRoles": 0,
@@ -3490,9 +3517,11 @@
       ],
       "category": "Hedge Funds & Trading",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.virtu.com/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 47,
       "relevantRoles": 0,
       "liveBoards": [
@@ -3507,9 +3536,13 @@
       ],
       "category": "Hedge Funds & Trading",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://tower-research.com/careers/",
+        "https://tower-research.com/open-positions/",
+        "https://careers.smartrecruiters.com/TowerResearchCapitalLLC"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 98,
       "relevantRoles": 0,
       "liveBoards": [
@@ -3523,10 +3556,14 @@
         "Five Rings"
       ],
       "category": "Hedge Funds & Trading",
-      "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://fiverings.com/careers/",
+        "https://job-boards.greenhouse.io/fiveringsllc",
+        "https://job-boards.greenhouse.io/fiveringsllc/jobs/4988120008"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
       "jobsSeen": 17,
       "relevantRoles": 0,
       "liveBoards": [
@@ -3546,10 +3583,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 61,
+      "jobsSeen": 63,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:voleon (61)"
+        "Ashby:voleon (63)"
       ],
       "failedSeededBoards": []
     },
@@ -3580,10 +3617,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 15,
+      "jobsSeen": 14,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:walleyecapital-external-students (2)",
+        "Greenhouse:walleyecapital-external-students (1)",
         "Greenhouse:walleyecapital-external-fulltime (13)",
         "Greenhouse:walleyecapital (0)"
       ],
@@ -3599,10 +3636,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:gelbergroup (12)"
+        "Greenhouse:gelbergroup (13)"
       ],
       "failedSeededBoards": []
     },
@@ -3620,10 +3657,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:genevatrading (12)"
+        "Greenhouse:genevatrading (11)"
       ],
       "failedSeededBoards": []
     },
@@ -3675,10 +3712,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 47,
+      "jobsSeen": 48,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:flowtraders (47)"
+        "Greenhouse:flowtraders (48)"
       ],
       "failedSeededBoards": []
     },
@@ -3749,11 +3786,11 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 238,
+      "jobsSeen": 19,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:blackstone/Blackstone_Careers (135)",
-        "Workday:blackstone/BX_External_Site (103)"
+        "Workday:blackstone/Blackstone_Careers (0)",
+        "Workday:blackstone/BX_External_Site (19)"
       ],
       "failedSeededBoards": []
     },
@@ -3792,10 +3829,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 193,
+      "jobsSeen": 47,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:aresmgmt/External (193)"
+        "Workday:aresmgmt/External (47)"
       ],
       "failedSeededBoards": []
     },
@@ -3812,10 +3849,10 @@
       ],
       "livePages": 2,
       "attemptedPages": 2,
-      "jobsSeen": 40,
+      "jobsSeen": 34,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:blueowl/blueowl (40)"
+        "Workday:blueowl/blueowl (34)"
       ],
       "failedSeededBoards": []
     },
@@ -3831,10 +3868,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 45,
+      "jobsSeen": 40,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:oaktree/Oaktree (45)"
+        "Workday:oaktree/Oaktree (40)"
       ],
       "failedSeededBoards": []
     },
@@ -3926,9 +3963,12 @@
       ],
       "category": "Private Equity & Venture Capital",
       "status": "could-not-fully-verify",
-      "careerPages": [],
+      "careerPages": [
+        "https://www.carlyle.com/careers",
+        "https://www.carlyle-vip.com/ja/careers.html"
+      ],
       "livePages": 0,
-      "attemptedPages": 0,
+      "attemptedPages": 2,
       "jobsSeen": 0,
       "relevantRoles": 0,
       "liveBoards": [],
@@ -3982,7 +4022,7 @@
         "https://www.vistaequitypartners.com/careers/vista-career-opportunities/",
         "https://vistaequitypartners.getro.com/jobs"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 11,
       "relevantRoles": 0,
@@ -4071,10 +4111,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 10,
+      "jobsSeen": 12,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:gcmgrosvenor (10)"
+        "Greenhouse:gcmgrosvenor (12)"
       ],
       "failedSeededBoards": []
     },
@@ -4124,7 +4164,7 @@
         "General Catalyst"
       ],
       "category": "Private Equity & Venture Capital",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.generalcatalyst.com/jobs",
         "https://job-boards.greenhouse.io/generalcatalyst",
@@ -4132,7 +4172,7 @@
       ],
       "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 18,
+      "jobsSeen": 0,
       "relevantRoles": 0,
       "liveBoards": [],
       "failedSeededBoards": []
@@ -4161,13 +4201,17 @@
       ],
       "category": "Private Equity & Venture Capital",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 15,
+      "careerPages": [
+        "https://www.insightpartners.com/join-insight/",
+        "https://jobs.insightpartners.com/jobs",
+        "https://jobs.insightpartners.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 13,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:insight (15)"
+        "Greenhouse:insight (13)"
       ],
       "failedSeededBoards": []
     },
@@ -4618,11 +4662,14 @@
         "Sensiba"
       ],
       "category": "Private Equity & Venture Capital",
-      "status": "could-not-fully-verify",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 0,
+      "status": "confirmed-openings-no-matching-role",
+      "careerPages": [
+        "https://sensiba.com/careers/",
+        "https://sensiba.com/careers/current-opportunities/"
+      ],
+      "livePages": 2,
+      "attemptedPages": 2,
+      "jobsSeen": 35,
       "relevantRoles": 0,
       "liveBoards": [],
       "failedSeededBoards": []
@@ -4641,10 +4688,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1769,
+      "jobsSeen": 1774,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:ghr/Lateral-US (1769)"
+        "Workday:ghr/Lateral-US (1774)"
       ],
       "failedSeededBoards": []
     },
@@ -4662,10 +4709,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1520,
+      "jobsSeen": 687,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:wf/wellsfargojobs (1520)"
+        "Workday:wf/wellsfargojobs (687)"
       ],
       "failedSeededBoards": []
     },
@@ -4683,10 +4730,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1999,
+      "jobsSeen": 2012,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:capitalone/Capital_One (1999)"
+        "Workday:capitalone/Capital_One (2012)"
       ],
       "failedSeededBoards": []
     },
@@ -4704,10 +4751,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 709,
+      "jobsSeen": 682,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:barclays/External_Career_Site_Barclays (709)"
+        "Workday:barclays/External_Career_Site_Barclays (682)"
       ],
       "failedSeededBoards": []
     },
@@ -4725,10 +4772,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 781,
+      "jobsSeen": 774,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:db/DBWebsite (781)"
+        "Workday:db/DBWebsite (774)"
       ],
       "failedSeededBoards": []
     },
@@ -4742,10 +4789,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 948,
+      "jobsSeen": 965,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:bmo/External (948)"
+        "Workday:bmo/External (965)"
       ],
       "failedSeededBoards": []
     },
@@ -4763,10 +4810,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 20,
+      "jobsSeen": 19,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mq/CareersatMQ (20)"
+        "Workday:mq/CareersatMQ (19)"
       ],
       "failedSeededBoards": []
     },
@@ -4784,10 +4831,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1139,
+      "jobsSeen": 1172,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:usbank/US_Bank_Careers (1139)"
+        "Workday:usbank/US_Bank_Careers (1172)"
       ],
       "failedSeededBoards": []
     },
@@ -4805,10 +4852,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 947,
+      "jobsSeen": 953,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:fifththird/53careers (947)"
+        "Workday:fifththird/53careers (953)"
       ],
       "failedSeededBoards": []
     },
@@ -4826,11 +4873,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 544,
+      "jobsSeen": 558,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:keybank/External_Career_Site (537)",
-        "Workday:keybank/Scout (7)"
+        "Workday:keybank/External_Career_Site (552)",
+        "Workday:keybank/Scout (6)"
       ],
       "failedSeededBoards": []
     },
@@ -4848,10 +4895,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 747,
+      "jobsSeen": 744,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mtb/MTB (706)",
+        "Workday:mtb/MTB (703)",
         "Workday:mtb/Campus (41)"
       ],
       "failedSeededBoards": []
@@ -4868,13 +4915,13 @@
         "https://synchronypharmacy.com/careers/",
         "https://synchronygroup.com/careers/"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
-      "jobsSeen": 62,
+      "jobsSeen": 66,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:synchronyfinancial/careers (40)",
-        "Workday:synchronyfinancial/University (22)"
+        "Workday:synchronyfinancial/careers (42)",
+        "Workday:synchronyfinancial/University (24)"
       ],
       "failedSeededBoards": []
     },
@@ -4892,10 +4939,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 402,
+      "jobsSeen": 410,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:allstate/allstate_careers (402)"
+        "Workday:allstate/allstate_careers (410)"
       ],
       "failedSeededBoards": []
     },
@@ -4911,12 +4958,12 @@
         "https://www.northwestern.edu/academics/graduate-a-to-z.html",
         "https://admissions.northwestern.edu/academics/majors-minors/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 53,
+      "jobsSeen": 50,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:northwesternmutual/CORPORATE-CAREERS (53)"
+        "Workday:northwesternmutual/CORPORATE-CAREERS (50)"
       ],
       "failedSeededBoards": []
     },
@@ -4932,10 +4979,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 10,
+      "jobsSeen": 8,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:massmutual/MMINDCareersite (9)",
+        "Workday:massmutual/MMINDCareersite (7)",
         "Workday:massmutual/MMAscendCareers (1)"
       ],
       "failedSeededBoards": []
@@ -4954,10 +5001,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 104,
+      "jobsSeen": 105,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:guardianlife/Guardian-Life-Careers (104)"
+        "Workday:guardianlife/Guardian-Life-Careers (105)"
       ],
       "failedSeededBoards": []
     },
@@ -4996,10 +5043,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 172,
+      "jobsSeen": 175,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:thehartford/Careers_External (172)"
+        "Workday:thehartford/Careers_External (175)"
       ],
       "failedSeededBoards": []
     },
@@ -5017,10 +5064,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 152,
+      "jobsSeen": 155,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:nationwide/Nationwide_Career (152)"
+        "Workday:nationwide/Nationwide_Career (155)"
       ],
       "failedSeededBoards": []
     },
@@ -5030,14 +5077,18 @@
         "Pacific Life"
       ],
       "category": "Banks & Financial Services",
-      "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
-      "jobsSeen": 124,
+      "status": "could-not-fully-verify",
+      "careerPages": [
+        "https://www.pacificlife.com/home/Careers.html",
+        "https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers",
+        "https://careers.pacificlife.com/"
+      ],
+      "livePages": 3,
+      "attemptedPages": 3,
+      "jobsSeen": 123,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:pacificlife/PacificLifeCareers (124)"
+        "Workday:pacificlife/PacificLifeCareers (123)"
       ],
       "failedSeededBoards": []
     },
@@ -5115,7 +5166,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 3036,
+      "jobsSeen": 3028,
       "relevantRoles": 0,
       "liveBoards": [],
       "failedSeededBoards": []
@@ -5130,10 +5181,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 160,
+      "jobsSeen": 163,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:rb/FRS (160)"
+        "Workday:rb/FRS (163)"
       ],
       "failedSeededBoards": []
     },
@@ -5186,9 +5237,11 @@
       ],
       "category": "Chicago-Area Employers",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://www.project44.com/company/careers/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 26,
       "relevantRoles": 0,
       "liveBoards": [
@@ -5208,10 +5261,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 20,
+      "jobsSeen": 21,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:kin (20)"
+        "Ashby:kin (21)"
       ],
       "failedSeededBoards": []
     },
@@ -5269,10 +5322,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 582,
+      "jobsSeen": 493,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:motorolasolutions/Careers (582)"
+        "Workday:motorolasolutions/Careers (493)"
       ],
       "failedSeededBoards": []
     },
@@ -5318,10 +5371,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 51,
+      "jobsSeen": 50,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:williamblair (51)"
+        "Greenhouse:williamblair (50)"
       ],
       "failedSeededBoards": []
     },
@@ -5583,10 +5636,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 236,
+      "jobsSeen": 238,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:gitlab (236)"
+        "Greenhouse:gitlab (238)"
       ],
       "failedSeededBoards": []
     },
@@ -5646,10 +5699,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 118,
+      "jobsSeen": 113,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:mozilla (118)"
+        "Greenhouse:mozilla (113)"
       ],
       "failedSeededBoards": []
     },
@@ -5667,10 +5720,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 128,
+      "jobsSeen": 124,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:grafanalabs (128)"
+        "Greenhouse:grafanalabs (124)"
       ],
       "failedSeededBoards": []
     },
@@ -5724,10 +5777,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 30,
+      "jobsSeen": 31,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:coursera (30)"
+        "Greenhouse:coursera (31)"
       ],
       "failedSeededBoards": []
     },
@@ -5815,10 +5868,10 @@
       "careerPages": [],
       "livePages": 0,
       "attemptedPages": 0,
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantRoles": 0,
       "liveBoards": [
-        "Ashby:helpscout (7)"
+        "Ashby:helpscout (6)"
       ],
       "failedSeededBoards": []
     },
@@ -5895,11 +5948,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 73,
+      "jobsSeen": 74,
       "relevantRoles": 1,
       "liveBoards": [
         "Greenhouse:acluinternships (58)",
-        "Greenhouse:aclu (15)"
+        "Greenhouse:aclu (16)"
       ],
       "failedSeededBoards": []
     },
@@ -5915,10 +5968,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 13,
+      "jobsSeen": 12,
       "relevantRoles": 0,
       "liveBoards": [
-        "Lever:theathletic (13)"
+        "Lever:theathletic (12)"
       ],
       "failedSeededBoards": []
     },
@@ -5955,10 +6008,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 586,
+      "jobsSeen": 599,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:uchicago/External (20)"
+        "Workday:uchicago/External (165)"
       ],
       "failedSeededBoards": []
     },

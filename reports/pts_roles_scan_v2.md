@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-10-30T11:23:48.624Z
+Scanned: 2026-10-30T18:34:55.680Z
 Employers searched: 308
-Career pages checked: 585
+Career pages checked: 621
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -65,7 +65,6 @@ _None._
 
 ## Confirmed: Enumerated Source Reports No Open Postings
 
-- Center for AI Safety
 - Deel
 - Franklin Templeton
 - GTCR
@@ -117,6 +116,7 @@ _None._
 - CME Group
 - Canonical
 - Capital Group
+- Center for AI Safety
 - Chicago Trading Company
 - Chime
 - Clear Street
@@ -152,7 +152,6 @@ _None._
 - Fifth Third Bank
 - Figma
 - First Round Capital (Dorm Room Fund)
-- Five Rings
 - Fivetran
 - Flexport
 - Flow Traders
@@ -162,7 +161,6 @@ _None._
 - Gelber Group
 - Gemini
 - General Atlantic
-- General Catalyst
 - Geneva Trading
 - GitLab
 - Glean
@@ -213,13 +211,11 @@ _None._
 - Modal
 - MongoDB
 - Morgan Stanley
-- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -231,7 +227,6 @@ _None._
 - Optiver
 - PGIM
 - PIMCO
-- Pacific Life
 - Palantir
 - Paxos
 - PayPal
@@ -251,11 +246,11 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
-- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
 - Schonfeld
+- Sensiba
 - Sequoia Capital
 - Sierra
 - Sleeper
@@ -335,8 +330,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - FIS
 - Felicis
 - Fiserv
+- Five Rings
 - Founders Fund
 - GenZVC
+- General Catalyst
 - Goldman Sachs
 - Google
 - Greylock
@@ -353,16 +350,19 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Morningstar
 - NEA
 - NORC at the University of Chicago
+- Netflix
 - OCA Ventures
 - Origin Ventures
+- Pacific Life
 - Packback
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- Sensiba
+- S&P Global
 - ShipBob
 - Snowflake
 - State Street

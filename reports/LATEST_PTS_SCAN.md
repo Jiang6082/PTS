@@ -1,18 +1,18 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-10-30T11:23:48.624Z
+Last updated: 2026-10-30T18:34:55.680Z
 
 ## Summary
 
 - Employers searched: 308
-- Career pages checked: 585
+- Career pages checked: 621
 - Current roles: 10 (6 part-time, 4 term-time with hours not stated)
-- New stable job URLs since previous scan: 1
-- No longer present since previous scan: 2
+- New stable job URLs since previous scan: 0
+- No longer present since previous scan: 0
 - Employers with matching roles: 7
-- Confirmed no open postings: 6
-- Openings but no matching role: 228
-- Could not fully verify: 67
+- Confirmed no open postings: 5
+- Openings but no matching role: 224
+- Could not fully verify: 72
 
 ## Roles By Employer Category
 
@@ -27,9 +27,9 @@ Last updated: 2026-10-30T11:23:48.624Z
 
 _None._
 
-### Data (1)
+### Data (0)
 
-- **Anthropic** - [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) - London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
+_None._
 
 ### Finance (0)
 
@@ -45,8 +45,7 @@ _None._
 
 ## No Longer Present
 
-- **Benzinga** - [Analytics Engineer Intern](https://jobs.benzinga.com/p/03612a62fdfa-analytics-engineer-intern/apply) - Remote
-- **Benzinga** - [Analytics Engineer Intern at Benzinga](https://benzinga.breezy.hr/p/03612a62fdfa-analytics-engineer-intern) - Remote
+_None._
 
 ## Full Reports
 
