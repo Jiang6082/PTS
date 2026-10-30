@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-10-29T12:37:41.940Z
+Scanned: 2026-10-30T11:23:48.624Z
 Employers searched: 308
-Career pages checked: 546
+Career pages checked: 585
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -93,6 +93,7 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -113,6 +114,7 @@ _None._
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
+- CME Group
 - Canonical
 - Capital Group
 - Chicago Trading Company
@@ -160,6 +162,7 @@ _None._
 - Gelber Group
 - Gemini
 - General Atlantic
+- General Catalyst
 - Geneva Trading
 - GitLab
 - Glean
@@ -210,6 +213,7 @@ _None._
 - Modal
 - MongoDB
 - Morgan Stanley
+- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -246,6 +250,8 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
+- Russell Investments
+- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -305,7 +311,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
-- Arrowstreet
 - Bain Capital Ventures
 - Bank of America
 - Barclays
@@ -313,7 +318,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Bloomberg
 - Brevan Howard
 - Buffer
-- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -333,7 +337,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Fiserv
 - Founders Fund
 - GenZVC
-- General Catalyst
 - Goldman Sachs
 - Google
 - Greylock
@@ -350,7 +353,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Morningstar
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -360,8 +362,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- Russell Investments
-- S&P Global
 - Sensiba
 - ShipBob
 - Snowflake

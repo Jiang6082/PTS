@@ -1,10 +1,10 @@
 # PTS — Part-Time Internship Scanner
 
-Automated daily scan for **part-time / term-time internships** in **software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech)** that run between now and **June 2027**: fall 2026, winter and spring 2027, academic-year and remote part-time roles, plus VC scout programs and UChicago research-assistant / student roles. Covers a **308-employer universe** (big tech, AI/data companies, startups, fintech, asset managers, hedge funds, PE/VC, banks, Chicago-area and remote-first employers). Sister project of [QJS](https://github.com/Jiang6082/QJS) and [ECS](https://github.com/Jiang6082/ECS).
+On-demand scan for **part-time / term-time internships** in **software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech)** that run between now and **June 2027**: fall 2026, winter and spring 2027, academic-year and remote part-time roles, plus VC scout programs and UChicago research-assistant / student roles. Covers a **308-employer universe** (big tech, AI/data companies, startups, fintech, asset managers, hedge funds, PE/VC, banks, Chicago-area and remote-first employers). Sister project of [QJS](https://github.com/Jiang6082/QJS) and [ECS](https://github.com/Jiang6082/ECS).
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-10-29 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new**
+> **Last scan:** 2026-10-30 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **1 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,9 +14,13 @@ Automated daily scan for **part-time / term-time internships** in **software eng
 
 ## 🆕 New Roles
 
-_Scan date: 2026-10-29_
+_Scan date: 2026-10-30_
 
-_No new roles detected in the latest scan._
+**1** new stable posting (seen in two consecutive scans):
+
+**Data**
+
+- **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 
 ---
 
@@ -156,9 +160,9 @@ npm run report:new -- --days=3   # roles released in the last 3 days (by ATS pub
 npm test                  # offline self-test (stubbed fetch)
 ```
 
-### Scheduled and on-demand scans (GitHub Actions)
+### On-demand scans (GitHub Actions)
 
-[.github/workflows/scan.yml](.github/workflows/scan.yml) runs `npm run scan:all:publish` daily at 13:00 UTC, on manual dispatch, and **on any push that changes [.github/scan-request](.github/scan-request)** — edit the timestamp in that file to start a scan without the Actions tab. `.scan-state/` is cached between runs so new/closed detection keeps working.
+[.github/workflows/scan.yml](.github/workflows/scan.yml) runs `npm run scan:all:publish` only on demand: on manual dispatch, or **on any push that changes [.github/scan-request](.github/scan-request)** — edit the timestamp in that file to start a scan without the Actions tab. There is no daily schedule. `.scan-state/` is cached between runs so new/closed detection keeps working.
 
 ## Repo Layout
 
@@ -168,7 +172,7 @@ npm test                  # offline self-test (stubbed fetch)
 | [reports/LATEST_PTS_SCAN.md](reports/LATEST_PTS_SCAN.md) | Latest scan summary + newest roles |
 | [reports/pts_roles_scan_v2.md](reports/pts_roles_scan_v2.md) / [.csv](reports/pts_roles_scan_v2.csv) | Full current list with per-employer coverage status |
 | [reports/new_pts_roles_since_last_run.md](reports/new_pts_roles_since_last_run.md) | New stable job URLs |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (0 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (2 so far) |
 | [reports/current_pts_roles_not_in_tracker.md](reports/current_pts_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/pts_roster_scan_audit.md](reports/pts_roster_scan_audit.md) | Every employer's coverage state, live boards, and failed seeds |
 | [inputs/pts_employer_roster.json](inputs/pts_employer_roster.json) | Employer universe: category, scope regex, `kind` (vc / uchicago), `localOk` |
