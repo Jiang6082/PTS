@@ -118,6 +118,11 @@ const roleMeta = (row) => ({
   Source: row.Source || "",
   Status: row.Status || "",
 });
+// Postings still live on a board this scan, whether or not they pass the filter.
+const seenOnBoard = new Set();
+for (const p of [".scan-state/seen_urls_v1.json", ".scan-state/seen_urls_v2.json"]) {
+  try { for (const u of JSON.parse(await fs.readFile(p, "utf8"))) seenOnBoard.add(stableUrl(u)); } catch {}
+}
 const currentByUrl = new Map((current.rows || []).map((row) => [stableUrl(row.URL), row]));
 
 let stable; // Map: stableUrl -> role meta (the confirmed-present set)
@@ -145,6 +150,9 @@ if (stable === null) {
   // Confirmed added: present in BOTH this scan and the previous one, not yet stable.
   const confirmedAdded = [...currentUrls].filter((u) => previousUrls.has(u) && !stable.has(u));
   // Confirmed closed: in the stable set but absent from BOTH this and the previous scan.
+  // A stable role that is still on its board but no longer passes the (tightened) filter is
+  // dropped silently rather than reported as closed.
+  for (const u of [...stable.keys()]) if (!currentUrls.has(u) && seenOnBoard.has(u)) stable.delete(u);
   const confirmedRemoved = [...stable.keys()].filter((u) => !currentUrls.has(u) && !previousUrls.has(u));
   added = confirmedAdded.map((u) => roleMeta(currentByUrl.get(u)));
   removed = confirmedRemoved.map((u) => stable.get(u));
