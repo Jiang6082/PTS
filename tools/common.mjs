@@ -34,7 +34,18 @@ export function stripHtml(value = "") {
   );
 }
 
-export async function fetchText(url, { method = "GET", headers = {}, body, timeoutMs = 15000 } = {}) {
+// Every request settles within timeoutMs + 5s, even if a socket stalls after the abort
+// (an unsettled fetch with no live timers made Node exit with code 13 mid-scan).
+export function fetchText(url, options = {}) {
+  const hardLimit = (options.timeoutMs ?? 15000) + 5000;
+  let timer;
+  const guard = new Promise((resolve) => {
+    timer = setTimeout(() => resolve({ ok: false, status: 0, text: "", url, error: "hard timeout" }), hardLimit);
+  });
+  return Promise.race([fetchTextInner(url, options), guard]).finally(() => clearTimeout(timer));
+}
+
+async function fetchTextInner(url, { method = "GET", headers = {}, body, timeoutMs = 15000 } = {}) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), timeoutMs);
   try {
