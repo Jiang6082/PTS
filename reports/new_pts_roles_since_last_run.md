@@ -1,6 +1,6 @@
 # New Part-Time Roles Since Last Run
 
-Previous scan: 2026-10-30T11:23:48.624Z
+Previous scan: 2026-10-30T18:34:55.680Z
 Current scan: 2026-10-30T18:34:55.680Z
 Previous rows: 10
 Current rows: 10

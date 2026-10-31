@@ -1,8 +1,8 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-10-30T18:30:15.965Z
+Scanned: 2026-10-31T17:35:19.751Z
 Employers in universe: 308
-Employers with at least one live ATS board: 248
+Employers with at least one live ATS board: 243
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -29,15 +29,20 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Google
 - Meta
 - Apple
-- Netflix
+- Microsoft
 - Anysphere (Cursor)
 - dbt Labs
 - Tempus AI
 - Retool
 - Inmar Intelligence
 - Chainalysis
-- Morningstar
+- Russell Investments
 - S&P Global
+- Arrowstreet
+- CME Group
+- LPL Financial
+- Raymond James
+- Jain Global
 - Two Sigma
 - Citadel
 - D. E. Shaw
