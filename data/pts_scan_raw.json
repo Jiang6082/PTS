@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-31T22:35:04.440Z",
+  "scannedAt": "2026-10-31T22:46:57.030Z",
   "results": [
     {
       "company": "Google",
@@ -140,12 +140,13 @@
       ],
       "jobsSeen": 1503,
       "rejected": {
-        "outside software / data / finance": 49,
+        "outside software / data / finance": 48,
         "non-target function": 221,
-        "not remote": 102,
+        "not remote": 101,
         "PhD/MBA/JD-only": 36,
         "recruiting event / talent pool": 62,
-        "summer-only internship": 7,
+        "summer-only internship": 8,
+        "remote outside the US": 1,
         "not a student / intern role": 150,
         "senior role": 876
       },
@@ -2828,8 +2829,8 @@
         "senior role": 536,
         "not a student / intern role": 94,
         "outside software / data / finance": 21,
-        "not remote": 3,
-        "starts after June 2027 (per description)": 1,
+        "not remote": 2,
+        "starts after June 2027 (per description)": 2,
         "summer-only internship": 3
       },
       "matches": []
@@ -3083,7 +3084,7 @@
           "source": "Workday:fmr/fidelitycareers",
           "origin": "seeded",
           "ok": true,
-          "count": 681,
+          "count": 736,
           "seed": {
             "key": "workday",
             "value": {
@@ -3093,11 +3094,11 @@
           }
         }
       ],
-      "jobsSeen": 736,
+      "jobsSeen": 791,
       "rejected": {
-        "non-target function": 84,
-        "senior role": 334,
-        "not a student / intern role": 313,
+        "non-target function": 86,
+        "senior role": 367,
+        "not a student / intern role": 333,
         "outside software / data / finance": 4,
         "starts after June 2027 (per description)": 1
       },
@@ -3394,7 +3395,7 @@
           "source": "Workday:wellington/External",
           "origin": "seeded",
           "ok": true,
-          "count": 60,
+          "count": 119,
           "seed": {
             "key": "workday",
             "value": {
@@ -3404,13 +3405,13 @@
           }
         }
       ],
-      "jobsSeen": 60,
+      "jobsSeen": 119,
       "rejected": {
-        "not a student / intern role": 26,
-        "non-target function": 13,
+        "not a student / intern role": 47,
+        "non-target function": 22,
         "not remote": 1,
         "outside software / data / finance": 1,
-        "senior role": 19
+        "senior role": 48
       },
       "matches": []
     },
@@ -3487,10 +3488,10 @@
       "category": "Asset Management & Research",
       "boards": [
         {
-          "source": "workday:russell.wd5.myworkdayjobs.com/russellinvestments",
+          "source": "Workday:russell/russellinvestments",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 36,
           "seed": {
             "key": "workday",
             "value": {
@@ -3500,8 +3501,12 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 36,
+      "rejected": {
+        "non-target function": 6,
+        "not a student / intern role": 19,
+        "senior role": 11
+      },
       "matches": []
     },
     {
@@ -3512,7 +3517,7 @@
           "source": "Workday:ntrs/northerntrust",
           "origin": "seeded",
           "ok": true,
-          "count": 374,
+          "count": 387,
           "seed": {
             "key": "workday",
             "value": {
@@ -3522,12 +3527,12 @@
           }
         }
       ],
-      "jobsSeen": 374,
+      "jobsSeen": 387,
       "rejected": {
         "not remote": 1,
         "non-target function": 74,
-        "senior role": 183,
-        "not a student / intern role": 115,
+        "senior role": 189,
+        "not a student / intern role": 122,
         "recruiting event / talent pool": 1
       },
       "matches": []
@@ -3540,7 +3545,7 @@
           "source": "Workday:statestreet/Global",
           "origin": "seeded",
           "ok": true,
-          "count": 380,
+          "count": 360,
           "seed": {
             "key": "workday",
             "value": {
@@ -3550,11 +3555,11 @@
           }
         }
       ],
-      "jobsSeen": 380,
+      "jobsSeen": 360,
       "rejected": {
-        "non-target function": 126,
-        "senior role": 157,
-        "not a student / intern role": 93,
+        "non-target function": 124,
+        "senior role": 147,
+        "not a student / intern role": 85,
         "not remote": 3,
         "outside software / data / finance": 1
       },
@@ -3565,10 +3570,10 @@
       "category": "Asset Management & Research",
       "boards": [
         {
-          "source": "workday:morningstar.wd5.myworkdayjobs.com/morningstar",
+          "source": "Workday:morningstar/morningstar",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 106,
           "seed": {
             "key": "workday",
             "value": {
@@ -3578,10 +3583,10 @@
           }
         },
         {
-          "source": "workday:morningstar.wd5.myworkdayjobs.com/Americas",
+          "source": "Workday:morningstar/Americas",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 9,
           "seed": {
             "key": "workday",
             "value": {
@@ -3591,10 +3596,10 @@
           }
         },
         {
-          "source": "workday:morningstar.wd5.myworkdayjobs.com/MorningstarDBRS",
+          "source": "Workday:morningstar/MorningstarDBRS",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 16,
           "seed": {
             "key": "workday",
             "value": {
@@ -3604,8 +3609,14 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 131,
+      "rejected": {
+        "non-target function": 31,
+        "not remote": 2,
+        "senior role": 71,
+        "not a student / intern role": 25,
+        "outside software / data / finance": 2
+      },
       "matches": []
     },
     {
@@ -3613,10 +3624,10 @@
       "category": "Asset Management & Research",
       "boards": [
         {
-          "source": "workday:spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+          "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 344,
           "seed": {
             "key": "workday",
             "value": {
@@ -3626,8 +3637,15 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 344,
+      "rejected": {
+        "outside software / data / finance": 7,
+        "senior role": 166,
+        "non-target function": 75,
+        "summer-only internship (per description)": 1,
+        "not a student / intern role": 94,
+        "recruiting event / talent pool": 1
+      },
       "matches": []
     },
     {
@@ -3703,10 +3721,10 @@
       "category": "Asset Management & Research",
       "boards": [
         {
-          "source": "workday:arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet",
+          "source": "Workday:arrowstreetcapital/Arrowstreet",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 13,
           "seed": {
             "key": "workday",
             "value": {
@@ -3716,10 +3734,10 @@
           }
         },
         {
-          "source": "workday:arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers",
+          "source": "Workday:arrowstreetcapital/Campus_Careers",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 6,
           "seed": {
             "key": "workday",
             "value": {
@@ -3729,8 +3747,13 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 19,
+      "rejected": {
+        "senior role": 8,
+        "not a student / intern role": 7,
+        "non-target function": 1,
+        "summer-only internship": 3
+      },
       "matches": []
     },
     {
@@ -3823,7 +3846,7 @@
           "source": "Workday:nasdaq/Global_External_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 126,
+          "count": 76,
           "seed": {
             "key": "workday",
             "value": {
@@ -3843,12 +3866,12 @@
           }
         }
       ],
-      "jobsSeen": 147,
+      "jobsSeen": 97,
       "rejected": {
         "summer-only internship": 1,
-        "non-target function": 26,
-        "senior role": 55,
-        "not a student / intern role": 64,
+        "non-target function": 22,
+        "senior role": 34,
+        "not a student / intern role": 39,
         "not remote": 1
       },
       "matches": []
@@ -3861,7 +3884,7 @@
           "source": "Workday:cmegroup/cme_careers",
           "origin": "seeded",
           "ok": true,
-          "count": 40,
+          "count": 56,
           "seed": {
             "key": "workday",
             "value": {
@@ -3871,11 +3894,11 @@
           }
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 56,
       "rejected": {
-        "not a student / intern role": 8,
-        "senior role": 24,
-        "non-target function": 7,
+        "not a student / intern role": 16,
+        "senior role": 30,
+        "non-target function": 9,
         "outside software / data / finance": 1
       },
       "matches": []
@@ -3888,7 +3911,7 @@
           "source": "Workday:lplfinancial/External",
           "origin": "seeded",
           "ok": true,
-          "count": 60,
+          "count": 153,
           "seed": {
             "key": "workday",
             "value": {
@@ -3898,11 +3921,11 @@
           }
         }
       ],
-      "jobsSeen": 60,
+      "jobsSeen": 153,
       "rejected": {
-        "senior role": 21,
-        "not a student / intern role": 29,
-        "non-target function": 10
+        "senior role": 63,
+        "not a student / intern role": 67,
+        "non-target function": 23
       },
       "matches": []
     },
@@ -3911,10 +3934,10 @@
       "category": "Asset Management & Research",
       "boards": [
         {
-          "source": "Workday:raymondjames/RaymondJamesCareers",
+          "source": "workday:raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
           "origin": "seeded",
-          "ok": true,
-          "count": 290,
+          "ok": false,
+          "count": 0,
           "seed": {
             "key": "workday",
             "value": {
@@ -3927,7 +3950,7 @@
           "source": "Workday:raymondjames/RaymondJamesEarlyCareers",
           "origin": "seeded",
           "ok": true,
-          "count": 4,
+          "count": 1,
           "seed": {
             "key": "workday",
             "value": {
@@ -3937,13 +3960,9 @@
           }
         }
       ],
-      "jobsSeen": 294,
+      "jobsSeen": 1,
       "rejected": {
-        "senior role": 114,
-        "non-target function": 50,
-        "not a student / intern role": 113,
-        "outside software / data / finance": 16,
-        "PhD/MBA/JD-only": 1
+        "non-target function": 1
       },
       "matches": []
     },
@@ -4982,7 +5001,7 @@
           "source": "Workday:blackstone/Blackstone_Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 20,
+          "count": 133,
           "seed": {
             "key": "workday",
             "value": {
@@ -4995,7 +5014,7 @@
           "source": "Workday:blackstone/BX_External_Site",
           "origin": "seeded",
           "ok": true,
-          "count": 101,
+          "count": 68,
           "seed": {
             "key": "workday",
             "value": {
@@ -5005,11 +5024,11 @@
           }
         }
       ],
-      "jobsSeen": 121,
+      "jobsSeen": 201,
       "rejected": {
-        "non-target function": 16,
-        "senior role": 33,
-        "not a student / intern role": 65,
+        "non-target function": 44,
+        "senior role": 76,
+        "not a student / intern role": 74,
         "not remote": 1,
         "dated for a past term (per description)": 3,
         "recruiting event / talent pool": 3
@@ -5050,7 +5069,7 @@
           "source": "Workday:aresmgmt/External",
           "origin": "seeded",
           "ok": true,
-          "count": 29,
+          "count": 60,
           "seed": {
             "key": "workday",
             "value": {
@@ -5060,11 +5079,11 @@
           }
         }
       ],
-      "jobsSeen": 29,
+      "jobsSeen": 60,
       "rejected": {
-        "not a student / intern role": 4,
-        "senior role": 13,
-        "non-target function": 12
+        "not a student / intern role": 9,
+        "senior role": 31,
+        "non-target function": 20
       },
       "matches": []
     },
@@ -5076,7 +5095,7 @@
           "source": "Workday:blueowl/blueowl",
           "origin": "seeded",
           "ok": true,
-          "count": 40,
+          "count": 29,
           "seed": {
             "key": "workday",
             "value": {
@@ -5086,11 +5105,11 @@
           }
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 29,
       "rejected": {
-        "non-target function": 10,
-        "senior role": 17,
-        "not a student / intern role": 13
+        "non-target function": 6,
+        "senior role": 13,
+        "not a student / intern role": 10
       },
       "matches": []
     },
@@ -5099,10 +5118,10 @@
       "category": "Private Equity & Venture Capital",
       "boards": [
         {
-          "source": "workday:oaktree.wd1.myworkdayjobs.com/Oaktree",
+          "source": "Workday:oaktree/Oaktree",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 46,
           "seed": {
             "key": "workday",
             "value": {
@@ -5112,8 +5131,12 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 46,
+      "rejected": {
+        "senior role": 23,
+        "non-target function": 15,
+        "not a student / intern role": 8
+      },
       "matches": []
     },
     {
@@ -6051,7 +6074,7 @@
           "source": "Workday:mtb/MTB",
           "origin": "seeded",
           "ok": true,
-          "count": 702,
+          "count": 703,
           "seed": {
             "key": "workday",
             "value": {
@@ -6074,13 +6097,13 @@
           }
         }
       ],
-      "jobsSeen": 742,
+      "jobsSeen": 743,
       "rejected": {
         "outside software / data / finance": 5,
         "non-target function": 43,
-        "senior role": 247,
+        "senior role": 248,
         "not a student / intern role": 443,
-        "not remote": 2,
+        "hybrid (remote only)": 2,
         "recruiting event / talent pool": 2
       },
       "matches": []
@@ -6614,7 +6637,7 @@
           "source": "Workday:motorolasolutions/Careers",
           "origin": "seeded",
           "ok": true,
-          "count": 541,
+          "count": 699,
           "seed": {
             "key": "workday",
             "value": {
@@ -6624,14 +6647,14 @@
           }
         }
       ],
-      "jobsSeen": 541,
+      "jobsSeen": 699,
       "rejected": {
-        "non-target function": 189,
+        "non-target function": 245,
         "not remote": 24,
         "outside software / data / finance": 21,
         "summer-only internship": 14,
-        "not a student / intern role": 158,
-        "senior role": 134,
+        "not a student / intern role": 206,
+        "senior role": 188,
         "recruiting event / talent pool": 1
       },
       "matches": []
@@ -7356,10 +7379,10 @@
       "category": "UChicago & Research",
       "boards": [
         {
-          "source": "workday:uchicago.wd5.myworkdayjobs.com/External",
+          "source": "Workday:uchicago/External",
           "origin": "seeded",
-          "ok": false,
-          "count": 0,
+          "ok": true,
+          "count": 389,
           "seed": {
             "key": "workday",
             "value": {
@@ -7376,8 +7399,16 @@
           }
         }
       ],
-      "jobsSeen": 0,
-      "rejected": {},
+      "jobsSeen": 389,
+      "rejected": {
+        "outside software / data / finance": 6,
+        "non-target function": 105,
+        "senior role": 120,
+        "not a student / intern role": 155,
+        "local employer, role not in Chicago": 1,
+        "full-time / off-cycle co-op": 1,
+        "recruiting event / talent pool": 1
+      },
       "matches": []
     },
     {

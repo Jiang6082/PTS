@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-10-30T18:34:55.680Z
+Scanned: 2026-10-31T22:50:46.311Z
 Employers searched: 308
-Career pages checked: 621
+Career pages checked: 645
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -123,7 +123,6 @@ _None._
 - Cleo
 - Cloudflare
 - Cohere
-- Coinbase
 - Connor Clark & Lunn
 - Consensys
 - CoreWeave
@@ -147,7 +146,6 @@ _None._
 - ExodusPoint
 - FactSet
 - Faire
-- Federal Reserve System
 - Fidelity Investments
 - Fifth Third Bank
 - Figma
@@ -211,11 +209,13 @@ _None._
 - Modal
 - MongoDB
 - Morgan Stanley
+- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
 - Nasdaq
 - Nationwide
+- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -246,6 +246,7 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
+- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -322,12 +323,14 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citadel
 - Citi
 - Cognition
+- Coinbase
 - Collide Capital
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
 - Doist
 - FIS
+- Federal Reserve System
 - Felicis
 - Fiserv
 - Five Rings
@@ -350,10 +353,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Morningstar
 - NEA
 - NORC at the University of Chicago
-- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
@@ -362,7 +363,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- S&P Global
 - ShipBob
 - Snowflake
 - State Street
