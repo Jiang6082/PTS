@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-10-31T22:50:46.311Z",
+  "searchedAt": "2026-11-01T18:24:18.528Z",
   "companies": [
     "Google",
     "Meta",
@@ -321,12 +321,10 @@
     "Blockhouse",
     "Inmar Intelligence",
     "Stand Out For Good",
-    "Brex",
     "Anchorage Digital",
     "Betterment",
     "B2C2",
     "GSR",
-    "Northern Trust Asset Management",
     "Baillie Gifford",
     "Graham Capital Management",
     "Viking Global Investors",
@@ -340,7 +338,6 @@
     "Wind Point Partners",
     "Lightspeed Venture Partners",
     "Bessemer Venture Partners",
-    "Kleiner Perkins",
     "Contrary",
     "Pear VC",
     "Collide Capital",
@@ -1099,8 +1096,8 @@
       "company": "Dropbox",
       "pageUrl": "https://www.dropbox.jobs/en/jobs/",
       "resolvedUrl": "https://www.dropbox.jobs/en/jobs/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1783,8 +1780,8 @@
       "company": "Scale AI",
       "pageUrl": "http://www.scalesd.org/careers.html",
       "resolvedUrl": "http://www.scalesd.org/careers.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -2186,10 +2183,10 @@
       "boards": [
         {
           "source": "Ashby:cursor",
-          "jobsSeen": 125
+          "jobsSeen": 124
         }
       ],
-      "jobsSeen": 125,
+      "jobsSeen": 124,
       "relevantRoles": 0
     },
     {
@@ -3177,10 +3174,10 @@
       "boards": [
         {
           "source": "Greenhouse:guidepoint",
-          "jobsSeen": 113
+          "jobsSeen": 112
         }
       ],
-      "jobsSeen": 113,
+      "jobsSeen": 112,
       "relevantRoles": 0
     },
     {
@@ -3295,8 +3292,8 @@
       "company": "Plaid",
       "pageUrl": "https://www.plaid.llc/careers.html",
       "resolvedUrl": "https://www.plaid.llc/careers.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3310,6 +3307,34 @@
       "pageOk": false,
       "pageStatus": 404,
       "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Brex",
+      "pageUrl": "https://www.brex.com/careers",
+      "resolvedUrl": "https://www.brex.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Brex",
+      "pageUrl": "https://www.brex.com/careers/8834133002",
+      "resolvedUrl": "https://www.brex.com/careers/8834133002",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "brex"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -3401,7 +3426,7 @@
       "boards": [
         {
           "source": "Greenhouse:wavemm1",
-          "jobsSeen": 66
+          "jobsSeen": 64
         },
         {
           "source": "Lever:certik",
@@ -3416,7 +3441,7 @@
           "jobsSeen": 5
         }
       ],
-      "jobsSeen": 140,
+      "jobsSeen": 138,
       "relevantRoles": 0
     },
     {
@@ -3801,7 +3826,7 @@
       "pageUrl": "https://careers.toasttab.com/jobs/search",
       "resolvedUrl": "https://careers.toasttab.com/jobs/search",
       "pageOk": true,
-      "pageStatus": 202,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -3813,7 +3838,7 @@
       "pageUrl": "https://careers.toasttab.com/early-career",
       "resolvedUrl": "https://careers.toasttab.com/early-career",
       "pageOk": true,
-      "pageStatus": 202,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4997,6 +5022,18 @@
           }
         ]
       },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Northern Trust Asset Management",
+      "pageUrl": "https://northern.edu/",
+      "resolvedUrl": "https://northern.edu/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -6309,7 +6346,11 @@
       "resolvedUrl": "https://fiverings.com/careers/",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {},
+      "atsTokens": {
+        "greenhouse": [
+          "fiveringsllc"
+        ]
+      },
       "unsupportedAts": [
         "jobvite"
       ],
@@ -7085,8 +7126,7 @@
           "alertmedia",
           "simplepractice55",
           "salesloft",
-          "eso",
-          "nasuni"
+          "eso"
         ],
         "ashby": [
           "menlosecurity"
@@ -7102,14 +7142,18 @@
           {
             "host": "solera.wd5.myworkdayjobs.com",
             "site": "Global_Career_Site"
-          },
+          }
+        ],
+        "oracle": [
           {
-            "host": "finastra.wd3.myworkdayjobs.com",
-            "site": "FINC"
+            "host": "efpv.fa.us6.oraclecloud.com",
+            "site": "CX_1"
           }
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -7233,20 +7277,17 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "andurilindustries",
-          "astranis"
+          "andurilindustries"
         ],
         "lever": [
-          "shieldai"
+          "tryjeeves"
         ],
         "ashby": [
+          "elevenlabs",
+          "lime",
           "exa",
           "harvey",
-          "lime",
-          "ambiencehealthcare",
-          "fal-ai",
-          "ideogram",
-          "apex-technology-inc"
+          "ambiencehealthcare"
         ]
       },
       "unsupportedAts": [],
@@ -7306,13 +7347,9 @@
       "company": "General Catalyst",
       "pageUrl": "https://jobs.generalcatalyst.com/jobs",
       "resolvedUrl": "https://jobs.generalcatalyst.com/jobs",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse": [
-          "generalcatalyst"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -7379,19 +7416,27 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "xendit",
+          "scaleops",
           "sparetech"
         ],
         "lever": [
-          "sysdig"
+          "sonarsource"
         ],
-        "smartrecruiters": [
-          "Mirantis"
+        "ashby": [
+          "qonto",
+          "semperis"
         ],
-        "pinpoint": [
-          "indrive"
+        "workday": [
+          {
+            "host": "tricentis.wd1.myworkdayjobs.com",
+            "site": "Tricentis_Careers"
+          }
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -7404,19 +7449,27 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "xendit",
+          "scaleops",
           "sparetech"
         ],
         "lever": [
-          "sysdig"
+          "sonarsource"
         ],
-        "smartrecruiters": [
-          "Mirantis"
+        "ashby": [
+          "qonto",
+          "semperis"
         ],
-        "pinpoint": [
-          "indrive"
+        "workday": [
+          {
+            "host": "tricentis.wd1.myworkdayjobs.com",
+            "site": "Tricentis_Careers"
+          }
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -7451,7 +7504,17 @@
       "resolvedUrl": "https://indexventures.getro.com/jobs",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {},
+      "atsTokens": {
+        "greenhouse": [
+          "wizinc"
+        ],
+        "workday": [
+          {
+            "host": "servicetitan.wd1.myworkdayjobs.com",
+            "site": "ServiceTitan"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -7498,17 +7561,62 @@
           "payjoy"
         ],
         "ashby": [
+          "ramp",
+          "baseten",
           "cogent-security",
           "Braintrust",
-          "ramp",
           "sevenai",
-          "baseten",
           "frec"
         ]
       },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kleiner Perkins",
+      "pageUrl": "https://jobs.kleinerperkins.com/",
+      "resolvedUrl": "https://jobs.kleinerperkins.com/jobs",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kleiner Perkins",
+      "pageUrl": "https://jobs.kleinerperkins.com/companies",
+      "resolvedUrl": "https://jobs.kleinerperkins.com/companies",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Kleiner Perkins",
+      "pageUrl": "https://jobs.ashbyhq.com/kleinerperkinsfellows",
+      "resolvedUrl": "https://jobs.ashbyhq.com/kleinerperkinsfellows",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "ashby": [
+          "kleinerperkinsfellows"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Ashby:kleinerperkinsfellows",
+          "jobsSeen": 2
+        }
+      ],
+      "jobsSeen": 2,
       "relevantRoles": 0
     },
     {
@@ -7543,8 +7651,12 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "neuralink",
-          "figma"
+          "andurilindustries",
+          "databricks",
+          "wizinc"
+        ],
+        "ashby": [
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -7560,8 +7672,12 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "neuralink",
-          "figma"
+          "andurilindustries",
+          "databricks",
+          "wizinc"
+        ],
+        "ashby": [
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -7590,6 +7706,9 @@
       "atsTokens": {
         "greenhouse": [
           "machindustries"
+        ],
+        "ashby": [
+          "rhoda-ai"
         ]
       },
       "unsupportedAts": [],
@@ -7861,12 +7980,21 @@
       "company": "Sensiba",
       "pageUrl": "https://sensiba.com/careers/current-opportunities/",
       "resolvedUrl": "https://sensiba.com/careers/current-opportunities/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "pinpoint": [
+          "sensiba"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Pinpoint:sensiba.pinpointhq.com",
+          "jobsSeen": 34
+        }
+      ],
+      "jobsSeen": 34,
       "relevantRoles": 0
     },
     {
@@ -8384,8 +8512,8 @@
       "company": "Synchrony",
       "pageUrl": "https://synchronypharmacy.com/careers/",
       "resolvedUrl": "https://synchronypharmacy.com/careers/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -8396,12 +8524,21 @@
       "company": "Synchrony",
       "pageUrl": "https://synchronygroup.com/careers/",
       "resolvedUrl": "https://synchronygroup.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "smartrecruiters": [
+          "SynchronyGroup"
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "SmartRecruiters:SynchronyGroup",
+          "jobsSeen": 5
+        }
+      ],
+      "jobsSeen": 5,
       "relevantRoles": 0
     },
     {
@@ -8445,7 +8582,7 @@
     {
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
-      "resolvedUrl": "https://www.allstatecorporation.com/careers.aspx",
+      "resolvedUrl": "https://www.allstate.jobs/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -8627,16 +8764,9 @@
       "company": "The Hartford",
       "pageUrl": "https://www.thehartford.com/careers",
       "resolvedUrl": "https://www.thehartford.com/careers",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "thehartford.wd5.myworkdayjobs.com",
-            "site": "Careers_External"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -8646,8 +8776,8 @@
       "company": "The Hartford",
       "pageUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
       "resolvedUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "workday": [
           {
@@ -8665,16 +8795,9 @@
       "company": "The Hartford",
       "pageUrl": "https://www.jointhehartford.com/jobs/",
       "resolvedUrl": "https://www.jointhehartford.com/jobs/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "thehartford.wd5.myworkdayjobs.com",
-            "site": "Careers_External"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -9323,18 +9446,18 @@
       "boards": [
         {
           "source": "Workday:kcura/External_Career_Site",
-          "jobsSeen": 79
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantRoles": 0
     },
     {
       "company": "Relativity",
       "pageUrl": "https://careers.relativity.com/job-search-results/",
       "resolvedUrl": "https://careers.relativity.com/job-search-results/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -9603,13 +9726,8 @@
         ]
       },
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Lever:braviantholdings",
-          "jobsSeen": 4
-        }
-      ],
-      "jobsSeen": 4,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {

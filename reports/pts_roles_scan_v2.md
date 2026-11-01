@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-10-31T22:50:46.311Z
+Scanned: 2026-11-01T18:24:18.528Z
 Employers searched: 308
-Career pages checked: 645
+Career pages checked: 651
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -92,7 +92,6 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -102,7 +101,6 @@ _None._
 - Bain Capital
 - Basis Technologies
 - Battery Ventures
-- Belvedere Trading
 - Benchling
 - Benzinga
 - Bessemer Venture Partners
@@ -113,7 +111,6 @@ _None._
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
-- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -176,7 +173,6 @@ _None._
 - Hudson River Trading
 - Hugging Face
 - IMC Trading
-- Insight Partners
 - Instacart
 - Intel
 - Invesco
@@ -190,6 +186,7 @@ _None._
 - Khan Academy
 - Khosla Ventures
 - Kin Insurance
+- Kleiner Perkins
 - Kraken
 - Lightcast
 - Lightspeed Venture Partners
@@ -204,7 +201,6 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Modal
 - MongoDB
@@ -282,7 +278,6 @@ _None._
 - Viking Global Investors
 - Virtu Financial
 - Visa
-- Vista Equity Partners
 - Vivid Seats
 - Voleon Group
 - Walleye Capital
@@ -307,13 +302,16 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - Bain Capital Ventures
 - Bank of America
 - Barclays
+- Belvedere Trading
 - BlackRock
 - Bloomberg
 - Brevan Howard
 - Buffer
+- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -343,9 +341,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - HashiCorp
 - Hyde Park Venture Partners
 - Inmar Intelligence
+- Insight Partners
 - Jump Capital
 - KKR
-- Kleiner Perkins
 - LPL Financial
 - Lightbank
 - M25
@@ -353,6 +351,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -372,5 +371,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Two Sigma
 - U.S. Bank
 - Uptake
+- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs
