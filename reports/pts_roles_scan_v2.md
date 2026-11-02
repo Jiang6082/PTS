@@ -1,10 +1,10 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-01T18:24:18.528Z
+Scanned: 2026-11-02T22:20:26.393Z
 Employers searched: 308
-Career pages checked: 651
+Career pages checked: 667
 Part-time roles: 6
-Term-time roles, hours not stated: 4
+Term-time roles, hours not stated: 5
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
 
@@ -41,10 +41,11 @@ _None._
 
 ## Term-Time Roles, Hours Not Stated (check the posting)
 
-### Software (2)
+### Software (3)
 
 - **Notion** - [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
+- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Official ATS Ashby:voleon): hours not stated; term: December 2026; fully remote
 
 ### Data (2)
 
@@ -70,6 +71,7 @@ _None._
 - GTCR
 - Index Ventures
 - Mistral AI
+- Russell Investments
 
 ## Confirmed: Open Postings Exist, None Matched
 
@@ -86,21 +88,21 @@ _None._
 - Alpaca
 - Amazon
 - Anchorage Digital
-- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
 - B2C2
-- BMO Capital Markets
 - Baillie Gifford
 - Bain Capital
 - Basis Technologies
 - Battery Ventures
+- Belvedere Trading
 - Benchling
 - Benzinga
 - Bessemer Venture Partners
@@ -111,6 +113,7 @@ _None._
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
+- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -173,6 +176,8 @@ _None._
 - Hudson River Trading
 - Hugging Face
 - IMC Trading
+- Inmar Intelligence
+- Insight Partners
 - Instacart
 - Intel
 - Invesco
@@ -211,7 +216,6 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -241,7 +245,6 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
-- Russell Investments
 - S&P Global
 - Salesforce
 - Samsara
@@ -253,7 +256,6 @@ _None._
 - Sleeper
 - Snorkel AI
 - SpotHero
-- Spotify
 - Sprout Social
 - Squarepoint Capital
 - Stand Out For Good
@@ -279,7 +281,6 @@ _None._
 - Virtu Financial
 - Visa
 - Vivid Seats
-- Voleon Group
 - Walleye Capital
 - Warburg Pincus
 - Wealthfront
@@ -300,18 +301,17 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
+- Andreessen Horowitz
 - Apple
 - Argonne National Laboratory
-- Arrowstreet
+- BMO Capital Markets
 - Bain Capital Ventures
 - Bank of America
 - Barclays
-- Belvedere Trading
 - BlackRock
 - Bloomberg
 - Brevan Howard
 - Buffer
-- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -340,8 +340,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Greylock
 - HashiCorp
 - Hyde Park Venture Partners
-- Inmar Intelligence
-- Insight Partners
 - Jump Capital
 - KKR
 - LPL Financial
@@ -354,6 +352,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
+- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
@@ -364,6 +363,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Retool
 - ShipBob
 - Snowflake
+- Spotify
 - State Street
 - Synchrony
 - Tempus AI

@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-11-01 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-02 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **5 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,7 +14,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 ## 🆕 New Roles
 
-_Scan date: 2026-11-01_
+_Scan date: 2026-11-02_
 
 _No new roles detected in the latest scan._
 
@@ -22,16 +22,17 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles
 
-**10** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
+**11** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
 
 ### Software
 
 <details>
-<summary><strong>3 roles</strong> — click to expand</summary>
+<summary><strong>4 roles</strong> — click to expand</summary>
 
 - **OneEthos** — [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) — United States - Remote
 - **Notion** — [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) — San Francisco, California _(hours not stated)_
 - **Notion** — [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) — San Francisco, California _(hours not stated)_
+- **Voleon Group** — [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) — Berkeley, CA _(hours not stated)_
 
 </details>
 

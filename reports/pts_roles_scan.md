@@ -1,10 +1,10 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-01T18:20:43.444Z
+Scanned: 2026-11-02T22:15:20.614Z
 Employers in universe: 308
-Employers with at least one live ATS board: 244
+Employers with at least one live ATS board: 248
 Part-time roles: 6
-Term-time roles, hours not stated: 4
+Term-time roles, hours not stated: 5
 
 Criteria: open posting on an official ATS board; intern / student / co-op / fellow / scout / research-assistant role; software, data or finance (asset management, hedge funds, research, PE/VC, fintech) work; part-time signal (commitment field, title, <=30 hrs/week, academic-year or while-enrolled wording) or a fall/winter/spring term inside Oct 2026 - Jun 2027 with no full-time statement; remote in the US (UChicago roles may be on campus). Excludes summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only, investment banking / corporate finance, and roles dated outside the window.
 
@@ -23,6 +23,7 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - **Notion** — [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) — San Francisco, California (Software; hours not stated; term: Winter 2027; fully remote)
 - **Stand Together** — [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) — Florida (Data; hours not stated; term: Spring 2027; fully remote)
 - **Stand Together** — [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) — New York (Data; hours not stated; term: Spring 2027; fully remote)
+- **Voleon Group** — [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) — Berkeley, CA (Software; hours not stated; term: December 2026; fully remote)
 
 ## Employers Without A Live ATS Board (v1)
 
@@ -30,17 +31,14 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Meta
 - Apple
 - Microsoft
+- Netflix
+- Spotify
 - Anysphere (Cursor)
 - dbt Labs
 - Tempus AI
 - Retool
 - Inmar Intelligence
 - Chainalysis
-- State Street
-- Arrowstreet
-- CME Group
-- LPL Financial
-- Belvedere Trading
 - Two Sigma
 - Citadel
 - D. E. Shaw
@@ -87,6 +85,5 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Automattic
 - Doist
 - Buffer
-- University of Chicago
 - NORC at the University of Chicago
 - Argonne National Laboratory
