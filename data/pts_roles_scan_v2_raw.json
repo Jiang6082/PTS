@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-03T12:55:04.853Z",
+  "searchedAt": "2026-11-03T20:06:38.838Z",
   "companies": [
     "Google",
     "Meta",
@@ -311,7 +311,7 @@
     "Argonne National Laboratory"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-03T12:55:04.854Z",
+    "generatedAt": "2026-11-03T20:06:38.839Z",
     "companies": {
       "Google": {
         "careerPages": [
@@ -1470,8 +1470,10 @@
         "updatedAt": "2026-10-29T12:37:41.941Z"
       },
       "Graham Capital Management": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://www.grahambuilds.com/Careers/"
+        ],
+        "updatedAt": "2026-11-03T20:06:38.839Z"
       },
       "Verition Fund Management": {
         "careerPages": [
@@ -1978,8 +1980,10 @@
         "updatedAt": "2026-10-29T12:10:26.690Z"
       },
       "OCA Ventures": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://www.oca-stl.org/programs-and-events"
+        ],
+        "updatedAt": "2026-11-03T20:06:38.839Z"
       },
       "Sensiba": {
         "careerPages": [
@@ -2246,8 +2250,10 @@
         "updatedAt": "2026-10-30T11:23:48.625Z"
       },
       "William Blair": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://williams.wd5.myworkdayjobs.com/External"
+        ],
+        "updatedAt": "2026-11-03T20:06:38.839Z"
       },
       "Ariel Investments": {
         "careerPages": [],
@@ -2375,8 +2381,12 @@
         "updatedAt": "2026-10-30T11:23:48.625Z"
       },
       "HashiCorp": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://www.hashicorp.com/en/careers",
+          "https://www.hashicorp.com/en",
+          "https://hashicorp.io/careers/detail.php?slug=business-analyst"
+        ],
+        "updatedAt": "2026-11-03T20:06:38.839Z"
       },
       "Khan Academy": {
         "careerPages": [
@@ -4009,6 +4019,10 @@
       "pageUrl": "https://careers.brevanhoward.com/gb/en/home"
     },
     {
+      "company": "Graham Capital Management",
+      "pageUrl": "https://www.grahambuilds.com/Careers/"
+    },
+    {
       "company": "Verition Fund Management",
       "pageUrl": "https://www.verition.com/careers"
     },
@@ -4541,6 +4555,10 @@
       "pageUrl": "https://jobs.lightbank.com/jobs"
     },
     {
+      "company": "OCA Ventures",
+      "pageUrl": "https://www.oca-stl.org/programs-and-events"
+    },
+    {
       "company": "Sensiba",
       "pageUrl": "https://sensiba.com/careers/"
     },
@@ -4901,6 +4919,10 @@
       "pageUrl": "https://careers.cboe.com/"
     },
     {
+      "company": "William Blair",
+      "pageUrl": "https://williams.wd5.myworkdayjobs.com/External"
+    },
+    {
       "company": "Calamos Investments",
       "pageUrl": "https://www.calamos.com/funds/etf/"
     },
@@ -5055,6 +5077,18 @@
     {
       "company": "Grafana Labs",
       "pageUrl": "https://job-boards.greenhouse.io/grafanalabs"
+    },
+    {
+      "company": "HashiCorp",
+      "pageUrl": "https://www.hashicorp.com/en/careers"
+    },
+    {
+      "company": "HashiCorp",
+      "pageUrl": "https://www.hashicorp.com/en"
+    },
+    {
+      "company": "HashiCorp",
+      "pageUrl": "https://hashicorp.io/careers/detail.php?slug=business-analyst"
     },
     {
       "company": "Khan Academy",
@@ -5836,8 +5870,8 @@
       "company": "Lyft",
       "pageUrl": "https://www.lyft.com/careers/early-talent",
       "resolvedUrl": "https://www.lyft.com/careers/early-talent",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 429,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -6080,12 +6114,11 @@
       "company": "Palantir",
       "pageUrl": "https://jobs.lever.co/palantir",
       "resolvedUrl": "https://jobs.lever.co/palantir",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "lever": [
-          "palantir",
-          "js"
+          "palantir"
         ]
       },
       "unsupportedAts": [],
@@ -6363,10 +6396,10 @@
       "boards": [
         {
           "source": "Breezy:duolingo",
-          "jobsSeen": 4
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -6387,10 +6420,10 @@
       "boards": [
         {
           "source": "Breezy:duolingo",
-          "jobsSeen": 4
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 4,
+      "jobsSeen": 3,
       "relevantRoles": 0
     },
     {
@@ -6801,10 +6834,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 229
+          "jobsSeen": 231
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 231,
       "relevantRoles": 0
     },
     {
@@ -6822,10 +6855,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 229
+          "jobsSeen": 231
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 231,
       "relevantRoles": 0
     },
     {
@@ -6843,10 +6876,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 229
+          "jobsSeen": 231
         }
       ],
-      "jobsSeen": 229,
+      "jobsSeen": 231,
       "relevantRoles": 0
     },
     {
@@ -7086,10 +7119,10 @@
       "boards": [
         {
           "source": "Ashby:cursor",
-          "jobsSeen": 122
+          "jobsSeen": 118
         }
       ],
-      "jobsSeen": 122,
+      "jobsSeen": 118,
       "relevantRoles": 0
     },
     {
@@ -7296,8 +7329,8 @@
       "company": "Mercor",
       "pageUrl": "https://work.mercor.com/login",
       "resolvedUrl": "https://work.mercor.com/login",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -7331,10 +7364,10 @@
       "boards": [
         {
           "source": "Greenhouse:centerforartificialintelligencesafetyinc",
-          "jobsSeen": 8
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -7352,10 +7385,10 @@
       "boards": [
         {
           "source": "Greenhouse:centerforartificialintelligencesafetyinc",
-          "jobsSeen": 8
+          "jobsSeen": 9
         }
       ],
-      "jobsSeen": 8,
+      "jobsSeen": 9,
       "relevantRoles": 0
     },
     {
@@ -8209,10 +8242,10 @@
       "boards": [
         {
           "source": "Greenhouse:guidepoint",
-          "jobsSeen": 106
+          "jobsSeen": 107
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 107,
       "relevantRoles": 0
     },
     {
@@ -8510,6 +8543,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "bvnk",
           "wavemm1"
         ],
         "lever": [
@@ -8530,8 +8564,12 @@
       ],
       "boards": [
         {
+          "source": "Greenhouse:bvnk",
+          "jobsSeen": 30
+        },
+        {
           "source": "Greenhouse:wavemm1",
-          "jobsSeen": 61
+          "jobsSeen": 64
         },
         {
           "source": "Lever:certik",
@@ -8558,7 +8596,7 @@
           "jobsSeen": 5
         }
       ],
-      "jobsSeen": 148,
+      "jobsSeen": 181,
       "relevantRoles": 0
     },
     {
@@ -8592,10 +8630,10 @@
       "boards": [
         {
           "source": "Ashby:krakentech",
-          "jobsSeen": 64
+          "jobsSeen": 68
         }
       ],
-      "jobsSeen": 64,
+      "jobsSeen": 68,
       "relevantRoles": 0
     },
     {
@@ -8695,10 +8733,10 @@
       "boards": [
         {
           "source": "Ashby:Pear-VC",
-          "jobsSeen": 105
+          "jobsSeen": 107
         }
       ],
-      "jobsSeen": 105,
+      "jobsSeen": 107,
       "relevantRoles": 0
     },
     {
@@ -8967,7 +9005,7 @@
       "pageUrl": "https://careers.toasttab.com/",
       "resolvedUrl": "https://careers.toasttab.com/",
       "pageOk": true,
-      "pageStatus": 200,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -8979,7 +9017,7 @@
       "pageUrl": "https://careers.toasttab.com/jobs/search",
       "resolvedUrl": "https://careers.toasttab.com/jobs/search",
       "pageOk": true,
-      "pageStatus": 200,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -9123,10 +9161,10 @@
       "boards": [
         {
           "source": "Ashby:alpacahealth",
-          "jobsSeen": 415
+          "jobsSeen": 414
         }
       ],
-      "jobsSeen": 415,
+      "jobsSeen": 414,
       "relevantRoles": 0
     },
     {
@@ -10691,7 +10729,7 @@
         "workday": [
           {
             "host": "raymondjames.wd1.myworkdayjobs.com",
-            "site": "RaymondJamesCareers"
+            "site": "RaymondJamesEarlyCareers"
           }
         ]
       },
@@ -10990,6 +11028,20 @@
       "atsTokens": {},
       "unsupportedAts": [
         "phenom"
+      ],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Graham Capital Management",
+      "pageUrl": "https://www.grahambuilds.com/Careers/",
+      "resolvedUrl": "https://www.grahambuilds.com/Careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [
+        "successfactors"
       ],
       "boards": [],
       "jobsSeen": 0,
@@ -12306,26 +12358,21 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "simplepractice55",
-          "nasuni",
-          "acquia",
-          "knowbe4",
-          "salesloft",
-          "lucidsoftware",
-          "trgscreen",
-          "poppulo",
-          "smartsheet"
+          "logicmonitor",
+          "redwoodsoftware",
+          "simplepractice55"
         ],
-        "ashby": [
-          "menlosecurity"
+        "icims": [
+          "careers-oneadvanced"
         ],
-        "breezy": [
-          "quantios"
+        "workday": [
+          {
+            "host": "bonterra.wd1.myworkdayjobs.com",
+            "site": "bonterratech"
+          }
         ]
       },
-      "unsupportedAts": [
-        "adp"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -12414,10 +12461,10 @@
       "boards": [
         {
           "source": "Greenhouse:gcmgrosvenor",
-          "jobsSeen": 12
+          "jobsSeen": 14
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 14,
       "relevantRoles": 0
     },
     {
@@ -12435,10 +12482,10 @@
       "boards": [
         {
           "source": "Greenhouse:a16z",
-          "jobsSeen": 17
+          "jobsSeen": 18
         }
       ],
-      "jobsSeen": 17,
+      "jobsSeen": 18,
       "relevantRoles": 0
     },
     {
@@ -12450,19 +12497,21 @@
       "atsTokens": {
         "greenhouse": [
           "andurilindustries",
-          "carta",
-          "figma",
           "boxinc"
         ],
-        "greenhouse_eu": [
-          "groupon"
+        "lever": [
+          "shieldai"
         ],
         "ashby": [
-          "elevenlabs",
-          "openai",
-          "lio",
-          "harvey",
-          "atlys"
+          "heron-power",
+          "skydio",
+          "base-power"
+        ],
+        "workday": [
+          {
+            "host": "devoted.wd1.myworkdayjobs.com",
+            "site": "Devoted"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -12527,15 +12576,12 @@
       "atsTokens": {
         "greenhouse": [
           "generalcatalyst",
-          "helsing",
-          "anthropic",
-          "vardaspace",
-          "novacredit",
-          "togetherai"
+          "monzo",
+          "taketwo",
+          "salesloft"
         ],
-        "ashby": [
-          "Commure",
-          "black-forest-labs"
+        "lever": [
+          "pigment"
         ]
       },
       "unsupportedAts": [],
@@ -12563,9 +12609,13 @@
       "company": "General Catalyst",
       "pageUrl": "https://jobs.generalcatalyst.com/companies",
       "resolvedUrl": "https://jobs.generalcatalyst.com/companies",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "generalcatalyst"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -12598,25 +12648,7 @@
       "resolvedUrl": "https://jobs.insightpartners.com/jobs",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse": [
-          "leolabsinc",
-          "rapidsos",
-          "6sense",
-          "fairmarkit",
-          "workato"
-        ],
-        "lever": [
-          "Coda"
-        ],
-        "ashby": [
-          "rewind",
-          "onebrief",
-          "VectorSolutions",
-          "factory",
-          "checkout.com"
-        ]
-      },
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -12628,25 +12660,7 @@
       "resolvedUrl": "https://jobs.insightpartners.com/companies",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse": [
-          "leolabsinc",
-          "rapidsos",
-          "6sense",
-          "fairmarkit",
-          "workato"
-        ],
-        "lever": [
-          "Coda"
-        ],
-        "ashby": [
-          "rewind",
-          "onebrief",
-          "VectorSolutions",
-          "factory",
-          "checkout.com"
-        ]
-      },
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -12684,18 +12698,19 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "usenourish",
-          "novacredit",
-          "paveakatroveinformationtechnologies",
-          "getbuilt"
-        ],
-        "lever": [
-          "farfetch"
+          "glossier",
+          "via",
+          "figma",
+          "collibra"
         ],
         "ashby": [
-          "tebi",
-          "alan",
-          "notion"
+          "tekion"
+        ],
+        "workday": [
+          {
+            "host": "seic.wd1.myworkdayjobs.com",
+            "site": "SEI_Global_Services"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -12834,11 +12849,15 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "databricks",
-          "oscar"
+          "glossier",
+          "monzo",
+          "generalmatter",
+          "figma",
+          "databricks"
         ],
         "ashby": [
-          "notion"
+          "savvy",
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -12854,13 +12873,15 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "glossier",
           "monzo",
-          "spacex",
-          "andurilindustries"
+          "generalmatter",
+          "figma",
+          "databricks"
         ],
         "ashby": [
-          "plaid",
-          "artsy"
+          "savvy",
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -12895,6 +12916,9 @@
           "machindustries"
         ],
         "ashby": [
+          "formulary",
+          "Coframe",
+          "foundry-robotics",
           "stuut-ai",
           "cloaked",
           "openai"
@@ -12908,9 +12932,9 @@
     {
       "company": "Khosla Ventures",
       "pageUrl": "https://jobs.khoslaventures.com/",
-      "resolvedUrl": "https://jobs.khoslaventures.com/companies",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://jobs.khoslaventures.com/",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -13018,16 +13042,16 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "anthropic",
-          "usenourish",
-          "shipbobinc",
-          "eve"
+          "harnessinc",
+          "abnormalsecurity",
+          "anthropic"
         ],
         "lever": [
-          "contentsquare"
+          "h1"
         ],
         "ashby": [
-          "lovable"
+          "zafran-security",
+          "warp-sciences"
         ]
       },
       "unsupportedAts": [],
@@ -13126,11 +13150,8 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "lever": [
-          "HDVI"
-        ],
-        "ashby": [
-          "axle-health"
+        "workable": [
+          "pinchmedspa"
         ],
         "workday": [
           {
@@ -13139,9 +13160,19 @@
           }
         ]
       },
-      "unsupportedAts": [
-        "rippling"
-      ],
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "OCA Ventures",
+      "pageUrl": "https://www.oca-stl.org/programs-and-events",
+      "resolvedUrl": "https://www.oca-stl.org/programs-and-events",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -13161,10 +13192,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 33
+          "jobsSeen": 29
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 29,
       "relevantRoles": 0
     },
     {
@@ -13182,10 +13213,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 33
+          "jobsSeen": 29
         }
       ],
-      "jobsSeen": 33,
+      "jobsSeen": 29,
       "relevantRoles": 0
     },
     {
@@ -13825,7 +13856,7 @@
     {
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
-      "resolvedUrl": "https://www.allstatecorporation.com/careers.aspx",
+      "resolvedUrl": "https://www.allstate.jobs/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -13969,16 +14000,9 @@
       "company": "Travelers",
       "pageUrl": "https://careers.travelers.com/job-search-results/",
       "resolvedUrl": "https://careers.travelers.com/job-search-results/",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "travelers.wd5.myworkdayjobs.com",
-            "site": "External"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -14615,6 +14639,30 @@
       "relevantRoles": 0
     },
     {
+      "company": "William Blair",
+      "pageUrl": "https://williams.wd5.myworkdayjobs.com/External",
+      "resolvedUrl": "https://williams.wd5.myworkdayjobs.com/External",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "williams.wd5.myworkdayjobs.com",
+            "site": "External"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Workday:williams/External",
+          "jobsSeen": 114
+        }
+      ],
+      "jobsSeen": 114,
+      "relevantRoles": 0
+    },
+    {
       "company": "Calamos Investments",
       "pageUrl": "https://www.calamos.com/funds/etf/",
       "resolvedUrl": "https://www.calamos.com/funds/etf/",
@@ -14712,7 +14760,7 @@
     {
       "company": "Relativity",
       "pageUrl": "https://careers.relativity.com/job-search-results/",
-      "resolvedUrl": "https://careers.relativity.com/job-search-results/?repeat=w3tc",
+      "resolvedUrl": "https://careers.relativity.com/job-search-results/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -15244,6 +15292,42 @@
       "relevantRoles": 0
     },
     {
+      "company": "HashiCorp",
+      "pageUrl": "https://www.hashicorp.com/en/careers",
+      "resolvedUrl": "https://www.hashicorp.com/en/careers",
+      "pageOk": false,
+      "pageStatus": 429,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HashiCorp",
+      "pageUrl": "https://www.hashicorp.com/en",
+      "resolvedUrl": "https://www.hashicorp.com/en",
+      "pageOk": false,
+      "pageStatus": 429,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "HashiCorp",
+      "pageUrl": "https://hashicorp.io/careers/detail.php?slug=business-analyst",
+      "resolvedUrl": "https://hashicorp.io/careers/detail.php?slug=business-analyst",
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Khan Academy",
       "pageUrl": "https://en.khanacademy.org/about",
       "resolvedUrl": "https://en.khanacademy.org/about",
@@ -15630,12 +15714,11 @@
       "company": "The Athletic",
       "pageUrl": "https://jobs.lever.co/theathletic/?location=United%20States",
       "resolvedUrl": "https://jobs.lever.co/theathletic/?location=United%20States",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {
         "lever": [
-          "theathletic",
-          "js"
+          "theathletic"
         ]
       },
       "unsupportedAts": [],
@@ -15704,10 +15787,10 @@
       "boards": [
         {
           "source": "Oracle:fa-etnf-saasfaprod1/CX_1001",
-          "jobsSeen": 598
+          "jobsSeen": 593
         }
       ],
-      "jobsSeen": 598,
+      "jobsSeen": 593,
       "relevantRoles": 0
     },
     {
@@ -15868,23 +15951,6 @@
       "Notes": "part-time (29 hrs/week max); fully remote",
       "Status": "Confirmed official posting",
       "Region": "Remote / Unspecified"
-    },
-    {
-      "Company": "Notion",
-      "Category": "High-Growth Startups & Dev Tools",
-      "Track": "Software",
-      "Confidence": "hours not stated",
-      "Title": "Software Engineer Intern (Winter 2027)",
-      "Department": "Early Career, Early Career, Intern",
-      "Location": "San Francisco, California",
-      "Commitment": "Intern",
-      "Workplace": "remote",
-      "URL": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
-      "Source": "Official ATS Ashby:notion",
-      "PostedAt": "2026-08-14T19:05:18.297+00:00",
-      "Notes": "hours not stated; term: Winter 2027; fully remote",
-      "Status": "Confirmed official posting",
-      "Region": "North America"
     },
     {
       "Company": "Notion",
@@ -16329,11 +16395,11 @@
     "Amazon",
     "Anchorage Digital",
     "Andreessen Horowitz",
-    "Anduril",
     "Anysphere (Cursor)",
     "Apollo Global Management",
     "Ares Management",
     "Ariel Investments",
+    "Arrowstreet",
     "Asana",
     "Automattic",
     "Avant",
@@ -16404,7 +16470,6 @@
     "Glean",
     "Global Payments",
     "Grafana Labs",
-    "Graham Capital Management",
     "Groupon",
     "Grubhub",
     "Guardian Life",
@@ -16457,7 +16522,6 @@
     "NVIDIA",
     "Nasdaq",
     "Nationwide",
-    "Netflix",
     "Neuberger Berman",
     "Northern Trust Asset Management",
     "Northwestern Mutual",
@@ -16469,9 +16533,9 @@
     "Optiver",
     "PGIM",
     "PIMCO",
-    "Palantir",
     "Paxos",
     "PayPal",
+    "Peak6",
     "Pear VC",
     "Perplexity",
     "Pinterest",
@@ -16523,6 +16587,7 @@
     "Viking Global Investors",
     "Virtu Financial",
     "Visa",
+    "Vista Equity Partners",
     "Vivid Seats",
     "Walleye Capital",
     "Warburg Pincus",
@@ -16541,9 +16606,9 @@
   "couldNotFullyVerify": [
     "Accel",
     "Adobe",
+    "Anduril",
     "Apple",
     "Argonne National Laboratory",
-    "Arrowstreet",
     "BMO Capital Markets",
     "Bain Capital Ventures",
     "Bank of America",
@@ -16577,6 +16642,7 @@
     "General Catalyst",
     "Goldman Sachs",
     "Google",
+    "Graham Capital Management",
     "Greylock",
     "HashiCorp",
     "Hyde Park Venture Partners",
@@ -16592,11 +16658,12 @@
     "Microsoft",
     "NEA",
     "NORC at the University of Chicago",
+    "Netflix",
     "OCA Ventures",
     "Origin Ventures",
     "Pacific Life",
     "Packback",
-    "Peak6",
+    "Palantir",
     "Pritzker Group Venture Capital",
     "Pritzker Private Capital",
     "Raymond James",
@@ -16610,7 +16677,6 @@
     "Two Sigma",
     "U.S. Bank",
     "Uptake",
-    "Vista Equity Partners",
     "Wind Point Partners",
     "dbt Labs"
   ]

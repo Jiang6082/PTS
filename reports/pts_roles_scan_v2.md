@@ -1,10 +1,10 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-03T12:55:04.853Z
+Scanned: 2026-11-03T20:06:38.838Z
 Employers searched: 308
-Career pages checked: 675
+Career pages checked: 681
 Part-time roles: 6
-Term-time roles, hours not stated: 5
+Term-time roles, hours not stated: 4
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
 
@@ -41,9 +41,8 @@ _None._
 
 ## Term-Time Roles, Hours Not Stated (check the posting)
 
-### Software (3)
+### Software (2)
 
-- **Notion** - [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 - **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Official ATS Ashby:voleon): hours not stated; term: December 2026; fully remote
 
@@ -87,11 +86,11 @@ _None._
 - Amazon
 - Anchorage Digital
 - Andreessen Horowitz
-- Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -162,7 +161,6 @@ _None._
 - Glean
 - Global Payments
 - Grafana Labs
-- Graham Capital Management
 - Groupon
 - Grubhub
 - Guardian Life
@@ -215,7 +213,6 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -227,9 +224,9 @@ _None._
 - Optiver
 - PGIM
 - PIMCO
-- Palantir
 - Paxos
 - PayPal
+- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -281,6 +278,7 @@ _None._
 - Viking Global Investors
 - Virtu Financial
 - Visa
+- Vista Equity Partners
 - Vivid Seats
 - Walleye Capital
 - Warburg Pincus
@@ -302,9 +300,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
+- Anduril
 - Apple
 - Argonne National Laboratory
-- Arrowstreet
 - BMO Capital Markets
 - Bain Capital Ventures
 - Bank of America
@@ -338,6 +336,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - General Catalyst
 - Goldman Sachs
 - Google
+- Graham Capital Management
 - Greylock
 - HashiCorp
 - Hyde Park Venture Partners
@@ -353,11 +352,12 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
+- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
 - Packback
-- Peak6
+- Palantir
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
@@ -371,6 +371,5 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Two Sigma
 - U.S. Bank
 - Uptake
-- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs

@@ -1,6 +1,6 @@
 # Open Part-Time Internships (Software · Data · Finance)
 
-**Last scan:** 2026-11-03 12:55 UTC · **6 part-time roles** and **5 term-time roles with hours not stated**, confirmed live on official job boards across 8 employers · **4 hand-checked roles / scout programs**
+**Last scan:** 2026-11-03 20:06 UTC · **6 part-time roles** and **4 term-time roles with hours not stated**, confirmed live on official job boards across 8 employers · **4 hand-checked roles / scout programs**
 
 Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-year). Remote in the US only, except UChicago research-assistant / student roles. Summer-only internships, full-time off-cycle co-ops, senior, PhD/MBA-only, investment-banking and corporate-finance roles are filtered out.
 
@@ -26,13 +26,12 @@ Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-yea
 | TPG | [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) | Remote | part-time (20 hrs/week max); term: May 2027; fully remote |
 | TPG | [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) | Remote | part-time (20 hrs/week max); fully remote |
 
-## 🕒 Term-Time Roles, Hours Not Stated (5)
+## 🕒 Term-Time Roles, Hours Not Stated (4)
 
-### Software (3)
+### Software (2)
 
 | Employer | Role | Location | Hours / term |
 |---|---|---|---|
-| Notion | [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) | San Francisco, California | hours not stated; term: Winter 2027; fully remote |
 | Notion | [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | San Francisco, California | hours not stated; term: Winter 2027; fully remote |
 | Voleon Group | [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) | Berkeley, CA | hours not stated; term: December 2026; fully remote |
 
