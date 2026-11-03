@@ -1,18 +1,18 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-11-02T22:20:26.393Z
+Last updated: 2026-11-03T12:55:04.853Z
 
 ## Summary
 
 - Employers searched: 308
-- Career pages checked: 667
+- Career pages checked: 675
 - Current roles: 11 (6 part-time, 5 term-time with hours not stated)
-- New stable job URLs since previous scan: 0
+- New stable job URLs since previous scan: 1
 - No longer present since previous scan: 0
 - Employers with matching roles: 8
-- Confirmed no open postings: 6
-- Openings but no matching role: 219
-- Could not fully verify: 75
+- Confirmed no open postings: 4
+- Openings but no matching role: 222
+- Could not fully verify: 74
 
 ## Roles By Employer Category
 
@@ -24,9 +24,9 @@ Last updated: 2026-11-02T22:20:26.393Z
 
 ## New Roles Since Previous Scan
 
-### Software (0)
+### Software (1)
 
-_None._
+- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA
 
 ### Data (0)
 

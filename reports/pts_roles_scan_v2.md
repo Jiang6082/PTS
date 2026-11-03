@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-02T22:20:26.393Z
+Scanned: 2026-11-03T12:55:04.853Z
 Employers searched: 308
-Career pages checked: 667
+Career pages checked: 675
 Part-time roles: 6
 Term-time roles, hours not stated: 5
 
@@ -70,8 +70,6 @@ _None._
 - Franklin Templeton
 - GTCR
 - Index Ventures
-- Mistral AI
-- Russell Investments
 
 ## Confirmed: Open Postings Exist, None Matched
 
@@ -88,12 +86,12 @@ _None._
 - Alpaca
 - Amazon
 - Anchorage Digital
+- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -207,6 +205,7 @@ _None._
 - Mercury
 - Merkle Science
 - Millennium
+- Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
@@ -216,6 +215,7 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
+- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -230,7 +230,6 @@ _None._
 - Palantir
 - Paxos
 - PayPal
-- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -245,6 +244,7 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
+- Russell Investments
 - S&P Global
 - Salesforce
 - Samsara
@@ -256,6 +256,7 @@ _None._
 - Sleeper
 - Snorkel AI
 - SpotHero
+- Spotify
 - Sprout Social
 - Squarepoint Capital
 - Stand Out For Good
@@ -301,9 +302,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Andreessen Horowitz
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bain Capital Ventures
 - Bank of America
@@ -352,18 +353,17 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
-- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
 - Packback
+- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
 - Retool
 - ShipBob
 - Snowflake
-- Spotify
 - State Street
 - Synchrony
 - Tempus AI

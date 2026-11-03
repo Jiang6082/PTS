@@ -1,17 +1,17 @@
 # New Part-Time Roles Since Last Run
 
-Previous scan: 2026-11-01T18:24:18.528Z
-Current scan: 2026-11-02T22:20:26.393Z
-Previous rows: 10
+Previous scan: 2026-11-02T22:20:26.393Z
+Current scan: 2026-11-03T12:55:04.853Z
+Previous rows: 11
 Current rows: 11
-New stable job URLs: 0
+New stable job URLs: 1
 No longer present: 0
 
 ## New Roles By Track
 
-### Software (0)
+### Software (1)
 
-_None._
+- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Official ATS Ashby:voleon): hours not stated; term: December 2026; fully remote
 
 ### Data (0)
 

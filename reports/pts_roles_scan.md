@@ -1,6 +1,6 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-02T22:15:20.614Z
+Scanned: 2026-11-03T12:51:07.016Z
 Employers in universe: 308
 Employers with at least one live ATS board: 248
 Part-time roles: 6
@@ -31,14 +31,14 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Meta
 - Apple
 - Microsoft
-- Netflix
-- Spotify
 - Anysphere (Cursor)
 - dbt Labs
 - Tempus AI
 - Retool
 - Inmar Intelligence
 - Chainalysis
+- Arrowstreet
+- Peak6
 - Two Sigma
 - Citadel
 - D. E. Shaw

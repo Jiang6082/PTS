@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-11-02 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **5 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-03 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **5 term-time, hours not stated** &nbsp;•&nbsp; **1 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,9 +14,13 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 ## 🆕 New Roles
 
-_Scan date: 2026-11-02_
+_Scan date: 2026-11-03_
 
-_No new roles detected in the latest scan._
+**1** new stable posting (seen in two consecutive scans):
+
+**Software**
+
+- **Voleon Group** — [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) — Berkeley, CA _(hours not stated)_
 
 ---
 

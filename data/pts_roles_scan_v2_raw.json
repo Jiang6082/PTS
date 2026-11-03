@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-02T22:20:26.393Z",
+  "searchedAt": "2026-11-03T12:55:04.853Z",
   "companies": [
     "Google",
     "Meta",
@@ -311,7 +311,7 @@
     "Argonne National Laboratory"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-02T22:20:26.394Z",
+    "generatedAt": "2026-11-03T12:55:04.854Z",
     "companies": {
       "Google": {
         "careerPages": [
@@ -635,8 +635,12 @@
         "updatedAt": "2026-10-29T12:10:26.690Z"
       },
       "Mistral AI": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://mistral.ai/careers/",
+          "https://jobs.ashbyhq.com/mistral.ai",
+          "https://jobs.ashbyhq.com/mistral.ai?departmentId=f96aa804-10b5-45e7-8132-560137936a6b"
+        ],
+        "updatedAt": "2026-11-03T12:55:04.854Z"
       },
       "ElevenLabs": {
         "careerPages": [
@@ -689,8 +693,10 @@
         "updatedAt": "2026-10-29T12:37:41.941Z"
       },
       "Exa": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://jobs.ashbyhq.com/exa/"
+        ],
+        "updatedAt": "2026-11-03T12:55:04.854Z"
       },
       "Modal": {
         "careerPages": [
@@ -831,8 +837,12 @@
         "updatedAt": "2026-10-29T12:10:26.690Z"
       },
       "Retool": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://retool.com/careers",
+          "https://retoolers.io/career",
+          "https://retool.com/careers/director-business-operations--business-operations--san-francisco-united-states"
+        ],
+        "updatedAt": "2026-11-03T12:55:04.854Z"
       },
       "Airtable": {
         "careerPages": [
@@ -940,8 +950,10 @@
         "updatedAt": "2026-11-02T22:20:26.394Z"
       },
       "Stand Out For Good": {
-        "careerPages": [],
-        "updatedAt": "2026-10-29T12:10:26.690Z"
+        "careerPages": [
+          "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood"
+        ],
+        "updatedAt": "2026-11-03T12:55:04.854Z"
       },
       "Robinhood": {
         "careerPages": [
@@ -2949,6 +2961,18 @@
       "pageUrl": "https://jobs.ashbyhq.com/Perplexity?gh_src=Accel+job+board"
     },
     {
+      "company": "Mistral AI",
+      "pageUrl": "https://mistral.ai/careers/"
+    },
+    {
+      "company": "Mistral AI",
+      "pageUrl": "https://jobs.ashbyhq.com/mistral.ai"
+    },
+    {
+      "company": "Mistral AI",
+      "pageUrl": "https://jobs.ashbyhq.com/mistral.ai?departmentId=f96aa804-10b5-45e7-8132-560137936a6b"
+    },
+    {
       "company": "ElevenLabs",
       "pageUrl": "https://join.elevenlabs.io/sound-effects"
     },
@@ -3007,6 +3031,10 @@
     {
       "company": "Anysphere (Cursor)",
       "pageUrl": "https://cursor.com/careers"
+    },
+    {
+      "company": "Exa",
+      "pageUrl": "https://jobs.ashbyhq.com/exa/"
     },
     {
       "company": "Modal",
@@ -3185,6 +3213,18 @@
       "pageUrl": "https://posthog.com/careers/product-engineer"
     },
     {
+      "company": "Retool",
+      "pageUrl": "https://retool.com/careers"
+    },
+    {
+      "company": "Retool",
+      "pageUrl": "https://retoolers.io/career"
+    },
+    {
+      "company": "Retool",
+      "pageUrl": "https://retool.com/careers/director-business-operations--business-operations--san-francisco-united-states"
+    },
+    {
       "company": "Airtable",
       "pageUrl": "https://airtable.com/careers"
     },
@@ -3311,6 +3351,10 @@
     {
       "company": "Inmar Intelligence",
       "pageUrl": "https://inmar.wd1.myworkdayjobs.com/inmarcareers"
+    },
+    {
+      "company": "Stand Out For Good",
+      "pageUrl": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood"
     },
     {
       "company": "Robinhood",
@@ -5792,8 +5836,8 @@
       "company": "Lyft",
       "pageUrl": "https://www.lyft.com/careers/early-talent",
       "resolvedUrl": "https://www.lyft.com/careers/early-talent",
-      "pageOk": false,
-      "pageStatus": 429,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -6389,12 +6433,10 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/professionals/",
       "resolvedUrl": "https://www.bloomberg.com/company/professionals/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -6417,12 +6459,10 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/early-careers/",
       "resolvedUrl": "https://www.bloomberg.com/company/early-careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -6747,6 +6787,69 @@
       "relevantRoles": 0
     },
     {
+      "company": "Mistral AI",
+      "pageUrl": "https://mistral.ai/careers/",
+      "resolvedUrl": "https://mistral.ai/careers/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "ashby": [
+          "mistral.ai"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Ashby:mistral.ai",
+          "jobsSeen": 229
+        }
+      ],
+      "jobsSeen": 229,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mistral AI",
+      "pageUrl": "https://jobs.ashbyhq.com/mistral.ai",
+      "resolvedUrl": "https://jobs.ashbyhq.com/mistral.ai",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "ashby": [
+          "mistral.ai"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Ashby:mistral.ai",
+          "jobsSeen": 229
+        }
+      ],
+      "jobsSeen": 229,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Mistral AI",
+      "pageUrl": "https://jobs.ashbyhq.com/mistral.ai?departmentId=f96aa804-10b5-45e7-8132-560137936a6b",
+      "resolvedUrl": "https://jobs.ashbyhq.com/mistral.ai?departmentId=f96aa804-10b5-45e7-8132-560137936a6b",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "ashby": [
+          "mistral.ai"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [
+        {
+          "source": "Ashby:mistral.ai",
+          "jobsSeen": 229
+        }
+      ],
+      "jobsSeen": 229,
+      "relevantRoles": 0
+    },
+    {
       "company": "ElevenLabs",
       "pageUrl": "https://join.elevenlabs.io/sound-effects",
       "resolvedUrl": "https://join.elevenlabs.io/sound-effects",
@@ -6983,10 +7086,26 @@
       "boards": [
         {
           "source": "Ashby:cursor",
-          "jobsSeen": 124
+          "jobsSeen": 122
         }
       ],
-      "jobsSeen": 124,
+      "jobsSeen": 122,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Exa",
+      "pageUrl": "https://jobs.ashbyhq.com/exa/",
+      "resolvedUrl": "https://jobs.ashbyhq.com/exa/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "ashby": [
+          "exa"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -7628,6 +7747,42 @@
       "relevantRoles": 0
     },
     {
+      "company": "Retool",
+      "pageUrl": "https://retool.com/careers",
+      "resolvedUrl": "https://retool.com/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Retool",
+      "pageUrl": "https://retoolers.io/career",
+      "resolvedUrl": "https://retoolers.io/career",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Retool",
+      "pageUrl": "https://retool.com/careers/director-business-operations--business-operations--san-francisco-united-states",
+      "resolvedUrl": "https://retool.com/careers/director-business-operations--business-operations--san-francisco-united-states",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Airtable",
       "pageUrl": "https://airtable.com/careers",
       "resolvedUrl": "https://airtable.com/careers",
@@ -8054,10 +8209,10 @@
       "boards": [
         {
           "source": "Greenhouse:guidepoint",
-          "jobsSeen": 110
+          "jobsSeen": 106
         }
       ],
-      "jobsSeen": 110,
+      "jobsSeen": 106,
       "relevantRoles": 0
     },
     {
@@ -8118,6 +8273,25 @@
         }
       ],
       "jobsSeen": 45,
+      "relevantRoles": 0
+    },
+    {
+      "company": "Stand Out For Good",
+      "pageUrl": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood",
+      "resolvedUrl": "https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "standoutforgood.wd12.myworkdayjobs.com",
+            "site": "StandOutForGood"
+          }
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -8342,6 +8516,9 @@
           "certik"
         ],
         "ashby": [
+          "spruceid",
+          "blackbird-labs-inc",
+          "cointracker",
           "rain"
         ],
         "breezy": [
@@ -8354,11 +8531,23 @@
       "boards": [
         {
           "source": "Greenhouse:wavemm1",
-          "jobsSeen": 62
+          "jobsSeen": 61
         },
         {
           "source": "Lever:certik",
           "jobsSeen": 33
+        },
+        {
+          "source": "Ashby:spruceid",
+          "jobsSeen": 7
+        },
+        {
+          "source": "Ashby:blackbird-labs-inc",
+          "jobsSeen": 5
+        },
+        {
+          "source": "Ashby:cointracker",
+          "jobsSeen": 1
         },
         {
           "source": "Ashby:rain",
@@ -8369,7 +8558,7 @@
           "jobsSeen": 5
         }
       ],
-      "jobsSeen": 136,
+      "jobsSeen": 148,
       "relevantRoles": 0
     },
     {
@@ -8403,10 +8592,10 @@
       "boards": [
         {
           "source": "Ashby:krakentech",
-          "jobsSeen": 66
+          "jobsSeen": 64
         }
       ],
-      "jobsSeen": 66,
+      "jobsSeen": 64,
       "relevantRoles": 0
     },
     {
@@ -8506,10 +8695,10 @@
       "boards": [
         {
           "source": "Ashby:Pear-VC",
-          "jobsSeen": 108
+          "jobsSeen": 105
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 105,
       "relevantRoles": 0
     },
     {
@@ -8934,10 +9123,10 @@
       "boards": [
         {
           "source": "Ashby:alpacahealth",
-          "jobsSeen": 414
+          "jobsSeen": 415
         }
       ],
-      "jobsSeen": 414,
+      "jobsSeen": 415,
       "relevantRoles": 0
     },
     {
@@ -12024,10 +12213,10 @@
       "boards": [
         {
           "source": "Workday:baincapital/External_Public",
-          "jobsSeen": 24
+          "jobsSeen": 23
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 23,
       "relevantRoles": 0
     },
     {
@@ -12060,10 +12249,10 @@
       "boards": [
         {
           "source": "Workday:baincapital/external_public",
-          "jobsSeen": 24
+          "jobsSeen": 23
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 23,
       "relevantRoles": 0
     },
     {
@@ -12117,22 +12306,25 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "simplepractice55",
+          "nasuni",
+          "acquia",
           "knowbe4",
-          "logicmonitor",
-          "redwoodsoftware"
+          "salesloft",
+          "lucidsoftware",
+          "trgscreen",
+          "poppulo",
+          "smartsheet"
         ],
-        "smartrecruiters": [
-          "Acumatica"
+        "ashby": [
+          "menlosecurity"
         ],
-        "oracle": [
-          {
-            "host": "efpv.fa.us6.oraclecloud.com",
-            "site": "CX_1"
-          }
+        "breezy": [
+          "quantios"
         ]
       },
       "unsupportedAts": [
-        "bamboohr"
+        "adp"
       ],
       "boards": [],
       "jobsSeen": 0,
@@ -12257,25 +12449,23 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "forwardnetworks",
           "andurilindustries",
-          "figma"
+          "carta",
+          "figma",
+          "boxinc"
+        ],
+        "greenhouse_eu": [
+          "groupon"
         ],
         "ashby": [
-          "lime",
-          "saronic",
-          "cowboyspace",
-          "apex-technology-inc",
-          "stuut-ai",
-          "cognition",
-          "radiant-industries",
-          "headway",
-          "astro-mechanica"
+          "elevenlabs",
+          "openai",
+          "lio",
+          "harvey",
+          "atlys"
         ]
       },
-      "unsupportedAts": [
-        "rippling"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -12336,10 +12526,16 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "generalcatalyst"
+          "generalcatalyst",
+          "helsing",
+          "anthropic",
+          "vardaspace",
+          "novacredit",
+          "togetherai"
         ],
         "ashby": [
-          "paradigm-health"
+          "Commure",
+          "black-forest-labs"
         ]
       },
       "unsupportedAts": [],
@@ -12367,13 +12563,9 @@
       "company": "General Catalyst",
       "pageUrl": "https://jobs.generalcatalyst.com/companies",
       "resolvedUrl": "https://jobs.generalcatalyst.com/companies",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "greenhouse": [
-          "generalcatalyst"
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -12408,33 +12600,21 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "gomotive",
-          "onetrust",
-          "showpad",
-          "coast",
-          "conga"
+          "leolabsinc",
+          "rapidsos",
+          "6sense",
+          "fairmarkit",
+          "workato"
         ],
         "lever": [
-          "kpler"
+          "Coda"
         ],
         "ashby": [
-          "incident"
-        ],
-        "workable": [
-          "apna"
-        ],
-        "pinpoint": [
-          "indrive"
-        ],
-        "workday": [
-          {
-            "host": "postman.wd108.myworkdayjobs.com",
-            "site": "careers"
-          },
-          {
-            "host": "browserstack.wd3.myworkdayjobs.com",
-            "site": "External"
-          }
+          "rewind",
+          "onebrief",
+          "VectorSolutions",
+          "factory",
+          "checkout.com"
         ]
       },
       "unsupportedAts": [],
@@ -12450,33 +12630,21 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "gomotive",
-          "onetrust",
-          "showpad",
-          "coast",
-          "conga"
+          "leolabsinc",
+          "rapidsos",
+          "6sense",
+          "fairmarkit",
+          "workato"
         ],
         "lever": [
-          "kpler"
+          "Coda"
         ],
         "ashby": [
-          "incident"
-        ],
-        "workable": [
-          "apna"
-        ],
-        "pinpoint": [
-          "indrive"
-        ],
-        "workday": [
-          {
-            "host": "postman.wd108.myworkdayjobs.com",
-            "site": "careers"
-          },
-          {
-            "host": "browserstack.wd3.myworkdayjobs.com",
-            "site": "External"
-          }
+          "rewind",
+          "onebrief",
+          "VectorSolutions",
+          "factory",
+          "checkout.com"
         ]
       },
       "unsupportedAts": [],
@@ -12516,13 +12684,18 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "datadog",
-          "anthropic"
+          "usenourish",
+          "novacredit",
+          "paveakatroveinformationtechnologies",
+          "getbuilt"
+        ],
+        "lever": [
+          "farfetch"
         ],
         "ashby": [
-          "conduct",
-          "plaid",
-          "incident"
+          "tebi",
+          "alan",
+          "notion"
         ]
       },
       "unsupportedAts": [],
@@ -12560,24 +12733,23 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "snorkelai",
           "cresta",
           "wisetack",
           "postscript",
-          "instawork",
-          "obsidiansecurity"
+          "instawork"
         ],
         "lever": [
           "lyrahealth",
           "payjoy"
         ],
         "ashby": [
-          "magiceden",
           "ramp",
+          "magiceden",
           "baseten",
-          "cogent-security",
-          "Braintrust",
           "sevenai",
-          "frec"
+          "cogent-security",
+          "Braintrust"
         ]
       },
       "unsupportedAts": [],
@@ -12662,13 +12834,11 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "monzo",
-          "spacex",
-          "andurilindustries"
+          "databricks",
+          "oscar"
         ],
         "ashby": [
-          "plaid",
-          "artsy"
+          "notion"
         ]
       },
       "unsupportedAts": [],
@@ -12718,17 +12888,16 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "vardaspace"
-        ],
-        "lever": [
-          "Nomagic"
+          "vardaspace",
+          "polyai",
+          "forteracorporation",
+          "zocdoc",
+          "machindustries"
         ],
         "ashby": [
-          "genesis",
-          "traba",
-          "omnea",
-          "openai",
-          "skyflow"
+          "stuut-ai",
+          "cloaked",
+          "openai"
         ]
       },
       "unsupportedAts": [],
@@ -12848,11 +13017,17 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "workday": [
-          {
-            "host": "automationanywhere.wd5.myworkdayjobs.com",
-            "site": "AutomationAnywhereJobs"
-          }
+        "greenhouse": [
+          "anthropic",
+          "usenourish",
+          "shipbobinc",
+          "eve"
+        ],
+        "lever": [
+          "contentsquare"
+        ],
+        "ashby": [
+          "lovable"
         ]
       },
       "unsupportedAts": [],
@@ -12951,6 +13126,9 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
+        "lever": [
+          "HDVI"
+        ],
         "ashby": [
           "axle-health"
         ],
@@ -12983,10 +13161,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -13004,10 +13182,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 34
+          "jobsSeen": 33
         }
       ],
-      "jobsSeen": 34,
+      "jobsSeen": 33,
       "relevantRoles": 0
     },
     {
@@ -13647,7 +13825,7 @@
     {
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
-      "resolvedUrl": "https://www.allstate.jobs/",
+      "resolvedUrl": "https://www.allstatecorporation.com/careers.aspx",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -14088,10 +14266,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3020
+          "jobsSeen": 3019
         }
       ],
-      "jobsSeen": 3020,
+      "jobsSeen": 3019,
       "relevantRoles": 0
     },
     {
@@ -14114,10 +14292,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3020
+          "jobsSeen": 3019
         }
       ],
-      "jobsSeen": 3020,
+      "jobsSeen": 3019,
       "relevantRoles": 0
     },
     {
@@ -14534,7 +14712,7 @@
     {
       "company": "Relativity",
       "pageUrl": "https://careers.relativity.com/job-search-results/",
-      "resolvedUrl": "https://careers.relativity.com/job-search-results/",
+      "resolvedUrl": "https://careers.relativity.com/job-search-results/?repeat=w3tc",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {},
@@ -15526,10 +15704,10 @@
       "boards": [
         {
           "source": "Oracle:fa-etnf-saasfaprod1/CX_1001",
-          "jobsSeen": 597
+          "jobsSeen": 598
         }
       ],
-      "jobsSeen": 597,
+      "jobsSeen": 598,
       "relevantRoles": 0
     },
     {
@@ -16134,9 +16312,7 @@
     "Deel",
     "Franklin Templeton",
     "GTCR",
-    "Index Ventures",
-    "Mistral AI",
-    "Russell Investments"
+    "Index Ventures"
   ],
   "confirmedNoMatchingRoles": [
     "3Red Partners",
@@ -16152,12 +16328,12 @@
     "Alpaca",
     "Amazon",
     "Anchorage Digital",
+    "Andreessen Horowitz",
     "Anduril",
     "Anysphere (Cursor)",
     "Apollo Global Management",
     "Ares Management",
     "Ariel Investments",
-    "Arrowstreet",
     "Asana",
     "Automattic",
     "Avant",
@@ -16271,6 +16447,7 @@
     "Mercury",
     "Merkle Science",
     "Millennium",
+    "Mistral AI",
     "Modal",
     "MongoDB",
     "Morgan Stanley",
@@ -16280,6 +16457,7 @@
     "NVIDIA",
     "Nasdaq",
     "Nationwide",
+    "Netflix",
     "Neuberger Berman",
     "Northern Trust Asset Management",
     "Northwestern Mutual",
@@ -16294,7 +16472,6 @@
     "Palantir",
     "Paxos",
     "PayPal",
-    "Peak6",
     "Pear VC",
     "Perplexity",
     "Pinterest",
@@ -16309,6 +16486,7 @@
     "Ripple",
     "Robinhood",
     "Roblox",
+    "Russell Investments",
     "S&P Global",
     "Salesforce",
     "Samsara",
@@ -16320,6 +16498,7 @@
     "Sleeper",
     "Snorkel AI",
     "SpotHero",
+    "Spotify",
     "Sprout Social",
     "Squarepoint Capital",
     "Stand Out For Good",
@@ -16362,9 +16541,9 @@
   "couldNotFullyVerify": [
     "Accel",
     "Adobe",
-    "Andreessen Horowitz",
     "Apple",
     "Argonne National Laboratory",
+    "Arrowstreet",
     "BMO Capital Markets",
     "Bain Capital Ventures",
     "Bank of America",
@@ -16413,18 +16592,17 @@
     "Microsoft",
     "NEA",
     "NORC at the University of Chicago",
-    "Netflix",
     "OCA Ventures",
     "Origin Ventures",
     "Pacific Life",
     "Packback",
+    "Peak6",
     "Pritzker Group Venture Capital",
     "Pritzker Private Capital",
     "Raymond James",
     "Retool",
     "ShipBob",
     "Snowflake",
-    "Spotify",
     "State Street",
     "Synchrony",
     "Tempus AI",
