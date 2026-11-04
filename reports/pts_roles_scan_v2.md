@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-03T20:06:38.838Z
+Scanned: 2026-11-04T20:26:46.785Z
 Employers searched: 308
-Career pages checked: 681
+Career pages checked: 684
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -86,8 +86,8 @@ _None._
 - Amazon
 - Anchorage Digital
 - Andreessen Horowitz
+- Anduril
 - Anysphere (Cursor)
-- Apollo Global Management
 - Ares Management
 - Ariel Investments
 - Arrowstreet
@@ -110,6 +110,7 @@ _None._
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
+- Buffer
 - CME Group
 - Canonical
 - Capital Group
@@ -120,7 +121,6 @@ _None._
 - Cleo
 - Cloudflare
 - Cohere
-- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -213,6 +213,7 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
+- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -224,6 +225,7 @@ _None._
 - Optiver
 - PGIM
 - PIMCO
+- Palantir
 - Paxos
 - PayPal
 - Peak6
@@ -300,7 +302,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Anduril
+- Apollo Global Management
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
@@ -310,7 +312,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - BlackRock
 - Bloomberg
 - Brevan Howard
-- Buffer
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -322,6 +323,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Cognition
 - Coinbase
 - Collide Capital
+- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -352,12 +354,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
-- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
 - Packback
-- Palantir
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James

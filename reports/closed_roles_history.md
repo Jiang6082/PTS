@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 2
-Last updated: 2026-11-03T20:06:38.838Z
+Total closures recorded: 3
+Last updated: 2026-11-04T20:26:46.785Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-04 (1)
+
+- **Notion** - [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) - San Francisco, California
 
 ### 2026-10-30 (2)
 

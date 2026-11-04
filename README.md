@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-11-03 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **2 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-04 &nbsp;•&nbsp; **6 part-time roles** &nbsp;•&nbsp; **4 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **3 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,7 +14,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 ## 🆕 New Roles
 
-_Scan date: 2026-11-03_
+_Scan date: 2026-11-04_
 
 _No new roles detected in the latest scan._
 
@@ -168,7 +168,7 @@ npm test                  # offline self-test (stubbed fetch)
 | [reports/LATEST_PTS_SCAN.md](reports/LATEST_PTS_SCAN.md) | Latest scan summary + newest roles |
 | [reports/pts_roles_scan_v2.md](reports/pts_roles_scan_v2.md) / [.csv](reports/pts_roles_scan_v2.csv) | Full current list with per-employer coverage status |
 | [reports/new_pts_roles_since_last_run.md](reports/new_pts_roles_since_last_run.md) | New stable job URLs |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (2 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (3 so far) |
 | [reports/current_pts_roles_not_in_tracker.md](reports/current_pts_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/pts_roster_scan_audit.md](reports/pts_roster_scan_audit.md) | Every employer's coverage state, live boards, and failed seeds |
 | [inputs/pts_employer_roster.json](inputs/pts_employer_roster.json) | Employer universe: category, scope regex, `kind` (vc / uchicago), `localOk` |
