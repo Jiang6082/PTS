@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-05T13:16:10.669Z
+Scanned: 2026-11-05T20:35:58.690Z
 Employers searched: 308
-Career pages checked: 687
+Career pages checked: 690
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -65,6 +65,8 @@ _None._
 
 ## Confirmed: Enumerated Source Reports No Open Postings
 
+- Ares Management
+- Blue Owl Capital
 - Deel
 - Franklin Templeton
 - GTCR
@@ -89,7 +91,6 @@ _None._
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
-- Ares Management
 - Ariel Investments
 - Arrowstreet
 - Asana
@@ -107,7 +108,6 @@ _None._
 - Betterment
 - Blackstone
 - Blockhouse
-- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -121,9 +121,7 @@ _None._
 - Clear Street
 - Cleo
 - Cloudflare
-- Cognition
 - Cohere
-- Coinbase
 - Connor Clark & Lunn
 - Consensys
 - CoreWeave
@@ -206,6 +204,7 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -217,6 +216,7 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
+- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -321,6 +321,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Chicago Ventures
 - Citadel
 - Citi
+- Cognition
+- Coinbase
 - Collide Capital
 - Contrary
 - D. E. Shaw
@@ -349,10 +351,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
 - NEA
 - NORC at the University of Chicago
-- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
