@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-04T20:26:46.785Z
+Scanned: 2026-11-05T13:16:10.669Z
 Employers searched: 308
-Career pages checked: 684
+Career pages checked: 687
 Part-time roles: 6
 Term-time roles, hours not stated: 4
 
@@ -88,6 +88,7 @@ _None._
 - Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
+- Apollo Global Management
 - Ares Management
 - Ariel Investments
 - Arrowstreet
@@ -120,7 +121,10 @@ _None._
 - Clear Street
 - Cleo
 - Cloudflare
+- Cognition
 - Cohere
+- Coinbase
+- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -213,7 +217,6 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -280,7 +283,6 @@ _None._
 - Viking Global Investors
 - Virtu Financial
 - Visa
-- Vista Equity Partners
 - Vivid Seats
 - Walleye Capital
 - Warburg Pincus
@@ -302,7 +304,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Apollo Global Management
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
@@ -320,10 +321,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Chicago Ventures
 - Citadel
 - Citi
-- Cognition
-- Coinbase
 - Collide Capital
-- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -354,6 +352,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
+- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
@@ -371,5 +370,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Two Sigma
 - U.S. Bank
 - Uptake
+- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs

@@ -1,18 +1,18 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-11-04T20:26:46.785Z
+Last updated: 2026-11-05T13:16:10.669Z
 
 ## Summary
 
 - Employers searched: 308
-- Career pages checked: 684
+- Career pages checked: 687
 - Current roles: 10 (6 part-time, 4 term-time with hours not stated)
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 1
+- No longer present since previous scan: 0
 - Employers with matching roles: 8
 - Confirmed no open postings: 4
-- Openings but no matching role: 223
-- Could not fully verify: 73
+- Openings but no matching role: 225
+- Could not fully verify: 71
 
 ## Roles By Employer Category
 
@@ -46,7 +46,7 @@ _None._
 
 ## No Longer Present
 
-- **Notion** - [Software Engineer Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) - San Francisco, California
+_None._
 
 ## Full Reports
 
