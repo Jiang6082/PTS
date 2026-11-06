@@ -1,16 +1,15 @@
 # Current Part-Time Roles Not In Your Tracker
 
-Current scan: 2026-11-05T20:35:58.690Z
+Current scan: 2026-11-06T19:58:52.316Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 10
+Current roles absent from tracker: 9
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
-### Software (3)
+### Software (2)
 
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 - **OneEthos** - [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - United States - Remote - Confirmed official posting (Official ATS Greenhouse:oneethos): part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote
-- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Official ATS Ashby:voleon): hours not stated; term: December 2026; fully remote
 
 ### Data (7)
 

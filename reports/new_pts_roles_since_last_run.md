@@ -1,9 +1,9 @@
 # New Part-Time Roles Since Last Run
 
-Previous scan: 2026-11-05T13:16:10.669Z
-Current scan: 2026-11-05T20:35:58.690Z
+Previous scan: 2026-11-05T20:35:58.690Z
+Current scan: 2026-11-06T19:58:52.316Z
 Previous rows: 10
-Current rows: 10
+Current rows: 9
 New stable job URLs: 0
 No longer present: 0
 

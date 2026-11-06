@@ -1,10 +1,10 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-05T20:35:58.690Z
+Scanned: 2026-11-06T19:58:52.316Z
 Employers searched: 308
-Career pages checked: 690
+Career pages checked: 693
 Part-time roles: 6
-Term-time roles, hours not stated: 4
+Term-time roles, hours not stated: 3
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
 
@@ -41,10 +41,9 @@ _None._
 
 ## Term-Time Roles, Hours Not Stated (check the posting)
 
-### Software (2)
+### Software (1)
 
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
-- **Voleon Group** - [Research Intern](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9) - Berkeley, CA - Confirmed official posting (Official ATS Ashby:voleon): hours not stated; term: December 2026; fully remote
 
 ### Data (2)
 
@@ -65,8 +64,6 @@ _None._
 
 ## Confirmed: Enumerated Source Reports No Open Postings
 
-- Ares Management
-- Blue Owl Capital
 - Deel
 - Franklin Templeton
 - GTCR
@@ -91,6 +88,7 @@ _None._
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
+- Ares Management
 - Ariel Investments
 - Arrowstreet
 - Asana
@@ -108,6 +106,7 @@ _None._
 - Betterment
 - Blackstone
 - Blockhouse
+- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -284,6 +283,7 @@ _None._
 - Virtu Financial
 - Visa
 - Vivid Seats
+- Voleon Group
 - Walleye Capital
 - Warburg Pincus
 - Wealthfront
