@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-06T19:58:52.316Z
+Scanned: 2026-11-07T16:28:30.917Z
 Employers searched: 308
-Career pages checked: 693
+Career pages checked: 695
 Part-time roles: 6
 Term-time roles, hours not stated: 3
 
@@ -97,6 +97,7 @@ _None._
 - B2C2
 - Baillie Gifford
 - Bain Capital
+- Bain Capital Ventures
 - Basis Technologies
 - Battery Ventures
 - Belvedere Trading
@@ -196,14 +197,12 @@ _None._
 - Lucid Software
 - Lyft
 - M&T Bank
-- MFS Investment Management
 - Man Group
 - MassMutual
 - Menlo Ventures
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -215,9 +214,6 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
-- Neuberger Berman
-- Northern Trust Asset Management
 - Northwestern Mutual
 - Nubank
 - Nuveen
@@ -282,6 +278,7 @@ _None._
 - Viking Global Investors
 - Virtu Financial
 - Visa
+- Vista Equity Partners
 - Vivid Seats
 - Voleon Group
 - Walleye Capital
@@ -307,7 +304,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
-- Bain Capital Ventures
 - Bank of America
 - Barclays
 - BlackRock
@@ -347,12 +343,17 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - LPL Financial
 - Lightbank
 - M25
+- MFS Investment Management
 - Macquarie
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
 - NEA
 - NORC at the University of Chicago
+- Netflix
+- Neuberger Berman
+- Northern Trust Asset Management
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
@@ -370,6 +371,5 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Two Sigma
 - U.S. Bank
 - Uptake
-- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs
