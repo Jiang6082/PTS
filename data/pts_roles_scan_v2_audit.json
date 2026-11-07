@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-07T16:28:30.917Z",
+  "searchedAt": "2026-11-07T18:02:55.586Z",
   "companies": [
     "Google",
     "Meta",
@@ -335,7 +335,6 @@
     "Origin Ventures",
     "Discover Financial Services",
     "Ariel Investments",
-    "Harris Associates (Oakmark)",
     "Basis Technologies"
   ],
   "careerPageScanAudits": [
@@ -1628,9 +1627,13 @@
       "company": "Anthropic",
       "pageUrl": "https://www.anthropic.com/careers/jobs",
       "resolvedUrl": "https://www.anthropic.com/careers/jobs",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "anthropic"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -4139,7 +4142,7 @@
       "pageUrl": "https://careers.toasttab.com/",
       "resolvedUrl": "https://careers.toasttab.com/",
       "pageOk": true,
-      "pageStatus": 202,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4789,8 +4792,8 @@
       "company": "Vanguard",
       "pageUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
       "resolvedUrl": "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -5171,16 +5174,9 @@
       "company": "Dimensional Fund Advisors",
       "pageUrl": "https://careers.dimensional.com/internships",
       "resolvedUrl": "https://careers.dimensional.com/internships",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "dimensional.wd5.myworkdayjobs.com",
-            "site": "DFA_Careers"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -5190,28 +5186,12 @@
       "company": "Wellington Management",
       "pageUrl": "https://www.wellington.com/en/about-us/careers",
       "resolvedUrl": "https://www.wellington.com/en/about-us/careers",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "wellington.wd5.myworkdayjobs.com",
-            "site": "External"
-          },
-          {
-            "host": "wellington.wd5.myworkdayjobs.com",
-            "site": "Campus"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
-      "boards": [
-        {
-          "source": "Workday:wellington/Campus",
-          "jobsSeen": 6
-        }
-      ],
-      "jobsSeen": 6,
+      "boards": [],
+      "jobsSeen": 0,
       "relevantRoles": 0
     },
     {
@@ -7638,6 +7618,7 @@
           "Nexthink"
         ],
         "icims": [
+          "careers-granicus",
           "careers-oneadvanced"
         ]
       },
@@ -7884,9 +7865,13 @@
       "company": "General Catalyst",
       "pageUrl": "https://jobs.generalcatalyst.com/companies",
       "resolvedUrl": "https://jobs.generalcatalyst.com/companies",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "greenhouse": [
+          "generalcatalyst"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -7923,8 +7908,7 @@
         "greenhouse": [
           "hootsuite",
           "keepersecurity",
-          "keyfactorinc",
-          "launchdarkly"
+          "keyfactorinc"
         ],
         "lever": [
           "kpler"
@@ -7949,8 +7933,7 @@
         "greenhouse": [
           "hootsuite",
           "keepersecurity",
-          "keyfactorinc",
-          "launchdarkly"
+          "keyfactorinc"
         ],
         "lever": [
           "kpler"
@@ -8203,7 +8186,9 @@
           "ellipsis-health"
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -8328,9 +8313,13 @@
         "ashby": [
           "higgsfieldai",
           "suno",
-          "Solace",
-          "legora",
-          "Envoy"
+          "Solace"
+        ],
+        "workday": [
+          {
+            "host": "bitsight.wd1.myworkdayjobs.com",
+            "site": "Bitsight"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -9065,8 +9054,8 @@
       "company": "Synchrony",
       "pageUrl": "https://synchronypharmacy.com/careers/",
       "resolvedUrl": "https://synchronypharmacy.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -9136,9 +9125,16 @@
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
       "resolvedUrl": "https://www.allstate.jobs/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "allstate.wd5.myworkdayjobs.com",
+            "site": "allstate_careers"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -9573,10 +9569,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3018
+          "jobsSeen": 3017
         }
       ],
-      "jobsSeen": 3018,
+      "jobsSeen": 3017,
       "relevantRoles": 0
     },
     {
@@ -9599,10 +9595,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3018
+          "jobsSeen": 3017
         }
       ],
-      "jobsSeen": 3018,
+      "jobsSeen": 3017,
       "relevantRoles": 0
     },
     {
@@ -9946,6 +9942,18 @@
       "relevantRoles": 0
     },
     {
+      "company": "Harris Associates (Oakmark)",
+      "pageUrl": "https://harris.uchicago.edu/",
+      "resolvedUrl": "https://harris.uchicago.edu/",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
       "company": "Calamos Investments",
       "pageUrl": "https://www.calamos.com/funds/etf/",
       "resolvedUrl": "https://www.calamos.com/funds/etf/",
@@ -10044,8 +10052,8 @@
       "company": "Relativity",
       "pageUrl": "https://careers.relativity.com/job-search-results/",
       "resolvedUrl": "https://careers.relativity.com/job-search-results/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -10224,8 +10232,8 @@
       "company": "Uptake",
       "pageUrl": "https://uptake.com/careers/",
       "resolvedUrl": "https://uptake.com/careers/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],

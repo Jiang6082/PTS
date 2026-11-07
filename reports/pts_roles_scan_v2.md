@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-07T16:28:30.917Z
+Scanned: 2026-11-07T18:02:55.586Z
 Employers searched: 308
-Career pages checked: 695
+Career pages checked: 696
 Part-time roles: 6
 Term-time roles, hours not stated: 3
 
@@ -187,7 +187,6 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
-- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -197,6 +196,7 @@ _None._
 - Lucid Software
 - Lyft
 - M&T Bank
+- MFS Investment Management
 - Man Group
 - MassMutual
 - Menlo Ventures
@@ -214,6 +214,9 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
+- Netflix
+- Neuberger Berman
+- Northern Trust Asset Management
 - Northwestern Mutual
 - Nubank
 - Nuveen
@@ -340,10 +343,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
+- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
-- MFS Investment Management
 - Macquarie
 - Madison Dearborn Partners
 - Mastercard
@@ -351,9 +354,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
-- Netflix
-- Neuberger Berman
-- Northern Trust Asset Management
 - OCA Ventures
 - Origin Ventures
 - Pacific Life

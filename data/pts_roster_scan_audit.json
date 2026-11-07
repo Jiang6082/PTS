@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T16:34:45.367Z",
-  "scanStartedAt": "2026-11-07T16:28:30.917Z",
+  "generatedAt": "2026-11-07T18:09:29.401Z",
+  "scanStartedAt": "2026-11-07T18:02:55.586Z",
   "sourceRosterEntries": 308,
   "canonicalCompanies": 308,
   "counts": {
     "matching-role-found": 7,
     "confirmed-no-open-postings": 4,
-    "confirmed-openings-no-matching-role": 223,
-    "could-not-fully-verify": 74
+    "confirmed-openings-no-matching-role": 226,
+    "could-not-fully-verify": 71
   },
   "companies": [
     {
@@ -116,7 +116,7 @@
         "Netflix"
       ],
       "category": "Big Tech",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://jobs.netflix.com/",
         "https://explore.jobs.netflix.net/careers",
@@ -124,12 +124,12 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 0,
+      "jobsSeen": 17,
       "relevantRoles": 0,
-      "liveBoards": [],
-      "failedSeededBoards": [
-        "eightfold:explore.jobs.netflix.net/netflix.com"
-      ]
+      "liveBoards": [
+        "Eightfold:explore.jobs.netflix.net (17)"
+      ],
+      "failedSeededBoards": []
     },
     {
       "company": "NVIDIA",
@@ -271,10 +271,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 765,
+      "jobsSeen": 766,
       "relevantRoles": 0,
       "liveBoards": [
-        "Greenhouse:stripe (765)"
+        "Greenhouse:stripe (766)"
       ],
       "failedSeededBoards": []
     },
@@ -705,7 +705,7 @@
         "https://www.anthropic.com/careers/jobs",
         "https://job-boards.greenhouse.io/anthropic"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 675,
       "relevantRoles": 1,
@@ -2297,10 +2297,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 790,
+      "jobsSeen": 789,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mastercard/CorporateCareers (763)",
+        "Workday:mastercard/CorporateCareers (762)",
         "Workday:mastercard/Campus (27)"
       ],
       "failedSeededBoards": []
@@ -2359,10 +2359,10 @@
       ],
       "livePages": 0,
       "attemptedPages": 3,
-      "jobsSeen": 325,
+      "jobsSeen": 326,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:tsys/TSYS (325)"
+        "Workday:tsys/TSYS (326)"
       ],
       "failedSeededBoards": []
     },
@@ -2476,7 +2476,7 @@
         "https://www.vanguardjobs.com/home-us/?source=Corporate_Website",
         "https://vanguard.wd5.myworkdayjobs.com/vanguard_external"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 217,
       "relevantRoles": 0,
@@ -2499,11 +2499,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 535,
+      "jobsSeen": 580,
       "relevantRoles": 0,
       "liveBoards": [
         "Workday:fil/001 (61)",
-        "Workday:fmr/fidelitycareers (474)"
+        "Workday:fmr/fidelitycareers (519)"
       ],
       "failedSeededBoards": []
     },
@@ -2623,10 +2623,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:tiaa/Search (141)"
+        "Workday:tiaa/Search (142)"
       ],
       "failedSeededBoards": []
     },
@@ -2665,10 +2665,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 162,
+      "jobsSeen": 167,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:capgroup/capitalgroupcareers (162)"
+        "Workday:capgroup/capitalgroupcareers (167)"
       ],
       "failedSeededBoards": []
     },
@@ -2682,7 +2682,7 @@
       "careerPages": [
         "https://careers.dimensional.com/internships"
       ],
-      "livePages": 1,
+      "livePages": 0,
       "attemptedPages": 1,
       "jobsSeen": 59,
       "relevantRoles": 0,
@@ -2703,7 +2703,7 @@
         "https://www.wellington.com/en/careers",
         "https://wellington.wd5.myworkdayjobs.com/External"
       ],
-      "livePages": 3,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 122,
       "relevantRoles": 0,
@@ -2718,19 +2718,19 @@
         "Neuberger Berman"
       ],
       "category": "Asset Management & Research",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.nb.com/who-we-are/careers"
       ],
       "livePages": 0,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 96,
       "relevantRoles": 0,
-      "liveBoards": [],
-      "failedSeededBoards": [
-        "workday:nb.wd1.myworkdayjobs.com/NBCareers",
-        "workday:nb.wd1.myworkdayjobs.com/PWM"
-      ]
+      "liveBoards": [
+        "Workday:nb/NBCareers (85)",
+        "Workday:nb/PWM (11)"
+      ],
+      "failedSeededBoards": []
     },
     {
       "company": "MFS Investment Management",
@@ -2738,7 +2738,7 @@
         "MFS Investment Management"
       ],
       "category": "Asset Management & Research",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://www.mfs.com/en-us/individual-investor/about-mfs/careers.html",
         "https://mfs.wd1.myworkdayjobs.com/MFS-Careers",
@@ -2746,12 +2746,12 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 0,
+      "jobsSeen": 20,
       "relevantRoles": 0,
-      "liveBoards": [],
-      "failedSeededBoards": [
-        "workday:mfs.wd1.myworkdayjobs.com/MFS-Careers"
-      ]
+      "liveBoards": [
+        "Workday:mfs/MFS-Careers (20)"
+      ],
+      "failedSeededBoards": []
     },
     {
       "company": "Russell Investments",
@@ -2780,18 +2780,18 @@
         "Northern Trust Asset Management"
       ],
       "category": "Asset Management & Research",
-      "status": "could-not-fully-verify",
+      "status": "confirmed-openings-no-matching-role",
       "careerPages": [
         "https://northern.edu/"
       ],
       "livePages": 1,
       "attemptedPages": 1,
-      "jobsSeen": 0,
+      "jobsSeen": 639,
       "relevantRoles": 0,
-      "liveBoards": [],
-      "failedSeededBoards": [
-        "workday:ntrs.wd1.myworkdayjobs.com/northerntrust"
-      ]
+      "liveBoards": [
+        "Workday:ntrs/northerntrust (639)"
+      ],
+      "failedSeededBoards": []
     },
     {
       "company": "State Street",
@@ -2851,10 +2851,10 @@
       ],
       "livePages": 1,
       "attemptedPages": 3,
-      "jobsSeen": 337,
+      "jobsSeen": 338,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:spgi/SPGI_Careers (337)"
+        "Workday:spgi/SPGI_Careers (338)"
       ],
       "failedSeededBoards": []
     },
@@ -2993,11 +2993,11 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantRoles": 0,
       "liveBoards": [
         "Workday:nasdaq/Global_External_Site (118)",
-        "Greenhouse:nasdaq (23)"
+        "Greenhouse:nasdaq (24)"
       ],
       "failedSeededBoards": []
     },
@@ -3878,10 +3878,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 44,
+      "jobsSeen": 48,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:athene/Apollo_Careers (44)"
+        "Workday:athene/Apollo_Careers (48)"
       ],
       "failedSeededBoards": []
     },
@@ -4240,7 +4240,7 @@
         "https://job-boards.greenhouse.io/generalcatalyst",
         "https://jobs.generalcatalyst.com/companies"
       ],
-      "livePages": 1,
+      "livePages": 2,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0,
@@ -4419,7 +4419,7 @@
         "Khosla Ventures"
       ],
       "category": "Private Equity & Venture Capital",
-      "status": "confirmed-openings-no-matching-role",
+      "status": "could-not-fully-verify",
       "careerPages": [
         "https://jobs.khoslaventures.com/jobs",
         "https://jobs.khoslaventures.com/"
@@ -4771,10 +4771,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1813,
+      "jobsSeen": 1812,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:ghr/Lateral-US (1813)"
+        "Workday:ghr/Lateral-US (1812)"
       ],
       "failedSeededBoards": []
     },
@@ -4792,10 +4792,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 1654,
+      "jobsSeen": 1655,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:wf/wellsfargojobs (1654)"
+        "Workday:wf/wellsfargojobs (1655)"
       ],
       "failedSeededBoards": []
     },
@@ -4982,10 +4982,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 738,
+      "jobsSeen": 741,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:mtb/MTB (683)",
+        "Workday:mtb/MTB (686)",
         "Workday:mtb/Campus (55)"
       ],
       "failedSeededBoards": []
@@ -5002,12 +5002,12 @@
         "https://synchronypharmacy.com/careers/",
         "https://synchronygroup.com/careers/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 50,
+      "jobsSeen": 51,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:synchronyfinancial/careers (27)",
+        "Workday:synchronyfinancial/careers (28)",
         "Workday:synchronyfinancial/University (23)"
       ],
       "failedSeededBoards": []
@@ -5024,7 +5024,7 @@
         "https://www.allstate.jobs/job-search-results/",
         "https://www.allstate.jobs/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 390,
       "relevantRoles": 0,
@@ -5253,7 +5253,7 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 3018,
+      "jobsSeen": 3017,
       "relevantRoles": 0,
       "liveBoards": [],
       "failedSeededBoards": []
@@ -5413,10 +5413,10 @@
       ],
       "livePages": 3,
       "attemptedPages": 3,
-      "jobsSeen": 390,
+      "jobsSeen": 694,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:motorolasolutions/Careers (390)"
+        "Workday:motorolasolutions/Careers (694)"
       ],
       "failedSeededBoards": []
     },
@@ -5495,9 +5495,11 @@
       ],
       "category": "Chicago-Area Employers",
       "status": "confirmed-openings-no-matching-role",
-      "careerPages": [],
-      "livePages": 0,
-      "attemptedPages": 0,
+      "careerPages": [
+        "https://harris.uchicago.edu/"
+      ],
+      "livePages": 1,
+      "attemptedPages": 1,
       "jobsSeen": 8,
       "relevantRoles": 0,
       "liveBoards": [
@@ -5556,7 +5558,7 @@
         "https://careers.relativity.com/job-search-results/",
         "https://www.relativityspace.com/careers"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 407,
       "relevantRoles": 0,
@@ -5635,7 +5637,7 @@
         "https://getuptake.ai/company/careers",
         "http://www.uptakemedical.com/careers/"
       ],
-      "livePages": 2,
+      "livePages": 3,
       "attemptedPages": 3,
       "jobsSeen": 0,
       "relevantRoles": 0,
@@ -6121,7 +6123,7 @@
       "jobsSeen": 585,
       "relevantRoles": 0,
       "liveBoards": [
-        "Workday:uchicago/External (180)"
+        "Workday:uchicago/External (387)"
       ],
       "failedSeededBoards": []
     },

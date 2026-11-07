@@ -1,8 +1,8 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-07T16:24:57.028Z
+Scanned: 2026-11-07T17:58:44.863Z
 Employers in universe: 308
-Employers with at least one live ATS board: 246
+Employers with at least one live ATS board: 250
 Part-time roles: 6
 Term-time roles, hours not stated: 3
 
@@ -29,7 +29,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Meta
 - Apple
 - Microsoft
-- Netflix
 - Mistral AI
 - Anysphere (Cursor)
 - dbt Labs
@@ -37,9 +36,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Retool
 - Inmar Intelligence
 - Chainalysis
-- Neuberger Berman
-- MFS Investment Management
-- Northern Trust Asset Management
 - State Street
 - Two Sigma
 - Citadel
