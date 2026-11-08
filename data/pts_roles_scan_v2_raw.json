@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-07T18:02:55.586Z",
+  "searchedAt": "2026-11-08T18:20:07.319Z",
   "companies": [
     "Google",
     "Meta",
@@ -311,7 +311,7 @@
     "Argonne National Laboratory"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-07T18:02:55.587Z",
+    "generatedAt": "2026-11-08T18:20:07.319Z",
     "companies": {
       "Google": {
         "careerPages": [
@@ -10149,9 +10149,16 @@
       "company": "Dimensional Fund Advisors",
       "pageUrl": "https://careers.dimensional.com/internships",
       "resolvedUrl": "https://careers.dimensional.com/internships",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "dimensional.wd5.myworkdayjobs.com",
+            "site": "DFA_Careers"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -10161,12 +10168,28 @@
       "company": "Wellington Management",
       "pageUrl": "https://www.wellington.com/en/about-us/careers",
       "resolvedUrl": "https://www.wellington.com/en/about-us/careers",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "wellington.wd5.myworkdayjobs.com",
+            "site": "External"
+          },
+          {
+            "host": "wellington.wd5.myworkdayjobs.com",
+            "site": "Campus"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:wellington/Campus",
+          "jobsSeen": 6
+        }
+      ],
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -12593,8 +12616,7 @@
           "Nexthink"
         ],
         "icims": [
-          "careers-granicus",
-          "careers-oneadvanced"
+          "careers-granicus"
         ]
       },
       "unsupportedAts": [],
@@ -12722,26 +12744,22 @@
       "atsTokens": {
         "greenhouse": [
           "figma",
-          "andurilindustries",
-          "arcboatcompany",
-          "netlify",
-          "astranis"
+          "andurilindustries"
         ],
         "lever": [
           "shieldai"
         ],
         "ashby": [
+          "openai",
+          "cognition",
+          "harvey",
+          "exa",
           "Valon",
           "radiant-industries",
           "illumio",
           "rillet",
           "northwoodspace",
-          "harvey",
-          "Envoy",
-          "apex-technology-inc",
-          "phantom",
-          "mindrobotics",
-          "heron-power"
+          "Envoy"
         ]
       },
       "unsupportedAts": [],
@@ -12807,12 +12825,11 @@
         "greenhouse": [
           "generalcatalyst"
         ],
-        "ashby": [
-          "saronic",
-          "kayak"
-        ],
-        "pinpoint": [
-          "indrive"
+        "oracle": [
+          {
+            "host": "fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com",
+            "site": "WarbyParkerCareers"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -12881,16 +12898,11 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "hootsuite",
-          "keepersecurity",
-          "keyfactorinc"
+          "transmitsecurity",
+          "torq"
         ],
         "lever": [
-          "kpler"
-        ],
-        "ashby": [
-          "qonto",
-          "factory"
+          "cred"
         ]
       },
       "unsupportedAts": [],
@@ -12906,16 +12918,11 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "hootsuite",
-          "keepersecurity",
-          "keyfactorinc"
+          "transmitsecurity",
+          "torq"
         ],
         "lever": [
-          "kpler"
-        ],
-        "ashby": [
-          "qonto",
-          "factory"
+          "cred"
         ]
       },
       "unsupportedAts": [],
@@ -12953,11 +12960,7 @@
       "resolvedUrl": "https://indexventures.getro.com/jobs",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {
-        "ashby": [
-          "Tekion"
-        ]
-      },
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -13096,6 +13099,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "generalmatter",
           "spacex"
         ],
         "ashby": [
@@ -13115,6 +13119,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
+          "generalmatter",
           "spacex"
         ],
         "ashby": [
@@ -13146,19 +13151,16 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "rightwayhealthcare",
-          "vardaspace"
+          "vardaspace",
+          "rightwayhealthcare"
         ],
         "lever": [
-          "lessen",
-          "mainspringenergy",
-          "teamshares"
+          "cfsenergy",
+          "lessen"
         ],
         "ashby": [
           "Kognitos",
-          "marianaminerals",
-          "eightsleep",
-          "ellipsis-health"
+          "marianaminerals"
         ]
       },
       "unsupportedAts": [
@@ -13282,8 +13284,7 @@
       "atsTokens": {
         "greenhouse": [
           "betterment",
-          "usenourish",
-          "hover"
+          "usenourish"
         ],
         "ashby": [
           "higgsfieldai",
@@ -14029,8 +14030,8 @@
       "company": "Synchrony",
       "pageUrl": "https://synchronypharmacy.com/careers/",
       "resolvedUrl": "https://synchronypharmacy.com/careers/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -14544,10 +14545,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3017
+          "jobsSeen": 3018
         }
       ],
-      "jobsSeen": 3017,
+      "jobsSeen": 3018,
       "relevantRoles": 0
     },
     {
@@ -14570,10 +14571,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3017
+          "jobsSeen": 3018
         }
       ],
-      "jobsSeen": 3017,
+      "jobsSeen": 3018,
       "relevantRoles": 0
     },
     {
@@ -15207,8 +15208,8 @@
       "company": "Uptake",
       "pageUrl": "https://uptake.com/careers/",
       "resolvedUrl": "https://uptake.com/careers/",
-      "pageOk": true,
-      "pageStatus": 202,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -16677,14 +16678,12 @@
     "Airtable",
     "Akuna Capital",
     "AllianceBernstein",
-    "Allstate",
     "Alpaca",
     "Amazon",
     "Anchorage Digital",
     "Andreessen Horowitz",
     "Anduril",
     "Anysphere (Cursor)",
-    "Apollo Global Management",
     "Ares Management",
     "Ariel Investments",
     "Arrowstreet",
@@ -16702,7 +16701,6 @@
     "Benzinga",
     "Bessemer Venture Partners",
     "Betterment",
-    "Blackstone",
     "Blockhouse",
     "Blue Owl Capital",
     "Braviant Holdings",
@@ -16743,7 +16741,6 @@
     "FactSet",
     "Faire",
     "Fidelity Investments",
-    "Fifth Third Bank",
     "Figma",
     "First Round Capital (Dorm Room Fund)",
     "Fivetran",
@@ -16762,7 +16759,6 @@
     "Grafana Labs",
     "Groupon",
     "Grubhub",
-    "Guardian Life",
     "Handshake",
     "Harris Associates (Oakmark)",
     "Harvey",
@@ -16781,7 +16777,6 @@
     "Jain Global",
     "Jane Street",
     "Jump Trading",
-    "KeyBank",
     "Keyrock",
     "Khan Academy",
     "Kin Insurance",
@@ -16792,14 +16787,13 @@
     "Linear",
     "Lucid Software",
     "Lyft",
-    "M&T Bank",
     "MFS Investment Management",
     "Man Group",
-    "MassMutual",
     "Menlo Ventures",
     "Mercor",
     "Mercury",
     "Merkle Science",
+    "Microsoft",
     "Millennium",
     "Mistral AI",
     "Modal",
@@ -16814,7 +16808,6 @@
     "Netflix",
     "Neuberger Berman",
     "Northern Trust Asset Management",
-    "Northwestern Mutual",
     "Nubank",
     "Nuveen",
     "Oaktree Capital Management",
@@ -16862,12 +16855,10 @@
     "T. Rowe Price",
     "Talos",
     "The Athletic",
-    "The Hartford",
     "Thrive Capital",
     "Toast",
     "Tower Research Capital",
     "TransMarket Group",
-    "Travelers",
     "Twilio",
     "University of Chicago",
     "Upstart",
@@ -16886,7 +16877,6 @@
     "Wealthfront",
     "Wealthsimple",
     "Wellington Management",
-    "Wells Fargo",
     "Wikimedia Foundation",
     "William Blair",
     "Workday",
@@ -16898,12 +16888,15 @@
   "couldNotFullyVerify": [
     "Accel",
     "Adobe",
+    "Allstate",
+    "Apollo Global Management",
     "Apple",
     "Argonne National Laboratory",
     "BMO Capital Markets",
     "Bank of America",
     "Barclays",
     "BlackRock",
+    "Blackstone",
     "Bloomberg",
     "Brevan Howard",
     "Calamos Investments",
@@ -16924,6 +16917,7 @@
     "FIS",
     "Federal Reserve System",
     "Felicis",
+    "Fifth Third Bank",
     "Fiserv",
     "Five Rings",
     "Founders Fund",
@@ -16933,21 +16927,25 @@
     "Google",
     "Graham Capital Management",
     "Greylock",
+    "Guardian Life",
     "HashiCorp",
     "Hyde Park Venture Partners",
     "Jump Capital",
     "KKR",
+    "KeyBank",
     "Khosla Ventures",
     "LPL Financial",
     "Lightbank",
+    "M&T Bank",
     "M25",
     "Macquarie",
     "Madison Dearborn Partners",
+    "MassMutual",
     "Mastercard",
     "Meta",
-    "Microsoft",
     "NEA",
     "NORC at the University of Chicago",
+    "Northwestern Mutual",
     "OCA Ventures",
     "Origin Ventures",
     "Pacific Life",
@@ -16961,10 +16959,13 @@
     "State Street",
     "Synchrony",
     "Tempus AI",
+    "The Hartford",
     "Thoma Bravo",
+    "Travelers",
     "Two Sigma",
     "U.S. Bank",
     "Uptake",
+    "Wells Fargo",
     "Wind Point Partners",
     "dbt Labs"
   ]
