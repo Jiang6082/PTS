@@ -1,9 +1,9 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-09T14:15:09.767Z
+Scanned: 2026-11-09T22:59:47.774Z
 Employers searched: 308
-Career pages checked: 697
-Part-time roles: 6
+Career pages checked: 698
+Part-time roles: 4
 Term-time roles, hours not stated: 3
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
@@ -19,12 +19,10 @@ Status guide:
 
 - **OneEthos** - [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - United States - Remote - Confirmed official posting (Official ATS Greenhouse:oneethos): part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote
 
-### Data (5)
+### Data (3)
 
 - **ACLU** - [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) - Remote/Hybrid- New York City - Confirmed official posting (Official ATS Greenhouse:acluinternships): part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote
 - **Anthropic** - [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) - London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA - Confirmed official posting (Official ATS Greenhouse:anthropic): part-time (part-time); 40 hrs/wk; fully remote
-- **GuidePoint Security** - [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) - Remote - Confirmed official posting (Official ATS Greenhouse:guidepointsecurity): part-time (29 hrs/week max); fully remote
-- **TPG** - [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) - Remote - Confirmed official posting (Official ATS Greenhouse:tpgcareers): part-time (20 hrs/week max); term: May 2027; fully remote
 - **TPG** - [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) - Remote - Confirmed official posting (Official ATS Greenhouse:tpgcareers): part-time (20 hrs/week max); fully remote
 
 ### Finance (0)
@@ -84,13 +82,11 @@ _None._
 - Alpaca
 - Amazon
 - Anchorage Digital
-- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -98,15 +94,14 @@ _None._
 - Baillie Gifford
 - Bain Capital
 - Bain Capital Ventures
-- Basis Technologies
 - Battery Ventures
 - Belvedere Trading
 - Benchling
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
+- Blackstone
 - Blockhouse
-- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -121,6 +116,7 @@ _None._
 - Cleo
 - Cloudflare
 - Cohere
+- Coinbase
 - Connor Clark & Lunn
 - Consensys
 - CoreWeave
@@ -152,6 +148,7 @@ _None._
 - Flexport
 - Flow Traders
 - GCM Grosvenor
+- GMO
 - GSR
 - Gelber Group
 - Gemini
@@ -164,6 +161,7 @@ _None._
 - Groupon
 - Grubhub
 - Guardian Life
+- GuidePoint Security
 - Handshake
 - Harris Associates (Oakmark)
 - Harvey
@@ -173,7 +171,6 @@ _None._
 - Hugging Face
 - IMC Trading
 - Inmar Intelligence
-- Insight Partners
 - Instacart
 - Intel
 - Invesco
@@ -202,13 +199,12 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
-- Morningstar
-- Motorola Solutions
 - Mozilla
 - NVIDIA
 - Nasdaq
@@ -244,7 +240,6 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
-- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -303,14 +298,17 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
+- Andreessen Horowitz
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
+- Basis Technologies
 - BlackRock
-- Blackstone
 - Bloomberg
+- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -321,7 +319,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citadel
 - Citi
 - Cognition
-- Coinbase
 - Collide Capital
 - Contrary
 - D. E. Shaw
@@ -333,7 +330,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Fiserv
 - Five Rings
 - Founders Fund
-- GMO
 - GenZVC
 - General Catalyst
 - Goldman Sachs
@@ -342,6 +338,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Greylock
 - HashiCorp
 - Hyde Park Venture Partners
+- Insight Partners
 - Jump Capital
 - KKR
 - LPL Financial
@@ -351,7 +348,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
+- Morningstar
+- Motorola Solutions
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -362,6 +360,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
+- S&P Global
 - ShipBob
 - Snowflake
 - State Street

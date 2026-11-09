@@ -1,6 +1,6 @@
 # Open Part-Time Internships (Software · Data · Finance)
 
-**Last scan:** 2026-11-09 14:15 UTC · **6 part-time roles** and **3 term-time roles with hours not stated**, confirmed live on official job boards across 7 employers · **4 hand-checked roles / scout programs**
+**Last scan:** 2026-11-09 22:59 UTC · **4 part-time roles** and **3 term-time roles with hours not stated**, confirmed live on official job boards across 6 employers · **4 hand-checked roles / scout programs**
 
 Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-year). Remote in the US only, except UChicago research-assistant / student roles. Summer-only internships, full-time off-cycle co-ops, senior, PhD/MBA-only, investment-banking and corporate-finance roles are filtered out.
 
@@ -8,7 +8,7 @@ Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-yea
 - **Hours not stated** = a student role dated for a fall/winter/spring term inside the window that says nothing about hours either way. Check the posting.
 - **Hand-checked** = sites or programs without a machine-readable job board; status as of the date shown.
 
-## ✅ Part-Time Roles Confirmed Live (6)
+## ✅ Part-Time Roles Confirmed Live (4)
 
 ### Software (1)
 
@@ -16,14 +16,12 @@ Window: now through June 2027 (fall 2026, winter 2027, spring 2027, academic-yea
 |---|---|---|---|
 | OneEthos | [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | United States - Remote | part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote |
 
-### Data (5)
+### Data (3)
 
 | Employer | Role | Location | Hours / term |
 |---|---|---|---|
 | ACLU | [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) | Remote/Hybrid- New York City | part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote |
 | Anthropic | [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA | part-time (part-time); 40 hrs/wk; fully remote |
-| GuidePoint Security | [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) | Remote | part-time (29 hrs/week max); fully remote |
-| TPG | [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) | Remote | part-time (20 hrs/week max); term: May 2027; fully remote |
 | TPG | [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) | Remote | part-time (20 hrs/week max); fully remote |
 
 ## 🕒 Term-Time Roles, Hours Not Stated (3)
