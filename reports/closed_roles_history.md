@@ -1,11 +1,16 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 3
-Last updated: 2026-11-09T22:59:47.774Z
+Total closures recorded: 5
+Last updated: 2026-11-10T11:10:23.839Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-10 (2)
+
+- **GuidePoint Security** - [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) - Remote
+- **TPG** - [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) - Remote
 
 ### 2026-11-04 (1)
 

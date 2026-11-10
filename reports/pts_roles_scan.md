@@ -1,8 +1,8 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-09T22:55:51.992Z
+Scanned: 2026-11-10T11:07:27.749Z
 Employers in universe: 308
-Employers with at least one live ATS board: 245
+Employers with at least one live ATS board: 234
 Part-time roles: 4
 Term-time roles, hours not stated: 3
 
@@ -33,13 +33,12 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Retool
 - Inmar Intelligence
 - Chainalysis
-- Morningstar
-- S&P Global
-- Arrowstreet
+- Northern Trust Asset Management
+- State Street
+- Peak6
 - Two Sigma
 - Citadel
 - D. E. Shaw
-- Blue Owl Capital
 - KKR
 - Carlyle
 - Thoma Bravo
@@ -68,18 +67,30 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Lightbank
 - OCA Ventures
 - Sensiba
+- Bank of America
+- Wells Fargo
+- U.S. Bank
+- Fifth Third Bank
+- KeyBank
+- M&T Bank
+- Synchrony
+- Allstate
+- Northwestern Mutual
+- MassMutual
+- Guardian Life
+- Travelers
+- The Hartford
+- Nationwide
+- Pacific Life
 - Goldman Sachs
 - Citi
-- Federal Reserve System
 - ShipBob
-- Motorola Solutions
 - Discover Financial Services
 - Cboe Global Markets
 - Calamos Investments
 - Vivid Seats
 - Grubhub
 - Uptake
-- Basis Technologies
 - Packback
 - HashiCorp
 - Automattic
