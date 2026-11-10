@@ -1,6 +1,6 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-11-10T11:10:23.839Z
+Last updated: 2026-11-10T20:28:44.005Z
 
 ## Summary
 
@@ -8,11 +8,11 @@ Last updated: 2026-11-10T11:10:23.839Z
 - Career pages checked: 701
 - Current roles: 7 (4 part-time, 3 term-time with hours not stated)
 - New stable job URLs since previous scan: 0
-- No longer present since previous scan: 2
+- No longer present since previous scan: 0
 - Employers with matching roles: 6
 - Confirmed no open postings: 4
-- Openings but no matching role: 216
-- Could not fully verify: 82
+- Openings but no matching role: 228
+- Could not fully verify: 70
 
 ## Roles By Employer Category
 
@@ -45,8 +45,7 @@ _None._
 
 ## No Longer Present
 
-- **GuidePoint Security** - [AI & Data Science Intern - GPSU/NE](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) - Remote
-- **TPG** - [Y Analytics, Data Analytics and Reporting, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) - Remote
+_None._
 
 ## Full Reports
 

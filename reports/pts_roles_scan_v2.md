@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-10T11:10:23.839Z
+Scanned: 2026-11-10T20:28:44.005Z
 Employers searched: 308
 Career pages checked: 701
 Part-time roles: 4
@@ -78,10 +78,10 @@ _None._
 - Airtable
 - Akuna Capital
 - AllianceBernstein
+- Allstate
 - Alpaca
 - Amazon
 - Anchorage Digital
-- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
@@ -143,6 +143,7 @@ _None._
 - FactSet
 - Faire
 - Fidelity Investments
+- Fifth Third Bank
 - Figma
 - First Round Capital (Dorm Room Fund)
 - Fivetran
@@ -161,6 +162,7 @@ _None._
 - Grafana Labs
 - Groupon
 - Grubhub
+- Guardian Life
 - GuidePoint Security
 - Handshake
 - Harris Associates (Oakmark)
@@ -180,6 +182,7 @@ _None._
 - Jain Global
 - Jane Street
 - Jump Trading
+- KeyBank
 - Keyrock
 - Khan Academy
 - Khosla Ventures
@@ -191,8 +194,10 @@ _None._
 - Linear
 - Lucid Software
 - Lyft
+- M&T Bank
 - MFS Investment Management
 - Man Group
+- MassMutual
 - Menlo Ventures
 - Mercor
 - Mercury
@@ -208,8 +213,11 @@ _None._
 - Mozilla
 - NVIDIA
 - Nasdaq
+- Nationwide
 - Netflix
 - Neuberger Berman
+- Northern Trust Asset Management
+- Northwestern Mutual
 - Nubank
 - Nuveen
 - Oaktree Capital Management
@@ -221,6 +229,7 @@ _None._
 - Palantir
 - Paxos
 - PayPal
+- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -256,10 +265,12 @@ _None._
 - T. Rowe Price
 - Talos
 - The Athletic
+- The Hartford
 - Thrive Capital
 - Toast
 - Tower Research Capital
 - TransMarket Group
+- Travelers
 - Twilio
 - University of Chicago
 - Upstart
@@ -278,6 +289,7 @@ _None._
 - Wealthfront
 - Wealthsimple
 - Wellington Management
+- Wells Fargo
 - Wikimedia Foundation
 - William Blair
 - Workday
@@ -292,7 +304,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Allstate
+- Andreessen Horowitz
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
@@ -319,7 +331,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - FIS
 - Federal Reserve System
 - Felicis
-- Fifth Third Bank
 - Fiserv
 - Five Rings
 - Founders Fund
@@ -329,31 +340,23 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Google
 - Graham Capital Management
 - Greylock
-- Guardian Life
 - HashiCorp
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
-- KeyBank
 - LPL Financial
 - Lightbank
-- M&T Bank
 - M25
 - Macquarie
 - Madison Dearborn Partners
-- MassMutual
 - Mastercard
 - Meta
 - NEA
 - NORC at the University of Chicago
-- Nationwide
-- Northern Trust Asset Management
-- Northwestern Mutual
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
 - Packback
-- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
@@ -363,12 +366,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - State Street
 - Synchrony
 - Tempus AI
-- The Hartford
 - Thoma Bravo
-- Travelers
 - Two Sigma
 - U.S. Bank
 - Uptake
-- Wells Fargo
 - Wind Point Partners
 - dbt Labs
