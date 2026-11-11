@@ -1,6 +1,6 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-10T20:23:17.284Z
+Scanned: 2026-11-11T20:05:40.589Z
 Employers in universe: 308
 Employers with at least one live ATS board: 252
 Part-time roles: 4

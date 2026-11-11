@@ -1,18 +1,18 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-11-10T20:28:44.005Z
+Last updated: 2026-11-11T20:10:48.330Z
 
 ## Summary
 
 - Employers searched: 308
-- Career pages checked: 701
+- Career pages checked: 704
 - Current roles: 7 (4 part-time, 3 term-time with hours not stated)
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
 - Employers with matching roles: 6
 - Confirmed no open postings: 4
-- Openings but no matching role: 228
-- Could not fully verify: 70
+- Openings but no matching role: 229
+- Could not fully verify: 69
 
 ## Roles By Employer Category
 

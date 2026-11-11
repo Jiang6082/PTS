@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-10T20:28:44.005Z
+Scanned: 2026-11-11T20:10:48.330Z
 Employers searched: 308
-Career pages checked: 701
+Career pages checked: 704
 Part-time roles: 4
 Term-time roles, hours not stated: 3
 
@@ -82,6 +82,7 @@ _None._
 - Alpaca
 - Amazon
 - Anchorage Digital
+- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
@@ -304,7 +305,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Andreessen Horowitz
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
