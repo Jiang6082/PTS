@@ -1,8 +1,8 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-11T20:05:40.589Z
+Scanned: 2026-11-12T20:43:01.503Z
 Employers in universe: 308
-Employers with at least one live ATS board: 252
+Employers with at least one live ATS board: 248
 Part-time roles: 4
 Term-time roles, hours not stated: 3
 
@@ -33,9 +33,13 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Retool
 - Inmar Intelligence
 - Chainalysis
+- Millennium
+- Jain Global
 - Two Sigma
 - Citadel
 - D. E. Shaw
+- Apollo Global Management
+- Oaktree Capital Management
 - KKR
 - Carlyle
 - Thoma Bravo

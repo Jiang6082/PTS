@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-11T20:10:48.330Z
+Scanned: 2026-11-12T20:47:55.830Z
 Employers searched: 308
-Career pages checked: 704
+Career pages checked: 707
 Part-time roles: 4
 Term-time roles, hours not stated: 3
 
@@ -85,7 +85,6 @@ _None._
 - Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
-- Apollo Global Management
 - Ares Management
 - Ariel Investments
 - Arrowstreet
@@ -221,7 +220,6 @@ _None._
 - Northwestern Mutual
 - Nubank
 - Nuveen
-- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
@@ -279,7 +277,6 @@ _None._
 - Vercel
 - Verition Fund Management
 - Verkada
-- Viking Global Investors
 - Virtu Financial
 - Visa
 - Vista Equity Partners
@@ -305,6 +302,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
+- Apollo Global Management
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
@@ -354,6 +352,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
+- Oaktree Capital Management
 - Origin Ventures
 - Pacific Life
 - Packback
@@ -370,5 +369,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Two Sigma
 - U.S. Bank
 - Uptake
+- Viking Global Investors
 - Wind Point Partners
 - dbt Labs
