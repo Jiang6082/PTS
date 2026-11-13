@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-12T20:47:55.830Z",
+  "searchedAt": "2026-11-13T20:29:58.446Z",
   "companies": [
     "Google",
     "Meta",
@@ -311,7 +311,6 @@
     "Argonne National Laboratory"
   ],
   "companiesWithoutKnownCareerPage": [
-    "dbt Labs",
     "Espa Labs",
     "Blockhouse",
     "B2C2",
@@ -1568,10 +1567,12 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/professionals/",
       "resolvedUrl": "https://www.bloomberg.com/company/professionals/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "avature"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1594,10 +1595,12 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/early-careers/",
       "resolvedUrl": "https://www.bloomberg.com/company/early-careers/",
-      "pageOk": false,
-      "pageStatus": 403,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "avature"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -1717,10 +1720,10 @@
       "boards": [
         {
           "source": "Greenhouse:coherehealth",
-          "jobsSeen": 68
+          "jobsSeen": 65
         }
       ],
-      "jobsSeen": 68,
+      "jobsSeen": 65,
       "relevantRoles": 0
     },
     {
@@ -1936,10 +1939,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 240
+          "jobsSeen": 252
         }
       ],
-      "jobsSeen": 240,
+      "jobsSeen": 252,
       "relevantRoles": 0
     },
     {
@@ -1957,10 +1960,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 240
+          "jobsSeen": 252
         }
       ],
-      "jobsSeen": 240,
+      "jobsSeen": 252,
       "relevantRoles": 0
     },
     {
@@ -1978,10 +1981,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 240
+          "jobsSeen": 252
         }
       ],
-      "jobsSeen": 240,
+      "jobsSeen": 252,
       "relevantRoles": 0
     },
     {
@@ -2221,10 +2224,10 @@
       "boards": [
         {
           "source": "Ashby:cursor",
-          "jobsSeen": 115
+          "jobsSeen": 116
         }
       ],
-      "jobsSeen": 115,
+      "jobsSeen": 116,
       "relevantRoles": 0
     },
     {
@@ -2324,6 +2327,34 @@
       "atsTokens": {
         "greenhouse": [
           "snorkelai"
+        ]
+      },
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "dbt Labs",
+      "pageUrl": "https://www.getdbt.com/about-us/careers",
+      "resolvedUrl": "https://www.getdbt.com/about-us/careers",
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {},
+      "unsupportedAts": [],
+      "boards": [],
+      "jobsSeen": 0,
+      "relevantRoles": 0
+    },
+    {
+      "company": "dbt Labs",
+      "pageUrl": "https://job-boards.greenhouse.io/dbtlabsinc/jobs/4427329005",
+      "resolvedUrl": "https://job-boards.greenhouse.io/dbtlabsinc?error=true",
+      "pageOk": false,
+      "pageStatus": 404,
+      "atsTokens": {
+        "greenhouse": [
+          "dbtlabsinc"
         ]
       },
       "unsupportedAts": [],
@@ -3340,10 +3371,10 @@
       "boards": [
         {
           "source": "Greenhouse:guidepoint",
-          "jobsSeen": 106
+          "jobsSeen": 105
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 105,
       "relevantRoles": 0
     },
     {
@@ -3637,19 +3668,14 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "bvnk",
           "wavemm1",
-          "azragamesoa",
-          "groma"
-        ],
-        "lever": [
-          "certik"
+          "startale",
+          "bvnk"
         ],
         "ashby": [
-          "cointracker",
+          "matter-labs",
           "rain",
-          "blackbird-labs-inc",
-          "monad.foundation"
+          "cointracker"
         ]
       },
       "unsupportedAts": [
@@ -3657,43 +3683,31 @@
       ],
       "boards": [
         {
+          "source": "Greenhouse:wavemm1",
+          "jobsSeen": 72
+        },
+        {
+          "source": "Greenhouse:startale",
+          "jobsSeen": 19
+        },
+        {
           "source": "Greenhouse:bvnk",
           "jobsSeen": 37
         },
         {
-          "source": "Greenhouse:wavemm1",
-          "jobsSeen": 69
-        },
-        {
-          "source": "Greenhouse:azragamesoa",
+          "source": "Ashby:matter-labs",
           "jobsSeen": 2
-        },
-        {
-          "source": "Greenhouse:groma",
-          "jobsSeen": 11
-        },
-        {
-          "source": "Lever:certik",
-          "jobsSeen": 31
-        },
-        {
-          "source": "Ashby:cointracker",
-          "jobsSeen": 3
         },
         {
           "source": "Ashby:rain",
           "jobsSeen": 45
         },
         {
-          "source": "Ashby:blackbird-labs-inc",
-          "jobsSeen": 7
-        },
-        {
-          "source": "Ashby:monad.foundation",
-          "jobsSeen": 6
+          "source": "Ashby:cointracker",
+          "jobsSeen": 3
         }
       ],
-      "jobsSeen": 211,
+      "jobsSeen": 178,
       "relevantRoles": 0
     },
     {
@@ -4095,10 +4109,10 @@
       "boards": [
         {
           "source": "Ashby:nubank",
-          "jobsSeen": 106
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 100,
       "relevantRoles": 0
     },
     {
@@ -4132,10 +4146,10 @@
       "boards": [
         {
           "source": "Ashby:nubank",
-          "jobsSeen": 106
+          "jobsSeen": 100
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 100,
       "relevantRoles": 0
     },
     {
@@ -4229,10 +4243,10 @@
       "boards": [
         {
           "source": "Greenhouse:mercury",
-          "jobsSeen": 75
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 75,
+      "jobsSeen": 78,
       "relevantRoles": 0
     },
     {
@@ -4250,10 +4264,10 @@
       "boards": [
         {
           "source": "Greenhouse:mercury",
-          "jobsSeen": 75
+          "jobsSeen": 78
         }
       ],
-      "jobsSeen": 75,
+      "jobsSeen": 78,
       "relevantRoles": 0
     },
     {
@@ -4299,10 +4313,10 @@
       "boards": [
         {
           "source": "Ashby:alpacahealth",
-          "jobsSeen": 421
+          "jobsSeen": 425
         }
       ],
-      "jobsSeen": 421,
+      "jobsSeen": 425,
       "relevantRoles": 0
     },
     {
@@ -6162,10 +6176,10 @@
       "boards": [
         {
           "source": "Eightfold:app.eightfold.ai",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -6190,14 +6204,14 @@
       "boards": [
         {
           "source": "Eightfold:mlp.eightfold.ai",
-          "jobsSeen": 12
+          "jobsSeen": 13
         },
         {
           "source": "Eightfold:app.eightfold.ai",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 24,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -6218,10 +6232,10 @@
       "boards": [
         {
           "source": "Eightfold:app.eightfold.ai",
-          "jobsSeen": 12
+          "jobsSeen": 13
         }
       ],
-      "jobsSeen": 12,
+      "jobsSeen": 13,
       "relevantRoles": 0
     },
     {
@@ -6366,10 +6380,10 @@
       "boards": [
         {
           "source": "Workday:jainglobal/LinkedInCareerSite",
-          "jobsSeen": 25
+          "jobsSeen": 24
         }
       ],
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantRoles": 0
     },
     {
@@ -6390,10 +6404,10 @@
       "boards": [
         {
           "source": "Workday:jainglobal/LinkedInCareerSite",
-          "jobsSeen": 25
+          "jobsSeen": 24
         }
       ],
-      "jobsSeen": 25,
+      "jobsSeen": 24,
       "relevantRoles": 0
     },
     {
@@ -6632,10 +6646,10 @@
       "boards": [
         {
           "source": "Greenhouse:akunacapital",
-          "jobsSeen": 29
+          "jobsSeen": 31
         }
       ],
-      "jobsSeen": 29,
+      "jobsSeen": 31,
       "relevantRoles": 0
     },
     {
@@ -7268,10 +7282,10 @@
       "boards": [
         {
           "source": "Workday:shawinc/External",
-          "jobsSeen": 93
+          "jobsSeen": 92
         }
       ],
-      "jobsSeen": 93,
+      "jobsSeen": 92,
       "relevantRoles": 0
     },
     {
@@ -7309,12 +7323,24 @@
       "company": "Blackstone",
       "pageUrl": "https://www.blackstone.com/careers/students/",
       "resolvedUrl": "https://www.blackstone.com/careers/students/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "blackstone.wd1.myworkdayjobs.com",
+            "site": "Blackstone_Campus_Careers"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:blackstone/Blackstone_Campus_Careers",
+          "jobsSeen": 19
+        }
+      ],
+      "jobsSeen": 19,
       "relevantRoles": 0
     },
     {
@@ -7683,10 +7709,10 @@
       "boards": [
         {
           "source": "Workday:baincapital/External_Public",
-          "jobsSeen": 26
+          "jobsSeen": 27
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantRoles": 0
     },
     {
@@ -7719,10 +7745,10 @@
       "boards": [
         {
           "source": "Workday:baincapital/external_public",
-          "jobsSeen": 26
+          "jobsSeen": 27
         }
       ],
-      "jobsSeen": 26,
+      "jobsSeen": 27,
       "relevantRoles": 0
     },
     {
@@ -7776,32 +7802,13 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "knowbe4",
-          "nasuni"
+          "smartsheet"
         ],
-        "pinpoint": [
-          "vena"
+        "smartrecruiters": [
+          "Nexthink"
         ],
         "icims": [
           "careers-oneadvanced"
-        ],
-        "workday": [
-          {
-            "host": "solera.wd5.myworkdayjobs.com",
-            "site": "Global_Career_Site"
-          },
-          {
-            "host": "duckcreek.wd1.myworkdayjobs.com",
-            "site": "duckcreekcareers"
-          },
-          {
-            "host": "tigerconnect.wd1.myworkdayjobs.com",
-            "site": "TC"
-          },
-          {
-            "host": "finastra.wd3.myworkdayjobs.com",
-            "site": "FINC"
-          }
         ]
       },
       "unsupportedAts": [],
@@ -7914,10 +7921,10 @@
       "boards": [
         {
           "source": "Greenhouse:a16z",
-          "jobsSeen": 22
+          "jobsSeen": 23
         }
       ],
-      "jobsSeen": 22,
+      "jobsSeen": 23,
       "relevantRoles": 0
     },
     {
@@ -7928,17 +7935,19 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "flexport",
           "omadahealth",
-          "andurilindustries",
-          "mercury"
+          "andurilindustries"
         ],
         "ashby": [
-          "openai",
-          "stuut-ai",
-          "benchling",
-          "kaizenlabs",
-          "leadbank"
+          "apex-technology-inc",
+          "mistral.ai",
+          "stuut-ai"
+        ],
+        "workday": [
+          {
+            "host": "devoted.wd1.myworkdayjobs.com",
+            "site": "Devoted"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -8003,20 +8012,26 @@
       "atsTokens": {
         "greenhouse": [
           "generalcatalyst",
-          "helsing",
-          "clara"
+          "mark43"
         ],
-        "lever": [
-          "pigment"
+        "ashby": [
+          "Superhuman",
+          "illumio",
+          "ramp"
         ],
-        "workday": [
+        "personio": [
+          "encentive"
+        ],
+        "oracle": [
           {
-            "host": "devoted.wd1.myworkdayjobs.com",
-            "site": "Devoted"
+            "host": "fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com",
+            "site": "WarbyParkerCareers"
           }
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -8081,23 +8096,20 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "greenhouse": [
-          "project44",
-          "gradial",
-          "foratravel",
-          "tulip",
-          "workboard",
-          "equipmentsharecom"
-        ],
         "lever": [
-          "enable"
+          "kpler"
         ],
         "ashby": [
-          "glia",
-          "astronomer"
+          "companycam"
+        ],
+        "workable": [
+          "runware",
+          "seeq"
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -8109,23 +8121,20 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "greenhouse": [
-          "project44",
-          "gradial",
-          "foratravel",
-          "tulip",
-          "workboard",
-          "equipmentsharecom"
-        ],
         "lever": [
-          "enable"
+          "kpler"
         ],
         "ashby": [
-          "glia",
-          "astronomer"
+          "companycam"
+        ],
+        "workable": [
+          "runware",
+          "seeq"
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "rippling"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -8162,20 +8171,19 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "aninebing",
-          "datadog"
+          "teads1",
+          "via"
         ],
         "ashby": [
-          "notion"
+          "Tekion"
+        ],
+        "smartrecruiters": [
+          "Nexthink"
         ],
         "workday": [
           {
-            "host": "rakuten.wd1.myworkdayjobs.com",
-            "site": "RakutenAmericas"
-          },
-          {
-            "host": "rakuten.wd1.myworkdayjobs.com",
-            "site": "RakutenInc"
+            "host": "seic.wd1.myworkdayjobs.com",
+            "site": "SEI_Global_Services"
           }
         ]
       },
@@ -8214,9 +8222,9 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "snorkelai",
+          "cresta",
           "discord",
-          "cresta"
+          "snorkelai"
         ],
         "lever": [
           "lyrahealth",
@@ -8227,10 +8235,7 @@
           "ramp",
           "baseten",
           "magiceden",
-          "lightfield",
-          "Braintrust",
-          "netic",
-          "mandolin"
+          "lightfield"
         ]
       },
       "unsupportedAts": [],
@@ -8315,14 +8320,13 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "gongio"
+          "studsinc",
+          "mammothbrands",
+          "figma",
+          "oscar"
         ],
         "ashby": [
-          "openai",
-          "notion",
-          "savvy",
-          "abby-care",
-          "check-technologies"
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -8338,14 +8342,13 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "gongio"
+          "studsinc",
+          "mammothbrands",
+          "figma",
+          "oscar"
         ],
         "ashby": [
-          "openai",
-          "notion",
-          "savvy",
-          "abby-care",
-          "check-technologies"
+          "ramp"
         ]
       },
       "unsupportedAts": [],
@@ -8373,14 +8376,24 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "vectranetworks"
+          "vardaspace",
+          "withcoverage",
+          "wavemm1"
+        ],
+        "lever": [
+          "mainspringenergy",
+          "cfsenergy"
         ],
         "ashby": [
-          "openai",
-          "abby-care"
+          "Superhuman",
+          "stuut-ai",
+          "Rogo",
+          "Profound"
         ]
       },
-      "unsupportedAts": [],
+      "unsupportedAts": [
+        "adp"
+      ],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -8497,21 +8510,11 @@
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
-        "greenhouse": [
-          "sidecarhealth",
-          "recursionpharmaceuticals",
-          "betterment",
-          "anthropic"
-        ],
         "lever": [
-          "enable"
+          "delfidiagnostics"
         ],
         "ashby": [
-          "lovable",
-          "legora",
-          "mercor",
-          "benchling",
-          "semgrep"
+          "lovable"
         ]
       },
       "unsupportedAts": [],
@@ -8611,8 +8614,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "extend",
-          "expel"
+          "extend"
         ],
         "lever": [
           "HDVI"
@@ -8662,10 +8664,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 27
+          "jobsSeen": 26
         }
       ],
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -8683,10 +8685,10 @@
       "boards": [
         {
           "source": "Pinpoint:sensiba.pinpointhq.com",
-          "jobsSeen": 27
+          "jobsSeen": 26
         }
       ],
-      "jobsSeen": 27,
+      "jobsSeen": 26,
       "relevantRoles": 0
     },
     {
@@ -9326,7 +9328,7 @@
     {
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
-      "resolvedUrl": "https://www.allstate.jobs/",
+      "resolvedUrl": "https://www.allstatecorporation.com/careers.aspx",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -9771,10 +9773,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 2312
+          "jobsSeen": 2751
         }
       ],
-      "jobsSeen": 2312,
+      "jobsSeen": 2751,
       "relevantRoles": 0
     },
     {
@@ -9797,10 +9799,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3016
+          "jobsSeen": 3023
         }
       ],
-      "jobsSeen": 3016,
+      "jobsSeen": 3023,
       "relevantRoles": 0
     },
     {
@@ -10137,10 +10139,10 @@
       "boards": [
         {
           "source": "Workday:williams/External",
-          "jobsSeen": 129
+          "jobsSeen": 131
         }
       ],
-      "jobsSeen": 129,
+      "jobsSeen": 131,
       "relevantRoles": 0
     },
     {
@@ -10196,10 +10198,10 @@
       "boards": [
         {
           "source": "Greenhouse:enova",
-          "jobsSeen": 40
+          "jobsSeen": 41
         }
       ],
-      "jobsSeen": 40,
+      "jobsSeen": 41,
       "relevantRoles": 0
     },
     {
@@ -10244,10 +10246,10 @@
       "boards": [
         {
           "source": "Workday:kcura/External_Career_Site",
-          "jobsSeen": 80
+          "jobsSeen": 79
         }
       ],
-      "jobsSeen": 80,
+      "jobsSeen": 79,
       "relevantRoles": 0
     },
     {
@@ -11011,10 +11013,10 @@
       "boards": [
         {
           "source": "Greenhouse:automatticcareers",
-          "jobsSeen": 9
+          "jobsSeen": 8
         }
       ],
-      "jobsSeen": 9,
+      "jobsSeen": 8,
       "relevantRoles": 0
     },
     {
@@ -11245,10 +11247,10 @@
       "boards": [
         {
           "source": "Greenhouse:aclu",
-          "jobsSeen": 16
+          "jobsSeen": 17
         }
       ],
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantRoles": 0
     },
     {
@@ -11329,10 +11331,10 @@
       "boards": [
         {
           "source": "Oracle:fa-etnf-saasfaprod1/CX_1001",
-          "jobsSeen": 577
+          "jobsSeen": 581
         }
       ],
-      "jobsSeen": 577,
+      "jobsSeen": 581,
       "relevantRoles": 0
     },
     {

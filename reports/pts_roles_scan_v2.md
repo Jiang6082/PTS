@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-12T20:47:55.830Z
+Scanned: 2026-11-13T20:29:58.446Z
 Employers searched: 308
-Career pages checked: 707
+Career pages checked: 709
 Part-time roles: 4
 Term-time roles, hours not stated: 3
 
@@ -85,6 +85,7 @@ _None._
 - Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
+- Apollo Global Management
 - Ares Management
 - Ariel Investments
 - Arrowstreet
@@ -145,7 +146,6 @@ _None._
 - Fidelity Investments
 - Fifth Third Bank
 - Figma
-- First Round Capital (Dorm Room Fund)
 - Fivetran
 - Flexport
 - Flow Traders
@@ -173,7 +173,6 @@ _None._
 - Hugging Face
 - IMC Trading
 - Inmar Intelligence
-- Insight Partners
 - Instacart
 - Intel
 - Invesco
@@ -185,7 +184,6 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
-- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -202,7 +200,6 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -220,6 +217,7 @@ _None._
 - Northwestern Mutual
 - Nubank
 - Nuveen
+- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
@@ -302,7 +300,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Apollo Global Management
 - Apple
 - Argonne National Laboratory
 - BMO Capital Markets
@@ -329,6 +326,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - FIS
 - Federal Reserve System
 - Felicis
+- First Round Capital (Dorm Room Fund)
 - Fiserv
 - Five Rings
 - Founders Fund
@@ -340,8 +338,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Greylock
 - HashiCorp
 - Hyde Park Venture Partners
+- Insight Partners
 - Jump Capital
 - KKR
+- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -349,10 +349,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
-- Oaktree Capital Management
 - Origin Ventures
 - Pacific Life
 - Packback
