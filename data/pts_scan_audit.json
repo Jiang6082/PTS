@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T20:25:22.332Z",
+  "scannedAt": "2026-11-14T18:41:24.491Z",
   "companies": [
     "Google",
     "Meta",
@@ -341,13 +341,24 @@
     {
       "company": "Microsoft",
       "category": "Big Tech",
-      "resolvedBoards": [],
-      "failedSeededBoards": [
-        "eightfold:apply.careers.microsoft.com/microsoft.com"
+      "resolvedBoards": [
+        {
+          "source": "Eightfold:apply.careers.microsoft.com",
+          "origin": "seeded",
+          "count": 27
+        }
       ],
-      "jobsSeen": 0,
+      "failedSeededBoards": [],
+      "jobsSeen": 27,
       "relevantRoles": 0,
-      "rejectedByReason": {}
+      "rejectedByReason": {
+        "non-target function": 7,
+        "not remote": 6,
+        "outside software / data / finance": 5,
+        "PhD-only (per description)": 1,
+        "senior role": 6,
+        "not a student / intern role": 2
+      }
     },
     {
       "company": "Amazon",
@@ -384,11 +395,11 @@
         {
           "source": "Eightfold:explore.jobs.netflix.net",
           "origin": "seeded",
-          "count": 16
+          "count": 17
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 16,
+      "jobsSeen": 17,
       "relevantRoles": 0,
       "rejectedByReason": {
         "summer-only internship": 1,
@@ -396,7 +407,7 @@
         "PhD/MBA/JD-only": 1,
         "not a student / intern role": 2,
         "non-target function": 5,
-        "senior role": 6
+        "senior role": 7
       }
     },
     {
@@ -406,21 +417,21 @@
         {
           "source": "Workday:nvidia/NVIDIAExternalCareerSite",
           "origin": "seeded",
-          "count": 343
+          "count": 1530
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 343,
+      "jobsSeen": 1530,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "outside software / data / finance": 19,
-        "non-target function": 59,
-        "not remote": 21,
-        "PhD/MBA/JD-only": 7,
-        "recruiting event / talent pool": 15,
-        "senior role": 165,
-        "not a student / intern role": 54,
-        "summer-only internship": 3
+        "outside software / data / finance": 51,
+        "non-target function": 237,
+        "not remote": 107,
+        "PhD/MBA/JD-only": 36,
+        "recruiting event / talent pool": 59,
+        "summer-only internship": 11,
+        "not a student / intern role": 155,
+        "senior role": 874
       }
     },
     {
@@ -430,17 +441,17 @@
         {
           "source": "Workday:salesforce/External_Career_Site",
           "origin": "seeded",
-          "count": 1294
+          "count": 1298
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1294,
+      "jobsSeen": 1298,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 461,
-        "non-target function": 622,
+        "non-target function": 626,
+        "senior role": 462,
         "not remote": 1,
-        "not a student / intern role": 194,
+        "not a student / intern role": 193,
         "outside software / data / finance": 5,
         "starts after June 2027": 1,
         "summer-only internship": 5,
@@ -456,18 +467,18 @@
         {
           "source": "Workday:adobe/external_experienced",
           "origin": "seeded",
-          "count": 213
+          "count": 212
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 213,
+      "jobsSeen": 212,
       "relevantRoles": 0,
       "rejectedByReason": {
         "PhD/MBA/JD-only": 5,
         "non-target function": 60,
         "not remote": 10,
         "starts after June 2027 (per description)": 1,
-        "outside software / data / finance": 6,
+        "outside software / data / finance": 5,
         "senior role": 113,
         "not a student / intern role": 18
       }
@@ -475,26 +486,13 @@
     {
       "company": "Intel",
       "category": "Big Tech",
-      "resolvedBoards": [
-        {
-          "source": "Workday:intel/External",
-          "origin": "seeded",
-          "count": 805
-        }
+      "resolvedBoards": [],
+      "failedSeededBoards": [
+        "workday:intel.wd1.myworkdayjobs.com/External"
       ],
-      "failedSeededBoards": [],
-      "jobsSeen": 805,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "rejectedByReason": {
-        "not remote": 28,
-        "non-target function": 189,
-        "outside software / data / finance": 7,
-        "PhD/MBA/JD-only": 36,
-        "full-time / off-cycle co-op": 1,
-        "not a student / intern role": 353,
-        "senior role": 190,
-        "recruiting event / talent pool": 1
-      }
+      "rejectedByReason": {}
     },
     {
       "company": "Workday",
@@ -503,18 +501,20 @@
         {
           "source": "Workday:workday/Workday",
           "origin": "seeded",
-          "count": 356
+          "count": 359
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 356,
+      "jobsSeen": 359,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 91,
+        "not remote": 1,
         "outside software / data / finance": 3,
-        "senior role": 204,
+        "senior role": 205,
         "not a student / intern role": 57,
-        "recruiting event / talent pool": 1
+        "recruiting event / talent pool": 1,
+        "empty title": 1
       }
     },
     {
@@ -524,17 +524,17 @@
         {
           "source": "Greenhouse:airbnb",
           "origin": "seeded",
-          "count": 215
+          "count": 214
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 215,
+      "jobsSeen": 214,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 35,
         "summer-only internship (per description)": 1,
         "not a student / intern role": 28,
-        "senior role": 150,
+        "senior role": 149,
         "outside software / data / finance": 1
       }
     },
@@ -545,16 +545,16 @@
         {
           "source": "Greenhouse:stripe",
           "origin": "seeded",
-          "count": 788
+          "count": 786
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 788,
+      "jobsSeen": 786,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 216,
-        "non-target function": 332,
-        "senior role": 220,
+        "not a student / intern role": 215,
+        "non-target function": 333,
+        "senior role": 218,
         "outside software / data / finance": 2,
         "not remote": 11,
         "summer-only internship": 1,
@@ -569,15 +569,15 @@
         {
           "source": "Greenhouse:pinterest",
           "origin": "seeded",
-          "count": 166
+          "count": 163
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 166,
+      "jobsSeen": 163,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 37,
-        "senior role": 103,
+        "non-target function": 35,
+        "senior role": 102,
         "outside software / data / finance": 2,
         "not a student / intern role": 10,
         "not remote": 8,
@@ -612,16 +612,16 @@
         {
           "source": "Greenhouse:lyft",
           "origin": "seeded",
-          "count": 152
+          "count": 148
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 152,
+      "jobsSeen": 148,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 27,
+        "non-target function": 25,
         "senior role": 56,
-        "not a student / intern role": 50,
+        "not a student / intern role": 48,
         "PhD/MBA/JD-only": 2,
         "summer-only internship": 14,
         "outside software / data / finance": 2,
@@ -635,16 +635,16 @@
         {
           "source": "Greenhouse:instacart",
           "origin": "seeded",
-          "count": 86
+          "count": 85
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 86,
+      "jobsSeen": 85,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 37,
-        "senior role": 43,
-        "not a student / intern role": 6
+        "not a student / intern role": 6,
+        "senior role": 42
       }
     },
     {
@@ -661,9 +661,9 @@
       "jobsSeen": 427,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 112,
+        "non-target function": 113,
         "not remote": 1,
-        "senior role": 220,
+        "senior role": 219,
         "not a student / intern role": 88,
         "outside software / data / finance": 1,
         "summer-only internship": 3,
@@ -677,16 +677,16 @@
         {
           "source": "Greenhouse:dropbox",
           "origin": "seeded",
-          "count": 42
+          "count": 44
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 42,
+      "jobsSeen": 44,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 9,
         "not a student / intern role": 14,
-        "senior role": 19
+        "senior role": 21
       }
     },
     {
@@ -696,16 +696,16 @@
         {
           "source": "Greenhouse:discord",
           "origin": "seeded",
-          "count": 25
+          "count": 26
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 25,
+      "jobsSeen": 26,
       "relevantRoles": 0,
       "rejectedByReason": {
+        "non-target function": 5,
         "not a student / intern role": 5,
-        "senior role": 16,
-        "non-target function": 4
+        "senior role": 16
       }
     },
     {
@@ -715,16 +715,16 @@
         {
           "source": "Greenhouse:roblox",
           "origin": "seeded",
-          "count": 275
+          "count": 271
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 275,
+      "jobsSeen": 271,
       "relevantRoles": 0,
       "rejectedByReason": {
         "PhD/MBA/JD-only": 2,
-        "non-target function": 23,
-        "senior role": 205,
+        "non-target function": 22,
+        "senior role": 202,
         "not a student / intern role": 39,
         "recruiting event / talent pool": 5,
         "summer-only internship": 1
@@ -737,15 +737,15 @@
         {
           "source": "Lever:spotify",
           "origin": "seeded",
-          "count": 85
+          "count": 87
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 85,
+      "jobsSeen": 87,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 21,
-        "not a student / intern role": 16,
+        "not a student / intern role": 18,
         "senior role": 48
       }
     },
@@ -756,16 +756,16 @@
         {
           "source": "Lever:palantir",
           "origin": "seeded",
-          "count": 301
+          "count": 302
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 301,
+      "jobsSeen": 302,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 44,
         "outside software / data / finance": 6,
-        "not a student / intern role": 181,
+        "not a student / intern role": 182,
         "hybrid (remote only)": 3,
         "not remote": 36,
         "dated for a past term (per description)": 1,
@@ -779,16 +779,16 @@
         {
           "source": "Greenhouse:cloudflare",
           "origin": "seeded",
-          "count": 480
+          "count": 479
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 480,
+      "jobsSeen": 479,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 190,
         "not a student / intern role": 94,
-        "senior role": 190,
+        "senior role": 189,
         "outside software / data / finance": 3,
         "not remote": 3
       }
@@ -823,16 +823,16 @@
         {
           "source": "Greenhouse:mongodb",
           "origin": "seeded",
-          "count": 391
+          "count": 390
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 391,
+      "jobsSeen": 390,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not remote": 3,
         "not a student / intern role": 47,
-        "non-target function": 133,
+        "non-target function": 132,
         "senior role": 207,
         "recruiting event / talent pool": 1
       }
@@ -863,17 +863,17 @@
         {
           "source": "Greenhouse:samsara",
           "origin": "seeded",
-          "count": 313
+          "count": 318
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 313,
+      "jobsSeen": 318,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 47,
+        "not a student / intern role": 48,
         "outside software / data / finance": 7,
-        "non-target function": 156,
-        "senior role": 101,
+        "non-target function": 159,
+        "senior role": 102,
         "recruiting event / talent pool": 1,
         "starts after June 2027 (per description)": 1
       }
@@ -904,14 +904,14 @@
         {
           "source": "Greenhouse:figma",
           "origin": "seeded",
-          "count": 140
+          "count": 139
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 140,
+      "jobsSeen": 139,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 66,
+        "non-target function": 65,
         "not a student / intern role": 38,
         "senior role": 28,
         "not remote": 1,
@@ -926,17 +926,17 @@
         {
           "source": "Greenhouse:duolingo",
           "origin": "seeded",
-          "count": 61
+          "count": 59
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 61,
+      "jobsSeen": 59,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 16,
         "PhD/MBA/JD-only": 3,
+        "senior role": 33,
         "not a student / intern role": 6,
-        "senior role": 35,
         "outside software / data / finance": 1
       }
     },
@@ -947,18 +947,18 @@
         {
           "source": "Greenhouse:andurilindustries",
           "origin": "seeded",
-          "count": 2586
+          "count": 2599
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 2586,
+      "jobsSeen": 2599,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 851,
+        "non-target function": 853,
         "summer-only internship (per description)": 12,
         "outside software / data / finance": 9,
         "not a student / intern role": 632,
-        "senior role": 1069,
+        "senior role": 1080,
         "not remote": 5,
         "recruiting event / talent pool": 8
       }
@@ -970,16 +970,16 @@
         {
           "source": "Workday:bloomberg/Bloombergindustrygroup_External_Career_Site",
           "origin": "seeded",
-          "count": 30
+          "count": 32
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 30,
+      "jobsSeen": 32,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not remote": 1,
-        "senior role": 12,
-        "non-target function": 13,
+        "non-target function": 14,
+        "senior role": 13,
         "not a student / intern role": 4
       }
     },
@@ -990,16 +990,16 @@
         {
           "source": "Greenhouse:anthropic",
           "origin": "seeded",
-          "count": 671
+          "count": 669
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 671,
+      "jobsSeen": 669,
       "relevantRoles": 1,
       "rejectedByReason": {
         "non-target function": 201,
-        "senior role": 288,
-        "not a student / intern role": 177,
+        "senior role": 289,
+        "not a student / intern role": 174,
         "full-time / off-cycle co-op": 1,
         "outside software / data / finance": 1,
         "recruiting event / talent pool": 2
@@ -1012,16 +1012,16 @@
         {
           "source": "Ashby:openai",
           "origin": "seeded",
-          "count": 831
+          "count": 839
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 831,
+      "jobsSeen": 839,
       "relevantRoles": 0,
       "rejectedByReason": {
         "senior role": 278,
-        "not a student / intern role": 399,
-        "non-target function": 150,
+        "not a student / intern role": 404,
+        "non-target function": 153,
         "recruiting event / talent pool": 4
       }
     },
@@ -1032,14 +1032,14 @@
         {
           "source": "Ashby:cohere",
           "origin": "seeded",
-          "count": 122
+          "count": 121
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 122,
+      "jobsSeen": 121,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 53,
+        "senior role": 52,
         "not a student / intern role": 31,
         "non-target function": 36,
         "PhD-only (per description)": 1,
@@ -1074,16 +1074,16 @@
         {
           "source": "Greenhouse:databricks",
           "origin": "seeded",
-          "count": 906
+          "count": 896
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 906,
+      "jobsSeen": 896,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 43,
+        "not a student / intern role": 45,
         "non-target function": 261,
-        "senior role": 581,
+        "senior role": 569,
         "not remote": 6,
         "recruiting event / talent pool": 8,
         "outside software / data / finance": 4,
@@ -1140,17 +1140,17 @@
         {
           "source": "Ashby:perplexity",
           "origin": "seeded",
-          "count": 143
+          "count": 141
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 143,
+      "jobsSeen": 141,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 41,
-        "senior role": 90,
+        "senior role": 89,
         "not remote": 3,
-        "remote outside the US": 2,
+        "remote outside the US": 1,
         "not a student / intern role": 7
       }
     },
@@ -1172,14 +1172,14 @@
         {
           "source": "Ashby:elevenlabs",
           "origin": "seeded",
-          "count": 129
+          "count": 128
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 129,
+      "jobsSeen": 128,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 50,
+        "non-target function": 49,
         "not a student / intern role": 63,
         "senior role": 16
       }
@@ -1191,14 +1191,14 @@
         {
           "source": "Greenhouse:gleanwork",
           "origin": "seeded",
-          "count": 120
+          "count": 121
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 120,
+      "jobsSeen": 121,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 42,
+        "non-target function": 43,
         "not a student / intern role": 43,
         "senior role": 35
       }
@@ -1210,15 +1210,15 @@
         {
           "source": "Ashby:harvey",
           "origin": "seeded",
-          "count": 375
+          "count": 387
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 375,
+      "jobsSeen": 387,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 199,
-        "senior role": 125,
+        "non-target function": 206,
+        "senior role": 130,
         "not a student / intern role": 51
       }
     },
@@ -1272,17 +1272,17 @@
         {
           "source": "Ashby:cognition",
           "origin": "seeded",
-          "count": 114
+          "count": 112
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 114,
+      "jobsSeen": 112,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 29,
         "recruiting event / talent pool": 1,
         "not a student / intern role": 57,
-        "senior role": 27
+        "senior role": 25
       }
     },
     {
@@ -1343,15 +1343,15 @@
         {
           "source": "Greenhouse:coreweave",
           "origin": "seeded",
-          "count": 305
+          "count": 307
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 305,
+      "jobsSeen": 307,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 85,
-        "senior role": 183,
+        "senior role": 185,
         "not a student / intern role": 31,
         "recruiting event / talent pool": 6
       }
@@ -1394,16 +1394,16 @@
         {
           "source": "Greenhouse:fivetran",
           "origin": "seeded",
-          "count": 189
+          "count": 197
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 189,
+      "jobsSeen": 197,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 77,
         "recruiting event / talent pool": 1,
-        "senior role": 108,
+        "senior role": 116,
         "not a student / intern role": 3
       }
     },
@@ -1521,16 +1521,16 @@
         {
           "source": "Lever:economicmodeling",
           "origin": "seeded",
-          "count": 22
+          "count": 23
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 22,
+      "jobsSeen": 23,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 15,
         "not a student / intern role": 3,
-        "senior role": 2,
+        "senior role": 3,
         "recruiting event / talent pool": 2
       }
     },
@@ -1541,15 +1541,15 @@
         {
           "source": "Ashby:notion",
           "origin": "seeded",
-          "count": 167
+          "count": 166
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 167,
+      "jobsSeen": 166,
       "relevantRoles": 1,
       "rejectedByReason": {
         "not a student / intern role": 67,
-        "non-target function": 58,
+        "non-target function": 57,
         "senior role": 38,
         "summer-only internship": 3
       }
@@ -1561,7 +1561,7 @@
         {
           "source": "Ashby:ramp",
           "origin": "seeded",
-          "count": 179
+          "count": 180
         },
         {
           "source": "Greenhouse:ramp",
@@ -1570,10 +1570,10 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 180,
+      "jobsSeen": 181,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 52,
+        "not a student / intern role": 53,
         "non-target function": 83,
         "senior role": 39,
         "no part-time or term-time signal": 3,
@@ -1588,16 +1588,16 @@
         {
           "source": "Ashby:replit",
           "origin": "seeded",
-          "count": 31
+          "count": 30
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 31,
+      "jobsSeen": 30,
       "relevantRoles": 0,
       "rejectedByReason": {
         "senior role": 17,
         "non-target function": 3,
-        "not a student / intern role": 10,
+        "not a student / intern role": 9,
         "outside software / data / finance": 1
       }
     },
@@ -1627,18 +1627,17 @@
         {
           "source": "Greenhouse:vercel",
           "origin": "seeded",
-          "count": 87
+          "count": 86
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 87,
+      "jobsSeen": 86,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 35,
         "not a student / intern role": 26,
         "senior role": 24,
-        "recruiting event / talent pool": 1,
-        "summer-only internship": 1
+        "recruiting event / talent pool": 1
       }
     },
     {
@@ -1724,9 +1723,9 @@
       "jobsSeen": 53,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 19,
+        "senior role": 18,
         "not a student / intern role": 16,
-        "non-target function": 18
+        "non-target function": 19
       }
     },
     {
@@ -1743,9 +1742,9 @@
       "jobsSeen": 346,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 163,
+        "non-target function": 162,
         "not a student / intern role": 63,
-        "senior role": 111,
+        "senior role": 112,
         "not remote": 6,
         "PhD/MBA/JD-only": 2,
         "summer-only internship": 1
@@ -1758,16 +1757,16 @@
         {
           "source": "Greenhouse:flexport",
           "origin": "seeded",
-          "count": 201
+          "count": 204
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 201,
+      "jobsSeen": 204,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 80,
+        "non-target function": 82,
         "not a student / intern role": 56,
-        "senior role": 61,
+        "senior role": 62,
         "outside software / data / finance": 1,
         "recruiting event / talent pool": 3
       }
@@ -1779,17 +1778,17 @@
         {
           "source": "Greenhouse:faire",
           "origin": "seeded",
-          "count": 70
+          "count": 71
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 70,
+      "jobsSeen": 71,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 20,
+        "non-target function": 22,
         "not remote": 1,
-        "not a student / intern role": 6,
-        "senior role": 43
+        "not a student / intern role": 7,
+        "senior role": 41
       }
     },
     {
@@ -1868,16 +1867,16 @@
         {
           "source": "Greenhouse:lucidsoftware",
           "origin": "seeded",
-          "count": 22
+          "count": 24
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 22,
+      "jobsSeen": 24,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 9,
         "recruiting event / talent pool": 3,
-        "senior role": 4,
+        "senior role": 6,
         "outside software / data / finance": 1,
         "not a student / intern role": 5
       }
@@ -1889,15 +1888,15 @@
         {
           "source": "Workday:workiva/careers",
           "origin": "seeded",
-          "count": 96
+          "count": 98
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 96,
+      "jobsSeen": 98,
       "relevantRoles": 0,
       "rejectedByReason": {
         "senior role": 32,
-        "non-target function": 56,
+        "non-target function": 58,
         "not a student / intern role": 8
       }
     },
@@ -1994,17 +1993,16 @@
         {
           "source": "Greenhouse:robinhood",
           "origin": "seeded",
-          "count": 162
+          "count": 165
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 162,
+      "jobsSeen": 165,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 53,
+        "non-target function": 55,
         "not a student / intern role": 26,
-        "senior role": 81,
-        "outside software / data / finance": 1,
+        "senior role": 83,
         "PhD/MBA/JD-only": 1
       }
     },
@@ -2015,16 +2013,16 @@
         {
           "source": "Greenhouse:affirm",
           "origin": "seeded",
-          "count": 219
+          "count": 217
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 219,
+      "jobsSeen": 217,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 27,
         "not a student / intern role": 14,
-        "senior role": 176,
+        "senior role": 174,
         "summer-only internship": 2
       }
     },
@@ -2035,16 +2033,16 @@
         {
           "source": "Ashby:plaid",
           "origin": "seeded",
-          "count": 141
+          "count": 142
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 141,
+      "jobsSeen": 142,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 39,
         "senior role": 50,
-        "non-target function": 52
+        "non-target function": 53
       }
     },
     {
@@ -2054,16 +2052,16 @@
         {
           "source": "Greenhouse:brex",
           "origin": "seeded",
-          "count": 283
+          "count": 286
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 283,
+      "jobsSeen": 286,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 124,
+        "non-target function": 128,
         "not a student / intern role": 41,
-        "senior role": 116,
+        "senior role": 115,
         "outside software / data / finance": 1,
         "remote outside the US": 1
       }
@@ -2247,18 +2245,18 @@
         {
           "source": "Greenhouse:addepar1",
           "origin": "seeded",
-          "count": 113
+          "count": 114
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 113,
+      "jobsSeen": 114,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 21,
         "not a student / intern role": 27,
         "summer-only internship": 6,
         "senior role": 57,
-        "outside software / data / finance": 2
+        "outside software / data / finance": 3
       }
     },
     {
@@ -2332,15 +2330,15 @@
         {
           "source": "Ashby:nubank",
           "origin": "guessed",
-          "count": 100
+          "count": 106
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 100,
+      "jobsSeen": 106,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 58,
-        "non-target function": 22,
+        "senior role": 61,
+        "non-target function": 25,
         "not a student / intern role": 18,
         "recruiting event / talent pool": 1,
         "PhD/MBA/JD-only": 1
@@ -2353,16 +2351,16 @@
         {
           "source": "Greenhouse:toast",
           "origin": "seeded",
-          "count": 349
+          "count": 355
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 349,
+      "jobsSeen": 355,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 244,
-        "not a student / intern role": 21,
-        "senior role": 83,
+        "non-target function": 245,
+        "not a student / intern role": 24,
+        "senior role": 85,
         "recruiting event / talent pool": 1
       }
     },
@@ -2398,15 +2396,15 @@
         {
           "source": "Greenhouse:mercury",
           "origin": "guessed",
-          "count": 78
+          "count": 79
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 78,
+      "jobsSeen": 79,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 27,
-        "senior role": 44,
+        "non-target function": 29,
+        "senior role": 43,
         "not a student / intern role": 7
       }
     },
@@ -2436,17 +2434,17 @@
         {
           "source": "Ashby:wealthsimple",
           "origin": "seeded",
-          "count": 38
+          "count": 41
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 38,
+      "jobsSeen": 41,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 20,
+        "senior role": 22,
         "recruiting event / talent pool": 1,
         "not a student / intern role": 9,
-        "non-target function": 8
+        "non-target function": 9
       }
     },
     {
@@ -2456,11 +2454,11 @@
         {
           "source": "Workday:paypal/jobs",
           "origin": "seeded",
-          "count": 330
+          "count": 334
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 330,
+      "jobsSeen": 334,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not remote": 1,
@@ -2468,8 +2466,8 @@
         "summer-only internship": 4,
         "outside software / data / finance": 1,
         "non-target function": 104,
-        "senior role": 188,
-        "not a student / intern role": 31
+        "senior role": 193,
+        "not a student / intern role": 30
       }
     },
     {
@@ -2509,23 +2507,22 @@
         {
           "source": "Workday:mastercard/CorporateCareers",
           "origin": "seeded",
-          "count": 688
+          "count": 679
         },
         {
           "source": "Workday:mastercard/Campus",
           "origin": "seeded",
-          "count": 26
+          "count": 22
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 714,
+      "jobsSeen": 701,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 76,
-        "senior role": 478,
-        "non-target function": 140,
-        "outside software / data / finance": 15,
-        "not remote": 2,
+        "senior role": 474,
+        "non-target function": 141,
+        "not a student / intern role": 70,
+        "outside software / data / finance": 13,
         "summer-only internship": 3
       }
     },
@@ -2543,10 +2540,9 @@
       "jobsSeen": 394,
       "relevantRoles": 0,
       "rejectedByReason": {
+        "not a student / intern role": 109,
         "senior role": 146,
-        "not a student / intern role": 107,
-        "non-target function": 140,
-        "not remote": 1
+        "non-target function": 139
       }
     },
     {
@@ -2556,15 +2552,15 @@
         {
           "source": "Workday:fis/SearchJobs",
           "origin": "seeded",
-          "count": 404
+          "count": 403
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 404,
+      "jobsSeen": 403,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 121,
-        "senior role": 216,
+        "senior role": 215,
         "non-target function": 66,
         "outside software / data / finance": 1
       }
@@ -2583,9 +2579,9 @@
       "jobsSeen": 354,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 143,
+        "non-target function": 141,
         "not a student / intern role": 93,
-        "senior role": 117,
+        "senior role": 119,
         "outside software / data / finance": 1
       }
     },
@@ -2674,16 +2670,16 @@
         {
           "source": "Workday:blackrock/BlackRock_Professional",
           "origin": "seeded",
-          "count": 277
+          "count": 276
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 277,
+      "jobsSeen": 276,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 128,
-        "non-target function": 63,
-        "not a student / intern role": 83,
+        "senior role": 126,
+        "not a student / intern role": 86,
+        "non-target function": 61,
         "not remote": 3
       }
     },
@@ -2701,12 +2697,12 @@
       "jobsSeen": 200,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 72,
+        "senior role": 71,
         "non-target function": 31,
         "PhD/MBA/JD-only": 2,
         "not remote": 5,
         "outside software / data / finance": 9,
-        "not a student / intern role": 81
+        "not a student / intern role": 82
       }
     },
     {
@@ -2716,21 +2712,21 @@
         {
           "source": "Workday:fil/001",
           "origin": "seeded",
-          "count": 68
+          "count": 66
         },
         {
           "source": "Workday:fmr/fidelitycareers",
           "origin": "seeded",
-          "count": 805
+          "count": 808
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 873,
+      "jobsSeen": 874,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 94,
-        "senior role": 415,
-        "not a student / intern role": 363,
+        "senior role": 414,
+        "not a student / intern role": 365,
         "outside software / data / finance": 1
       }
     },
@@ -2741,7 +2737,7 @@
         {
           "source": "Workday:troweprice/TRowePrice",
           "origin": "seeded",
-          "count": 129
+          "count": 128
         },
         {
           "source": "Workday:troweprice/TRowePriceInternational",
@@ -2750,12 +2746,12 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 151,
+      "jobsSeen": 150,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 42,
         "non-target function": 47,
-        "senior role": 62
+        "senior role": 61
       }
     },
     {
@@ -2765,16 +2761,16 @@
         {
           "source": "Workday:invesco/IVZ",
           "origin": "seeded",
-          "count": 200
+          "count": 204
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 200,
+      "jobsSeen": 204,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 103,
-        "not a student / intern role": 60,
-        "non-target function": 29,
+        "senior role": 104,
+        "non-target function": 30,
+        "not a student / intern role": 62,
         "not remote": 5,
         "outside software / data / finance": 2,
         "PhD/MBA/JD-only": 1
@@ -2826,29 +2822,14 @@
     {
       "company": "PGIM",
       "category": "Asset Management & Research",
-      "resolvedBoards": [
-        {
-          "source": "Workday:pru/PGIM_Careers",
-          "origin": "seeded",
-          "count": 111
-        },
-        {
-          "source": "Workday:pru/Careers",
-          "origin": "seeded",
-          "count": 185
-        }
+      "resolvedBoards": [],
+      "failedSeededBoards": [
+        "workday:pru.wd5.myworkdayjobs.com/PGIM_Careers",
+        "workday:pru.wd5.myworkdayjobs.com/Careers"
       ],
-      "failedSeededBoards": [],
-      "jobsSeen": 296,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "rejectedByReason": {
-        "non-target function": 54,
-        "starts after June 2027 (per description)": 2,
-        "not a student / intern role": 89,
-        "senior role": 147,
-        "not remote": 2,
-        "dated for a past term (per description)": 2
-      }
+      "rejectedByReason": {}
     },
     {
       "company": "Nuveen",
@@ -2857,16 +2838,16 @@
         {
           "source": "Workday:tiaa/Search",
           "origin": "seeded",
-          "count": 147
+          "count": 145
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 147,
+      "jobsSeen": 145,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 28,
-        "senior role": 47,
-        "not a student / intern role": 71,
+        "senior role": 46,
+        "not a student / intern role": 70,
         "PhD/MBA/JD-only": 1
       }
     },
@@ -2896,16 +2877,16 @@
         {
           "source": "Workday:capgroup/capitalgroupcareers",
           "origin": "seeded",
-          "count": 151
+          "count": 152
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 151,
+      "jobsSeen": 152,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 50,
+        "not a student / intern role": 52,
         "non-target function": 31,
-        "senior role": 65,
+        "senior role": 64,
         "PhD/MBA/JD-only": 5
       }
     },
@@ -2986,15 +2967,15 @@
         {
           "source": "Workday:mfs/MFS-Careers",
           "origin": "seeded",
-          "count": 45
+          "count": 47
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 45,
+      "jobsSeen": 47,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 16,
-        "senior role": 20,
+        "not a student / intern role": 17,
+        "senior role": 21,
         "outside software / data / finance": 1,
         "non-target function": 8
       }
@@ -3026,16 +3007,16 @@
         {
           "source": "Workday:ntrs/northerntrust",
           "origin": "seeded",
-          "count": 647
+          "count": 471
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 647,
+      "jobsSeen": 471,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 345,
-        "not a student / intern role": 204,
-        "non-target function": 98
+        "senior role": 225,
+        "not a student / intern role": 160,
+        "non-target function": 86
       }
     },
     {
@@ -3045,20 +3026,19 @@
         {
           "source": "Workday:statestreet/Global",
           "origin": "seeded",
-          "count": 905
+          "count": 620
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 905,
+      "jobsSeen": 620,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 201,
+        "not a student / intern role": 133,
         "not remote": 17,
         "outside software / data / finance": 5,
         "summer-only internship": 4,
-        "senior role": 440,
-        "non-target function": 237,
-        "empty title": 1
+        "senior role": 275,
+        "non-target function": 186
       }
     },
     {
@@ -3099,20 +3079,19 @@
         {
           "source": "Workday:spgi/SPGI_Careers",
           "origin": "seeded",
-          "count": 337
+          "count": 338
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 337,
+      "jobsSeen": 338,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "outside software / data / finance": 13,
-        "summer-only internship (per description)": 2,
-        "non-target function": 83,
+        "outside software / data / finance": 11,
+        "not remote": 2,
+        "non-target function": 84,
         "senior role": 154,
-        "not a student / intern role": 83,
-        "recruiting event / talent pool": 1,
-        "empty title": 1
+        "not a student / intern role": 86,
+        "recruiting event / talent pool": 1
       }
     },
     {
@@ -3122,14 +3101,14 @@
         {
           "source": "Workday:factset/FactSetCareers",
           "origin": "seeded",
-          "count": 102
+          "count": 104
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 102,
+      "jobsSeen": 104,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 36,
+        "not a student / intern role": 38,
         "senior role": 46,
         "non-target function": 12,
         "outside software / data / finance": 8
@@ -3154,8 +3133,8 @@
       "jobsSeen": 10,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 3,
         "non-target function": 5,
+        "senior role": 3,
         "not a student / intern role": 2
       }
     },
@@ -3166,7 +3145,7 @@
         {
           "source": "Workday:arrowstreetcapital/Arrowstreet",
           "origin": "seeded",
-          "count": 11
+          "count": 10
         },
         {
           "source": "Workday:arrowstreetcapital/Campus_Careers",
@@ -3175,12 +3154,11 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 17,
+      "jobsSeen": 16,
       "relevantRoles": 0,
       "rejectedByReason": {
         "senior role": 7,
         "not a student / intern role": 5,
-        "non-target function": 1,
         "summer-only internship": 4
       }
     },
@@ -3230,7 +3208,7 @@
         {
           "source": "Greenhouse:cclfg",
           "origin": "seeded",
-          "count": 74
+          "count": 73
         },
         {
           "source": "Greenhouse:cclim",
@@ -3239,11 +3217,11 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 79,
+      "jobsSeen": 78,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 37,
-        "non-target function": 14,
+        "non-target function": 13,
         "outside software / data / finance": 2,
         "senior role": 26
       }
@@ -3255,7 +3233,7 @@
         {
           "source": "Workday:nasdaq/Global_External_Site",
           "origin": "seeded",
-          "count": 138
+          "count": 137
         },
         {
           "source": "Greenhouse:nasdaq",
@@ -3264,12 +3242,12 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 159,
+      "jobsSeen": 158,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "summer-only internship": 2,
         "outside software / data / finance": 3,
-        "non-target function": 32,
+        "summer-only internship": 2,
+        "non-target function": 31,
         "not a student / intern role": 62,
         "senior role": 59,
         "not remote": 1
@@ -3303,16 +3281,16 @@
         {
           "source": "Workday:lplfinancial/External",
           "origin": "seeded",
-          "count": 167
+          "count": 170
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 167,
+      "jobsSeen": 170,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 27,
         "not a student / intern role": 74,
-        "senior role": 66
+        "senior role": 69,
+        "non-target function": 27
       }
     },
     {
@@ -3322,22 +3300,22 @@
         {
           "source": "Workday:raymondjames/RaymondJamesCareers",
           "origin": "seeded",
-          "count": 297
+          "count": 120
         },
         {
           "source": "Workday:raymondjames/RaymondJamesEarlyCareers",
           "origin": "seeded",
-          "count": 9
+          "count": 10
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 306,
+      "jobsSeen": 130,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 120,
-        "non-target function": 49,
-        "not a student / intern role": 118,
-        "outside software / data / finance": 17,
+        "senior role": 42,
+        "non-target function": 27,
+        "not a student / intern role": 47,
+        "outside software / data / finance": 12,
         "not remote": 1,
         "PhD/MBA/JD-only": 1
       }
@@ -3420,18 +3398,18 @@
         {
           "source": "Greenhouse:schonfeld",
           "origin": "seeded",
-          "count": 70
+          "count": 71
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 70,
+      "jobsSeen": 71,
       "relevantRoles": 0,
       "rejectedByReason": {
         "summer-only internship (per description)": 1,
         "not remote": 8,
         "outside software / data / finance": 2,
+        "non-target function": 10,
         "starts after June 2027 (per description)": 1,
-        "non-target function": 9,
         "PhD/MBA/JD-only": 2,
         "not a student / intern role": 30,
         "senior role": 17
@@ -3580,15 +3558,15 @@
         {
           "source": "Greenhouse:exoduspoint",
           "origin": "seeded",
-          "count": 3
+          "count": 4
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 3,
+      "jobsSeen": 4,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 2,
-        "not remote": 1
+        "not remote": 2
       }
     },
     {
@@ -3622,16 +3600,16 @@
         {
           "source": "Greenhouse:quberesearchandtechnologies",
           "origin": "seeded",
-          "count": 210
+          "count": 209
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 210,
+      "jobsSeen": 209,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not remote": 10,
         "non-target function": 8,
-        "outside software / data / finance": 5,
+        "outside software / data / finance": 4,
         "not a student / intern role": 147,
         "senior role": 39,
         "PhD/MBA/JD-only": 1
@@ -3649,16 +3627,16 @@
         {
           "source": "Ashby:jane",
           "origin": "seeded",
-          "count": 26
+          "count": 27
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 243,
+      "jobsSeen": 244,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 48,
         "not a student / intern role": 162,
-        "senior role": 31,
+        "senior role": 32,
         "not remote": 1,
         "outside software / data / finance": 1
       }
@@ -3670,14 +3648,14 @@
         {
           "source": "Greenhouse:wehrtyou",
           "origin": "seeded",
-          "count": 82
+          "count": 83
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 82,
+      "jobsSeen": 83,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 55,
+        "not a student / intern role": 56,
         "summer-only internship": 2,
         "PhD/MBA/JD-only": 1,
         "non-target function": 17,
@@ -3750,7 +3728,7 @@
         {
           "source": "Greenhouse:optiverus",
           "origin": "seeded",
-          "count": 151
+          "count": 152
         },
         {
           "source": "Greenhouse:optiver",
@@ -3759,14 +3737,14 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 159,
+      "jobsSeen": 160,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 83,
         "not remote": 10,
         "senior role": 36,
         "recruiting event / talent pool": 1,
-        "non-target function": 19,
+        "non-target function": 20,
         "summer-only internship": 5,
         "PhD/MBA/JD-only": 4,
         "outside software / data / finance": 1
@@ -3836,10 +3814,10 @@
       "jobsSeen": 21,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 10,
+        "not a student / intern role": 9,
         "summer-only internship": 2,
         "non-target function": 2,
-        "senior role": 7
+        "senior role": 8
       }
     },
     {
@@ -3849,15 +3827,15 @@
         {
           "source": "Workday:peak6group/PEAK6",
           "origin": "seeded",
-          "count": 12
+          "count": 11
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 12,
+      "jobsSeen": 11,
       "relevantRoles": 0,
       "rejectedByReason": {
         "summer-only internship": 2,
-        "senior role": 4,
+        "senior role": 3,
         "not a student / intern role": 4,
         "non-target function": 1,
         "outside software / data / finance": 1
@@ -3935,14 +3913,14 @@
         {
           "source": "Greenhouse:towerresearchcapital",
           "origin": "seeded",
-          "count": 93
+          "count": 92
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 93,
+      "jobsSeen": 92,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 53,
+        "not a student / intern role": 52,
         "senior role": 22,
         "not remote": 9,
         "non-target function": 3,
@@ -3980,15 +3958,15 @@
         {
           "source": "Ashby:voleon",
           "origin": "seeded",
-          "count": 60
+          "count": 61
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 60,
+      "jobsSeen": 61,
       "relevantRoles": 0,
       "rejectedByReason": {
         "senior role": 34,
-        "not a student / intern role": 14,
+        "not a student / intern role": 15,
         "non-target function": 9,
         "summer-only internship": 1,
         "starts after June 2027 (per description)": 2
@@ -4176,24 +4154,22 @@
         {
           "source": "Workday:blackstone/Blackstone_Careers",
           "origin": "seeded",
-          "count": 142
+          "count": 60
         },
         {
           "source": "Workday:blackstone/BX_External_Site",
           "origin": "seeded",
-          "count": 96
+          "count": 43
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 238,
+      "jobsSeen": 103,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 42,
-        "senior role": 96,
-        "not a student / intern role": 94,
-        "not remote": 1,
-        "dated for a past term (per description)": 3,
-        "recruiting event / talent pool": 2
+        "non-target function": 17,
+        "senior role": 48,
+        "not a student / intern role": 34,
+        "not remote": 4
       }
     },
     {
@@ -4203,15 +4179,16 @@
         {
           "source": "Workday:athene/Apollo_Careers",
           "origin": "seeded",
-          "count": 2
+          "count": 46
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 2,
+      "jobsSeen": 46,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 1,
-        "not a student / intern role": 1
+        "non-target function": 12,
+        "senior role": 18,
+        "not a student / intern role": 16
       }
     },
     {
@@ -4221,16 +4198,16 @@
         {
           "source": "Workday:aresmgmt/External",
           "origin": "seeded",
-          "count": 195
+          "count": 40
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 195,
+      "jobsSeen": 40,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 92,
-        "non-target function": 64,
-        "not a student / intern role": 39
+        "senior role": 21,
+        "non-target function": 16,
+        "not a student / intern role": 3
       }
     },
     {
@@ -4240,16 +4217,16 @@
         {
           "source": "Workday:blueowl/blueowl",
           "origin": "seeded",
-          "count": 50
+          "count": 20
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 50,
+      "jobsSeen": 20,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 13,
-        "senior role": 23,
-        "not a student / intern role": 14
+        "non-target function": 7,
+        "senior role": 9,
+        "not a student / intern role": 4
       }
     },
     {
@@ -4259,16 +4236,16 @@
         {
           "source": "Workday:oaktree/Oaktree",
           "origin": "seeded",
-          "count": 57
+          "count": 20
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 57,
+      "jobsSeen": 20,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 16,
-        "senior role": 33,
-        "not a student / intern role": 8
+        "non-target function": 9,
+        "senior role": 8,
+        "not a student / intern role": 3
       }
     },
     {
@@ -4837,17 +4814,13 @@
         {
           "source": "Workday:ghr/Lateral-US",
           "origin": "seeded",
-          "count": 120
+          "count": 0
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 120,
+      "jobsSeen": 0,
       "relevantRoles": 0,
-      "rejectedByReason": {
-        "not a student / intern role": 87,
-        "senior role": 26,
-        "non-target function": 7
-      }
+      "rejectedByReason": {}
     },
     {
       "company": "Wells Fargo",
@@ -4856,16 +4829,18 @@
         {
           "source": "Workday:wf/wellsfargojobs",
           "origin": "seeded",
-          "count": 60
+          "count": 1423
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 60,
+      "jobsSeen": 1423,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 33,
-        "not a student / intern role": 15,
-        "non-target function": 12
+        "senior role": 438,
+        "not a student / intern role": 817,
+        "non-target function": 157,
+        "outside software / data / finance": 3,
+        "recruiting event / talent pool": 8
       }
     },
     {
@@ -4875,16 +4850,16 @@
         {
           "source": "Workday:capitalone/Capital_One",
           "origin": "seeded",
-          "count": 2034
+          "count": 2036
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 2034,
+      "jobsSeen": 2036,
       "relevantRoles": 0,
       "rejectedByReason": {
+        "non-target function": 312,
+        "senior role": 1455,
         "not a student / intern role": 261,
-        "senior role": 1454,
-        "non-target function": 311,
         "outside software / data / finance": 3,
         "starts after June 2027 (per description)": 1,
         "recruiting event / talent pool": 1,
@@ -4899,16 +4874,16 @@
         {
           "source": "Workday:barclays/External_Career_Site_Barclays",
           "origin": "seeded",
-          "count": 652
+          "count": 644
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 652,
+      "jobsSeen": 644,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 245,
-        "not a student / intern role": 287,
-        "non-target function": 68,
+        "senior role": 241,
+        "not a student / intern role": 285,
+        "non-target function": 66,
         "not remote": 19,
         "outside software / data / finance": 31,
         "starts after June 2027 (per description)": 2
@@ -4943,20 +4918,19 @@
         {
           "source": "Workday:bmo/External",
           "origin": "seeded",
-          "count": 1053
+          "count": 1037
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 1053,
+      "jobsSeen": 1037,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 263,
-        "not a student / intern role": 418,
-        "senior role": 354,
+        "senior role": 339,
+        "not a student / intern role": 421,
+        "non-target function": 260,
         "not remote": 2,
         "outside software / data / finance": 14,
-        "summer-only internship": 1,
-        "empty title": 1
+        "summer-only internship": 1
       }
     },
     {
@@ -4984,13 +4958,22 @@
     {
       "company": "U.S. Bank",
       "category": "Banks & Financial Services",
-      "resolvedBoards": [],
-      "failedSeededBoards": [
-        "workday:usbank.wd1.myworkdayjobs.com/US_Bank_Careers"
+      "resolvedBoards": [
+        {
+          "source": "Workday:usbank/US_Bank_Careers",
+          "origin": "seeded",
+          "count": 1171
+        }
       ],
-      "jobsSeen": 0,
+      "failedSeededBoards": [],
+      "jobsSeen": 1171,
       "relevantRoles": 0,
-      "rejectedByReason": {}
+      "rejectedByReason": {
+        "not a student / intern role": 763,
+        "non-target function": 115,
+        "senior role": 292,
+        "recruiting event / talent pool": 1
+      }
     },
     {
       "company": "Fifth Third Bank",
@@ -4999,19 +4982,18 @@
         {
           "source": "Workday:fifththird/53careers",
           "origin": "seeded",
-          "count": 969
+          "count": 955
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 969,
+      "jobsSeen": 955,
       "relevantRoles": 0,
       "rejectedByReason": {
         "summer-only internship": 2,
-        "not a student / intern role": 644,
-        "senior role": 222,
-        "non-target function": 99,
-        "recruiting event / talent pool": 1,
-        "empty title": 1
+        "not a student / intern role": 637,
+        "non-target function": 96,
+        "senior role": 219,
+        "recruiting event / talent pool": 1
       }
     },
     {
@@ -5021,7 +5003,7 @@
         {
           "source": "Workday:keybank/External_Career_Site",
           "origin": "seeded",
-          "count": 550
+          "count": 551
         },
         {
           "source": "Workday:keybank/Scout",
@@ -5030,11 +5012,11 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 556,
+      "jobsSeen": 557,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 194,
-        "not a student / intern role": 323,
+        "not a student / intern role": 326,
+        "senior role": 192,
         "non-target function": 27,
         "outside software / data / finance": 5,
         "summer-only internship": 7
@@ -5047,7 +5029,7 @@
         {
           "source": "Workday:mtb/MTB",
           "origin": "seeded",
-          "count": 682
+          "count": 680
         },
         {
           "source": "Workday:mtb/Campus",
@@ -5056,13 +5038,13 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 751,
+      "jobsSeen": 749,
       "relevantRoles": 0,
       "rejectedByReason": {
         "outside software / data / finance": 6,
         "non-target function": 46,
-        "senior role": 239,
-        "not a student / intern role": 456,
+        "senior role": 238,
+        "not a student / intern role": 455,
         "hybrid (remote only)": 2,
         "recruiting event / talent pool": 2
       }
@@ -5074,7 +5056,7 @@
         {
           "source": "Workday:synchronyfinancial/careers",
           "origin": "seeded",
-          "count": 27
+          "count": 28
         },
         {
           "source": "Workday:synchronyfinancial/University",
@@ -5083,10 +5065,10 @@
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 41,
+      "jobsSeen": 42,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 26,
+        "senior role": 27,
         "not a student / intern role": 4,
         "non-target function": 5,
         "outside software / data / finance": 3,
@@ -5101,18 +5083,17 @@
         {
           "source": "Workday:allstate/allstate_careers",
           "origin": "seeded",
-          "count": 377
+          "count": 374
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 377,
+      "jobsSeen": 374,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 143,
-        "senior role": 72,
-        "outside software / data / finance": 4,
-        "non-target function": 157,
-        "empty title": 1
+        "not a student / intern role": 145,
+        "senior role": 71,
+        "outside software / data / finance": 5,
+        "non-target function": 153
       }
     },
     {
@@ -5167,16 +5148,14 @@
         {
           "source": "Workday:guardianlife/Guardian-Life-Careers",
           "origin": "seeded",
-          "count": 118
+          "count": 105
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 118,
+      "jobsSeen": 105,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "outside software / data / finance": 2,
-        "summer-only internship (per description)": 5,
-        "non-target function": 27,
+        "non-target function": 21,
         "PhD/MBA/JD-only": 3,
         "senior role": 60,
         "not a student / intern role": 21
@@ -5189,19 +5168,18 @@
         {
           "source": "Workday:travelers/External",
           "origin": "seeded",
-          "count": 409
+          "count": 405
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 409,
+      "jobsSeen": 405,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 80,
+        "non-target function": 81,
         "outside software / data / finance": 22,
-        "empty title": 1,
-        "hybrid (remote only)": 30,
+        "hybrid (remote only)": 27,
         "not a student / intern role": 159,
-        "senior role": 117
+        "senior role": 116
       }
     },
     {
@@ -5211,11 +5189,11 @@
         {
           "source": "Workday:thehartford/Careers_External",
           "origin": "seeded",
-          "count": 162
+          "count": 164
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 162,
+      "jobsSeen": 164,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 19,
@@ -5223,8 +5201,8 @@
         "not remote": 5,
         "outside software / data / finance": 4,
         "summer-only internship": 4,
-        "not a student / intern role": 73,
-        "senior role": 54,
+        "not a student / intern role": 74,
+        "senior role": 55,
         "recruiting event / talent pool": 1
       }
     },
@@ -5235,19 +5213,19 @@
         {
           "source": "Workday:nationwide/Nationwide_Career",
           "origin": "seeded",
-          "count": 167
+          "count": 145
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 167,
+      "jobsSeen": 145,
       "relevantRoles": 0,
       "rejectedByReason": {
         "outside software / data / finance": 3,
         "summer-only internship": 2,
         "recruiting event / talent pool": 3,
-        "not a student / intern role": 70,
-        "non-target function": 33,
-        "senior role": 56
+        "not a student / intern role": 55,
+        "non-target function": 30,
+        "senior role": 52
       }
     },
     {
@@ -5257,17 +5235,17 @@
         {
           "source": "Workday:pacificlife/PacificLifeCareers",
           "origin": "seeded",
-          "count": 133
+          "count": 134
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 133,
+      "jobsSeen": 134,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 29,
         "outside software / data / finance": 3,
         "summer-only internship": 2,
-        "not a student / intern role": 30,
+        "not a student / intern role": 31,
         "senior role": 69
       }
     },
@@ -5285,9 +5263,9 @@
       "jobsSeen": 2000,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 827,
-        "senior role": 914,
-        "non-target function": 252,
+        "not a student / intern role": 831,
+        "senior role": 915,
+        "non-target function": 247,
         "not remote": 4,
         "PhD/MBA/JD-only": 1,
         "outside software / data / finance": 2
@@ -5338,19 +5316,19 @@
         {
           "source": "Workday:rb/FRS",
           "origin": "seeded",
-          "count": 168
+          "count": 147
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 168,
+      "jobsSeen": 147,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "outside software / data / finance": 41,
-        "non-target function": 28,
+        "outside software / data / finance": 31,
+        "non-target function": 23,
         "PhD/MBA/JD-only": 2,
-        "summer-only internship": 8,
+        "summer-only internship": 5,
         "recruiting event / talent pool": 1,
-        "senior role": 43,
+        "senior role": 40,
         "not a student / intern role": 45
       }
     },
@@ -5380,15 +5358,15 @@
         {
           "source": "Greenhouse:groupon",
           "origin": "seeded",
-          "count": 24
+          "count": 25
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 24,
+      "jobsSeen": 25,
       "relevantRoles": 0,
       "rejectedByReason": {
+        "non-target function": 15,
         "not a student / intern role": 1,
-        "non-target function": 14,
         "senior role": 9
       }
     },
@@ -5418,16 +5396,16 @@
         {
           "source": "Ashby:kin",
           "origin": "seeded",
-          "count": 19
+          "count": 22
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 19,
+      "jobsSeen": 22,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 3,
-        "senior role": 12,
-        "non-target function": 4
+        "senior role": 14,
+        "non-target function": 5
       }
     },
     {
@@ -5467,22 +5445,21 @@
         {
           "source": "Workday:motorolasolutions/Careers",
           "origin": "seeded",
-          "count": 703
+          "count": 702
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 703,
+      "jobsSeen": 702,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not remote": 22,
-        "outside software / data / finance": 20,
-        "non-target function": 253,
+        "outside software / data / finance": 21,
+        "non-target function": 254,
         "summer-only internship": 15,
+        "full-time / off-cycle co-op": 1,
         "not a student / intern role": 195,
-        "no part-time or term-time signal": 1,
         "senior role": 193,
-        "recruiting event / talent pool": 1,
-        "empty title": 3
+        "recruiting event / talent pool": 1
       }
     },
     {
@@ -5575,16 +5552,16 @@
         {
           "source": "Greenhouse:enova",
           "origin": "guessed",
-          "count": 41
+          "count": 40
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 41,
+      "jobsSeen": 40,
       "relevantRoles": 0,
       "rejectedByReason": {
         "summer-only internship": 1,
         "not a student / intern role": 6,
-        "non-target function": 14,
+        "non-target function": 13,
         "senior role": 18,
         "hybrid (remote only)": 1,
         "outside software / data / finance": 1
@@ -5597,14 +5574,14 @@
         {
           "source": "Greenhouse:relativity",
           "origin": "guessed",
-          "count": 400
+          "count": 396
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 400,
+      "jobsSeen": 396,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 175,
+        "non-target function": 171,
         "not a student / intern role": 62,
         "senior role": 163
       }
@@ -5663,14 +5640,14 @@
         {
           "source": "Greenhouse:cleo",
           "origin": "guessed",
-          "count": 11
+          "count": 12
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 11,
+      "jobsSeen": 12,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "non-target function": 4,
+        "non-target function": 5,
         "not a student / intern role": 1,
         "senior role": 6
       }
@@ -5735,8 +5712,8 @@
       "jobsSeen": 251,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "not a student / intern role": 34,
-        "senior role": 124,
+        "not a student / intern role": 33,
+        "senior role": 125,
         "non-target function": 93
       }
     },
@@ -5787,14 +5764,14 @@
         {
           "source": "Greenhouse:mozilla",
           "origin": "seeded",
-          "count": 122
+          "count": 121
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 122,
+      "jobsSeen": 121,
       "relevantRoles": 0,
       "rejectedByReason": {
-        "senior role": 95,
+        "senior role": 94,
         "not a student / intern role": 3,
         "non-target function": 24
       }
@@ -5853,16 +5830,16 @@
         {
           "source": "Greenhouse:coursera",
           "origin": "seeded",
-          "count": 40
+          "count": 38
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 40,
+      "jobsSeen": 38,
       "relevantRoles": 0,
       "rejectedByReason": {
         "not a student / intern role": 5,
-        "senior role": 20,
-        "non-target function": 15
+        "senior role": 19,
+        "non-target function": 14
       }
     },
     {
@@ -5979,17 +5956,17 @@
         {
           "source": "Lever:standtogether",
           "origin": "seeded",
-          "count": 130
+          "count": 129
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 130,
+      "jobsSeen": 129,
       "relevantRoles": 2,
       "rejectedByReason": {
         "non-target function": 39,
         "recruiting event / talent pool": 2,
-        "senior role": 37,
         "not a student / intern role": 12,
+        "senior role": 36,
         "outside software / data / finance": 37,
         "hybrid (remote only)": 1
       }
@@ -6006,15 +5983,15 @@
         {
           "source": "Greenhouse:aclu",
           "origin": "guessed",
-          "count": 17
+          "count": 18
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 59,
+      "jobsSeen": 60,
       "relevantRoles": 1,
       "rejectedByReason": {
         "non-target function": 32,
-        "not a student / intern role": 5,
+        "not a student / intern role": 6,
         "outside software / data / finance": 11,
         "PhD/MBA/JD-only": 2,
         "senior role": 8
@@ -6046,16 +6023,16 @@
         {
           "source": "Lever:merklescience",
           "origin": "seeded",
-          "count": 24
+          "count": 26
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 24,
+      "jobsSeen": 26,
       "relevantRoles": 0,
       "rejectedByReason": {
         "non-target function": 13,
         "not a student / intern role": 2,
-        "senior role": 7,
+        "senior role": 9,
         "hybrid (remote only)": 2
       }
     },
@@ -6066,17 +6043,17 @@
         {
           "source": "Workday:uchicago/External",
           "origin": "seeded",
-          "count": 373
+          "count": 372
         }
       ],
       "failedSeededBoards": [],
-      "jobsSeen": 373,
+      "jobsSeen": 372,
       "relevantRoles": 0,
       "rejectedByReason": {
         "outside software / data / finance": 6,
         "non-target function": 103,
         "senior role": 120,
-        "not a student / intern role": 143,
+        "not a student / intern role": 142,
         "recruiting event / talent pool": 1
       }
     },

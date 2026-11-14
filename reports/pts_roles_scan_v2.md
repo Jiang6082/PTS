@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-13T20:29:58.446Z
+Scanned: 2026-11-14T18:44:51.398Z
 Employers searched: 308
 Career pages checked: 709
 Part-time roles: 4
@@ -120,6 +120,7 @@ _None._
 - Cleo
 - Cloudflare
 - Cohere
+- Coinbase
 - Connor Clark & Lunn
 - Consensys
 - CoreWeave
@@ -173,8 +174,8 @@ _None._
 - Hugging Face
 - IMC Trading
 - Inmar Intelligence
+- Insight Partners
 - Instacart
-- Intel
 - Invesco
 - Invisible Technologies
 - JPMorgan Chase
@@ -184,6 +185,7 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
+- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -200,6 +202,7 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -221,7 +224,6 @@ _None._
 - Old Mission Capital
 - OpenAI
 - Optiver
-- PGIM
 - PIMCO
 - Palantir
 - Paxos
@@ -317,7 +319,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citadel
 - Citi
 - Cognition
-- Coinbase
 - Collide Capital
 - Contrary
 - D. E. Shaw
@@ -338,10 +339,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Greylock
 - HashiCorp
 - Hyde Park Venture Partners
-- Insight Partners
+- Intel
 - Jump Capital
 - KKR
-- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -349,11 +349,11 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
 - Origin Ventures
+- PGIM
 - Pacific Life
 - Packback
 - Pritzker Group Venture Capital
