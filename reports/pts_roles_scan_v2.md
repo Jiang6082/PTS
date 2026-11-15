@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-14T18:44:51.398Z
+Scanned: 2026-11-15T19:21:16.058Z
 Employers searched: 308
 Career pages checked: 709
 Part-time roles: 4
@@ -78,7 +78,6 @@ _None._
 - Airtable
 - Akuna Capital
 - AllianceBernstein
-- Allstate
 - Alpaca
 - Amazon
 - Anchorage Digital
@@ -86,9 +85,7 @@ _None._
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
-- Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -103,9 +100,7 @@ _None._
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
-- Blackstone
 - Blockhouse
-- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -163,7 +158,6 @@ _None._
 - Grafana Labs
 - Groupon
 - Grubhub
-- Guardian Life
 - GuidePoint Security
 - Handshake
 - Harris Associates (Oakmark)
@@ -176,6 +170,7 @@ _None._
 - Inmar Intelligence
 - Insight Partners
 - Instacart
+- Intel
 - Invesco
 - Invisible Technologies
 - JPMorgan Chase
@@ -202,13 +197,11 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
-- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -217,18 +210,17 @@ _None._
 - Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
-- Northwestern Mutual
 - Nubank
 - Nuveen
-- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
+- PGIM
 - PIMCO
+- Pacific Life
 - Palantir
 - Paxos
 - PayPal
-- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -244,7 +236,6 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
-- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -302,13 +293,18 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
+- Allstate
 - Apple
+- Ares Management
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
+- Blackstone
 - Bloomberg
+- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -337,9 +333,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Google
 - Graham Capital Management
 - Greylock
+- Guardian Life
 - HashiCorp
 - Hyde Park Venture Partners
-- Intel
 - Jump Capital
 - KKR
 - LPL Financial
@@ -349,17 +345,21 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
+- Morningstar
 - NEA
 - NORC at the University of Chicago
+- Northwestern Mutual
 - OCA Ventures
+- Oaktree Capital Management
 - Origin Ventures
-- PGIM
-- Pacific Life
 - Packback
+- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
 - Retool
+- S&P Global
 - ShipBob
 - Snowflake
 - State Street

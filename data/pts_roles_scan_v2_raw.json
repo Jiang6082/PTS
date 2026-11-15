@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-14T18:44:51.398Z",
+  "searchedAt": "2026-11-15T19:21:16.058Z",
   "companies": [
     "Google",
     "Meta",
@@ -311,7 +311,7 @@
     "Argonne National Laboratory"
   ],
   "careerPageDb": {
-    "generatedAt": "2026-11-14T18:44:51.399Z",
+    "generatedAt": "2026-11-15T19:21:16.059Z",
     "companies": {
       "Google": {
         "careerPages": [
@@ -6034,8 +6034,8 @@
       "company": "Instacart",
       "pageUrl": "https://www.instacart.careers/",
       "resolvedUrl": "https://www.instacart.careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -6046,8 +6046,8 @@
       "company": "Instacart",
       "pageUrl": "https://www.instacart.careers/current-openings",
       "resolvedUrl": "https://www.instacart.careers/current-openings",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -6210,9 +6210,13 @@
       "company": "Spotify",
       "pageUrl": "https://www.lifeatspotify.com/",
       "resolvedUrl": "https://www.lifeatspotify.com/",
-      "pageOk": false,
-      "pageStatus": 0,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "lever": [
+          "spotify"
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -6351,8 +6355,8 @@
       "company": "MongoDB",
       "pageUrl": "https://www.mongodb.com/company/careers?msockid=165b07348bfa6c023fe11f358a506d45",
       "resolvedUrl": "https://www.mongodb.com/company/careers?msockid=165b07348bfa6c023fe11f358a506d45",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -6615,12 +6619,10 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/professionals/",
       "resolvedUrl": "https://www.bloomberg.com/company/professionals/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -6643,12 +6645,10 @@
       "company": "Bloomberg",
       "pageUrl": "https://www.bloomberg.com/company/early-careers/",
       "resolvedUrl": "https://www.bloomberg.com/company/early-careers/",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 403,
       "atsTokens": {},
-      "unsupportedAts": [
-        "avature"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -6768,10 +6768,10 @@
       "boards": [
         {
           "source": "Greenhouse:coherehealth",
-          "jobsSeen": 64
+          "jobsSeen": 63
         }
       ],
-      "jobsSeen": 64,
+      "jobsSeen": 63,
       "relevantRoles": 0
     },
     {
@@ -6806,8 +6806,8 @@
       "company": "Scale AI",
       "pageUrl": "http://www.scalesd.org/careers.html",
       "resolvedUrl": "http://www.scalesd.org/careers.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -8731,7 +8731,7 @@
       "boards": [
         {
           "source": "Greenhouse:wavemm1",
-          "jobsSeen": 72
+          "jobsSeen": 71
         },
         {
           "source": "Greenhouse:startale",
@@ -8758,7 +8758,7 @@
           "jobsSeen": 3
         }
       ],
-      "jobsSeen": 182,
+      "jobsSeen": 181,
       "relevantRoles": 0
     },
     {
@@ -9208,7 +9208,7 @@
       "pageUrl": "https://careers.toasttab.com/",
       "resolvedUrl": "https://careers.toasttab.com/",
       "pageOk": true,
-      "pageStatus": 202,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -9232,7 +9232,7 @@
       "pageUrl": "https://careers.toasttab.com/early-career",
       "resolvedUrl": "https://careers.toasttab.com/early-career",
       "pageOk": true,
-      "pageStatus": 202,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -12979,14 +12979,18 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "andurilindustries",
-          "tanium"
+          "andurilindustries"
         ],
         "ashby": [
-          "openai",
+          "tennr",
+          "EliseAI",
+          "clickup",
+          "black-forest-labs",
+          "sardine",
+          "apex-technology-inc",
+          "mirage",
           "harvey",
-          "arena",
-          "radiant-industries"
+          "openai"
         ]
       },
       "unsupportedAts": [],
@@ -13050,7 +13054,29 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "generalcatalyst"
+          "generalcatalyst",
+          "gitlab"
+        ],
+        "ashby": [
+          "black-forest-labs"
+        ],
+        "workday": [
+          {
+            "host": "wonder.wd1.myworkdayjobs.com",
+            "site": "WG"
+          },
+          {
+            "host": "snapchat.wd1.myworkdayjobs.com",
+            "site": "snap"
+          },
+          {
+            "host": "cloudera.wd5.myworkdayjobs.com",
+            "site": "External_Career"
+          },
+          {
+            "host": "devoted.wd1.myworkdayjobs.com",
+            "site": "Devoted"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -13119,8 +13145,15 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "tailscale",
-          "sparetech"
+          "quince"
+        ],
+        "ashby": [
+          "incident",
+          "Overjet",
+          "factory"
+        ],
+        "workable": [
+          "runware"
         ]
       },
       "unsupportedAts": [],
@@ -13136,8 +13169,15 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "tailscale",
-          "sparetech"
+          "quince"
+        ],
+        "ashby": [
+          "incident",
+          "Overjet",
+          "factory"
+        ],
+        "workable": [
+          "runware"
         ]
       },
       "unsupportedAts": [],
@@ -13175,7 +13215,22 @@
       "resolvedUrl": "https://indexventures.getro.com/jobs",
       "pageOk": true,
       "pageStatus": 200,
-      "atsTokens": {},
+      "atsTokens": {
+        "ashby": [
+          "incident",
+          "physicalintelligence"
+        ],
+        "workday": [
+          {
+            "host": "seic.wd1.myworkdayjobs.com",
+            "site": "SEI_Global_Services"
+          },
+          {
+            "host": "servicetitan.wd1.myworkdayjobs.com",
+            "site": "ServiceTitan"
+          }
+        ]
+      },
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -13312,11 +13367,18 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "studsinc",
-          "andurilindustries"
+          "spacex",
+          "databricks"
         ],
         "ashby": [
-          "Homebound"
+          "openai",
+          "physicalintelligence"
+        ],
+        "workday": [
+          {
+            "host": "collectorsuniverse.wd1.myworkdayjobs.com",
+            "site": "collectors"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -13332,11 +13394,18 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "studsinc",
-          "andurilindustries"
+          "spacex",
+          "databricks"
         ],
         "ashby": [
-          "Homebound"
+          "openai",
+          "physicalintelligence"
+        ],
+        "workday": [
+          {
+            "host": "collectorsuniverse.wd1.myworkdayjobs.com",
+            "site": "collectors"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -13364,8 +13433,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "ashby": [
-          "Homebound",
-          "radai"
+          "openai"
         ]
       },
       "unsupportedAts": [],
@@ -13486,16 +13554,16 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "shopmy",
-          "withorb",
-          "trueanomalyinc",
-          "whisperaero",
-          "braze"
+          "anthropic"
         ],
         "ashby": [
-          "Envoy",
-          "warp-sciences",
-          "lovable"
+          "legora"
+        ],
+        "workday": [
+          {
+            "host": "automationanywhere.wd5.myworkdayjobs.com",
+            "site": "AutomationAnywhereJobs"
+          }
         ]
       },
       "unsupportedAts": [],
@@ -14290,7 +14358,7 @@
     {
       "company": "Allstate",
       "pageUrl": "https://www.allstate.jobs/",
-      "resolvedUrl": "https://www.allstatecorporation.com/careers.aspx",
+      "resolvedUrl": "https://www.allstate.jobs/",
       "pageOk": true,
       "pageStatus": 200,
       "atsTokens": {
@@ -14602,13 +14670,11 @@
     {
       "company": "Pacific Life",
       "pageUrl": "https://careers.pacificlife.com/",
-      "resolvedUrl": "https://careers.pacificlife.com/us/en",
-      "pageOk": true,
-      "pageStatus": 200,
+      "resolvedUrl": "https://careers.pacificlife.com/",
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
-      "unsupportedAts": [
-        "phenom"
-      ],
+      "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
       "relevantRoles": 0
@@ -14629,8 +14695,8 @@
       "company": "JPMorgan Chase",
       "pageUrl": "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
       "resolvedUrl": "https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers",
-      "pageOk": true,
-      "pageStatus": 200,
+      "pageOk": false,
+      "pageStatus": 0,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -14735,10 +14801,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3015
+          "jobsSeen": 3012
         }
       ],
-      "jobsSeen": 3015,
+      "jobsSeen": 3012,
       "relevantRoles": 0
     },
     {
@@ -14761,10 +14827,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3015
+          "jobsSeen": 3012
         }
       ],
-      "jobsSeen": 3015,
+      "jobsSeen": 3012,
       "relevantRoles": 0
     },
     {
@@ -16847,7 +16913,6 @@
     "Airtable",
     "Akuna Capital",
     "AllianceBernstein",
-    "Allstate",
     "Alpaca",
     "Amazon",
     "Anchorage Digital",
@@ -16855,9 +16920,7 @@
     "Anduril",
     "Anysphere (Cursor)",
     "Apollo Global Management",
-    "Ares Management",
     "Ariel Investments",
-    "Arrowstreet",
     "Asana",
     "Automattic",
     "Avant",
@@ -16872,9 +16935,7 @@
     "Benzinga",
     "Bessemer Venture Partners",
     "Betterment",
-    "Blackstone",
     "Blockhouse",
-    "Blue Owl Capital",
     "Braviant Holdings",
     "Brex",
     "Bridgewater Associates",
@@ -16932,7 +16993,6 @@
     "Grafana Labs",
     "Groupon",
     "Grubhub",
-    "Guardian Life",
     "GuidePoint Security",
     "Handshake",
     "Harris Associates (Oakmark)",
@@ -16945,6 +17005,7 @@
     "Inmar Intelligence",
     "Insight Partners",
     "Instacart",
+    "Intel",
     "Invesco",
     "Invisible Technologies",
     "JPMorgan Chase",
@@ -16971,13 +17032,11 @@
     "Mercor",
     "Mercury",
     "Merkle Science",
-    "Microsoft",
     "Millennium",
     "Mistral AI",
     "Modal",
     "MongoDB",
     "Morgan Stanley",
-    "Morningstar",
     "Motorola Solutions",
     "Mozilla",
     "NVIDIA",
@@ -16986,18 +17045,17 @@
     "Netflix",
     "Neuberger Berman",
     "Northern Trust Asset Management",
-    "Northwestern Mutual",
     "Nubank",
     "Nuveen",
-    "Oaktree Capital Management",
     "Old Mission Capital",
     "OpenAI",
     "Optiver",
+    "PGIM",
     "PIMCO",
+    "Pacific Life",
     "Palantir",
     "Paxos",
     "PayPal",
-    "Peak6",
     "Pear VC",
     "Perplexity",
     "Pinterest",
@@ -17013,7 +17071,6 @@
     "Robinhood",
     "Roblox",
     "Russell Investments",
-    "S&P Global",
     "Salesforce",
     "Samsara",
     "Scale AI",
@@ -17068,13 +17125,18 @@
   "couldNotFullyVerify": [
     "Accel",
     "Adobe",
+    "Allstate",
     "Apple",
+    "Ares Management",
     "Argonne National Laboratory",
+    "Arrowstreet",
     "BMO Capital Markets",
     "Bank of America",
     "Barclays",
     "BlackRock",
+    "Blackstone",
     "Bloomberg",
+    "Blue Owl Capital",
     "Brevan Howard",
     "Calamos Investments",
     "Capital One",
@@ -17103,9 +17165,9 @@
     "Google",
     "Graham Capital Management",
     "Greylock",
+    "Guardian Life",
     "HashiCorp",
     "Hyde Park Venture Partners",
-    "Intel",
     "Jump Capital",
     "KKR",
     "LPL Financial",
@@ -17115,17 +17177,21 @@
     "Madison Dearborn Partners",
     "Mastercard",
     "Meta",
+    "Microsoft",
+    "Morningstar",
     "NEA",
     "NORC at the University of Chicago",
+    "Northwestern Mutual",
     "OCA Ventures",
+    "Oaktree Capital Management",
     "Origin Ventures",
-    "PGIM",
-    "Pacific Life",
     "Packback",
+    "Peak6",
     "Pritzker Group Venture Capital",
     "Pritzker Private Capital",
     "Raymond James",
     "Retool",
+    "S&P Global",
     "ShipBob",
     "Snowflake",
     "State Street",
