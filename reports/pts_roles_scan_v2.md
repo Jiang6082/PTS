@@ -1,10 +1,10 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-15T19:21:16.058Z
+Scanned: 2026-11-16T22:51:57.730Z
 Employers searched: 308
-Career pages checked: 709
+Career pages checked: 710
 Part-time roles: 4
-Term-time roles, hours not stated: 3
+Term-time roles, hours not stated: 2
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
 
@@ -43,9 +43,8 @@ _None._
 
 - **Notion** - [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) - San Francisco, California - Confirmed official posting (Official ATS Ashby:notion): hours not stated; term: Winter 2027; fully remote
 
-### Data (2)
+### Data (1)
 
-- **Stand Together** - [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) - Florida - Confirmed official posting (Official ATS Lever:standtogether): hours not stated; term: Spring 2027; fully remote
 - **Stand Together** - [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) - New York - Confirmed official posting (Official ATS Lever:standtogether): hours not stated; term: Spring 2027; fully remote
 
 ### Finance (0)
@@ -78,6 +77,7 @@ _None._
 - Airtable
 - Akuna Capital
 - AllianceBernstein
+- Allstate
 - Alpaca
 - Amazon
 - Anchorage Digital
@@ -85,7 +85,9 @@ _None._
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
+- Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -100,12 +102,13 @@ _None._
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
+- Blackstone
 - Blockhouse
+- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
 - Buffer
-- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -116,7 +119,6 @@ _None._
 - Cloudflare
 - Cohere
 - Coinbase
-- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -158,6 +160,7 @@ _None._
 - Grafana Labs
 - Groupon
 - Grubhub
+- Guardian Life
 - GuidePoint Security
 - Handshake
 - Harris Associates (Oakmark)
@@ -165,7 +168,6 @@ _None._
 - Help Scout
 - Hex
 - Hudson River Trading
-- Hugging Face
 - IMC Trading
 - Inmar Intelligence
 - Insight Partners
@@ -180,7 +182,6 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
-- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -197,6 +198,7 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -210,17 +212,19 @@ _None._
 - Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
+- Northwestern Mutual
 - Nubank
 - Nuveen
+- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
 - PGIM
 - PIMCO
-- Pacific Life
 - Palantir
 - Paxos
 - PayPal
+- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -235,7 +239,6 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
-- Russell Investments
 - Salesforce
 - Samsara
 - Scale AI
@@ -293,19 +296,15 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Allstate
 - Apple
-- Ares Management
 - Argonne National Laboratory
-- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
-- Blackstone
 - Bloomberg
-- Blue Owl Capital
 - Brevan Howard
+- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -316,6 +315,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citi
 - Cognition
 - Collide Capital
+- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -333,11 +333,12 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Google
 - Graham Capital Management
 - Greylock
-- Guardian Life
 - HashiCorp
+- Hugging Face
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
+- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -345,20 +346,18 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
 - Morningstar
 - NEA
 - NORC at the University of Chicago
-- Northwestern Mutual
 - OCA Ventures
-- Oaktree Capital Management
 - Origin Ventures
+- Pacific Life
 - Packback
-- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Raymond James
 - Retool
+- Russell Investments
 - S&P Global
 - ShipBob
 - Snowflake

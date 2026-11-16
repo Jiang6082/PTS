@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-11-15 &nbsp;•&nbsp; **4 part-time roles** &nbsp;•&nbsp; **3 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **5 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-16 &nbsp;•&nbsp; **4 part-time roles** &nbsp;•&nbsp; **2 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **5 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -14,7 +14,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 ## 🆕 New Roles
 
-_Scan date: 2026-11-15_
+_Scan date: 2026-11-16_
 
 _No new roles detected in the latest scan._
 
@@ -22,7 +22,7 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles
 
-**7** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
+**6** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
 
 ### Software
 
@@ -37,12 +37,11 @@ _No new roles detected in the latest scan._
 ### Data
 
 <details>
-<summary><strong>5 roles</strong> — click to expand</summary>
+<summary><strong>4 roles</strong> — click to expand</summary>
 
 - **ACLU** — [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) — Remote/Hybrid- New York City
 - **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 - **TPG** — [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) — Remote
-- **Stand Together** — [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) — Florida _(hours not stated)_
 - **Stand Together** — [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) — New York _(hours not stated)_
 
 </details>

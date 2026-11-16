@@ -1,10 +1,10 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-15T19:18:19.445Z
+Scanned: 2026-11-16T22:48:33.684Z
 Employers in universe: 308
-Employers with at least one live ATS board: 235
+Employers with at least one live ATS board: 243
 Part-time roles: 4
-Term-time roles, hours not stated: 3
+Term-time roles, hours not stated: 2
 
 Criteria: open posting on an official ATS board; intern / student / co-op / fellow / scout / research-assistant role; software, data or finance (asset management, hedge funds, research, PE/VC, fintech) work; part-time signal (commitment field, title, <=30 hrs/week, academic-year or while-enrolled wording) or a fall/winter/spring term inside Oct 2026 - Jun 2027 with no full-time statement; remote in the US (UChicago roles may be on campus). Excludes summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only, investment banking / corporate finance, and roles dated outside the window.
 
@@ -18,7 +18,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 ## Term-Time Roles, Hours Not Stated
 
 - **Notion** — [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) — San Francisco, California (Software; hours not stated; term: Winter 2027; fully remote)
-- **Stand Together** — [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) — Florida (Data; hours not stated; term: Spring 2027; fully remote)
 - **Stand Together** — [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) — New York (Data; hours not stated; term: Spring 2027; fully remote)
 
 ## Employers Without A Live ATS Board (v1)
@@ -26,7 +25,7 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Google
 - Meta
 - Apple
-- Microsoft
+- Hugging Face
 - Mistral AI
 - Anysphere (Cursor)
 - dbt Labs
@@ -34,19 +33,16 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Retool
 - Inmar Intelligence
 - Chainalysis
+- Russell Investments
 - Morningstar
 - S&P Global
-- Arrowstreet
+- CME Group
 - LPL Financial
 - Raymond James
-- Peak6
+- Millennium
 - Two Sigma
 - Citadel
 - D. E. Shaw
-- Blackstone
-- Ares Management
-- Blue Owl Capital
-- Oaktree Capital Management
 - KKR
 - Carlyle
 - Thoma Bravo
@@ -76,11 +72,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Lightbank
 - OCA Ventures
 - Sensiba
-- U.S. Bank
-- Synchrony
-- Allstate
-- Northwestern Mutual
-- Guardian Life
 - Goldman Sachs
 - Citi
 - ShipBob
