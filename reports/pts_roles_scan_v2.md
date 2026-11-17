@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-16T22:51:57.730Z
+Scanned: 2026-11-17T16:43:10.497Z
 Employers searched: 308
 Career pages checked: 710
 Part-time roles: 4
@@ -87,7 +87,6 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -109,6 +108,7 @@ _None._
 - Brex
 - Bridgewater Associates
 - Buffer
+- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -119,6 +119,7 @@ _None._
 - Cloudflare
 - Cohere
 - Coinbase
+- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -168,6 +169,7 @@ _None._
 - Help Scout
 - Hex
 - Hudson River Trading
+- Hugging Face
 - IMC Trading
 - Inmar Intelligence
 - Insight Partners
@@ -182,6 +184,7 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
+- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -198,12 +201,12 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
+- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -239,6 +242,7 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
+- Russell Investments
 - Salesforce
 - Samsara
 - Scale AI
@@ -298,13 +302,13 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
 - Bloomberg
 - Brevan Howard
-- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -315,7 +319,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citi
 - Cognition
 - Collide Capital
-- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -334,11 +337,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Graham Capital Management
 - Greylock
 - HashiCorp
-- Hugging Face
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
-- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -346,7 +347,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Morningstar
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -357,7 +358,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- Russell Investments
 - S&P Global
 - ShipBob
 - Snowflake

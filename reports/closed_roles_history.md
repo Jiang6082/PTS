@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 5
-Last updated: 2026-11-16T22:51:57.730Z
+Total closures recorded: 6
+Last updated: 2026-11-17T16:43:10.497Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-17 (1)
+
+- **Stand Together** - [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c) - Florida
 
 ### 2026-11-10 (2)
 

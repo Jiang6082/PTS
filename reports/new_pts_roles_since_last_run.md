@@ -1,11 +1,11 @@
 # New Part-Time Roles Since Last Run
 
-Previous scan: 2026-11-15T19:21:16.058Z
-Current scan: 2026-11-16T22:51:57.730Z
-Previous rows: 7
+Previous scan: 2026-11-16T22:51:57.730Z
+Current scan: 2026-11-17T16:43:10.497Z
+Previous rows: 6
 Current rows: 6
 New stable job URLs: 0
-No longer present: 0
+No longer present: 1
 
 ## New Roles By Track
 
@@ -31,4 +31,4 @@ _None._
 
 ## No Longer Present
 
-_None._
+- **Stand Together** - [KIP Spring 2027 - Data Analysis Intern - Open The Books](https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c)

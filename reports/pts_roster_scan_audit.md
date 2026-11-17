@@ -1,6 +1,6 @@
 # PTS Employer Roster Scan Audit
 
-Scan started: 2026-11-16T22:51:57.730Z
+Scan started: 2026-11-17T16:43:10.497Z
 Source roster entries: 308
 Canonical companies after aliases: 308
 
@@ -8,11 +8,11 @@ Canonical companies after aliases: 308
 
 | Employer | Category | Live ATS boards (jobs scanned) | Career pages |
 | --- | --- | --- | --- |
-| Anthropic | AI & Data Companies | Greenhouse:anthropic (659) | [link](https://www.anthropic.com/careers) [link](https://www.anthropic.com/careers/jobs) [link](https://job-boards.greenhouse.io/anthropic) |
+| Anthropic | AI & Data Companies | Greenhouse:anthropic (660) | [link](https://www.anthropic.com/careers) [link](https://www.anthropic.com/careers/jobs) [link](https://job-boards.greenhouse.io/anthropic) |
 | Notion | High-Growth Startups & Dev Tools | Ashby:notion (165) | [link](https://www.notion.com/careers) [link](https://jobs.ashbyhq.com/notion) [link](https://notion-hq.vercel.app/en-gb/careers) |
 | OneEthos | High-Growth Startups & Dev Tools | Greenhouse:oneethos (2) | [link](https://job-boards.greenhouse.io/oneethos) [link](https://job-boards.greenhouse.io/oneethos/jobs/4389029009) [link](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) |
 | TPG | Private Equity & Venture Capital | Greenhouse:tpgcareers (12) | [link](https://www.tpg.com/careers) [link](https://job-boards.greenhouse.io/tpgcareers) [link](https://www.tpg.com/) |
-| Stand Together | Remote-First Companies | Lever:standtogether (128) | [link](https://standtogether.org/careers) [link](https://standtogethertrust.org/careers/?id=a1PC0000001VoyvMAC) [link](https://standtogether.org/careers/benefits) |
+| Stand Together | Remote-First Companies | Lever:standtogether (129) | [link](https://standtogether.org/careers) [link](https://standtogethertrust.org/careers/?id=a1PC0000001VoyvMAC) [link](https://standtogether.org/careers/benefits) |
 | ACLU | Remote-First Companies | Greenhouse:acluinternships (42), Greenhouse:aclu (18) | [link](https://www.aclu-il.org/job-openings-0/) [link](https://www.aclu-il.org/jobs/) [link](https://job-boards.greenhouse.io/aclu) |
 
 ## Confirmed No Open Postings (4)
@@ -24,62 +24,62 @@ Canonical companies after aliases: 308
 | GTCR | Private Equity & Venture Capital | Greenhouse:gtcr (0) | [link](https://job-boards.greenhouse.io/gtcr) |
 | Index Ventures | Private Equity & Venture Capital | 3/3 pages live | [link](https://www.indexventures.com/startup-jobs/) [link](https://indexventures.getro.com/jobs) [link](https://jobs.lever.co/indexventures) |
 
-## Confirmed Openings, No Matching Role (221)
+## Confirmed Openings, No Matching Role (225)
 
 | Employer | Category | Live ATS boards (jobs scanned) | Career pages |
 | --- | --- | --- | --- |
-| Microsoft | Big Tech | Eightfold:apply.careers.microsoft.com (27) | [link](https://careers.microsoft.com/) [link](https://careers.microsoft.com/v2/global/en/professions.html) [link](https://apply.careers.microsoft.com/candidate/login) |
 | Amazon | Big Tech | Amazon:part time intern (44), Amazon:student (29) | [link](https://www.amazon.jobs/) [link](https://hiring.amazon.com/) [link](https://hiring.amazon.com/app) |
 | Netflix | Big Tech | Eightfold:explore.jobs.netflix.net (17) | [link](https://jobs.netflix.com/) [link](https://explore.jobs.netflix.net/careers) [link](https://jobs.netflix.com/careers/internships) |
-| NVIDIA | Big Tech | Workday:nvidia/NVIDIAExternalCareerSite (1545) | [link](https://www.nvidia.com/en-us/about-nvidia/careers/) [link](https://jobs.nvidia.com/careers) [link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) |
-| Salesforce | Big Tech | Workday:salesforce/External_Career_Site (1269) | [link](https://www.salesforce.com/company/careers/jobs/) [link](https://www.salesforce.com/company/careers/) [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
-| Intel | Big Tech | Workday:intel/External (794) | [link](https://intel.wd1.myworkdayjobs.com/External/page/6042070b79e01001f04fa9b468070000) [link](https://www.intel.com/content/www/us/en/jobs/life-at-intel.html) [link](https://www.intel.com/content/www/us/en/jobs/locations/united-states.html) |
-| Workday | Big Tech | Workday:workday/Workday (359) | [link](https://www.workday.com/en-us/company/careers/overview.html) [link](https://workday.wd5.myworkdayjobs.com/Workday/) [link](https://www.workday.com/en-us/company/careers/life-at-workday.html) |
-| Airbnb | Big Tech | Greenhouse:airbnb (207) | [link](https://www.airbnb.com/login) [link](https://www.airbnb.ca/login) [link](https://careers.airbnb.com/) |
-| Stripe | Big Tech | Greenhouse:stripe (790) | [link](https://stripe.com/careers) [link](https://stripe.com/careers/search) [link](https://stripe.big.jobs/) |
-| Pinterest | Big Tech | Greenhouse:pinterest (165) | [link](https://www.pinterestcareers.com/jobs/) [link](https://www.pinterestcareers.com/) [link](https://www.pinterestcareers.com/locations/remote/) |
-| Reddit | Big Tech | Greenhouse:reddit (148) | [link](https://redditinc.com/careers) [link](https://job-boards.greenhouse.io/reddit) |
+| NVIDIA | Big Tech | Workday:nvidia/NVIDIAExternalCareerSite (1548) | [link](https://www.nvidia.com/en-us/about-nvidia/careers/) [link](https://jobs.nvidia.com/careers) [link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) |
+| Salesforce | Big Tech | Workday:salesforce/External_Career_Site (1258) | [link](https://www.salesforce.com/company/careers/jobs/) [link](https://www.salesforce.com/company/careers/) [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site) |
+| Intel | Big Tech | Workday:intel/External (806) | [link](https://intel.wd1.myworkdayjobs.com/External/page/6042070b79e01001f04fa9b468070000) [link](https://www.intel.com/content/www/us/en/jobs/life-at-intel.html) [link](https://www.intel.com/content/www/us/en/jobs/locations/united-states.html) |
+| Workday | Big Tech | Workday:workday/Workday (349) | [link](https://www.workday.com/en-us/company/careers/overview.html) [link](https://workday.wd5.myworkdayjobs.com/Workday/) [link](https://www.workday.com/en-us/company/careers/life-at-workday.html) |
+| Airbnb | Big Tech | Greenhouse:airbnb (204) | [link](https://www.airbnb.com/login) [link](https://www.airbnb.ca/login) [link](https://careers.airbnb.com/) |
+| Stripe | Big Tech | Greenhouse:stripe (796) | [link](https://stripe.com/careers) [link](https://stripe.com/careers/search) [link](https://stripe.big.jobs/) |
+| Pinterest | Big Tech | Greenhouse:pinterest (170) | [link](https://www.pinterestcareers.com/jobs/) [link](https://www.pinterestcareers.com/) [link](https://www.pinterestcareers.com/locations/remote/) |
+| Reddit | Big Tech | Greenhouse:reddit (149) | [link](https://redditinc.com/careers) [link](https://job-boards.greenhouse.io/reddit) |
 | Lyft | Big Tech | Greenhouse:lyft (145) | [link](https://www.lyft.com/careers) [link](https://www.lyft.com/careers/life-at-lyft) [link](https://www.lyft.com/careers/early-talent) |
-| Instacart | Big Tech | Greenhouse:instacart (85) | [link](https://www.instacart.careers/) [link](https://www.instacart.careers/current-openings) [link](https://shoppers.instacart.com/instacart-jobs) |
-| DoorDash | Big Tech | Greenhouse:doordashusa (425) | [link](https://careersatdoordash.com/career-areas/) [link](https://job-boards.greenhouse.io/doordashusa) [link](https://dasher.doordash.com/en-us/driving-opportunities) |
+| Instacart | Big Tech | Greenhouse:instacart (83) | [link](https://www.instacart.careers/) [link](https://www.instacart.careers/current-openings) [link](https://shoppers.instacart.com/instacart-jobs) |
+| DoorDash | Big Tech | Greenhouse:doordashusa (426) | [link](https://careersatdoordash.com/career-areas/) [link](https://job-boards.greenhouse.io/doordashusa) [link](https://dasher.doordash.com/en-us/driving-opportunities) |
 | Dropbox | Big Tech | Greenhouse:dropbox (41) | [link](https://www.dropbox.jobs/) [link](https://www.dropbox.jobs/en/jobs/) [link](https://www.dropbox.jobs/en/emerging-talent/) |
 | Discord | Big Tech | Greenhouse:discord (25) | [link](https://discord.com/jobs/index) [link](https://job-boards.greenhouse.io/discord/jobs/7939963002?gh_src=nodesk) [link](https://discord.com/careers) |
 | Roblox | Big Tech | Greenhouse:roblox (266) | [link](https://www.roblox.com/) |
-| Spotify | Big Tech | Lever:spotify (88) | [link](https://www.lifeatspotify.com/jobs) [link](https://www.lifeatspotify.com/) [link](https://www.lifeatspotify.com/start-your-journey/faq) |
+| Spotify | Big Tech | Lever:spotify (87) | [link](https://www.lifeatspotify.com/jobs) [link](https://www.lifeatspotify.com/) [link](https://www.lifeatspotify.com/start-your-journey/faq) |
 | Palantir | Big Tech | Lever:palantir (303) | [link](https://www.palantir.com/careers/) [link](https://www.palantir.com/careers/open-positions/) [link](https://jobs.lever.co/palantir) |
-| Cloudflare | Big Tech | Greenhouse:cloudflare (470) | [link](https://www.cloudflare.com/careers/) [link](https://www.cloudflare.com/careers/jobs/) [link](https://www.cloudflare.com/careers/early-talent/) |
-| Datadog | Big Tech | Greenhouse:datadog (382) | [link](https://careers.datadoghq.com/) [link](https://careers.datadoghq.com/all-jobs/) [link](https://careers.datadoghq.com/engineering/) |
+| Cloudflare | Big Tech | Greenhouse:cloudflare (474) | [link](https://www.cloudflare.com/careers/) [link](https://www.cloudflare.com/careers/jobs/) [link](https://www.cloudflare.com/careers/early-talent/) |
+| Datadog | Big Tech | Greenhouse:datadog (380) | [link](https://careers.datadoghq.com/) [link](https://careers.datadoghq.com/all-jobs/) [link](https://careers.datadoghq.com/engineering/) |
 | MongoDB | Big Tech | Greenhouse:mongodb (399) | [link](https://www.mongodb.com/company/careers?msockid=165b07348bfa6c023fe11f358a506d45) [link](https://www.mongodb.com/company/careers/see-jobs?msockid=165b07348bfa6c023fe11f358a506d45) [link](https://www.mongodb.com/company/careers/students-and-graduates?msockid=165b07348bfa6c023fe11f358a506d45) |
 | Twilio | Big Tech | Greenhouse:twilio (110) | [link](https://jobs.twilio.com/) [link](https://www.twilio.com/en-us/careers) [link](https://jobs.twilio.com/careers/apply?pid=1099553948335) |
-| Samsara | Big Tech | Greenhouse:samsara (316) | [link](https://www.samsara.com/company/careers) [link](https://www.samsara.com/company/careers/roles) |
+| Samsara | Big Tech | Greenhouse:samsara (314) | [link](https://www.samsara.com/company/careers) [link](https://www.samsara.com/company/careers/roles) |
 | Asana | Big Tech | Greenhouse:asana (113) | [link](https://asana.com/jobs) [link](https://asana.com/jobs/all) [link](https://asana.com/jobs/business) |
 | Figma | Big Tech | Greenhouse:figma (140) | [link](https://www.figma.com/careers/) [link](https://www.figma.com/careers/early-career/) [link](https://job-boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) |
 | Duolingo | Big Tech | Greenhouse:duolingo (59) | [link](https://careers.duolingo.com/) [link](https://careers.duolingo.com/engineering) |
-| Anduril | Big Tech | Greenhouse:andurilindustries (2606) | [link](https://www.anduril.com/open-roles) [link](https://www.anduril.com/early-careers) [link](https://www.anduril.com/careers) |
-| OpenAI | AI & Data Companies | Ashby:openai (834) | [link](https://openai.com/careers/) [link](https://openai.com/careers/search/) [link](https://openai.com/careers/emerging-talent/) |
-| Cohere | AI & Data Companies | Ashby:cohere (121) | [link](https://cohere.com/careers) [link](https://www.coherehealth.com/careers) [link](https://jobs.ashbyhq.com/cohere) |
-| Scale AI | AI & Data Companies | Greenhouse:scaleai (169) | [link](https://scale.com/careers) [link](http://www.scalesd.org/careers.html) [link](https://job-boards.greenhouse.io/scaleai) |
-| Databricks | AI & Data Companies | Greenhouse:databricks (891) | [link](https://www.databricks.com/company/careers) [link](https://www.databricks.com/company/careers/open-positions) [link](https://www.databricks.com/company/careers/university-recruiting) |
-| Perplexity | AI & Data Companies | Ashby:perplexity (144) | [link](https://jobs.ashbyhq.com/Perplexity) [link](https://www.perplexity.ai/hub/careers/interview-guide) [link](https://jobs.ashbyhq.com/Perplexity?gh_src=Accel+job+board) |
+| Anduril | Big Tech | Greenhouse:andurilindustries (2610) | [link](https://www.anduril.com/open-roles) [link](https://www.anduril.com/early-careers) [link](https://www.anduril.com/careers) |
+| OpenAI | AI & Data Companies | Ashby:openai (842) | [link](https://openai.com/careers/) [link](https://openai.com/careers/search/) [link](https://openai.com/careers/emerging-talent/) |
+| Cohere | AI & Data Companies | Ashby:cohere (126) | [link](https://cohere.com/careers) [link](https://www.coherehealth.com/careers) [link](https://jobs.ashbyhq.com/cohere) |
+| Scale AI | AI & Data Companies | Greenhouse:scaleai (167) | [link](https://scale.com/careers) [link](http://www.scalesd.org/careers.html) [link](https://job-boards.greenhouse.io/scaleai) |
+| Databricks | AI & Data Companies | Greenhouse:databricks (895) | [link](https://www.databricks.com/company/careers) [link](https://www.databricks.com/company/careers/open-positions) [link](https://www.databricks.com/company/careers/university-recruiting) |
+| Hugging Face | AI & Data Companies | Workable:huggingface (6) | [link](https://huggingface.co/docs/hub/jobs) |
+| Perplexity | AI & Data Companies | Ashby:perplexity (148) | [link](https://jobs.ashbyhq.com/Perplexity) [link](https://www.perplexity.ai/hub/careers/interview-guide) [link](https://jobs.ashbyhq.com/Perplexity?gh_src=Accel+job+board) |
 | Mistral AI | AI & Data Companies | 3/3 pages live | [link](https://mistral.ai/careers/) [link](https://jobs.ashbyhq.com/mistral.ai) [link](https://jobs.ashbyhq.com/mistral.ai?departmentId=f96aa804-10b5-45e7-8132-560137936a6b) |
 | ElevenLabs | AI & Data Companies | Ashby:elevenlabs (123) | [link](https://join.elevenlabs.io/sound-effects) |
 | Glean | AI & Data Companies | Greenhouse:gleanwork (119) | [link](https://www.glean.com/careers) [link](https://www.glean.ai/career) [link](https://job-boards.greenhouse.io/gleanwork/jobs/4572139005) |
-| Harvey | AI & Data Companies | Ashby:harvey (389) | [link](https://www.harvey.ai/careers) [link](https://jobs.ashbyhq.com/harvey/) [link](https://jobs.ashbyhq.com/harvey?locationId=9162ca52-96d9-4056-aecd-b4df82636334) |
+| Harvey | AI & Data Companies | Ashby:harvey (387) | [link](https://www.harvey.ai/careers) [link](https://jobs.ashbyhq.com/harvey/) [link](https://jobs.ashbyhq.com/harvey?locationId=9162ca52-96d9-4056-aecd-b4df82636334) |
 | Sierra | AI & Data Companies | Ashby:sierra (197) | [link](https://sierra.ai/careers) [link](https://jobs.ashbyhq.com/Sierra) [link](https://sierra.ai/early-career-program) |
-| Decagon | AI & Data Companies | Ashby:decagon (118) | [link](https://decagon.ai/careers) |
+| Decagon | AI & Data Companies | Ashby:decagon (113) | [link](https://decagon.ai/careers) |
 | Anysphere (Cursor) | AI & Data Companies | 1/1 pages live | [link](https://cursor.com/careers) |
 | Exa | AI & Data Companies | Ashby:exa (67) | [link](https://jobs.ashbyhq.com/exa/) |
 | Modal | AI & Data Companies | Ashby:modal (50) | [link](https://jobs.ashbyhq.com/modal) [link](https://www.modallearning.com/careers?gh_jid=4943980004) [link](https://jobs.ashbyhq.com/modal/17eba4cc-3a50-4f6e-b55b-bf20180091f2) |
-| CoreWeave | AI & Data Companies | Greenhouse:coreweave (302) | [link](https://www.coreweave.com/careers) |
+| CoreWeave | AI & Data Companies | Greenhouse:coreweave (305) | [link](https://www.coreweave.com/careers) |
 | Snorkel AI | AI & Data Companies | Greenhouse:snorkelai (43) | [link](https://snorkel.ai/join-us/) [link](https://job-boards.greenhouse.io/snorkelai) |
-| Fivetran | AI & Data Companies | Greenhouse:fivetran (185) | [link](https://www.fivetran.com/careers) |
+| Fivetran | AI & Data Companies | Greenhouse:fivetran (187) | [link](https://www.fivetran.com/careers) |
 | Hex | AI & Data Companies | Ashby:hex (39) | [link](https://hex.tech/careers/) [link](https://hex.careers/) [link](https://hex.tech/careers/data-person/) |
-| Handshake | AI & Data Companies | Ashby:handshake (71) | [link](https://jobs.ashbyhq.com/handshake) |
-| Mercor | AI & Data Companies | Ashby:mercor (102) | [link](https://www.mercor.com/careers/) [link](https://work.mercor.com/) [link](https://work.mercor.com/login) |
+| Handshake | AI & Data Companies | Ashby:handshake (70) | [link](https://jobs.ashbyhq.com/handshake) |
+| Mercor | AI & Data Companies | Ashby:mercor (105) | [link](https://www.mercor.com/careers/) [link](https://work.mercor.com/) [link](https://work.mercor.com/login) |
 | Center for AI Safety | AI & Data Companies | Lever:aisafety (0) | [link](https://safe.ai/careers) [link](https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc) [link](https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315227009) |
 | AfterQuery | AI & Data Companies | Ashby:AfterQuery (42) | [link](https://www.afterquery.com/careers) [link](https://experts.afterquery.com/apply) [link](https://jobs.ashbyhq.com/AfterQuery) |
-| Lightcast | AI & Data Companies | Lever:economicmodeling (22) | [link](https://lightcast.io/careers) [link](https://www.lightcast.com/career-opportunities/) [link](https://lightcast.io/) |
-| Ramp | High-Growth Startups & Dev Tools | Ashby:ramp (178), Greenhouse:ramp (1) | [link](https://support.ramp.com/) [link](https://ramp.com/emerging-talent) [link](https://ramp.com/careers/) |
+| Lightcast | AI & Data Companies | Lever:economicmodeling (23) | [link](https://lightcast.io/careers) [link](https://www.lightcast.com/career-opportunities/) [link](https://lightcast.io/) |
+| Ramp | High-Growth Startups & Dev Tools | Ashby:ramp (179), Greenhouse:ramp (1) | [link](https://support.ramp.com/) [link](https://ramp.com/emerging-talent) [link](https://ramp.com/careers/) |
 | Replit | High-Growth Startups & Dev Tools | Ashby:replit (31) | [link](https://jobs.ashbyhq.com/replit) [link](https://jobs.ashbyhq.com/replit?ref=trueup) [link](https://replit.com/interview-process) |
 | Linear | High-Growth Startups & Dev Tools | Ashby:linear (33) | [link](https://linear.app/careers) [link](https://jobs.ashbyhq.com/linear) [link](https://www.linear.eu/en/company/career/) |
 | Vercel | High-Growth Startups & Dev Tools | Greenhouse:vercel (87) | [link](https://vercel.com/careers) [link](https://job-boards.greenhouse.io/vercel) |
@@ -87,87 +87,90 @@ Canonical companies after aliases: 308
 | PostHog | High-Growth Startups & Dev Tools | Ashby:posthog (10) | [link](https://posthog.com/careers) [link](https://posthog.com/cool-tech-jobs) [link](https://posthog.com/careers/product-engineer) |
 | Airtable | High-Growth Startups & Dev Tools | Greenhouse:airtable (9) | [link](https://airtable.com/careers) [link](https://job-boards.greenhouse.io/airtable) [link](https://jobs.ashbyhq.com/airtable) |
 | Benchling | High-Growth Startups & Dev Tools | Ashby:benchling (53) | [link](https://www.benchling.com/careers) [link](https://benchling.com/university-recruiting/) [link](https://help.benchling.com/hc/en-us/sections/10625480971277-Students) |
-| Verkada | High-Growth Startups & Dev Tools | Greenhouse:verkada (345) | [link](https://www.verkada.com/careers/) [link](https://www.verkada.com/tags/careers/) [link](https://job-boards.greenhouse.io/verkada?error=true) |
-| Flexport | High-Growth Startups & Dev Tools | Greenhouse:flexport (203) | [link](https://www.flexport.com/careers/) [link](https://job-boards.greenhouse.io/flexport/) [link](https://cn.flexport.com/careers/jobs/) |
-| Faire | High-Growth Startups & Dev Tools | Greenhouse:faire (69) | [link](https://www.faire.com/careers?msockid=02a264f2c84365cf04657cf1c96d649e) [link](https://faire.tech/) |
+| Verkada | High-Growth Startups & Dev Tools | Greenhouse:verkada (347) | [link](https://www.verkada.com/careers/) [link](https://www.verkada.com/tags/careers/) [link](https://job-boards.greenhouse.io/verkada?error=true) |
+| Flexport | High-Growth Startups & Dev Tools | Greenhouse:flexport (205) | [link](https://www.flexport.com/careers/) [link](https://job-boards.greenhouse.io/flexport/) [link](https://cn.flexport.com/careers/jobs/) |
+| Faire | High-Growth Startups & Dev Tools | Greenhouse:faire (70) | [link](https://www.faire.com/careers?msockid=02a264f2c84365cf04657cf1c96d649e) [link](https://faire.tech/) |
 | Sleeper | High-Growth Startups & Dev Tools | Ashby:sleeper (7) | [link](https://the-sleeper.com/pages/career) [link](https://jobs.ashbyhq.com/sleeper/37c271cb-4a2e-44d4-85e4-016ee17843dc?src=Careers+Site) [link](https://jobs.ashbyhq.com/sleeper?workplaceType=Remote) |
 | Espa Labs | High-Growth Startups & Dev Tools | Ashby:espa (2) | none |
 | Blockhouse | High-Growth Startups & Dev Tools | Ashby:blockhouse (2) | none |
-| Lucid Software | High-Growth Startups & Dev Tools | Greenhouse:lucidsoftware (24) | [link](https://lucid.co/careers/internships) [link](https://lucid.co/careers) [link](https://lucidmotors.com/careers/early-talent) |
+| Lucid Software | High-Growth Startups & Dev Tools | Greenhouse:lucidsoftware (26) | [link](https://lucid.co/careers/internships) [link](https://lucid.co/careers) [link](https://lucidmotors.com/careers/early-talent) |
 | Workiva | High-Growth Startups & Dev Tools | Workday:workiva/careers (97) | [link](https://www.workiva.com/careers) |
 | GuidePoint Security | High-Growth Startups & Dev Tools | Greenhouse:guidepointsecurity (72) | [link](https://www.guidepointsecurity.com/careers/) [link](https://www.guidepoint.com/company/careers/) |
 | Benzinga | High-Growth Startups & Dev Tools | Breezy:benzinga (4) | [link](https://jobs.benzinga.com/) |
 | Inmar Intelligence | High-Growth Startups & Dev Tools | 2/2 pages live | [link](https://www.inmar.com/about/careers) [link](https://inmar.wd1.myworkdayjobs.com/inmarcareers) |
-| Stand Out For Good | High-Growth Startups & Dev Tools | Workday:standoutforgood/StandOutForGood (450) | [link](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood) |
+| Stand Out For Good | High-Growth Startups & Dev Tools | Workday:standoutforgood/StandOutForGood (449) | [link](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood) |
 | Robinhood | Fintech & Crypto | Greenhouse:robinhood (166) | [link](https://careers.robinhood.com/) [link](https://robinhood.com/us/en/careers/early-talent/) [link](https://robinhood.com/us/en/careers/blog/category/work-with-us/) |
-| Affirm | Fintech & Crypto | Greenhouse:affirm (212) | [link](https://www.affirm.com/careers) [link](https://job-boards.greenhouse.io/affirm?error=true) [link](https://www.affirma.com/work-with-affirma/) |
-| Plaid | Fintech & Crypto | Ashby:plaid (142) | [link](https://jobs.ashbyhq.com/plaid) [link](https://www.plaid.llc/careers.html) [link](https://plaid.com/careers/openings/finance/product-strategic-finance/) |
-| Brex | Fintech & Crypto | Greenhouse:brex (276) | [link](https://www.brex.com/careers) [link](https://www.brex.com/careers/8834133002) |
-| Chime | Fintech & Crypto | Greenhouse:chime (74) | [link](https://careers.chime.com/jobs/) [link](https://chimecentral.org/careers-at-chime) [link](https://careers.chime.com/jobs/?remote=true&page=1) |
-| Coinbase | Fintech & Crypto | Greenhouse:coinbase (262) | [link](https://www.coinbase.com/careers) [link](https://www.coinbase.com/careers/positions) [link](https://coinbase.getro.com/jobs) |
-| Kraken | Fintech & Crypto | Ashby:kraken.com (95) | [link](https://www.kraken.com/careers) [link](https://www.kraken.tech/working-at-kraken) [link](https://www.kraken.tech/ja/careers) |
+| Affirm | Fintech & Crypto | Greenhouse:affirm (213) | [link](https://www.affirm.com/careers) [link](https://job-boards.greenhouse.io/affirm?error=true) [link](https://www.affirma.com/work-with-affirma/) |
+| Plaid | Fintech & Crypto | Ashby:plaid (140) | [link](https://jobs.ashbyhq.com/plaid) [link](https://www.plaid.llc/careers.html) [link](https://plaid.com/careers/openings/finance/product-strategic-finance/) |
+| Brex | Fintech & Crypto | Greenhouse:brex (274) | [link](https://www.brex.com/careers) [link](https://www.brex.com/careers/8834133002) |
+| Chime | Fintech & Crypto | Greenhouse:chime (75) | [link](https://careers.chime.com/jobs/) [link](https://chimecentral.org/careers-at-chime) [link](https://careers.chime.com/jobs/?remote=true&page=1) |
+| Coinbase | Fintech & Crypto | Greenhouse:coinbase (259) | [link](https://www.coinbase.com/careers) [link](https://www.coinbase.com/careers/positions) [link](https://coinbase.getro.com/jobs) |
+| Kraken | Fintech & Crypto | Ashby:kraken.com (93) | [link](https://www.kraken.com/careers) [link](https://www.kraken.tech/working-at-kraken) [link](https://www.kraken.tech/ja/careers) |
 | Gemini | Fintech & Crypto | Greenhouse:gemini (26) | [link](https://www.gemini.com/careers) [link](https://www.gemini.com/events/careers) [link](https://support.gemini.com/hc/en-us/articles/204072789-How-can-I-apply-to-work-at-Gemini) |
-| Ripple | Fintech & Crypto | Greenhouse:ripple (113) | [link](https://www.therippleco.com/) |
+| Ripple | Fintech & Crypto | Greenhouse:ripple (111) | [link](https://www.therippleco.com/) |
 | Paxos | Fintech & Crypto | Ashby:paxos (24) | [link](https://jobs.ashbyhq.com/paxoslabs) [link](https://www.paxoshealth.com/careers) |
 | Consensys | Fintech & Crypto | Greenhouse:consensys (12), Ashby:consensys (6) | [link](https://consensys.com/careers/locations) [link](https://jobs.ashbyhq.com/consensys) |
 | Anchorage Digital | Fintech & Crypto | Lever:anchorage (21) | [link](https://www.anchorage.com/careers) [link](https://jobs.lever.co/anchorage) [link](https://jobs.lever.co/anchorage?location=United%20States) |
-| Addepar | Fintech & Crypto | Greenhouse:addepar1 (117) | [link](https://addepar.com/careers/) [link](https://job-boards.greenhouse.io/addepar1) [link](https://job-boards.greenhouse.io/addepar1?gh_src=Blind) |
+| Addepar | Fintech & Crypto | Greenhouse:addepar1 (118) | [link](https://addepar.com/careers/) [link](https://job-boards.greenhouse.io/addepar1) [link](https://job-boards.greenhouse.io/addepar1?gh_src=Blind) |
 | Betterment | Fintech & Crypto | Greenhouse:betterment (25) | [link](https://www.betterment.com/careers) [link](https://www.betterment.com/careers/current-openings) [link](https://www.betterment.com/careers/engineering) |
 | Wealthfront | Fintech & Crypto | Lever:wealthfront (21) | [link](https://www.wealthfront.com/careers) [link](https://jobs.lever.co/wealthfront) |
-| Upstart | Fintech & Crypto | Greenhouse:upstart (72) | [link](https://careers.upstart.com/home) [link](https://careers.upstart.com/jobs/search) |
+| Upstart | Fintech & Crypto | Greenhouse:upstart (75) | [link](https://careers.upstart.com/home) [link](https://careers.upstart.com/jobs/search) |
 | Nubank | Fintech & Crypto | Greenhouse:nubank (0), Ashby:nubank (107) | [link](https://jobs.ashbyhq.com/nubank) [link](https://job-boards.greenhouse.io/nubank) [link](https://jobs.ashbyhq.com/nubank?departmentid=3f778e16-5901-4425-8761-e8270364c5c1&locationid=5e43aa69-cf14-4a84-bceb-e1df14fd0e65) |
-| Toast | Fintech & Crypto | Greenhouse:toast (340) | [link](https://careers.toasttab.com/) [link](https://careers.toasttab.com/jobs/search) [link](https://careers.toasttab.com/early-career) |
+| Toast | Fintech & Crypto | Greenhouse:toast (318) | [link](https://careers.toasttab.com/) [link](https://careers.toasttab.com/jobs/search) [link](https://careers.toasttab.com/early-career) |
 | Clear Street | Fintech & Crypto | Greenhouse:clearstreet (39) | [link](https://www.clearstreet.io/careers) [link](https://job-boards.greenhouse.io/clearstreet) [link](https://www.clearstreet.io/) |
-| Mercury | Fintech & Crypto | Ashby:mercury (0), Greenhouse:mercury (78) | [link](https://mercury.com/jobs) [link](https://job-boards.greenhouse.io/mercury/jobs/5471208004) [link](https://app.mercury.com/jobs) |
-| Alpaca | Fintech & Crypto | Greenhouse:alpaca (68) | [link](https://alpaca.markets/hiring) [link](https://jobs.ashbyhq.com/alpacahealth) [link](https://job-boards.greenhouse.io/alpaca) |
-| Wealthsimple | Fintech & Crypto | Ashby:wealthsimple (41) | [link](https://www.wealthsimple.com/en-ca/careers) [link](https://careers.wealthsimple.com/) [link](https://jobs.lever.co/wealthsimple) |
-| PayPal | Fintech & Crypto | Workday:paypal/jobs (344) | [link](https://paypal.wd1.myworkdayjobs.com/jobs) |
-| Visa | Fintech & Crypto | Workday:visa/Visa (741), Workday:visa/Visa_Early_Careers (42) | [link](https://corporate.visa.com/en/careers.html) [link](https://www.visa.com/en-us/careers) [link](https://corporate.visa.com/content/VISA/visacorporate/global/en/home/careers.html) |
-| Global Payments | Fintech & Crypto | Workday:tsys/TSYS (353) | [link](https://jobs.globalpayments.com/) [link](https://jobs.globalpayments.com/jobs) [link](https://www.globalpayments.com/our-company/life-at-global-payments) |
-| Talos | Fintech & Crypto | Ashby:Talos-Trading (20) | [link](https://www.talos.com/working/internships) |
+| Mercury | Fintech & Crypto | Ashby:mercury (0), Greenhouse:mercury (76) | [link](https://mercury.com/jobs) [link](https://job-boards.greenhouse.io/mercury/jobs/5471208004) [link](https://app.mercury.com/jobs) |
+| Alpaca | Fintech & Crypto | Greenhouse:alpaca (67) | [link](https://alpaca.markets/hiring) [link](https://jobs.ashbyhq.com/alpacahealth) [link](https://job-boards.greenhouse.io/alpaca) |
+| Wealthsimple | Fintech & Crypto | Ashby:wealthsimple (42) | [link](https://www.wealthsimple.com/en-ca/careers) [link](https://careers.wealthsimple.com/) [link](https://jobs.lever.co/wealthsimple) |
+| PayPal | Fintech & Crypto | Workday:paypal/jobs (348) | [link](https://paypal.wd1.myworkdayjobs.com/jobs) |
+| Visa | Fintech & Crypto | Workday:visa/Visa (742), Workday:visa/Visa_Early_Careers (44) | [link](https://corporate.visa.com/en/careers.html) [link](https://www.visa.com/en-us/careers) [link](https://corporate.visa.com/content/VISA/visacorporate/global/en/home/careers.html) |
+| Global Payments | Fintech & Crypto | Workday:tsys/TSYS (354) | [link](https://jobs.globalpayments.com/) [link](https://jobs.globalpayments.com/jobs) [link](https://www.globalpayments.com/our-company/life-at-global-payments) |
+| Talos | Fintech & Crypto | Ashby:Talos-Trading (19) | [link](https://www.talos.com/working/internships) |
 | Keyrock | Fintech & Crypto | Ashby:keyrock (11) | [link](https://keyrock.com/careers/) [link](https://jobs.ashbyhq.com/keyrock) [link](https://jobs.ashbyhq.com/keyrock?locationId=cd02faf5-bf19-4449-9aec-11b638209ea5) |
 | B2C2 | Fintech & Crypto | Greenhouse:b2c2 (4) | none |
 | GSR | Fintech & Crypto | Greenhouse:gsrmarkets (6) | [link](https://www.gsr.io/careers/) [link](https://gsr-inc.com/category/careers) |
-| Vanguard | Asset Management & Research | Workday:vanguard/vanguard_external (198) | [link](https://www.vanguardjobs.com/job-search-results/) [link](https://www.vanguardjobs.com/home-us/?source=Corporate_Website) [link](https://vanguard.wd5.myworkdayjobs.com/vanguard_external) |
-| Fidelity Investments | Asset Management & Research | Workday:fil/001 (65), Workday:fmr/fidelitycareers (568) | [link](https://jobs.fidelity.com/) [link](https://jobs.fidelity.com/en/jobs/) [link](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/) |
+| Vanguard | Asset Management & Research | Workday:vanguard/vanguard_external (203) | [link](https://www.vanguardjobs.com/job-search-results/) [link](https://www.vanguardjobs.com/home-us/?source=Corporate_Website) [link](https://vanguard.wd5.myworkdayjobs.com/vanguard_external) |
+| Fidelity Investments | Asset Management & Research | Workday:fil/001 (65), Workday:fmr/fidelitycareers (793) | [link](https://jobs.fidelity.com/) [link](https://jobs.fidelity.com/en/jobs/) [link](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/) |
 | T. Rowe Price | Asset Management & Research | Workday:troweprice/TRowePrice (127), Workday:troweprice/TRowePriceInternational (20) | [link](https://www.troweprice.com/en/us/careers) [link](https://www.troweprice.com/en/ca/careers) [link](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/) |
-| Invesco | Asset Management & Research | Workday:invesco/IVZ (208) | [link](https://careers.invesco.com/) |
-| PIMCO | Asset Management & Research | Workday:pimco/pimco-careers (143) | [link](https://www.pimco.com/au/en) [link](https://www.pimco.com/us/en/about-us/careers) |
-| PGIM | Asset Management & Research | Workday:pru/PGIM_Careers (109), Workday:pru/Careers (182) | [link](https://jobs.pgim.com/) [link](https://jobs.pgim.com/us-en/early-talent/programs/internships) [link](https://jobs.pgim.com/us-en/early-talent) |
-| Nuveen | Asset Management & Research | Workday:tiaa/Search (150) | [link](https://www.nuveen.com/en-us/about-us/careers-and-job-search) |
-| AllianceBernstein | Asset Management & Research | Workday:abglobal/alliancebernsteincareers (67) | [link](https://www.alliancebernstein.com/corporate/en/careers.html) [link](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers) [link](https://www.alliancebernstein.com/corporate/en/careers/students.html) |
+| Invesco | Asset Management & Research | Workday:invesco/IVZ (209) | [link](https://careers.invesco.com/) |
+| PIMCO | Asset Management & Research | Workday:pimco/pimco-careers (141) | [link](https://www.pimco.com/au/en) [link](https://www.pimco.com/us/en/about-us/careers) |
+| PGIM | Asset Management & Research | Workday:pru/PGIM_Careers (107), Workday:pru/Careers (180) | [link](https://jobs.pgim.com/) [link](https://jobs.pgim.com/us-en/early-talent/programs/internships) [link](https://jobs.pgim.com/us-en/early-talent) |
+| Nuveen | Asset Management & Research | Workday:tiaa/Search (157) | [link](https://www.nuveen.com/en-us/about-us/careers-and-job-search) |
+| AllianceBernstein | Asset Management & Research | Workday:abglobal/alliancebernsteincareers (68) | [link](https://www.alliancebernstein.com/corporate/en/careers.html) [link](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers) [link](https://www.alliancebernstein.com/corporate/en/careers/students.html) |
 | Capital Group | Asset Management & Research | Workday:capgroup/capitalgroupcareers (152) | [link](https://www.capitalgroup.com/about-us/careers.html?msockid=3724d577c7926aca0b13cd76c67e6b64) [link](https://www.capitalgroup.com/about-us/cap.html?msockid=3724d577c7926aca0b13cd76c67e6b64) [link](https://www.capitalgroup.com/about-us/careers/how-we-hire.html?msockid=3724d577c7926aca0b13cd76c67e6b64) |
-| Dimensional Fund Advisors | Asset Management & Research | Workday:dimensional/DFA_Careers (57) | [link](https://careers.dimensional.com/internships) |
-| Wellington Management | Asset Management & Research | Workday:wellington/External (92) | [link](https://www.wellington.com/en/about-us/careers) [link](https://www.wellington.com/en/careers) [link](https://wellington.wd5.myworkdayjobs.com/External) |
-| Neuberger Berman | Asset Management & Research | Workday:nb/NBCareers (84), Workday:nb/PWM (9) | [link](https://www.nb.com/who-we-are/careers) |
+| Dimensional Fund Advisors | Asset Management & Research | Workday:dimensional/DFA_Careers (56) | [link](https://careers.dimensional.com/internships) |
+| Wellington Management | Asset Management & Research | Workday:wellington/External (125) | [link](https://www.wellington.com/en/about-us/careers) [link](https://www.wellington.com/en/careers) [link](https://wellington.wd5.myworkdayjobs.com/External) |
+| Neuberger Berman | Asset Management & Research | Workday:nb/NBCareers (87), Workday:nb/PWM (11) | [link](https://www.nb.com/who-we-are/careers) |
 | MFS Investment Management | Asset Management & Research | Workday:mfs/MFS-Careers (44) | [link](https://www.mfs.com/en-us/individual-investor/about-mfs/careers.html) [link](https://mfs.wd1.myworkdayjobs.com/MFS-Careers) [link](https://www.mfs.com/ja-jp/individual-investor/about-mfs/careers.html) |
-| Northern Trust Asset Management | Asset Management & Research | Workday:ntrs/northerntrust (60) | [link](https://northern.edu/) |
-| FactSet | Asset Management & Research | Workday:factset/FactSetCareers (107) | [link](https://www.factset.com/careers) [link](https://factset.wd108.myworkdayjobs.com/FactSetCareers) [link](https://www.factset.com/careers/our-teams) |
-| Baillie Gifford | Asset Management & Research | Workday:bailliegifford/BaillieGiffordCareers (10), Workday:bailliegifford/BaillieGiffordEarlyCareers (0) | [link](https://www.bailliegifford.com/en/uk/individual-investors/careers/) [link](https://www.bailliegifford.com/en/uk/individual-investors/careers/working-at-baillie-gifford/continue-to-workday/) [link](https://careers.bailliegifford.com/en/uk/individual-investors/careers/life-at-baillie-gifford/) |
-| Arrowstreet | Asset Management & Research | Workday:arrowstreetcapital/Arrowstreet (6) | [link](https://www.arrowstreet.com/about/careers/) |
+| Russell Investments | Asset Management & Research | Workday:russell/russellinvestments (39) | [link](https://russellinvestments.com/content/ri/us/en/about-us/careers.html) [link](https://russellinvestments.com/content/ri/in/en-gb/about-us/careers.html) [link](https://russell.wd5.myworkdayjobs.com/russellinvestments) |
+| Northern Trust Asset Management | Asset Management & Research | Workday:ntrs/northerntrust (543) | [link](https://northern.edu/) |
+| Morningstar | Asset Management & Research | Workday:morningstar/morningstar (40), Workday:morningstar/Americas (6), Workday:morningstar/MorningstarDBRS (35) | [link](https://www.morningstar.com/company/careers) [link](https://morningstar.wd5.myworkdayjobs.com/Morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) |
+| FactSet | Asset Management & Research | Workday:factset/FactSetCareers (109) | [link](https://www.factset.com/careers) [link](https://factset.wd108.myworkdayjobs.com/FactSetCareers) [link](https://www.factset.com/careers/our-teams) |
+| Baillie Gifford | Asset Management & Research | Workday:bailliegifford/BaillieGiffordCareers (11), Workday:bailliegifford/BaillieGiffordEarlyCareers (0) | [link](https://www.bailliegifford.com/en/uk/individual-investors/careers/) [link](https://www.bailliegifford.com/en/uk/individual-investors/careers/working-at-baillie-gifford/continue-to-workday/) [link](https://careers.bailliegifford.com/en/uk/individual-investors/careers/life-at-baillie-gifford/) |
 | GMO | Asset Management & Research | Lever:gmo (9) | [link](https://www.gmo.com/americas/careers/) [link](https://www.gmo.com/) [link](https://jobs.lever.co/gmo) |
-| AQR Capital Management | Asset Management & Research | Greenhouse:aqr (43) | [link](https://www.aqr.com/Our-Firm/Careers) [link](https://careers.aqr.com/locations) [link](https://careers.aqr.com/) |
-| Nasdaq | Asset Management & Research | Greenhouse:nasdaq (21) | [link](https://www.nasdaq.com/about/careers) [link](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) [link](https://www.nasdaq.com/topic/careers) |
+| AQR Capital Management | Asset Management & Research | Greenhouse:aqr (44) | [link](https://www.aqr.com/Our-Firm/Careers) [link](https://careers.aqr.com/locations) [link](https://careers.aqr.com/) |
+| Connor Clark & Lunn | Asset Management & Research | Greenhouse:cclfg (72), Greenhouse:cclim (5) | [link](https://www.connorco.com/) |
+| Nasdaq | Asset Management & Research | Workday:nasdaq/Global_External_Site (134), Greenhouse:nasdaq (21) | [link](https://www.nasdaq.com/about/careers) [link](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site) [link](https://www.nasdaq.com/topic/careers) |
+| CME Group | Asset Management & Research | Workday:cmegroup/cme_careers (68) | [link](https://www.cmegroup.com/careers.html) [link](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/) [link](https://www.cmegroup.com/careers/early-careers.html) |
 | Bridgewater Associates | Hedge Funds & Trading | Greenhouse:bridgewater89 (18) | [link](https://www.bridgewaternj.gov/) |
-| Point72 | Hedge Funds & Trading | Greenhouse:point72 (196) | [link](https://point72.com/working-here/) [link](https://point72.com/students-early-career/) [link](https://careers.point72.com/CSJobDetail?jobName=equity-financial-analyst-us&jobCode=LSI-0014450) |
+| Point72 | Hedge Funds & Trading | Greenhouse:point72 (200) | [link](https://point72.com/working-here/) [link](https://point72.com/students-early-career/) [link](https://careers.point72.com/CSJobDetail?jobName=equity-financial-analyst-us&jobCode=LSI-0014450) |
 | Man Group | Hedge Funds & Trading | Greenhouse:mangroup (66), Workday:mangroupplc/Man_Group_Careers (1) | [link](https://www.man.com/careers) [link](https://job-boards.eu.greenhouse.io/mangroup) [link](https://www.man.com/students-and-graduates) |
 | Schonfeld | Hedge Funds & Trading | Greenhouse:schonfeld (72) | [link](https://www.schonfeld.com/careers/) [link](https://www.schonfeld.com/careers/students-and-early-career/) [link](https://job-boards.greenhouse.io/schonfeld/jobs/8220506) |
-| Squarepoint Capital | Hedge Funds & Trading | Greenhouse:squarepointcapital (90) | [link](https://www.squarepoint-capital.com/open-opportunities) |
-| WorldQuant | Hedge Funds & Trading | Greenhouse:worldquant (81) | [link](https://www.worldquant.com/careers/) |
-| Millennium | Hedge Funds & Trading | 3/3 pages live | [link](https://campusjobs.mlp.com/careers) [link](https://www.mlp.com/careers/) [link](https://career.mlp.com/careers) |
+| Squarepoint Capital | Hedge Funds & Trading | Greenhouse:squarepointcapital (87) | [link](https://www.squarepoint-capital.com/open-opportunities) |
+| WorldQuant | Hedge Funds & Trading | Greenhouse:worldquant (80) | [link](https://www.worldquant.com/careers/) |
+| Millennium | Hedge Funds & Trading | Workday:mlp/mlpcareers (0) | [link](https://campusjobs.mlp.com/careers) [link](https://www.mlp.com/careers/) [link](https://career.mlp.com/careers) |
 | Verition Fund Management | Hedge Funds & Trading | Greenhouse:veritiongroupllc (14) | [link](https://www.verition.com/careers) |
-| ExodusPoint | Hedge Funds & Trading | Greenhouse:exoduspoint (5) | [link](https://job-boards.greenhouse.io/exoduspoint) [link](https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us) |
+| ExodusPoint | Hedge Funds & Trading | Greenhouse:exoduspoint (4) | [link](https://job-boards.greenhouse.io/exoduspoint) [link](https://job-boards.greenhouse.io/exoduspoint/jobs/7460797002?gh_src=cb5581f42us) |
 | Jain Global | Hedge Funds & Trading | Workday:jainglobal/ExternalSite (28) | [link](https://www.jainglobal.com/careers) [link](https://jainglobal.wd5.myworkdayjobs.com/LinkedInCareerSite/) [link](https://www.jainglobal.com/) |
-| Qube Research & Technologies | Hedge Funds & Trading | Greenhouse:quberesearchandtechnologies (206) | none |
-| Jane Street | Hedge Funds & Trading | Greenhouse:janestreet (216), Ashby:jane (25) | [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.wallstreetcareers.com/companies/jane-street-3430894) |
+| Qube Research & Technologies | Hedge Funds & Trading | Greenhouse:quberesearchandtechnologies (204) | none |
+| Jane Street | Hedge Funds & Trading | Greenhouse:janestreet (215), Ashby:jane (25) | [link](https://www.janestreet.com/join-jane-street/open-roles/) [link](https://www.janestreet.com/join-jane-street/overview/) [link](https://www.wallstreetcareers.com/companies/jane-street-3430894) |
 | Hudson River Trading | Hedge Funds & Trading | Greenhouse:wehrtyou (85) | [link](https://www.hudson.org/) |
-| Jump Trading | Hedge Funds & Trading | Greenhouse:jumptrading (91), Ashby:jump (3) | [link](https://www.jumptrading.com/careers) [link](https://www.jumptrading.com/hr/overview) |
-| DRW | Hedge Funds & Trading | Greenhouse:drweng (160), Greenhouse:drwfr (9) | [link](https://www.drw.com/work-at-drw) [link](https://www.drw.com/work-at-drw/listings) [link](https://job-boards.greenhouse.io/drweng) |
+| Jump Trading | Hedge Funds & Trading | Greenhouse:jumptrading (89), Ashby:jump (3) | [link](https://www.jumptrading.com/careers) [link](https://www.jumptrading.com/hr/overview) |
+| DRW | Hedge Funds & Trading | Greenhouse:drweng (156), Greenhouse:drwfr (9) | [link](https://www.drw.com/work-at-drw) [link](https://www.drw.com/work-at-drw/listings) [link](https://job-boards.greenhouse.io/drweng) |
 | Optiver | Hedge Funds & Trading | Greenhouse:optiverprivate (8), Greenhouse:optiverus (149), Greenhouse:optiver (0) | [link](https://optiver.com/) [link](https://optiver.com/join-us/) [link](https://optiver.com/join-us/students/) |
-| IMC Trading | Hedge Funds & Trading | Greenhouse:imc (156) | [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/eu/search-careers) |
-| Akuna Capital | Hedge Funds & Trading | Greenhouse:akunacapital (32) | [link](https://akunacapital.com/careers/) [link](https://akunacapital.com/work-with-us/internships/) |
+| IMC Trading | Hedge Funds & Trading | Greenhouse:imc (154) | [link](https://www.imc.com/us/careers/) [link](https://www.imc.com/eu/search-careers) |
+| Akuna Capital | Hedge Funds & Trading | Greenhouse:akunacapital (30) | [link](https://akunacapital.com/careers/) [link](https://akunacapital.com/work-with-us/internships/) |
 | Chicago Trading Company | Hedge Funds & Trading | Greenhouse:ctccampusboard (3), Greenhouse:chicagotrading (18) | [link](https://www.chicagotrading.com/careers-at-ctc/) [link](https://www.chicagotrading.com/join-ctc/) [link](https://job-boards.greenhouse.io/chicagotradingcampushiring/jobs/4449951005?gh_src=c7a559e25us) |
-| Peak6 | Hedge Funds & Trading | Workday:peak6group/PEAK6 (11) | [link](https://peak6.com/careers/) [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) [link](https://peak6.com/campus/) |
+| Peak6 | Hedge Funds & Trading | Workday:peak6group/PEAK6 (10) | [link](https://peak6.com/careers/) [link](https://peak6group.wd1.myworkdayjobs.com/PEAK6) [link](https://peak6.com/campus/) |
 | Belvedere Trading | Hedge Funds & Trading | Lever:belvederetrading (13) | [link](https://www.belvederetrading.com/our-positions) [link](https://www.belvederetrading.com/open-positions-1) [link](https://jobs.lever.co/belvederetrading) |
 | Old Mission Capital | Hedge Funds & Trading | Ashby:old-mission-capital (43) | [link](https://www.oldmissioncapital.com/careers/) [link](https://www.oldmissioncapital.com/working-at-old-mission/) |
 | Virtu Financial | Hedge Funds & Trading | Greenhouse:virtu (45) | [link](https://www.virtu.com/careers/) |
@@ -180,12 +183,12 @@ Canonical companies after aliases: 308
 | TransMarket Group | Hedge Funds & Trading | Greenhouse:transmarketgroup (17) | [link](https://www.transmarketgroup.com/careers) |
 | 3Red Partners | Hedge Funds & Trading | Greenhouse:3redpartners (5) | [link](https://job-boards.greenhouse.io/3redpartners/jobs/4224805002) |
 | Flow Traders | Hedge Funds & Trading | Greenhouse:flowtraders (45) | [link](https://www.flow.app/download) |
-| Blackstone | Private Equity & Venture Capital | Workday:blackstone/Blackstone_Careers (142), Workday:blackstone/BX_External_Site (98) | [link](https://www.blackstone.com/careers/careers-blackstone/) [link](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers) [link](https://www.blackstone.com/careers/students/) |
+| Blackstone | Private Equity & Venture Capital | Workday:blackstone/Blackstone_Careers (141), Workday:blackstone/BX_External_Site (99) | [link](https://www.blackstone.com/careers/careers-blackstone/) [link](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers) [link](https://www.blackstone.com/careers/students/) |
 | Apollo Global Management | Private Equity & Venture Capital | Workday:athene/Apollo_Careers (47) | [link](https://www.apollo.com/careers) [link](https://athene.wd5.myworkdayjobs.com/Apollo_Careers) [link](https://www.apollo.com/careers/life-at-apollo) |
-| Ares Management | Private Equity & Venture Capital | Workday:aresmgmt/External (195) | [link](https://ares.com/us/careers) [link](https://aresmgmt.wd1.myworkdayjobs.com/External) [link](https://ares.com/us/careers/early-careers) |
+| Ares Management | Private Equity & Venture Capital | Workday:aresmgmt/External (196) | [link](https://ares.com/us/careers) [link](https://aresmgmt.wd1.myworkdayjobs.com/External) [link](https://ares.com/us/careers/early-careers) |
 | Blue Owl Capital | Private Equity & Venture Capital | Workday:blueowl/blueowl (50) | [link](https://www.blueowl.com/careers) [link](https://blueowl.wd1.myworkdayjobs.com/blueowl) |
-| Oaktree Capital Management | Private Equity & Venture Capital | Workday:oaktree/Oaktree (59) | [link](https://oaktree.wd1.myworkdayjobs.com/Oaktree) |
-| General Atlantic | Private Equity & Venture Capital | Greenhouse:generalatlantic (13) | [link](https://www.generalatlantic.com/careers/) [link](https://www.generalatlantic.com/open-roles/) [link](https://job-boards.greenhouse.io/generalatlantic) |
+| Oaktree Capital Management | Private Equity & Venture Capital | Workday:oaktree/Oaktree (56) | [link](https://oaktree.wd1.myworkdayjobs.com/Oaktree) |
+| General Atlantic | Private Equity & Venture Capital | Greenhouse:generalatlantic (12) | [link](https://www.generalatlantic.com/careers/) [link](https://www.generalatlantic.com/open-roles/) [link](https://job-boards.greenhouse.io/generalatlantic) |
 | Warburg Pincus | Private Equity & Venture Capital | Greenhouse:warburgpincusllc (5) | [link](https://warburgpincus.com/careers/) [link](https://job-boards.greenhouse.io/warburgpincusllc) [link](https://europe.warburgpincus.com/careers/) |
 | Bain Capital | Private Equity & Venture Capital | Ashby:bain-capital (1) | [link](https://www.baincapital.com/careers) [link](https://www.bain.com/careers) [link](https://baincapital.wd1.myworkdayjobs.com/external_public) |
 | Vista Equity Partners | Private Equity & Venture Capital | 3/3 pages live | [link](https://www.vistaequitypartners.com/careers/) [link](https://www.vistaequitypartners.com/careers/vista-career-opportunities/) [link](https://vistaequitypartners.getro.com/jobs) |
@@ -197,49 +200,50 @@ Canonical companies after aliases: 308
 | Bessemer Venture Partners | Private Equity & Venture Capital | Greenhouse:bessemerventurepartners (1) | none |
 | Kleiner Perkins | Private Equity & Venture Capital | 3/3 pages live | [link](https://jobs.kleinerperkins.com/) [link](https://jobs.kleinerperkins.com/companies) [link](https://jobs.ashbyhq.com/kleinerperkinsfellows) |
 | Thrive Capital | Private Equity & Venture Capital | Greenhouse:thrive (3) | [link](https://jobs.thrivecap.com/jobs) [link](https://jobs.thrivecap.com/talent-network) [link](https://thrivecapitalmarkets.com/careers) |
+| Khosla Ventures | Private Equity & Venture Capital | Ashby:khoslaventures (2) | [link](https://jobs.khoslaventures.com/jobs) [link](https://jobs.khoslaventures.com/) |
 | Battery Ventures | Private Equity & Venture Capital | Greenhouse:batteryventures (2) | [link](https://jobs.battery.com/jobs/front) [link](https://job-boards.greenhouse.io/batteryventures) [link](https://jobs.battery.com/jobs?trk=public_post-text) |
 | Menlo Ventures | Private Equity & Venture Capital | Ashby:menlo (16) | [link](https://www.menlo.edu/) [link](https://jobs.menlovc.com/jobs) [link](https://www.menloschool.org/internships/) |
 | Bain Capital Ventures | Private Equity & Venture Capital | Ashby:bain-capital-ventures (1) | [link](https://www.bain.com/careers) [link](https://www.bain.com/careers/work-with-us/internships-programs/) |
-| Pear VC | Private Equity & Venture Capital | Ashby:pear-vc (107) | [link](https://assessment.peardeck.com/getStarted) |
+| Pear VC | Private Equity & Venture Capital | Ashby:pear-vc (108) | [link](https://assessment.peardeck.com/getStarted) |
 | Sensiba | Private Equity & Venture Capital | 2/2 pages live | [link](https://sensiba.com/careers/) [link](https://sensiba.com/careers/current-opportunities/) |
-| Wells Fargo | Banks & Financial Services | Workday:wf/wellsfargojobs (1340) | [link](https://www.wellsfargojobs.com/) [link](https://www.wellsfargojobs.com/en/jobs/) [link](https://www.wellsfargo.com/com/careers/) |
-| Deutsche Bank | Banks & Financial Services | Workday:db/DBWebsite (820) | [link](https://careers.db.com/) [link](https://careers.db.com/professionals/search-roles/) [link](https://wealth.db.com/en/careers.html) |
-| Fifth Third Bank | Banks & Financial Services | Workday:fifththird/53careers (967) | [link](https://www.53.com/content/fifth-third/en/careers.html/) [link](https://fifththird.wd5.myworkdayjobs.com/53careers) [link](https://www.53.com/content/fifth-third/en/careers/early-careers.html) |
-| KeyBank | Banks & Financial Services | Workday:keybank/External_Career_Site (546), Workday:keybank/Scout (6) | [link](https://www.key.com/about/careers.html) [link](https://keybank.wd5.myworkdayjobs.com/External_Career_Site) [link](https://www.key.com/about/careers/working-with-us.html) |
-| M&T Bank | Banks & Financial Services | Workday:mtb/MTB (685), Workday:mtb/Campus (72) | [link](https://www.mtb.com/careers) [link](https://www.mtb.com/homepage/belonging/join-us) [link](https://www.mtb.com/careers/hiring-process) |
-| Allstate | Banks & Financial Services | Workday:allstate/allstate_careers (374) | [link](https://www.allstatecorporation.com/careers.aspx) [link](https://www.allstate.jobs/job-search-results/) [link](https://www.allstate.jobs/) |
+| Wells Fargo | Banks & Financial Services | Workday:wf/wellsfargojobs (1335) | [link](https://www.wellsfargojobs.com/) [link](https://www.wellsfargojobs.com/en/jobs/) [link](https://www.wellsfargo.com/com/careers/) |
+| Deutsche Bank | Banks & Financial Services | Workday:db/DBWebsite (816) | [link](https://careers.db.com/) [link](https://careers.db.com/professionals/search-roles/) [link](https://wealth.db.com/en/careers.html) |
+| Fifth Third Bank | Banks & Financial Services | Workday:fifththird/53careers (963) | [link](https://www.53.com/content/fifth-third/en/careers.html/) [link](https://fifththird.wd5.myworkdayjobs.com/53careers) [link](https://www.53.com/content/fifth-third/en/careers/early-careers.html) |
+| KeyBank | Banks & Financial Services | Workday:keybank/External_Career_Site (556), Workday:keybank/Scout (6) | [link](https://www.key.com/about/careers.html) [link](https://keybank.wd5.myworkdayjobs.com/External_Career_Site) [link](https://www.key.com/about/careers/working-with-us.html) |
+| M&T Bank | Banks & Financial Services | Workday:mtb/MTB (689), Workday:mtb/Campus (72) | [link](https://www.mtb.com/careers) [link](https://www.mtb.com/homepage/belonging/join-us) [link](https://www.mtb.com/careers/hiring-process) |
+| Allstate | Banks & Financial Services | Workday:allstate/allstate_careers (383) | [link](https://www.allstatecorporation.com/careers.aspx) [link](https://www.allstate.jobs/job-search-results/) [link](https://www.allstate.jobs/) |
 | Northwestern Mutual | Banks & Financial Services | Workday:northwesternmutual/CORPORATE-CAREERS (60) | [link](https://www.northwestern.edu/) [link](https://www.northwestern.edu/academics/graduate-a-to-z.html) [link](https://admissions.northwestern.edu/academics/majors-minors/) |
-| MassMutual | Banks & Financial Services | Workday:massmutual/MMINDCareersite (5), Workday:massmutual/MMAscendCareers (1) | [link](https://www.massmutualtrust.com/) |
-| Guardian Life | Banks & Financial Services | Workday:guardianlife/Guardian-Life-Careers (105) | [link](https://www.guardianlife.com/careers) [link](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers) [link](https://www.guardianlife.com/careers/corporate) |
-| Travelers | Banks & Financial Services | Workday:travelers/External (411) | [link](https://careers.travelers.com/) [link](https://careers.travelers.com/job-search-results/) [link](https://travelers.wd5.myworkdayjobs.com/External) |
-| The Hartford | Banks & Financial Services | Workday:thehartford/Careers_External (163) | [link](https://www.thehartford.com/careers) [link](https://thehartford.wd5.myworkdayjobs.com/Careers_External) [link](https://www.jointhehartford.com/jobs/) |
-| Nationwide | Banks & Financial Services | Workday:nationwide/Nationwide_Career (145) | [link](https://www.nationwide.com/personal/about-us/careers/) [link](https://careers.nationwide.com/) [link](https://www.nationwide.com/personal/about-us/careers/explore/) |
+| MassMutual | Banks & Financial Services | Workday:massmutual/MMINDCareersite (7), Workday:massmutual/MMAscendCareers (1) | [link](https://www.massmutualtrust.com/) |
+| Guardian Life | Banks & Financial Services | Workday:guardianlife/Guardian-Life-Careers (102) | [link](https://www.guardianlife.com/careers) [link](https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers) [link](https://www.guardianlife.com/careers/corporate) |
+| Travelers | Banks & Financial Services | Workday:travelers/External (405) | [link](https://careers.travelers.com/) [link](https://careers.travelers.com/job-search-results/) [link](https://travelers.wd5.myworkdayjobs.com/External) |
+| The Hartford | Banks & Financial Services | Workday:thehartford/Careers_External (161) | [link](https://www.thehartford.com/careers) [link](https://thehartford.wd5.myworkdayjobs.com/Careers_External) [link](https://www.jointhehartford.com/jobs/) |
+| Nationwide | Banks & Financial Services | Workday:nationwide/Nationwide_Career (141) | [link](https://www.nationwide.com/personal/about-us/careers/) [link](https://careers.nationwide.com/) [link](https://www.nationwide.com/personal/about-us/careers/explore/) |
 | JPMorgan Chase | Banks & Financial Services | Oracle:jpmc/CX_1001 (2000) | [link](https://www.jpmorganchase.com/careers/explore-opportunities) [link](https://privatebank.jpmorgan.com/nam/en/about-us/private-bank-careers) |
 | Morgan Stanley | Banks & Financial Services | Eightfold:morganstanley.eightfold.ai (30) | [link](https://www.morganstanley.com/careers/career-opportunities-search/) [link](https://www.morganstanley.com/people-opportunities/students-graduates) [link](https://morganstanley.eightfold.ai/careers?source=mscom) |
 | Sprout Social | Chicago-Area Employers | Greenhouse:sproutsocial (20) | [link](https://sproutsocial.com/careers/) [link](https://sproutsocial.com/careers/open-positions/) [link](https://careers.sproutup.com/careers-home/jobs) |
-| Groupon | Chicago-Area Employers | Greenhouse:groupon (24) | [link](https://careers.groupon.com/roles) [link](https://groupon.wd5.myworkdayjobs.com/jobs) [link](https://groupon.wd5.myworkdayjobs.com/en-US/jobs/introduceYourself) |
-| project44 | Chicago-Area Employers | Greenhouse:project44 (18) | [link](https://www.project44.com/company/careers/) |
+| Groupon | Chicago-Area Employers | Greenhouse:groupon (28) | [link](https://careers.groupon.com/roles) [link](https://groupon.wd5.myworkdayjobs.com/jobs) [link](https://groupon.wd5.myworkdayjobs.com/en-US/jobs/introduceYourself) |
+| project44 | Chicago-Area Employers | Greenhouse:project44 (17) | [link](https://www.project44.com/company/careers/) |
 | Kin Insurance | Chicago-Area Employers | Ashby:kin (25) | [link](https://jobs.ashbyhq.com/kin) |
 | Avant | Chicago-Area Employers | Workday:avant/External_Careers (8) | [link](https://www.avant.com/jobs/) [link](https://goavant.net/careers/) [link](https://avant.wd503.myworkdayjobs.com/External_Careers) |
-| Motorola Solutions | Chicago-Area Employers | Workday:motorolasolutions/Careers (558) | [link](https://www.motorolasolutions.com/en_us/about/careers.html) [link](https://www.motorolasolutions.com/en_xl/about/careers.html) [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) |
-| William Blair | Chicago-Area Employers | Greenhouse:williamblair (49) | [link](https://williams.wd5.myworkdayjobs.com/External) |
+| Motorola Solutions | Chicago-Area Employers | Workday:motorolasolutions/Careers (700) | [link](https://www.motorolasolutions.com/en_us/about/careers.html) [link](https://www.motorolasolutions.com/en_xl/about/careers.html) [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) |
+| William Blair | Chicago-Area Employers | Greenhouse:williamblair (51) | [link](https://williams.wd5.myworkdayjobs.com/External) |
 | Ariel Investments | Chicago-Area Employers | Greenhouse:arielinvestments (1) | none |
-| Harris Associates (Oakmark) | Chicago-Area Employers | Greenhouse:harrisassociates (9) | [link](https://harris.uchicago.edu/) |
+| Harris Associates (Oakmark) | Chicago-Area Employers | Greenhouse:harrisassociates (10) | [link](https://harris.uchicago.edu/) |
 | Enova | Chicago-Area Employers | Greenhouse:enova (39) | [link](https://www.enova.com/careers/) [link](https://www.enova-me.com/careers) [link](https://enovapower.com/corporate-information/careers/) |
-| Relativity | Chicago-Area Employers | Greenhouse:relativity (393) | [link](https://www.relativity.com/company/careers/) [link](https://careers.relativity.com/job-search-results/) [link](https://www.relativityspace.com/careers) |
+| Relativity | Chicago-Area Employers | Greenhouse:relativity (394) | [link](https://www.relativity.com/company/careers/) [link](https://careers.relativity.com/job-search-results/) [link](https://www.relativityspace.com/careers) |
 | Vivid Seats | Chicago-Area Employers | 3/3 pages live | [link](https://corporate.vividseats.com/careers/) [link](https://job-boards.greenhouse.io/vividseatsllc/jobs/5184511007?gh_jid=5184511007) [link](https://www.vividstage.org/internships) |
 | SpotHero | Chicago-Area Employers | Greenhouse:spothero (7) | [link](https://spothero.com/careers?msockid=0f9b33c5aad267e12a192bc7abc666dc) [link](https://spothero.com/careers/113291?msockid=0f9b33c5aad267e12a192bc7abc666dc) [link](https://careers.smartrecruiters.com/SpotHero) |
 | Grubhub | Chicago-Area Employers | 2/2 pages live | [link](https://careers.grubhub.com/people) [link](https://wonder.wd1.myworkdayjobs.com/Grubhub_Careers) |
 | Cleo | Chicago-Area Employers | Greenhouse:cleo (12) | [link](https://www.cleo.com/careers-US) [link](https://hicleo.com/careers/) [link](https://web.meetcleo.com/careers) |
 | Basis Technologies | Chicago-Area Employers | Lever:basis (7) | [link](https://basisindependent.com/schools/wa/bellevue/) |
 | Braviant Holdings | Chicago-Area Employers | Lever:braviantholdings (4) | [link](https://www.braviantholdings.com/careers) [link](https://jobs.lever.co/braviantholdings) [link](https://jobs.lever.co/braviantholdings/?team=Technology) |
-| GitLab | Remote-First Companies | Greenhouse:gitlab (250) | [link](https://about.gitlab.com/jobs/all-jobs/) [link](https://about.gitlab.com/jobs/) [link](https://job-boards.greenhouse.io/gitlab/jobs/7691788002) |
+| GitLab | Remote-First Companies | Greenhouse:gitlab (253) | [link](https://about.gitlab.com/jobs/all-jobs/) [link](https://about.gitlab.com/jobs/) [link](https://job-boards.greenhouse.io/gitlab/jobs/7691788002) |
 | Canonical | Remote-First Companies | Greenhouse:canonical (316) | [link](https://canonical.com/careers) [link](https://canonical.com/careers/company-culture/remote-work) [link](https://job-boards.greenhouse.io/canonical) |
 | Wikimedia Foundation | Remote-First Companies | Greenhouse:wikimedia (15) | [link](https://wikimediafoundation.org/jobs/) [link](https://job-boards.greenhouse.io/wikimedia) [link](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) |
 | Mozilla | Remote-First Companies | Greenhouse:mozilla (112) | [link](https://www.mozilla.org/en-US/careers/) [link](https://job-boards.greenhouse.io/mozilla) [link](https://job-boards.greenhouse.io/mozilla?error=true) |
-| Grafana Labs | Remote-First Companies | Greenhouse:grafanalabs (136) | [link](https://grafana.com/careers/) [link](https://grafana.com/careers/interviewing/) [link](https://job-boards.greenhouse.io/grafanalabs) |
+| Grafana Labs | Remote-First Companies | Greenhouse:grafanalabs (137) | [link](https://grafana.com/careers/) [link](https://grafana.com/careers/interviewing/) [link](https://job-boards.greenhouse.io/grafanalabs) |
 | Khan Academy | Remote-First Companies | Greenhouse:khanacademy (3) | [link](https://en.khanacademy.org/about) |
-| Coursera | Remote-First Companies | Greenhouse:coursera (40) | [link](https://careers.coursera.com/search-page) [link](https://www.coursera.support/s/career-center?language=en_US) [link](https://job-boards.greenhouse.io/coursera/jobs/5412382004) |
+| Coursera | Remote-First Companies | Greenhouse:coursera (39) | [link](https://careers.coursera.com/search-page) [link](https://www.coursera.support/s/career-center?language=en_US) [link](https://job-boards.greenhouse.io/coursera/jobs/5412382004) |
 | Zapier | Remote-First Companies | Ashby:zapier (10) | [link](https://jobs.ashbyhq.com/zapier?employmentType=FullTime) [link](https://zapier.com/jobs/our-commitment-to-applicants?msockid=34543af9d8fc6f301a9d22f8d9d36e5f) |
 | DuckDuckGo | Remote-First Companies | Ashby:duck-duck-go (10) | [link](https://duckduckgo.com/hiring) [link](https://duckduckgo.com/how-we-hire) |
 | Automattic | Remote-First Companies | 3/3 pages live | [link](https://automattic.com/work-with-us/) [link](https://automattic.com/work-with-us/jobs/) [link](https://job-boards.greenhouse.io/automatticcareers) |
@@ -247,37 +251,34 @@ Canonical companies after aliases: 308
 | Buffer | Remote-First Companies | Ashby:buffer (2) | [link](https://buffer.com/journey) [link](http://www.buffer.media/careers-home) [link](https://buffer.com/resources/remote-jobs/) |
 | Invisible Technologies | Remote-First Companies | Greenhouse:invisible (5) | [link](https://invisibletech.ai/join-us) |
 | The Athletic | Remote-First Companies | Lever:theathletic (11) | [link](https://jobs.lever.co/theathletic/?location=United%20States) |
-| Merkle Science | Remote-First Companies | Lever:merklescience (26) | [link](https://www.merkle.com/en/careers.html) |
-| University of Chicago | UChicago & Research | Workday:uchicago/External (309) | [link](https://www.uchicago.edu/careers) [link](https://intranet.uchicago.edu/human-resources/career-opportunities) [link](https://www.uchicagomedicine.org/about-us/careers) |
+| Merkle Science | Remote-First Companies | Lever:merklescience (25) | [link](https://www.merkle.com/en/careers.html) |
+| University of Chicago | UChicago & Research | Workday:uchicago/External (376) | [link](https://www.uchicago.edu/careers) [link](https://intranet.uchicago.edu/human-resources/career-opportunities) [link](https://www.uchicagomedicine.org/about-us/careers) |
 
-## Could Not Fully Verify (77)
+## Could Not Fully Verify (73)
 
 | Employer | Category | Live ATS boards (jobs scanned) | Career pages |
 | --- | --- | --- | --- |
 | Google | Big Tech | 3/3 pages live | [link](https://careers.google.com/locations/index.html/?embed=true&hl=en_US) [link](https://www.google.com/about/careers/applications/) [link](https://www.google.com/about/careers/applications/jobs/results/) |
 | Meta | Big Tech | 3/3 pages live | [link](https://www.metacareers.com/jobsearch/) [link](https://ai.meta.com/join-us/) [link](https://www.meta.com/about/company-info/) |
-| Apple | Big Tech | 1/3 pages live | [link](https://jobs.apple.com/en-us/search?location=united-states-USA) [link](https://www.apple.com/careers/in/) [link](https://jobs.apple.com/en-us/search?job) |
-| Adobe | Big Tech | Workday:adobe/external_experienced (214) | [link](https://careers.adobe.com/us/en/home) [link](https://www.adobe.com/careers.html?msockid=33b35aca68826da93bf342cb69b86c0e) [link](https://careers.adobe.com/us/en/apply) |
-| Bloomberg | Big Tech | Workday:bloomberg/Bloombergindustrygroup_External_Career_Site (35) | [link](https://www.bloomberg.com/company/professionals/) [link](https://bloomberg.avature.net/careers/SearchJobs) [link](https://www.bloomberg.com/company/early-careers/) |
-| Snowflake | AI & Data Companies | Ashby:snowflake (374) | [link](https://careers.snowflake.com/us/en) [link](https://careers.snowflake.com/us/en/search-results) [link](https://careers.snowflake.com/us/en/c/engineering-jobs) |
-| Hugging Face | AI & Data Companies | 1/1 pages live | [link](https://huggingface.co/docs/hub/jobs) |
+| Apple | Big Tech | 2/3 pages live | [link](https://jobs.apple.com/en-us/search?location=united-states-USA) [link](https://www.apple.com/careers/in/) [link](https://jobs.apple.com/en-us/search?job) |
+| Microsoft | Big Tech | 3/3 pages live | [link](https://careers.microsoft.com/) [link](https://careers.microsoft.com/v2/global/en/professions.html) [link](https://apply.careers.microsoft.com/candidate/login) |
+| Adobe | Big Tech | Workday:adobe/external_experienced (216) | [link](https://careers.adobe.com/us/en/home) [link](https://www.adobe.com/careers.html?msockid=33b35aca68826da93bf342cb69b86c0e) [link](https://careers.adobe.com/us/en/apply) |
+| Bloomberg | Big Tech | Workday:bloomberg/Bloombergindustrygroup_External_Career_Site (34) | [link](https://www.bloomberg.com/company/professionals/) [link](https://bloomberg.avature.net/careers/SearchJobs) [link](https://www.bloomberg.com/company/early-careers/) |
+| Snowflake | AI & Data Companies | Ashby:snowflake (378) | [link](https://careers.snowflake.com/us/en) [link](https://careers.snowflake.com/us/en/search-results) [link](https://careers.snowflake.com/us/en/c/engineering-jobs) |
 | Cognition | AI & Data Companies | Ashby:cognition (112) | [link](https://cognition.com/careers) [link](https://jobs.ashbyhq.com/cognition) [link](https://www.gocognition.com/company/careers) |
 | dbt Labs | AI & Data Companies | 1/2 pages live | [link](https://www.getdbt.com/about-us/careers) [link](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4427329005) |
 | Tempus AI | AI & Data Companies | 0/1 pages live | [link](https://www.tempus.com/about-us/why-tempus/) |
 | Retool | High-Growth Startups & Dev Tools | 3/3 pages live | [link](https://retool.com/careers) [link](https://retoolers.io/career) [link](https://retool.com/careers/director-business-operations--business-operations--san-francisco-united-states) |
 | Chainalysis | Fintech & Crypto | 0/2 pages live | [link](https://events.chainalysis.com/nodesmiami) [link](https://events.chainalysis.com/Links-2027) |
-| Mastercard | Fintech & Crypto | Workday:mastercard/CorporateCareers (665), Workday:mastercard/Campus (22) | [link](https://careers.mastercard.com/us/en/) [link](https://careers.mastercard.com/us/en/search-results) [link](https://www.mastercardpaymentservices.com/common/careers/) |
-| Fiserv | Fintech & Crypto | Workday:fiserv/EXT (376) | [link](https://careers.fiserv.com/) [link](https://fiserv.wd5.myworkdayjobs.com/EXT/) [link](https://careers.fiserv.com/us/en/search-results) |
-| FIS | Fintech & Crypto | Workday:fis/SearchJobs (402) | [link](https://careers.fisglobal.com/us/en) |
-| BlackRock | Asset Management & Research | Workday:blackrock/BlackRock_Professional (269) | [link](https://careers.blackrock.com/) [link](https://careers.blackrock.com/search-jobs) [link](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/) |
-| Russell Investments | Asset Management & Research | 3/3 pages live | [link](https://russellinvestments.com/content/ri/us/en/about-us/careers.html) [link](https://russellinvestments.com/content/ri/in/en-gb/about-us/careers.html) [link](https://russell.wd5.myworkdayjobs.com/russellinvestments) |
-| State Street | Asset Management & Research | Workday:statestreet/Global (40) | [link](https://careers.statestreet.com/) [link](https://careers.statestreet.com/global/en/experienced-professionals) [link](https://statestreet.wd1.myworkdayjobs.com/Global) |
-| Morningstar | Asset Management & Research | 3/3 pages live | [link](https://www.morningstar.com/company/careers) [link](https://morningstar.wd5.myworkdayjobs.com/Morningstar) [link](https://morningstar.wd5.myworkdayjobs.com/MorningstarDBRS) |
+| Mastercard | Fintech & Crypto | Workday:mastercard/CorporateCareers (659), Workday:mastercard/Campus (20) | [link](https://careers.mastercard.com/us/en/) [link](https://careers.mastercard.com/us/en/search-results) [link](https://www.mastercardpaymentservices.com/common/careers/) |
+| Fiserv | Fintech & Crypto | Workday:fiserv/EXT (379) | [link](https://careers.fiserv.com/) [link](https://fiserv.wd5.myworkdayjobs.com/EXT/) [link](https://careers.fiserv.com/us/en/search-results) |
+| FIS | Fintech & Crypto | Workday:fis/SearchJobs (412) | [link](https://careers.fisglobal.com/us/en) |
+| BlackRock | Asset Management & Research | Workday:blackrock/BlackRock_Professional (276) | [link](https://careers.blackrock.com/) [link](https://careers.blackrock.com/search-jobs) [link](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/) |
+| State Street | Asset Management & Research | Workday:statestreet/Global (1050) | [link](https://careers.statestreet.com/) [link](https://careers.statestreet.com/global/en/experienced-professionals) [link](https://statestreet.wd1.myworkdayjobs.com/Global) |
 | S&P Global | Asset Management & Research | 1/3 pages live | [link](https://www.spglobal.com/en/explore-s-p-global/careers) [link](https://careers.spglobal.com/jobs/locations) [link](https://www.spglobal.com/en/privacy/careers) |
-| Connor Clark & Lunn | Asset Management & Research | Greenhouse:cclfg (73), Greenhouse:cclim (5) | [link](https://www.connorco.com/) |
-| CME Group | Asset Management & Research | 3/3 pages live | [link](https://www.cmegroup.com/careers.html) [link](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/) [link](https://www.cmegroup.com/careers/early-careers.html) |
-| LPL Financial | Asset Management & Research | 3/3 pages live | [link](https://career.lpl.com/) [link](https://career.lpl.com/location/) [link](https://lplfinancial.wd1.myworkdayjobs.com/External/) |
-| Raymond James | Asset Management & Research | 2/3 pages live | [link](https://www.raymondjames.com/careers/) [link](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers) [link](https://www.raymondjames.com/corporations-and-institutions/global-equities-and-investment-banking/career-opportunities) |
+| Arrowstreet | Asset Management & Research | 1/1 pages live | [link](https://www.arrowstreet.com/about/careers/) |
+| LPL Financial | Asset Management & Research | Workday:lplfinancial/External (172) | [link](https://career.lpl.com/) [link](https://career.lpl.com/location/) [link](https://lplfinancial.wd1.myworkdayjobs.com/External/) |
+| Raymond James | Asset Management & Research | Workday:raymondjames/RaymondJamesCareers (214), Workday:raymondjames/RaymondJamesEarlyCareers (7) | [link](https://www.raymondjames.com/careers/) [link](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers) [link](https://www.raymondjames.com/corporations-and-institutions/global-equities-and-investment-banking/career-opportunities) |
 | Brevan Howard | Hedge Funds & Trading | Workday:brevanhoward/BH_ExternalCareers (25) | [link](https://careers.brevanhoward.com/gb/en/home) |
 | Graham Capital Management | Hedge Funds & Trading | Greenhouse:grahamcapitalmanagement (13) | [link](https://www.grahambuilds.com/Careers/) |
 | Viking Global Investors | Hedge Funds & Trading | Greenhouse:vikingglobalinvestors (4) | [link](https://vikingglobal.com/careers/) [link](https://job-boards.greenhouse.io/vikingglobalinvestors) [link](https://www.vikingcareers.com/world/en/united-states-offices) |
@@ -295,7 +296,6 @@ Canonical companies after aliases: 308
 | Accel | Private Equity & Venture Capital | 1/1 pages live | [link](https://accelschools.com/) |
 | Greylock | Private Equity & Venture Capital | 1/1 pages live | [link](https://greylock.com/jobs/portfolio-jobs/) |
 | Founders Fund | Private Equity & Venture Capital | 2/2 pages live | [link](https://www.foundersfcu.com/) [link](https://www.foundersfcu.com/checking-account) |
-| Khosla Ventures | Private Equity & Venture Capital | Ashby:khoslaventures (2) | [link](https://jobs.khoslaventures.com/jobs) [link](https://jobs.khoslaventures.com/) |
 | NEA | Private Equity & Venture Capital | 1/1 pages live | [link](https://www.mynea360.org/s/join-now) |
 | Felicis | Private Equity & Venture Capital | 2/2 pages live | [link](https://jobs.felicis.com/) [link](https://www.felicis.com/fellows) |
 | First Round Capital (Dorm Room Fund) | Private Equity & Venture Capital | 1/1 pages live | [link](https://www.katyfirst.org/) |
@@ -309,49 +309,42 @@ Canonical companies after aliases: 308
 | Jump Capital | Private Equity & Venture Capital | none | none |
 | Origin Ventures | Private Equity & Venture Capital | none | none |
 | Lightbank | Private Equity & Venture Capital | 3/3 pages live | [link](https://www.lightbank.com/) [link](https://www.lightbank.com/team) [link](https://jobs.lightbank.com/jobs) |
-| OCA Ventures | Private Equity & Venture Capital | 1/1 pages live | [link](https://www.oca-stl.org/programs-and-events) |
-| Bank of America | Banks & Financial Services | Workday:ghr/Lateral-US (1835) | [link](https://careers.bankofamerica.com/en-us) [link](https://careers.bankofamerica.com/en-us/job-search) [link](https://careers.bankofamerica.com/en-us/students) |
-| Capital One | Banks & Financial Services | Workday:capitalone/Capital_One (2038) | [link](https://www.capitalonecareers.com/) [link](https://www.capitalonecareers.com/search-jobs) [link](https://capitalone.wd12.myworkdayjobs.com/Capital_One) |
-| Barclays | Banks & Financial Services | Workday:barclays/External_Career_Site_Barclays (660) | [link](https://home.barclays/careers/) [link](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays) [link](https://search.jobs.barclays/search-jobs) |
-| BMO Capital Markets | Banks & Financial Services | Workday:bmo/External (1009) | [link](https://capitalmarkets.bmo.com/en/careers/) [link](https://bmo.wd3.myworkdayjobs.com/External) [link](https://jobs.bmo.com/global/en/c/capital-market-sales-service-jobs) |
-| Macquarie | Banks & Financial Services | Workday:mq/CareersatMQ (27) | [link](https://www.macquarie.com/au/en/careers.html) [link](https://recruitment.macquarie.com/en_US/careers/SearchJobs) [link](https://recruitment.macquarie.com/en_US/careers/AgentRegister) |
-| U.S. Bank | Banks & Financial Services | Workday:usbank/US_Bank_Careers (1156) | [link](https://careers.usbank.com/global/en/c/branch-banking-jobs) [link](https://careers.usbank.com/global/en/apply) [link](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers) |
-| Synchrony | Banks & Financial Services | Workday:synchronyfinancial/careers (30), Workday:synchronyfinancial/University (12) | [link](https://www.synchronycareers.com/search-jobs) [link](https://synchronypharmacy.com/careers/) [link](https://synchronygroup.com/careers/) |
-| Pacific Life | Banks & Financial Services | Workday:pacificlife/PacificLifeCareers (133) | [link](https://www.pacificlife.com/home/Careers.html) [link](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers) [link](https://careers.pacificlife.com/) |
+| OCA Ventures | Private Equity & Venture Capital | 0/1 pages live | [link](https://www.oca-stl.org/programs-and-events) |
+| Bank of America | Banks & Financial Services | Workday:ghr/Lateral-US (1837) | [link](https://careers.bankofamerica.com/en-us) [link](https://careers.bankofamerica.com/en-us/job-search) [link](https://careers.bankofamerica.com/en-us/students) |
+| Capital One | Banks & Financial Services | Workday:capitalone/Capital_One (2041) | [link](https://www.capitalonecareers.com/) [link](https://www.capitalonecareers.com/search-jobs) [link](https://capitalone.wd12.myworkdayjobs.com/Capital_One) |
+| Barclays | Banks & Financial Services | Workday:barclays/External_Career_Site_Barclays (673) | [link](https://home.barclays/careers/) [link](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays) [link](https://search.jobs.barclays/search-jobs) |
+| BMO Capital Markets | Banks & Financial Services | Workday:bmo/External (1015) | [link](https://capitalmarkets.bmo.com/en/careers/) [link](https://bmo.wd3.myworkdayjobs.com/External) [link](https://jobs.bmo.com/global/en/c/capital-market-sales-service-jobs) |
+| Macquarie | Banks & Financial Services | Workday:mq/CareersatMQ (30) | [link](https://www.macquarie.com/au/en/careers.html) [link](https://recruitment.macquarie.com/en_US/careers/SearchJobs) [link](https://recruitment.macquarie.com/en_US/careers/AgentRegister) |
+| U.S. Bank | Banks & Financial Services | Workday:usbank/US_Bank_Careers (1155) | [link](https://careers.usbank.com/global/en/c/branch-banking-jobs) [link](https://careers.usbank.com/global/en/apply) [link](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers) |
+| Synchrony | Banks & Financial Services | Workday:synchronyfinancial/careers (28), Workday:synchronyfinancial/University (11) | [link](https://www.synchronycareers.com/search-jobs) [link](https://synchronypharmacy.com/careers/) [link](https://synchronygroup.com/careers/) |
+| Pacific Life | Banks & Financial Services | Workday:pacificlife/PacificLifeCareers (134) | [link](https://www.pacificlife.com/home/Careers.html) [link](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers) [link](https://careers.pacificlife.com/) |
 | Goldman Sachs | Banks & Financial Services | 3/3 pages live | [link](https://www.goldmansachs.com/careers/) [link](https://www.goldmansachs.com/careers/apply/) [link](https://www.goldmansachs.com/careers/students) |
 | Citi | Banks & Financial Services | 3/3 pages live | [link](https://jobs.citi.com/) [link](https://jobs.citi.com/search-jobs) [link](https://online.citi.com/US/nga/career/careerhome) |
-| Federal Reserve System | Banks & Financial Services | Workday:rb/FRS (151) | [link](https://www.federalreserve.gov/careers.htm) [link](https://www.federalreserve.gov/careers-jobs-by-category.htm) [link](https://oig.federalreserve.gov/careers.htm) |
+| Federal Reserve System | Banks & Financial Services | Workday:rb/FRS (148) | [link](https://www.federalreserve.gov/careers.htm) [link](https://www.federalreserve.gov/careers-jobs-by-category.htm) [link](https://oig.federalreserve.gov/careers.htm) |
 | ShipBob | Chicago-Area Employers | 1/1 pages live | [link](https://www.shipbob.com/careers/) |
 | Discover Financial Services | Chicago-Area Employers | none | none |
 | Cboe Global Markets | Chicago-Area Employers | 1/1 pages live | [link](https://careers.cboe.com/) |
 | Calamos Investments | Chicago-Area Employers | 2/2 pages live | [link](https://www.calamos.com/funds/etf/) [link](https://www.calamos.com/careers/) |
-| Uptake | Chicago-Area Employers | 3/3 pages live | [link](https://uptake.com/careers/) [link](https://getuptake.ai/company/careers) [link](http://www.uptakemedical.com/careers/) |
+| Uptake | Chicago-Area Employers | 2/3 pages live | [link](https://uptake.com/careers/) [link](https://getuptake.ai/company/careers) [link](http://www.uptakemedical.com/careers/) |
 | Packback | Chicago-Area Employers | 1/2 pages live | [link](https://app.packback.co/login) [link](https://help.packback.co/hc/en-us/categories/203990168-Student-Support) |
 | HashiCorp | Remote-First Companies | 0/3 pages live | [link](https://www.hashicorp.com/en/careers) [link](https://www.hashicorp.com/en) [link](https://hashicorp.io/careers/detail.php?slug=business-analyst) |
 | Doist | Remote-First Companies | 2/2 pages live | [link](https://www.todoist.com/careers) [link](https://www.todoist.com/about-us) |
 | NORC at the University of Chicago | UChicago & Research | 3/3 pages live | [link](https://www.norc.org/) [link](https://www.norc.org/about/who-we-are.html) [link](https://gss.norc.org/) |
 | Argonne National Laboratory | UChicago & Research | 0/1 pages live | [link](https://www.anl.gov/hr/careers) |
 
-## Seeded Boards That Failed This Scan (18 employers)
+## Seeded Boards That Failed This Scan (11 employers)
 
 These seeds in inputs/ats_seeds.json returned nothing (wrong slug, moved ATS, or a transient error). Prune or fix them after two consecutive failures.
 
-- **Hugging Face**: workable:huggingface
+- **Microsoft**: eightfold:apply.careers.microsoft.com/microsoft.com
 - **Mistral AI**: lever:mistral
 - **Anysphere (Cursor)**: ashby:anysphere
 - **dbt Labs**: greenhouse:dbtlabsinc
 - **Tempus AI**: greenhouse:tempus
 - **Retool**: greenhouse:retool
 - **Chainalysis**: greenhouse:chainalysis
-- **Russell Investments**: workday:russell.wd5.myworkdayjobs.com/russellinvestments
-- **Morningstar**: workday:morningstar.wd5.myworkdayjobs.com/morningstar, workday:morningstar.wd5.myworkdayjobs.com/Americas, workday:morningstar.wd5.myworkdayjobs.com/MorningstarDBRS
 - **S&P Global**: workday:spgi.wd5.myworkdayjobs.com/SPGI_Careers
-- **Arrowstreet**: workday:arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers
-- **Nasdaq**: workday:nasdaq.wd1.myworkdayjobs.com/Global_External_Site
-- **CME Group**: workday:cmegroup.wd1.myworkdayjobs.com/cme_careers
-- **LPL Financial**: workday:lplfinancial.wd1.myworkdayjobs.com/External
-- **Raymond James**: workday:raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers, workday:raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers
-- **Millennium**: workday:mlp.wd5.myworkdayjobs.com/mlpcareers
+- **Arrowstreet**: workday:arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet, workday:arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers
 - **ShipBob**: greenhouse:shipbob
 - **HashiCorp**: greenhouse:hashicorp
 
