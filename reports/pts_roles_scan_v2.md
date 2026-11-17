@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-17T16:43:10.497Z
+Scanned: 2026-11-17T21:42:36.269Z
 Employers searched: 308
 Career pages checked: 710
 Part-time roles: 4
@@ -87,6 +87,7 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -103,7 +104,6 @@ _None._
 - Betterment
 - Blackstone
 - Blockhouse
-- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -218,7 +218,6 @@ _None._
 - Northwestern Mutual
 - Nubank
 - Nuveen
-- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
@@ -243,6 +242,7 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
+- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -302,12 +302,12 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
-- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
 - Bloomberg
+- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -351,6 +351,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
+- Oaktree Capital Management
 - Origin Ventures
 - Pacific Life
 - Packback
@@ -358,7 +359,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- S&P Global
 - ShipBob
 - Snowflake
 - State Street

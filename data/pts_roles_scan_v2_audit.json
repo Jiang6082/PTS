@@ -1,5 +1,5 @@
 {
-  "searchedAt": "2026-11-17T16:43:10.497Z",
+  "searchedAt": "2026-11-17T21:42:36.269Z",
   "companies": [
     "Google",
     "Meta",
@@ -419,8 +419,8 @@
       "company": "Apple",
       "pageUrl": "https://www.apple.com/careers/in/",
       "resolvedUrl": "https://www.apple.com/careers/in/",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -957,8 +957,8 @@
       "company": "Lyft",
       "pageUrl": "https://www.lyft.com/careers/life-at-lyft",
       "resolvedUrl": "https://www.lyft.com/careers/life-at-lyft",
-      "pageOk": false,
-      "pageStatus": 429,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1753,8 +1753,8 @@
       "company": "Scale AI",
       "pageUrl": "http://www.scalesd.org/careers.html",
       "resolvedUrl": "http://www.scalesd.org/careers.html",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -1934,10 +1934,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 252
+          "jobsSeen": 254
         }
       ],
-      "jobsSeen": 252,
+      "jobsSeen": 254,
       "relevantRoles": 0
     },
     {
@@ -1955,10 +1955,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 252
+          "jobsSeen": 254
         }
       ],
-      "jobsSeen": 252,
+      "jobsSeen": 254,
       "relevantRoles": 0
     },
     {
@@ -1976,10 +1976,10 @@
       "boards": [
         {
           "source": "Ashby:mistral.ai",
-          "jobsSeen": 252
+          "jobsSeen": 254
         }
       ],
-      "jobsSeen": 252,
+      "jobsSeen": 254,
       "relevantRoles": 0
     },
     {
@@ -3366,10 +3366,10 @@
       "boards": [
         {
           "source": "Greenhouse:guidepoint",
-          "jobsSeen": 106
+          "jobsSeen": 108
         }
       ],
-      "jobsSeen": 106,
+      "jobsSeen": 108,
       "relevantRoles": 0
     },
     {
@@ -3734,10 +3734,10 @@
       "boards": [
         {
           "source": "Ashby:krakentech",
-          "jobsSeen": 71
+          "jobsSeen": 72
         }
       ],
-      "jobsSeen": 71,
+      "jobsSeen": 72,
       "relevantRoles": 0
     },
     {
@@ -3837,10 +3837,10 @@
       "boards": [
         {
           "source": "Ashby:Pear-VC",
-          "jobsSeen": 108
+          "jobsSeen": 107
         }
       ],
-      "jobsSeen": 108,
+      "jobsSeen": 107,
       "relevantRoles": 0
     },
     {
@@ -4150,7 +4150,7 @@
       "pageUrl": "https://careers.toasttab.com/",
       "resolvedUrl": "https://careers.toasttab.com/",
       "pageOk": true,
-      "pageStatus": 200,
+      "pageStatus": 202,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -4236,10 +4236,10 @@
       "boards": [
         {
           "source": "Greenhouse:mercury",
-          "jobsSeen": 76
+          "jobsSeen": 75
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 75,
       "relevantRoles": 0
     },
     {
@@ -4257,10 +4257,10 @@
       "boards": [
         {
           "source": "Greenhouse:mercury",
-          "jobsSeen": 76
+          "jobsSeen": 75
         }
       ],
-      "jobsSeen": 76,
+      "jobsSeen": 75,
       "relevantRoles": 0
     },
     {
@@ -4306,10 +4306,10 @@
       "boards": [
         {
           "source": "Ashby:alpacahealth",
-          "jobsSeen": 424
+          "jobsSeen": 425
         }
       ],
-      "jobsSeen": 424,
+      "jobsSeen": 425,
       "relevantRoles": 0
     },
     {
@@ -6630,10 +6630,10 @@
       "boards": [
         {
           "source": "Greenhouse:akunacapital",
-          "jobsSeen": 30
+          "jobsSeen": 32
         }
       ],
-      "jobsSeen": 30,
+      "jobsSeen": 32,
       "relevantRoles": 0
     },
     {
@@ -7266,22 +7266,38 @@
       "boards": [
         {
           "source": "Workday:shawinc/External",
-          "jobsSeen": 91
+          "jobsSeen": 92
         }
       ],
-      "jobsSeen": 91,
+      "jobsSeen": 92,
       "relevantRoles": 0
     },
     {
       "company": "Blackstone",
       "pageUrl": "https://www.blackstone.com/careers/careers-blackstone/",
       "resolvedUrl": "https://www.blackstone.com/careers/careers-blackstone/",
-      "pageOk": false,
-      "pageStatus": 403,
-      "atsTokens": {},
+      "pageOk": true,
+      "pageStatus": 200,
+      "atsTokens": {
+        "workday": [
+          {
+            "host": "blackstone.wd1.myworkdayjobs.com",
+            "site": "Blackstone_Careers"
+          },
+          {
+            "host": "blackstone.wd1.myworkdayjobs.com",
+            "site": "Blackstone_Campus_Careers"
+          }
+        ]
+      },
       "unsupportedAts": [],
-      "boards": [],
-      "jobsSeen": 0,
+      "boards": [
+        {
+          "source": "Workday:blackstone/Blackstone_Campus_Careers",
+          "jobsSeen": 16
+        }
+      ],
+      "jobsSeen": 16,
       "relevantRoles": 0
     },
     {
@@ -7910,20 +7926,22 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "everlaw",
-          "komodohealth",
-          "reddit",
-          "flexport"
+          "dialpad",
+          "andurilindustries"
         ],
         "ashby": [
-          "talkiatry",
-          "happyrobot.ai",
+          "propel",
+          "tessera-labs",
+          "furtherai",
+          "base-power",
+          "replit",
+          "benchling",
+          "hadrian-automation",
+          "stuut-ai",
+          "saronic",
+          "Abridge",
           "ElevenLabs",
-          "temporal",
-          "harvey",
-          "cognition",
-          "lio",
-          "mistral.ai"
+          "applied"
         ]
       },
       "unsupportedAts": [],
@@ -7987,8 +8005,7 @@
       "pageStatus": 200,
       "atsTokens": {
         "greenhouse": [
-          "generalcatalyst",
-          "contentful"
+          "generalcatalyst"
         ]
       },
       "unsupportedAts": [],
@@ -8116,8 +8133,7 @@
         ],
         "ashby": [
           "taxfix.com",
-          "DeepL",
-          "kong"
+          "DeepL"
         ],
         "personio": [
           "topi"
@@ -8331,12 +8347,12 @@
           "stateaffairs"
         ],
         "ashby": [
+          "tilderesearch",
           "relationrx",
           "Honey",
           "basis-ai",
           "kiddom",
-          "swarmaero",
-          "abby-care"
+          "swarmaero"
         ]
       },
       "unsupportedAts": [],
@@ -8372,8 +8388,8 @@
       "company": "Battery Ventures",
       "pageUrl": "https://jobs.battery.com/jobs/front",
       "resolvedUrl": "https://jobs.battery.com/jobs/front",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -8463,9 +8479,6 @@
         ],
         "lever": [
           "enable"
-        ],
-        "ashby": [
-          "legora"
         ]
       },
       "unsupportedAts": [],
@@ -8589,8 +8602,8 @@
       "company": "OCA Ventures",
       "pageUrl": "https://www.oca-stl.org/programs-and-events",
       "resolvedUrl": "https://www.oca-stl.org/programs-and-events",
-      "pageOk": false,
-      "pageStatus": 0,
+      "pageOk": true,
+      "pageStatus": 200,
       "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
@@ -9721,10 +9734,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3008
+          "jobsSeen": 3017
         }
       ],
-      "jobsSeen": 3008,
+      "jobsSeen": 3017,
       "relevantRoles": 0
     },
     {
@@ -9747,10 +9760,10 @@
       "boards": [
         {
           "source": "Workday:citi/2",
-          "jobsSeen": 3006
+          "jobsSeen": 3017
         }
       ],
-      "jobsSeen": 3006,
+      "jobsSeen": 3017,
       "relevantRoles": 0
     },
     {
@@ -10087,10 +10100,10 @@
       "boards": [
         {
           "source": "Workday:williams/External",
-          "jobsSeen": 128
+          "jobsSeen": 132
         }
       ],
-      "jobsSeen": 128,
+      "jobsSeen": 132,
       "relevantRoles": 0
     },
     {
@@ -10146,10 +10159,10 @@
       "boards": [
         {
           "source": "Greenhouse:enova",
-          "jobsSeen": 39
+          "jobsSeen": 38
         }
       ],
-      "jobsSeen": 39,
+      "jobsSeen": 38,
       "relevantRoles": 0
     },
     {
@@ -10305,10 +10318,10 @@
       "boards": [
         {
           "source": "Greenhouse:spothero",
-          "jobsSeen": 7
+          "jobsSeen": 6
         }
       ],
-      "jobsSeen": 7,
+      "jobsSeen": 6,
       "relevantRoles": 0
     },
     {
@@ -11105,10 +11118,10 @@
       "boards": [
         {
           "source": "Greenhouse:invisibletech",
-          "jobsSeen": 21
+          "jobsSeen": 20
         }
       ],
-      "jobsSeen": 21,
+      "jobsSeen": 20,
       "relevantRoles": 0
     },
     {
@@ -11234,16 +11247,9 @@
       "company": "University of Chicago",
       "pageUrl": "https://www.uchicago.edu/careers",
       "resolvedUrl": "https://www.uchicago.edu/careers",
-      "pageOk": true,
-      "pageStatus": 200,
-      "atsTokens": {
-        "workday": [
-          {
-            "host": "uchicago.wd5.myworkdayjobs.com",
-            "site": "External"
-          }
-        ]
-      },
+      "pageOk": false,
+      "pageStatus": 0,
+      "atsTokens": {},
       "unsupportedAts": [],
       "boards": [],
       "jobsSeen": 0,
@@ -11279,10 +11285,10 @@
       "boards": [
         {
           "source": "Oracle:fa-etnf-saasfaprod1/CX_1001",
-          "jobsSeen": 605
+          "jobsSeen": 609
         }
       ],
-      "jobsSeen": 605,
+      "jobsSeen": 609,
       "relevantRoles": 0
     },
     {
