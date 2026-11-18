@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-17T21:42:36.269Z
+Scanned: 2026-11-18T21:19:26.046Z
 Employers searched: 308
 Career pages checked: 710
 Part-time roles: 4
@@ -87,7 +87,6 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -102,7 +101,6 @@ _None._
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
-- Blackstone
 - Blockhouse
 - Braviant Holdings
 - Brex
@@ -201,6 +199,7 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -218,6 +217,7 @@ _None._
 - Northwestern Mutual
 - Nubank
 - Nuveen
+- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
@@ -235,6 +235,7 @@ _None._
 - PostHog
 - Qube Research & Technologies
 - Ramp
+- Raymond James
 - Reddit
 - Relativity
 - Replit
@@ -302,10 +303,12 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
+- Blackstone
 - Bloomberg
 - Blue Owl Capital
 - Brevan Howard
@@ -347,17 +350,14 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
-- Oaktree Capital Management
 - Origin Ventures
 - Pacific Life
 - Packback
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
-- Raymond James
 - Retool
 - ShipBob
 - Snowflake
