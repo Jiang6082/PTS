@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-18T21:19:26.046Z
+Scanned: 2026-11-19T21:21:36.051Z
 Employers searched: 308
-Career pages checked: 710
+Career pages checked: 713
 Part-time roles: 4
 Term-time roles, hours not stated: 2
 
@@ -87,6 +87,7 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
+- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -101,7 +102,9 @@ _None._
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
+- Blackstone
 - Blockhouse
+- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -199,7 +202,6 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -278,7 +280,6 @@ _None._
 - Verkada
 - Virtu Financial
 - Visa
-- Vista Equity Partners
 - Vivid Seats
 - Voleon Group
 - Walleye Capital
@@ -303,14 +304,11 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
-- Arrowstreet
 - BMO Capital Markets
 - Bank of America
 - Barclays
 - BlackRock
-- Blackstone
 - Bloomberg
-- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -350,6 +348,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -369,5 +368,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - U.S. Bank
 - Uptake
 - Viking Global Investors
+- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs
