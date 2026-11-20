@@ -1,8 +1,8 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-19T21:21:36.051Z
+Scanned: 2026-11-20T21:03:08.391Z
 Employers searched: 308
-Career pages checked: 713
+Career pages checked: 717
 Part-time roles: 4
 Term-time roles, hours not stated: 2
 
@@ -202,6 +202,7 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -348,7 +349,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
