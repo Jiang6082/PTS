@@ -1,6 +1,6 @@
 # Current Part-Time Roles Not In Your Tracker
 
-Current scan: 2026-11-20T21:03:08.391Z
+Current scan: 2026-11-21T20:03:19.242Z
 Historical tracker URLs: 0
 Current roles absent from tracker: 6
 

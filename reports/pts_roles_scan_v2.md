@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-20T21:03:08.391Z
+Scanned: 2026-11-21T20:03:19.242Z
 Employers searched: 308
 Career pages checked: 717
 Part-time roles: 4
@@ -109,7 +109,6 @@ _None._
 - Brex
 - Bridgewater Associates
 - Buffer
-- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -120,7 +119,6 @@ _None._
 - Cloudflare
 - Cohere
 - Coinbase
-- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -170,7 +168,6 @@ _None._
 - Help Scout
 - Hex
 - Hudson River Trading
-- Hugging Face
 - IMC Trading
 - Inmar Intelligence
 - Insight Partners
@@ -185,7 +182,6 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
-- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -208,7 +204,6 @@ _None._
 - Modal
 - MongoDB
 - Morgan Stanley
-- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -238,14 +233,12 @@ _None._
 - PostHog
 - Qube Research & Technologies
 - Ramp
-- Raymond James
 - Reddit
 - Relativity
 - Replit
 - Ripple
 - Robinhood
 - Roblox
-- Russell Investments
 - S&P Global
 - Salesforce
 - Samsara
@@ -311,6 +304,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - BlackRock
 - Bloomberg
 - Brevan Howard
+- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -321,6 +315,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citi
 - Cognition
 - Collide Capital
+- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -339,9 +334,11 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Graham Capital Management
 - Greylock
 - HashiCorp
+- Hugging Face
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
+- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -349,6 +346,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Morningstar
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -357,7 +355,9 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Packback
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
+- Raymond James
 - Retool
+- Russell Investments
 - ShipBob
 - Snowflake
 - State Street
