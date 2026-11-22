@@ -1,6 +1,6 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-21T20:03:19.242Z
+Scanned: 2026-11-22T20:17:25.011Z
 Employers searched: 308
 Career pages checked: 717
 Part-time roles: 4
@@ -104,11 +104,11 @@ _None._
 - Betterment
 - Blackstone
 - Blockhouse
-- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
 - Buffer
+- CME Group
 - Canonical
 - Capital Group
 - Center for AI Safety
@@ -119,6 +119,7 @@ _None._
 - Cloudflare
 - Cohere
 - Coinbase
+- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -168,6 +169,7 @@ _None._
 - Help Scout
 - Hex
 - Hudson River Trading
+- Hugging Face
 - IMC Trading
 - Inmar Intelligence
 - Insight Partners
@@ -198,12 +200,12 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
+- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -239,6 +241,7 @@ _None._
 - Ripple
 - Robinhood
 - Roblox
+- Russell Investments
 - S&P Global
 - Salesforce
 - Samsara
@@ -281,7 +284,6 @@ _None._
 - Wealthfront
 - Wealthsimple
 - Wellington Management
-- Wells Fargo
 - Wikimedia Foundation
 - William Blair
 - Workday
@@ -303,8 +305,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Barclays
 - BlackRock
 - Bloomberg
+- Blue Owl Capital
 - Brevan Howard
-- CME Group
 - Calamos Investments
 - Capital One
 - Carlyle
@@ -315,7 +317,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citi
 - Cognition
 - Collide Capital
-- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -334,7 +335,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Graham Capital Management
 - Greylock
 - HashiCorp
-- Hugging Face
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
@@ -346,7 +346,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Morningstar
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -357,7 +357,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Pritzker Private Capital
 - Raymond James
 - Retool
-- Russell Investments
 - ShipBob
 - Snowflake
 - State Street
@@ -369,5 +368,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Uptake
 - Viking Global Investors
 - Vista Equity Partners
+- Wells Fargo
 - Wind Point Partners
 - dbt Labs
