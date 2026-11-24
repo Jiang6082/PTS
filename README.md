@@ -4,7 +4,7 @@ On-demand scan for **part-time / term-time internships** in **software engineeri
 
 **Filter settings:** remote (US) only, except UChicago on-campus roles · any part-time hours, but no full-time off-cycle co-ops · summer-only internships excluded · senior / PhD / MBA-only excluded · investment banking and corporate finance excluded.
 
-> **Last scan:** 2026-11-24 &nbsp;•&nbsp; **3 part-time roles** &nbsp;•&nbsp; **2 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **6 closed** ([history](reports/closed_roles_history.md))
+> **Last scan:** 2026-11-24 &nbsp;•&nbsp; **4 part-time roles** &nbsp;•&nbsp; **2 term-time, hours not stated** &nbsp;•&nbsp; **0 new** &nbsp;•&nbsp; **7 closed** ([history](reports/closed_roles_history.md))
 
 > ✅ **[Open roles list](reports/VERIFIED_OPEN_ROLES.md)** — every currently open role with title + link, refreshed each scan ([CSV](reports/VERIFIED_OPEN_ROLES.csv)).
 
@@ -22,7 +22,7 @@ _No new roles detected in the latest scan._
 
 ## 📋 All Roles
 
-**5** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
+**6** open roles, grouped by track. Rows marked _(hours not stated)_ are term-time roles that don't say whether they are part-time; _(verify)_ rows are web-discovered leads.
 
 ### Software
 
@@ -42,6 +42,15 @@ _No new roles detected in the latest scan._
 - **ACLU** — [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) — Remote/Hybrid- New York City
 - **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA
 - **Stand Together** — [KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b) — New York _(hours not stated)_
+
+</details>
+
+### UChicago RA / Student
+
+<details>
+<summary><strong>1 role</strong> — click to expand</summary>
+
+- **University of Chicago** — [Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821) — Chicago, IL
 
 </details>
 
@@ -163,7 +172,7 @@ npm test                  # offline self-test (stubbed fetch)
 | [reports/LATEST_PTS_SCAN.md](reports/LATEST_PTS_SCAN.md) | Latest scan summary + newest roles |
 | [reports/pts_roles_scan_v2.md](reports/pts_roles_scan_v2.md) / [.csv](reports/pts_roles_scan_v2.csv) | Full current list with per-employer coverage status |
 | [reports/new_pts_roles_since_last_run.md](reports/new_pts_roles_since_last_run.md) | New stable job URLs |
-| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (6 so far) |
+| [reports/closed_roles_history.md](reports/closed_roles_history.md) | Archive of roles that closed (7 so far) |
 | [reports/current_pts_roles_not_in_tracker.md](reports/current_pts_roles_not_in_tracker.md) | Current roles absent from your application tracker |
 | [reports/pts_roster_scan_audit.md](reports/pts_roster_scan_audit.md) | Every employer's coverage state, live boards, and failed seeds |
 | [inputs/pts_employer_roster.json](inputs/pts_employer_roster.json) | Employer universe: category, scope regex, `kind` (vc / uchicago), `localOk` |

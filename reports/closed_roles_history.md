@@ -1,11 +1,15 @@
 # Closed / Removed Roles History
 
-Total closures recorded: 6
-Last updated: 2026-11-24T00:45:07.184Z
+Total closures recorded: 7
+Last updated: 2026-11-24T23:02:10.936Z
 
 Each role below was present in an earlier scan and absent in a later one. "Detected closed" is the first scan that no longer saw the posting; it actually came down sometime between the previous scan and that one. Roles later seen open again are annotated as reopened.
 
 ## Closures By Date Detected
+
+### 2026-11-24 (1)
+
+- **TPG** - [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) - Remote
 
 ### 2026-11-17 (1)
 
