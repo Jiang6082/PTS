@@ -1,25 +1,24 @@
 # PTS Latest Part-Time Internship Scan
 
-Last updated: 2026-11-22T20:17:25.011Z
+Last updated: 2026-11-24T00:45:07.184Z
 
 ## Summary
 
 - Employers searched: 308
 - Career pages checked: 717
-- Current roles: 6 (4 part-time, 2 term-time with hours not stated)
+- Current roles: 5 (3 part-time, 2 term-time with hours not stated)
 - New stable job URLs since previous scan: 0
 - No longer present since previous scan: 0
-- Employers with matching roles: 6
+- Employers with matching roles: 5
 - Confirmed no open postings: 4
-- Openings but no matching role: 223
-- Could not fully verify: 75
+- Openings but no matching role: 228
+- Could not fully verify: 71
 
 ## Roles By Employer Category
 
 - Remote-First Companies: 2
 - High-Growth Startups & Dev Tools: 2
 - AI & Data Companies: 1
-- Private Equity & Venture Capital: 1
 
 ## New Roles Since Previous Scan
 

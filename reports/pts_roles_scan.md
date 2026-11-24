@@ -1,9 +1,9 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-22T20:14:27.491Z
+Scanned: 2026-11-24T00:40:44.593Z
 Employers in universe: 308
-Employers with at least one live ATS board: 245
-Part-time roles: 4
+Employers with at least one live ATS board: 248
+Part-time roles: 3
 Term-time roles, hours not stated: 2
 
 Criteria: open posting on an official ATS board; intern / student / co-op / fellow / scout / research-assistant role; software, data or finance (asset management, hedge funds, research, PE/VC, fintech) work; part-time signal (commitment field, title, <=30 hrs/week, academic-year or while-enrolled wording) or a fall/winter/spring term inside Oct 2026 - Jun 2027 with no full-time statement; remote in the US (UChicago roles may be on campus). Excludes summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only, investment banking / corporate finance, and roles dated outside the window.
@@ -13,7 +13,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - **ACLU** — [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) — Remote/Hybrid- New York City (Data; part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote)
 - **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA (Data; part-time (part-time); 40 hrs/wk; fully remote)
 - **OneEthos** — [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) — United States - Remote (Software; part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote)
-- **TPG** — [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) — Remote (Data; part-time (20 hrs/week max); fully remote)
 
 ## Term-Time Roles, Hours Not Stated
 
@@ -26,6 +25,7 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Meta
 - Apple
 - Microsoft
+- Netflix
 - Mistral AI
 - Anysphere (Cursor)
 - dbt Labs
@@ -33,11 +33,9 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Retool
 - Inmar Intelligence
 - Chainalysis
-- Raymond James
 - Two Sigma
 - Citadel
 - D. E. Shaw
-- Blue Owl Capital
 - KKR
 - Carlyle
 - Bain Capital
@@ -68,8 +66,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Lightbank
 - OCA Ventures
 - Sensiba
-- Wells Fargo
-- U.S. Bank
 - Goldman Sachs
 - Citi
 - ShipBob

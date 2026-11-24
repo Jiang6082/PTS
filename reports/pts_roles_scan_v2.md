@@ -1,9 +1,9 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-22T20:17:25.011Z
+Scanned: 2026-11-24T00:45:07.184Z
 Employers searched: 308
 Career pages checked: 717
-Part-time roles: 4
+Part-time roles: 3
 Term-time roles, hours not stated: 2
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
@@ -19,11 +19,10 @@ Status guide:
 
 - **OneEthos** - [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - United States - Remote - Confirmed official posting (Official ATS Greenhouse:oneethos): part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote
 
-### Data (3)
+### Data (2)
 
 - **ACLU** - [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) - Remote/Hybrid- New York City - Confirmed official posting (Official ATS Greenhouse:acluinternships): part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote
 - **Anthropic** - [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) - London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA - Confirmed official posting (Official ATS Greenhouse:anthropic): part-time (part-time); 40 hrs/wk; fully remote
-- **TPG** - [Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003) - Remote - Confirmed official posting (Official ATS Greenhouse:tpgcareers): part-time (20 hrs/week max); fully remote
 
 ### Finance (0)
 
@@ -104,6 +103,7 @@ _None._
 - Betterment
 - Blackstone
 - Blockhouse
+- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -184,6 +184,7 @@ _None._
 - KeyBank
 - Keyrock
 - Khan Academy
+- Khosla Ventures
 - Kin Insurance
 - Kleiner Perkins
 - Kraken
@@ -211,7 +212,6 @@ _None._
 - NVIDIA
 - Nasdaq
 - Nationwide
-- Netflix
 - Neuberger Berman
 - Northern Trust Asset Management
 - Northwestern Mutual
@@ -235,6 +235,7 @@ _None._
 - PostHog
 - Qube Research & Technologies
 - Ramp
+- Raymond James
 - Reddit
 - Relativity
 - Replit
@@ -260,6 +261,7 @@ _None._
 - Stripe
 - Supabase
 - T. Rowe Price
+- TPG
 - Talos
 - The Athletic
 - The Hartford
@@ -277,6 +279,7 @@ _None._
 - Verkada
 - Virtu Financial
 - Visa
+- Vista Equity Partners
 - Vivid Seats
 - Voleon Group
 - Walleye Capital
@@ -284,6 +287,7 @@ _None._
 - Wealthfront
 - Wealthsimple
 - Wellington Management
+- Wells Fargo
 - Wikimedia Foundation
 - William Blair
 - Workday
@@ -305,7 +309,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Barclays
 - BlackRock
 - Bloomberg
-- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -338,7 +341,6 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Hyde Park Venture Partners
 - Jump Capital
 - KKR
-- Khosla Ventures
 - LPL Financial
 - Lightbank
 - M25
@@ -349,13 +351,13 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Microsoft
 - NEA
 - NORC at the University of Chicago
+- Netflix
 - OCA Ventures
 - Origin Ventures
 - Pacific Life
 - Packback
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
-- Raymond James
 - Retool
 - ShipBob
 - Snowflake
@@ -367,7 +369,5 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - U.S. Bank
 - Uptake
 - Viking Global Investors
-- Vista Equity Partners
-- Wells Fargo
 - Wind Point Partners
 - dbt Labs
