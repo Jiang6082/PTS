@@ -1,9 +1,9 @@
 # Part-Time Internship Scan (v1: ATS boards)
 
-Scanned: 2026-11-24T22:57:52.516Z
+Scanned: 2026-11-25T22:17:06.374Z
 Employers in universe: 308
-Employers with at least one live ATS board: 245
-Part-time roles: 4
+Employers with at least one live ATS board: 247
+Part-time roles: 3
 Term-time roles, hours not stated: 2
 
 Criteria: open posting on an official ATS board; intern / student / co-op / fellow / scout / research-assistant role; software, data or finance (asset management, hedge funds, research, PE/VC, fintech) work; part-time signal (commitment field, title, <=30 hrs/week, academic-year or while-enrolled wording) or a fall/winter/spring term inside Oct 2026 - Jun 2027 with no full-time statement; remote in the US (UChicago roles may be on campus). Excludes summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only, investment banking / corporate finance, and roles dated outside the window.
@@ -13,7 +13,6 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - **ACLU** — [Spring 2027 Undergraduate Intern, Technology and Analytics Department- Educate Pod](https://job-boards.greenhouse.io/acluinternships/jobs/8919540002) — Remote/Hybrid- New York City (Data; part-time (commitment: Part-time Intern, National); 20 hrs/wk; term: Spring 2027; fully remote)
 - **Anthropic** — [Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA (Data; part-time (part-time); 40 hrs/wk; fully remote)
 - **OneEthos** — [R&D Intern (Fall 2026/Spring-Summer 2027)](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) — United States - Remote (Software; part-time (20 hrs/week max); term: Fall 2026, Spring 2027, Summer 2027; fully remote)
-- **University of Chicago** — [Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821) — Chicago, IL (UChicago RA / Student; part-time (commitment: Part time); on campus / Chicago)
 
 ## Term-Time Roles, Hours Not Stated
 
@@ -25,21 +24,18 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Google
 - Meta
 - Apple
+- Microsoft
 - Mistral AI
 - Anysphere (Cursor)
 - dbt Labs
 - Tempus AI
 - Retool
 - Inmar Intelligence
+- Ripple
 - Chainalysis
-- Peak6
 - Two Sigma
 - Citadel
 - D. E. Shaw
-- Blackstone
-- Ares Management
-- Blue Owl Capital
-- Oaktree Capital Management
 - KKR
 - Carlyle
 - Bain Capital
@@ -57,6 +53,7 @@ Criteria: open posting on an official ATS board; intern / student / co-op / fell
 - Founders Fund
 - NEA
 - Felicis
+- Bain Capital Ventures
 - First Round Capital (Dorm Room Fund)
 - Contrary
 - Collide Capital

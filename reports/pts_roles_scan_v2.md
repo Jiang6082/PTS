@@ -1,9 +1,9 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-24T23:02:10.936Z
+Scanned: 2026-11-25T22:20:51.019Z
 Employers searched: 308
-Career pages checked: 717
-Part-time roles: 4
+Career pages checked: 719
+Part-time roles: 3
 Term-time roles, hours not stated: 2
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
@@ -32,9 +32,9 @@ _None._
 
 _None._
 
-### UChicago RA / Student (1)
+### UChicago RA / Student (0)
 
-- **University of Chicago** - [Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821) - Chicago, IL - Confirmed official posting (Official ATS Workday:uchicago/External): part-time (commitment: Part time); on campus / Chicago
+_None._
 
 ## Term-Time Roles, Hours Not Stated (check the posting)
 
@@ -80,9 +80,11 @@ _None._
 - Alpaca
 - Amazon
 - Anchorage Digital
+- Andreessen Horowitz
 - Anduril
 - Anysphere (Cursor)
 - Apollo Global Management
+- Ares Management
 - Ariel Investments
 - Arrowstreet
 - Asana
@@ -91,7 +93,6 @@ _None._
 - B2C2
 - Baillie Gifford
 - Bain Capital
-- Bain Capital Ventures
 - Basis Technologies
 - Battery Ventures
 - Belvedere Trading
@@ -99,7 +100,9 @@ _None._
 - Benzinga
 - Bessemer Venture Partners
 - Betterment
+- Blackstone
 - Blockhouse
+- Blue Owl Capital
 - Braviant Holdings
 - Brex
 - Bridgewater Associates
@@ -197,7 +200,6 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
-- Microsoft
 - Millennium
 - Mistral AI
 - Modal
@@ -215,6 +217,7 @@ _None._
 - Northwestern Mutual
 - Nubank
 - Nuveen
+- Oaktree Capital Management
 - Old Mission Capital
 - OpenAI
 - Optiver
@@ -223,6 +226,7 @@ _None._
 - Palantir
 - Paxos
 - PayPal
+- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -235,7 +239,6 @@ _None._
 - Reddit
 - Relativity
 - Replit
-- Ripple
 - Robinhood
 - Roblox
 - Russell Investments
@@ -267,6 +270,7 @@ _None._
 - TransMarket Group
 - Travelers
 - Twilio
+- University of Chicago
 - Upstart
 - Vanguard
 - Vercel
@@ -274,6 +278,7 @@ _None._
 - Verkada
 - Virtu Financial
 - Visa
+- Vista Equity Partners
 - Vivid Seats
 - Voleon Group
 - Walleye Capital
@@ -296,17 +301,14 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 
 - Accel
 - Adobe
-- Andreessen Horowitz
 - Apple
-- Ares Management
 - Argonne National Laboratory
 - BMO Capital Markets
+- Bain Capital Ventures
 - Bank of America
 - Barclays
 - BlackRock
-- Blackstone
 - Bloomberg
-- Blue Owl Capital
 - Brevan Howard
 - Calamos Investments
 - Capital One
@@ -346,17 +348,17 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
+- Microsoft
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
-- Oaktree Capital Management
 - Origin Ventures
 - Pacific Life
 - Packback
-- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
 - Retool
+- Ripple
 - ShipBob
 - Snowflake
 - State Street
@@ -367,6 +369,5 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - U.S. Bank
 - Uptake
 - Viking Global Investors
-- Vista Equity Partners
 - Wind Point Partners
 - dbt Labs
