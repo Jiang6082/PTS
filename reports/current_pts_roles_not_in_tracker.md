@@ -1,8 +1,8 @@
 # Current Part-Time Roles Not In Your Tracker
 
-Current scan: 2026-11-25T22:20:51.019Z
+Current scan: 2026-11-26T22:15:59.110Z
 Historical tracker URLs: 0
-Current roles absent from tracker: 5
+Current roles absent from tracker: 6
 
 These roles are not in inputs/internship_tracker.csv (add URLs there as you apply). They are not necessarily newly posted.
 
@@ -25,6 +25,6 @@ _None._
 
 _None._
 
-### UChicago RA / Student (0)
+### UChicago RA / Student (1)
 
-_None._
+- **University of Chicago** - [Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821) - Chicago, IL - Confirmed official posting (Official ATS Workday:uchicago/External): part-time (commitment: Part time); on campus / Chicago
