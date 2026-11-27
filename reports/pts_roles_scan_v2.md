@@ -1,9 +1,9 @@
 # Part-Time Internship Scan v2
 
-Scanned: 2026-11-26T22:15:59.110Z
+Scanned: 2026-11-27T21:55:54.768Z
 Employers searched: 308
 Career pages checked: 720
-Part-time roles: 4
+Part-time roles: 3
 Term-time roles, hours not stated: 2
 
 Scope: part-time / academic-year / term-time internships (fall 2026, winter and spring 2027) in software engineering, data (data science, analytics, ML, data engineering) and finance (asset management, hedge funds, investment research, PE/VC, fintech), plus VC scout programs and UChicago student research-assistant roles. Remote in the US only, except UChicago roles. Summer-only, full-time off-cycle co-ops, senior, PhD/MBA-only and roles running past June 2027 are excluded.
@@ -32,9 +32,9 @@ _None._
 
 _None._
 
-### UChicago RA / Student (1)
+### UChicago RA / Student (0)
 
-- **University of Chicago** - [Research Assistant](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Assistant_JR35821) - Chicago, IL - Confirmed official posting (Official ATS Workday:uchicago/External): part-time (commitment: Part time); on campus / Chicago
+_None._
 
 ## Term-Time Roles, Hours Not Stated (check the posting)
 
@@ -86,7 +86,6 @@ _None._
 - Apollo Global Management
 - Ares Management
 - Ariel Investments
-- Arrowstreet
 - Asana
 - Automattic
 - Avant
@@ -116,7 +115,7 @@ _None._
 - Cleo
 - Cloudflare
 - Cohere
-- Coinbase
+- Connor Clark & Lunn
 - Consensys
 - CoreWeave
 - Coursera
@@ -198,12 +197,12 @@ _None._
 - Mercor
 - Mercury
 - Merkle Science
+- Microsoft
 - Millennium
 - Mistral AI
 - Modal
 - MongoDB
 - Morgan Stanley
-- Morningstar
 - Motorola Solutions
 - Mozilla
 - NVIDIA
@@ -223,6 +222,7 @@ _None._
 - Palantir
 - Paxos
 - PayPal
+- Peak6
 - Pear VC
 - Perplexity
 - Pinterest
@@ -231,6 +231,7 @@ _None._
 - PostHog
 - Qube Research & Technologies
 - Ramp
+- Raymond James
 - Reddit
 - Relativity
 - Replit
@@ -238,7 +239,6 @@ _None._
 - Robinhood
 - Roblox
 - Russell Investments
-- S&P Global
 - Salesforce
 - Samsara
 - Scale AI
@@ -266,6 +266,7 @@ _None._
 - TransMarket Group
 - Travelers
 - Twilio
+- University of Chicago
 - Upstart
 - Vanguard
 - Vercel
@@ -298,6 +299,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Adobe
 - Apple
 - Argonne National Laboratory
+- Arrowstreet
 - BMO Capital Markets
 - Bain Capital Ventures
 - Bank of America
@@ -315,8 +317,8 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Citadel
 - Citi
 - Cognition
+- Coinbase
 - Collide Capital
-- Connor Clark & Lunn
 - Contrary
 - D. E. Shaw
 - Discover Financial Services
@@ -345,7 +347,7 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Madison Dearborn Partners
 - Mastercard
 - Meta
-- Microsoft
+- Morningstar
 - NEA
 - NORC at the University of Chicago
 - OCA Ventures
@@ -353,11 +355,10 @@ No official source was enumerated (custom careers portal, unsupported ATS, form-
 - Origin Ventures
 - Pacific Life
 - Packback
-- Peak6
 - Pritzker Group Venture Capital
 - Pritzker Private Capital
-- Raymond James
 - Retool
+- S&P Global
 - ShipBob
 - Snowflake
 - State Street
